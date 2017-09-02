@@ -1,0 +1,7 @@
+<templateSet group="java">
+  <template name="auto" value="@Autowired&#10;private " toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
