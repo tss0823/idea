@@ -120,6 +120,13 @@
         <mark key="." line="106" column="19" />
         <mark key="^" line="106" column="19" />
       </file>
+      <file name="/u01/workspace/chajian2/src/com/zhushou/plugin/FormatConfigurable.java" timestamp="1504599615447">
+        <mark key="'" line="36" column="31" />
+        <mark key="[" line="45" column="15" />
+        <mark key="]" line="45" column="18" />
+        <mark key="." line="45" column="18" />
+        <mark key="^" line="45" column="18" />
+      </file>
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/codeBuild/msg.html" timestamp="1504078866873">
         <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="43" />
@@ -380,11 +387,11 @@
         <mark key="^" line="139" column="95" />
         <mark key="." line="139" column="95" />
       </file>
-      <file name="/u01/workspace/chajian2/resources/META-INF/plugin.xml" timestamp="1504584075655">
-        <mark key="[" line="56" column="75" />
-        <mark key="]" line="56" column="80" />
-        <mark key="^" line="56" column="80" />
-        <mark key="." line="56" column="80" />
+      <file name="/u01/workspace/chajian2/resources/META-INF/plugin.xml" timestamp="1504599416379">
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="29" column="56" />
+        <mark key="^" line="29" column="56" />
+        <mark key="." line="29" column="56" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.clj" timestamp="1504532345976">
         <mark key="[" line="0" column="0" />
@@ -538,10 +545,16 @@
       <file name="/u01/workspace/ud_platform/src/main/java/com/usefullc/platform/common/filter/WebCommonFilter.java" timestamp="1503980083694">
         <mark key="'" line="54" column="71" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/options/UnnamedConfigurable.class" timestamp="1504599539544" />
       <file name="/u01/workspace/fitness/fitness-web/bos/src/main/webapp/_resources/scripts/module/course.js" timestamp="1504238919778">
         <mark key="'" line="490" column="22" />
       </file>
-      <file name="/u01/workspace/chajian2/src/com/zhushou/plugin/ui/TestFrom.java" timestamp="1504597455891" />
+      <file name="/u01/workspace/chajian2/src/com/zhushou/plugin/ui/TestFrom.java" timestamp="1504599182178">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="11" column="33" />
+        <mark key="^" line="11" column="33" />
+        <mark key="." line="11" column="33" />
+      </file>
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/at/template.html" timestamp="1504083041956">
         <mark key="'" line="81" column="36" />
         <mark key="[" line="26" column="118" />
@@ -620,7 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="18" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/codeBuild.js" />
       <jump line="134" column="18" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/codeBuild.js" />
       <jump line="133" column="18" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/codeBuild.js" />
       <jump line="126" column="35" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/codeBuild.js" />
@@ -720,19 +732,20 @@
       <jump line="17" column="28" filename="/u01/workspace/chajian2/src/com/zhushou/plugin/SimpleAction.java" />
       <jump line="11" column="35" filename="/u01/workspace/chajian2/src/com/zhushou/plugin/SimpleAction.java" />
       <jump line="18" column="36" filename="/u01/workspace/chajian2/src/com/zhushou/plugin/GroupedAction.java" />
+      <jump line="35" column="31" filename="/u01/workspace/chajian2/src/com/zhushou/plugin/FormatConfigurable.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>((PsiJavaFileImpl) psiFile).getTreeElement()</text>
+        <text>false</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>((PsiJavaFileImpl) psiFile).getTreeElement()</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Vyc2VXb2RcPg==</text>
@@ -741,28 +754,28 @@
         <text encoding="base64">ICAgIGNvdXJzZV9hYnNlbnRlZCg4LCAi5pe36K++5oOp572aIiwi5oKo5pyq5p2l5Y+C5YqgezB955qE6K++56iL77yM5bCG5Y+X5Yiw5pe36K++5oOp572a77ya5piO5pelMjTngrnliY3mgqjlsIbkuI3og73nuqbor74iLCIiLHRydWUsdHJ1ZSx0cnVlKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlzZWxlY3QgZGlzdGluY3QobWF4KCR7dHlwZX0pKSBmcm9tIDxpbmNsdWRlIHJlZmlkPSJCYXNlX1RhYmxlX05hbWUiLz4K</text>
+        <text encoding="base64">ICA8ZXh0ZW5zaW9ucyBkZWZhdWx0RXh0ZW5zaW9uTnM9ImNvbS5pbnRlbGxpaiI+CiAgICA8IS0tIEFkZCB5b3VyIGV4dGVuc2lvbnMgaGVyZSAtLT4KICA8L2V4dGVuc2lvbnM+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8YWRkLXRvLWdyb3VwIGdyb3VwLWlkPSJFZGl0b3JQb3B1cE1lbnUiIGFuY2hvcj0iZmlyc3QiLz4K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzTW9kaWZpZWQoKSB7ICAKICAgICAgICByZXR1cm4gIXRoaXMuZm9ybWF0U2V0dGluZy5nZXRHZXRGb3JtYXQoKS5lcXVhbHModGhpcy5mb3JtYXRGb3JtLmdldEZvcm1hdFRleHRBcmVhLmdldFRleHQoKSkgfHwgIXRoaXMuZm9ybWF0U2V0dGluZy5nZXRTZXRGb3JtYXQoKS5lcXVhbHModGhpcy5mb3JtYXRGb3JtLnNldEZvcm1hdFRleHRBcmVhLmdldFRleHQoKSk7ICAKICAgIH0gIAogIAogICAgcHVibGljIHZvaWQgYXBwbHkoKSB0aHJvd3MgQ29uZmlndXJhdGlvbkV4Y2VwdGlvbiB7ICAKICAgICAgICB0aGlzLmZvcm1hdFNldHRpbmcuc2V0R2V0Rm9ybWF0KHRoaXMuZm9ybWF0Rm9ybS5nZXRGb3JtYXRUZXh0QXJlYS5nZXRUZXh0KCkpOyAgCiAgICAgICAgdGhpcy5mb3JtYXRTZXR0aW5nLnNldFNldEZvcm1hdCh0aGlzLmZvcm1hdEZvcm0uc2V0Rm9ybWF0VGV4dEFyZWEuZ2V0VGV4dCgpKTsgIAogICAgfSAgCiAgCiAgICBwdWJsaWMgdm9pZCByZXNldCgpIHsgIAogICAgICAgIHRoaXMuZm9ybWF0Rm9ybS5nZXRGb3JtYXRUZXh0QXJlYS5zZXRUZXh0KHRoaXMuZm9ybWF0U2V0dGluZy5nZXRHZXRGb3JtYXQoKSk7ICAKICAgICAgICB0aGlzLmZvcm1hdEZvcm0uc2V0Rm9ybWF0VGV4dEFyZWEuc2V0VGV4dCh0aGlzLmZvcm1hdFNldHRpbmcuZ2V0U2V0Rm9ybWF0KCkpOyAgCiAgICB9ICAKICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxhY3Rpb24gaWQ9Ikdyb3VwZWRBY3Rpb24iIGNsYXNzPSJjb20uemh1c2hvdS5wbHVnaW4uR3JvdXBlZEFjdGlvbiIgdGV4dD0iR3JvdXBlZEFjdGlvbiIKICAgICAgICAgICAgZGVzY3JpcHRpb249Ikdyb3VwZWRBY3Rpb24iPgogICAgICA8YWRkLXRvLWdyb3VwIGdyb3VwLWlkPSJFZGl0b3JQb3B1cE1lbnUiIGFuY2hvcj0iZmlyc3QiLz4KICAgIDwvYWN0aW9uPgo=</text>
+        <text encoding="base64">CQlzZWxlY3QgZGlzdGluY3QobWF4KCR7dHlwZX0pKSBmcm9tIDxpbmNsdWRlIHJlZmlkPSJCYXNlX1RhYmxlX05hbWUiLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICDkvZzogIXvvJrplZzoirHmsLTmnIjkuIDmoqbkuI3op4kKICAgIOmTvuaOpe+8mmh0dHA6Ly93d3cuamlhbnNodS5jb20vcC8yNDI3ZTRjZmQzZTkKICAgIOS+hua6kO+8mueugOS5pgogICAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCg==</text>
+        <text encoding="base64">ICAgICAgICA8YWRkLXRvLWdyb3VwIGdyb3VwLWlkPSJFZGl0b3JQb3B1cE1lbnUiIGFuY2hvcj0iZmlyc3QiLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDxhY3Rpb24gaWQ9Ikdyb3VwZWRBY3Rpb24iIGNsYXNzPSJjb20uemh1c2hvdS5wbHVnaW4uR3JvdXBlZEFjdGlvbiIgdGV4dD0iR3JvdXBlZEFjdGlvbiIKICAgICAgICAgICAgZGVzY3JpcHRpb249Ikdyb3VwZWRBY3Rpb24iPgogICAgICA8YWRkLXRvLWdyb3VwIGdyb3VwLWlkPSJFZGl0b3JQb3B1cE1lbnUiIGFuY2hvcj0iZmlyc3QiLz4KICAgIDwvYWN0aW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">CiAgICDkvZzogIXvvJrplZzoirHmsLTmnIjkuIDmoqbkuI3op4kKICAgIOmTvuaOpe+8mmh0dHA6Ly93d3cuamlhbnNodS5jb20vcC8yNDI3ZTRjZmQzZTkKICAgIOS+hua6kO+8mueugOS5pgogICAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQodGltZVJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -918,10 +931,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBKb2luQ291cnNlV29kUXVlcnkgam9pbkNvdXJzZVdvZFF1ZXJ5ID0gbmV3IEpvaW5Db3Vyc2VXb2RRdWVyeSgpOwogICAgICAgIGpvaW5Db3Vyc2VXb2RRdWVyeS5zZXRVc2VySWQodXNlci5nZXRJZCgpKTsKICAgICAgICBqb2luQ291cnNlV29kUXVlcnkuc2V0Sm9pbkNvdXJzZUlkKGpvaW5Db3Vyc2VJZCk7CiAgICAgICAgam9pbkNvdXJzZVdvZFF1ZXJ5LnNldFN0YXR1cyhZZXNOby55ZXMuZ2V0Q29kZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQodGltZVJlc3VsdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
