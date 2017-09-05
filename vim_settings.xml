@@ -297,11 +297,12 @@
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/weixin/tencent/service/UnifiedOrderService.java" timestamp="1503650130235">
         <mark key="'" line="12" column="36" />
       </file>
-      <file name="/u01/workspace/chajian2/src/com/zhushou/plugin/GroupedAction.java" timestamp="1504593411246">
-        <mark key="[" line="16" column="59" />
-        <mark key="]" line="17" column="49" />
-        <mark key="." line="17" column="49" />
-        <mark key="^" line="17" column="49" />
+      <file name="/u01/workspace/chajian2/src/com/zhushou/plugin/GroupedAction.java" timestamp="1504594535031">
+        <mark key="'" line="18" column="36" />
+        <mark key="[" line="18" column="61" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+        <mark key="^" line="19" column="11" />
       </file>
       <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/JoinCourseMapper.xml" timestamp="1504253113620">
         <mark key="[" line="153" column="86" />
@@ -620,8 +621,10 @@
       <file name="/u01/workspace/fitness/fitness-web/bos/src/main/webapp/_resources/scripts/yuntao.js" timestamp="1504238637951">
         <mark key="'" line="648" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1504238469221">
+      <file name="/fragment.java" timestamp="1504594465566">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/query/codeBuild/EntityQuery.java" timestamp="1504083170351">
         <mark key="'" line="11" column="37" />
@@ -645,7 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="18" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/codeBuild.js" />
       <jump line="142" column="18" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/codeBuild.js" />
       <jump line="134" column="18" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/codeBuild.js" />
       <jump line="133" column="18" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/codeBuild.js" />
@@ -745,19 +747,20 @@
       <jump line="15" column="56" filename="/u01/workspace/chajian2/src/com/zhushou/plugin/SimpleAction.java" />
       <jump line="17" column="28" filename="/u01/workspace/chajian2/src/com/zhushou/plugin/SimpleAction.java" />
       <jump line="11" column="35" filename="/u01/workspace/chajian2/src/com/zhushou/plugin/SimpleAction.java" />
+      <jump line="18" column="36" filename="/u01/workspace/chajian2/src/com/zhushou/plugin/GroupedAction.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlzZWxlY3QgZGlzdGluY3QobWF4KCR7dHlwZX0pKSBmcm9tIDxpbmNsdWRlIHJlZmlkPSJCYXNlX1RhYmxlX05hbWUiLz4K</text>
+      <register name="&quot;" type="4">
+        <text>((PsiJavaFileImpl) psiFile).getTreeElement()</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>pluglin</text>
+        <text>((PsiJavaFileImpl) psiFile).getTreeElement()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Vyc2VXb2RcPg==</text>
