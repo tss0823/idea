@@ -28,6 +28,7 @@
         <mark key="." line="38" column="25" />
         <mark key="^" line="38" column="25" />
       </file>
+      <file name="/u01/workspace/platform/platform-common/target/platform-common-0.0.2-SNAPSHOT.jar!/com/yuntao/platform/common/auth/AuthAspect.class" timestamp="1504605655403" />
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/common/ExceptionHandler.java" timestamp="1503988832592">
         <mark key="'" line="14" column="54" />
         <mark key="[" line="24" column="62" />
@@ -181,6 +182,7 @@
         <mark key="." line="71" column="7" />
         <mark key="^" line="71" column="7" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/User.java" timestamp="1504603870770" />
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/service/impl/ApplicationServiceImpl.java" timestamp="1503989896185">
         <mark key="'" line="232" column="14" />
         <mark key="[" line="247" column="46" />
@@ -215,8 +217,9 @@
         <mark key="^" line="582" column="28" />
         <mark key="." line="582" column="28" />
       </file>
-      <file name="/u01/workspace/chajian2/src/com/zhushou/plugin/type/MyTypedHandler.java" timestamp="1504512856102">
-        <mark key="[" line="12" column="91" />
+      <file name="/u01/workspace/chajian2/src/com/zhushou/plugin/type/MyTypedHandler.java" timestamp="1504605035210">
+        <mark key="'" line="10" column="42" />
+        <mark key="[" line="10" column="59" />
       </file>
       <file name="/u01/workspace/chajian2/src/com/zhushou/plugin/SimpleAction.java" timestamp="1504593367659">
         <mark key="'" line="11" column="35" />
@@ -250,12 +253,12 @@
         <mark key="^" line="22" column="66" />
         <mark key="." line="22" column="66" />
       </file>
-      <file name="/u01/workspace/chajian2/src/com/zhushou/plugin/GroupedAction.java" timestamp="1504601569928">
-        <mark key="'" line="18" column="36" />
-        <mark key="[" line="18" column="61" />
-        <mark key="]" line="19" column="11" />
-        <mark key="." line="19" column="11" />
-        <mark key="^" line="19" column="11" />
+      <file name="/u01/workspace/chajian2/src/com/zhushou/plugin/GroupedAction.java" timestamp="1504605944088">
+        <mark key="'" line="26" column="36" />
+        <mark key="[" line="27" column="59" />
+        <mark key="]" line="29" column="50" />
+        <mark key="." line="29" column="50" />
+        <mark key="^" line="29" column="50" />
       </file>
       <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/JoinCourseMapper.xml" timestamp="1504253113620">
         <mark key="[" line="153" column="86" />
@@ -348,7 +351,7 @@
         <mark key="^" line="139" column="95" />
         <mark key="." line="139" column="95" />
       </file>
-      <file name="/u01/workspace/chajian2/resources/META-INF/plugin.xml" timestamp="1504599416379">
+      <file name="/u01/workspace/chajian2/resources/META-INF/plugin.xml" timestamp="1504605078222">
         <mark key="[" line="29" column="39" />
         <mark key="]" line="29" column="56" />
         <mark key="^" line="29" column="56" />
@@ -538,10 +541,10 @@
         <mark key="." line="45" column="3" />
         <mark key="^" line="45" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1504594465566">
+      <file name="/fragment.java" timestamp="1504607049904">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="79" />
+        <mark key="." line="0" column="79" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/query/codeBuild/EntityQuery.java" timestamp="1504083170351">
         <mark key="'" line="11" column="37" />
@@ -557,7 +560,7 @@
         <mark key="^" line="13" column="40" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/u01/workspace/chajian2/src/com/zhushou/plugin/EditorIllustration.java" timestamp="1504513041661">
+      <file name="/u01/workspace/chajian2/src/com/zhushou/plugin/EditorIllustration.java" timestamp="1504605064823">
         <mark key="[" line="28" column="5" />
         <mark key="]" line="18" column="22" />
         <mark key="^" line="18" column="22" />
@@ -565,9 +568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="18" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/codeBuild.js" />
-      <jump line="133" column="18" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/codeBuild.js" />
-      <jump line="126" column="35" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/codeBuild.js" />
       <jump line="124" column="18" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/codeBuild.js" />
       <jump line="123" column="18" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/codeBuild.js" />
       <jump line="87" column="14" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/codeBuild.js" />
@@ -665,19 +665,22 @@
       <jump line="11" column="35" filename="/u01/workspace/chajian2/src/com/zhushou/plugin/SimpleAction.java" />
       <jump line="18" column="36" filename="/u01/workspace/chajian2/src/com/zhushou/plugin/GroupedAction.java" />
       <jump line="35" column="31" filename="/u01/workspace/chajian2/src/com/zhushou/plugin/FormatConfigurable.java" />
+      <jump line="25" column="36" filename="/u01/workspace/chajian2/src/com/zhushou/plugin/GroupedAction.java" />
+      <jump line="20" column="29" filename="/u01/workspace/chajian2/src/com/zhushou/plugin/type/MyTypedHandler.java" />
+      <jump line="9" column="42" filename="/u01/workspace/chajian2/src/com/zhushou/plugin/type/MyTypedHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>.getChildren()</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>.getChildren()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Vyc2VXb2RcPg==</text>
@@ -686,28 +689,28 @@
         <text encoding="base64">ICAgIGNvdXJzZV9hYnNlbnRlZCg4LCAi5pe36K++5oOp572aIiwi5oKo5pyq5p2l5Y+C5YqgezB955qE6K++56iL77yM5bCG5Y+X5Yiw5pe36K++5oOp572a77ya5piO5pelMjTngrnliY3mgqjlsIbkuI3og73nuqbor74iLCIiLHRydWUsdHJ1ZSx0cnVlKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8ZXh0ZW5zaW9ucyBkZWZhdWx0RXh0ZW5zaW9uTnM9ImNvbS5pbnRlbGxpaiI+CiAgICA8IS0tIEFkZCB5b3VyIGV4dGVuc2lvbnMgaGVyZSAtLT4KICA8L2V4dGVuc2lvbnM+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihyZXF1aXJlTm9uTnVsbChlZGl0b3IpLCBjLCByZXF1aXJlTm9uTnVsbChkYXRhQ29udGV4dCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzTW9kaWZpZWQoKSB7ICAKICAgICAgICByZXR1cm4gIXRoaXMuZm9ybWF0U2V0dGluZy5nZXRHZXRGb3JtYXQoKS5lcXVhbHModGhpcy5mb3JtYXRGb3JtLmdldEZvcm1hdFRleHRBcmVhLmdldFRleHQoKSkgfHwgIXRoaXMuZm9ybWF0U2V0dGluZy5nZXRTZXRGb3JtYXQoKS5lcXVhbHModGhpcy5mb3JtYXRGb3JtLnNldEZvcm1hdFRleHRBcmVhLmdldFRleHQoKSk7ICAKICAgIH0gIAogIAogICAgcHVibGljIHZvaWQgYXBwbHkoKSB0aHJvd3MgQ29uZmlndXJhdGlvbkV4Y2VwdGlvbiB7ICAKICAgICAgICB0aGlzLmZvcm1hdFNldHRpbmcuc2V0R2V0Rm9ybWF0KHRoaXMuZm9ybWF0Rm9ybS5nZXRGb3JtYXRUZXh0QXJlYS5nZXRUZXh0KCkpOyAgCiAgICAgICAgdGhpcy5mb3JtYXRTZXR0aW5nLnNldFNldEZvcm1hdCh0aGlzLmZvcm1hdEZvcm0uc2V0Rm9ybWF0VGV4dEFyZWEuZ2V0VGV4dCgpKTsgIAogICAgfSAgCiAgCiAgICBwdWJsaWMgdm9pZCByZXNldCgpIHsgIAogICAgICAgIHRoaXMuZm9ybWF0Rm9ybS5nZXRGb3JtYXRUZXh0QXJlYS5zZXRUZXh0KHRoaXMuZm9ybWF0U2V0dGluZy5nZXRHZXRGb3JtYXQoKSk7ICAKICAgICAgICB0aGlzLmZvcm1hdEZvcm0uc2V0Rm9ybWF0VGV4dEFyZWEuc2V0VGV4dCh0aGlzLmZvcm1hdFNldHRpbmcuZ2V0U2V0Rm9ybWF0KCkpOyAgCiAgICB9ICAKICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZWxlbWVudEF0ID09IG51bGw/bnVsbDooUHNpQ2xhc3MpIFBzaVRyZWVVdGlsLmdldFBhcmVudE9mVHlwZShlbGVtZW50QXQsIFBzaUNsYXNzLmNsYXNzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzZWxlY3QgZGlzdGluY3QobWF4KCR7dHlwZX0pKSBmcm9tIDxpbmNsdWRlIHJlZmlkPSJCYXNlX1RhYmxlX05hbWUiLz4K</text>
+        <text encoding="base64">ICAgICAgICBQc2lFbGVtZW50IGVsZW1lbnRBdCA9IHRoaXMuZ2V0UHNpRWxlbWVudChlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YWRkLXRvLWdyb3VwIGdyb3VwLWlkPSJFZGl0b3JQb3B1cE1lbnUiIGFuY2hvcj0iZmlyc3QiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVsZW1lbnRBdAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxhY3Rpb24gaWQ9Ikdyb3VwZWRBY3Rpb24iIGNsYXNzPSJjb20uemh1c2hvdS5wbHVnaW4uR3JvdXBlZEFjdGlvbiIgdGV4dD0iR3JvdXBlZEFjdGlvbiIKICAgICAgICAgICAgZGVzY3JpcHRpb249Ikdyb3VwZWRBY3Rpb24iPgogICAgICA8YWRkLXRvLWdyb3VwIGdyb3VwLWlkPSJFZGl0b3JQb3B1cE1lbnUiIGFuY2hvcj0iZmlyc3QiLz4KICAgIDwvYWN0aW9uPgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICBlLmdldFByZXNlbnRhdGlvbigpLnNldEVuYWJsZWQoZmFsc2UpOwogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICDkvZzogIXvvJrplZzoirHmsLTmnIjkuIDmoqbkuI3op4kKICAgIOmTvuaOpe+8mmh0dHA6Ly93d3cuamlhbnNodS5jb20vcC8yNDI3ZTRjZmQzZTkKICAgIOS+hua6kO+8mueugOS5pgogICAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCg==</text>
+        <text encoding="base64">ICAgICAgICBQc2lGaWxlIHBzaUZpbGUgPSAoUHNpRmlsZSllLmdldERhdGEoTGFuZ0RhdGFLZXlzLlBTSV9GSUxFKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwc2lGaWxlLmFjY2VwdChuZXcgUHNpUmVjdXJzaXZlRWxlbWVudFdhbGtpbmdWaXNpdG9yKCl7CgogICAgICAgIH0pOwogICAgICAgIEZpbGVUeXBlIGZpbGVUeXBlID0gcHNpRmlsZS5nZXRGaWxlVHlwZSgpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -863,10 +866,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICA8ZXh0ZW5zaW9ucyBkZWZhdWx0RXh0ZW5zaW9uTnM9ImNvbS5pbnRlbGxpaiI+CiAgICA8IS0tIEFkZCB5b3VyIGV4dGVuc2lvbnMgaGVyZSAtLT4KICA8L2V4dGVuc2lvbnM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQodGltZVJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzTW9kaWZpZWQoKSB7ICAKICAgICAgICByZXR1cm4gIXRoaXMuZm9ybWF0U2V0dGluZy5nZXRHZXRGb3JtYXQoKS5lcXVhbHModGhpcy5mb3JtYXRGb3JtLmdldEZvcm1hdFRleHRBcmVhLmdldFRleHQoKSkgfHwgIXRoaXMuZm9ybWF0U2V0dGluZy5nZXRTZXRGb3JtYXQoKS5lcXVhbHModGhpcy5mb3JtYXRGb3JtLnNldEZvcm1hdFRleHRBcmVhLmdldFRleHQoKSk7ICAKICAgIH0gIAogIAogICAgcHVibGljIHZvaWQgYXBwbHkoKSB0aHJvd3MgQ29uZmlndXJhdGlvbkV4Y2VwdGlvbiB7ICAKICAgICAgICB0aGlzLmZvcm1hdFNldHRpbmcuc2V0R2V0Rm9ybWF0KHRoaXMuZm9ybWF0Rm9ybS5nZXRGb3JtYXRUZXh0QXJlYS5nZXRUZXh0KCkpOyAgCiAgICAgICAgdGhpcy5mb3JtYXRTZXR0aW5nLnNldFNldEZvcm1hdCh0aGlzLmZvcm1hdEZvcm0uc2V0Rm9ybWF0VGV4dEFyZWEuZ2V0VGV4dCgpKTsgIAogICAgfSAgCiAgCiAgICBwdWJsaWMgdm9pZCByZXNldCgpIHsgIAogICAgICAgIHRoaXMuZm9ybWF0Rm9ybS5nZXRGb3JtYXRUZXh0QXJlYS5zZXRUZXh0KHRoaXMuZm9ybWF0U2V0dGluZy5nZXRHZXRGb3JtYXQoKSk7ICAKICAgICAgICB0aGlzLmZvcm1hdEZvcm0uc2V0Rm9ybWF0VGV4dEFyZWEuc2V0VGV4dCh0aGlzLmZvcm1hdFNldHRpbmcuZ2V0U2V0Rm9ybWF0KCkpOyAgCiAgICB9ICAKICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
