@@ -54,6 +54,13 @@
         <mark key="^" line="27" column="29" />
       </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AbstService.java" timestamp="1504578893453" />
+      <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/codeBuild/Property.java" timestamp="1504849342581">
+        <mark key="'" line="38" column="16" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="111" column="31" />
+        <mark key="^" line="111" column="31" />
+        <mark key="." line="111" column="31" />
+      </file>
       <file name="/u01/workspace/chajian2/resources/META-INF/plugin.xml" timestamp="1504775409533">
         <mark key="[" line="29" column="39" />
         <mark key="]" line="29" column="56" />
@@ -124,12 +131,12 @@
         <mark key="^" line="8" column="51" />
       </file>
       <file name="/u01/workspace/chajian2/src/com/zhushou/plugin/ui/Test2Form.java" timestamp="1504678877412" />
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" timestamp="1504781005007">
-        <mark key="'" line="82" column="101" />
-        <mark key="[" line="88" column="28" />
-        <mark key="]" line="88" column="28" />
-        <mark key="." line="88" column="30" />
-        <mark key="^" line="73" column="33" />
+      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" timestamp="1504849317694">
+        <mark key="'" line="46" column="23" />
+        <mark key="[" line="47" column="46" />
+        <mark key="]" line="46" column="23" />
+        <mark key="." line="46" column="23" />
+        <mark key="^" line="46" column="23" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/SettingsConfigurable.java" timestamp="1504778071342">
         <mark key="'" line="17" column="20" />
@@ -178,7 +185,6 @@
       <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/action/PopAction.java" timestamp="1504779834954" />
     </filemarks>
     <jumps>
-      <jump line="274" column="32" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/codeBuild.js" />
       <jump line="43" column="45" filename="/u01/workspace/ud/src/main/java/com/usefullc/ud/web/ApiController.java" />
       <jump line="11" column="37" filename="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/query/codeBuild/EntityQuery.java" />
       <jump line="134" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.0.3.RELEASE/spring-core-4.0.3.RELEASE-sources.jar!/org/springframework/util/Assert.java" />
@@ -278,13 +284,14 @@
       <jump line="29" column="20" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/AppController.java" />
       <jump line="76" column="78" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
       <jump line="77" column="101" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
+      <jump line="46" column="23" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>demoList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdGlvbk1vZGVsLgo=</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
@@ -299,28 +306,28 @@
         <text encoding="base64">ICAgICAgICBsaXN0TWV0aG9kLnNldExpc3REYXRhKG9iamVjdHMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0TWV0aG9kLnNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdGlvbk1vZGVsLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0TWV0aG9kLnNldG0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3RTZWxlY3Rpb25Nb2RlbCBzZWxlY3Rpb25Nb2RlbDEgPSBzZWxlY3Rpb25Nb2RlbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGV4dCA9IHRleHQuc3Vic3RyaW5nKDEsdGV4dC5sZW5ndGgoKS0xKTsK</text>
+        <text encoding="base64">ICAgICAgICBsaXN0TWV0aG9kLnNldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0TWV0aG9kLnNldG0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3BlcnR5TGlzdC5hZGQocHJvcGVydHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGV4dCA9IHRleHQuc3Vic3RyaW5nKDEsdGV4dC5sZW5ndGgoKS0xKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydHlMaXN0LmFkZChwcm9wZXJ0eSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eS5zZXRFbk5hbWUoZW5OYW1lKTsKICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eS5zZXREYXRhVHlwZShkYXRhVHlwZSk7CiAgICAgICAgICAgICAgICAgICAgcHJvcGVydHkuc2V0SXNOdWxsKGZhbHNlKTsKICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eS5zZXRQcmltYXJ5S2V5KGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3BlcnR5TGlzdC5hZGQocHJvcGVydHkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -476,10 +483,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQcm9wZXJ0eSBwcm9wZXJ0eSA9IG5ldyBQcm9wZXJ0eSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydHlMaXN0LmFkZChwcm9wZXJ0eSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydHlMaXN0LmFkZChwcm9wZXJ0eSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eS5zZXRFbk5hbWUoZW5OYW1lKTsKICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eS5zZXREYXRhVHlwZShkYXRhVHlwZSk7CiAgICAgICAgICAgICAgICAgICAgcHJvcGVydHkuc2V0SXNOdWxsKGZhbHNlKTsKICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eS5zZXRQcmltYXJ5S2V5KGZhbHNlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
