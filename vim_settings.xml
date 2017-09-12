@@ -24,7 +24,7 @@
       <file name="$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/project/DumbAwareAction.class" timestamp="1505118332519">
         <mark key="'" line="12" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1505137386497">
+      <file name="/a.dummy" timestamp="1505208800646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -113,6 +113,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="/u01/workspace/GrepConsole/META-INF/plugin.xml" timestamp="1505208823784" />
       <file name="/u01/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/utils/BeanUtils.java" timestamp="1505037451538">
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="0" />
@@ -361,6 +362,9 @@
         <mark key="." line="22" column="84" />
       </file>
       <file name="/u01/workspace/GrepConsole/src/krasa/grepconsole/plugin/ServiceManager.java" timestamp="1505121468000" />
+      <file name="/u01/workspace/GrepConsole/src/krasa/grepconsole/action/OpenCurrentFileInConsoleAction.java" timestamp="1505208851950">
+        <mark key="'" line="25" column="27" />
+      </file>
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/deployLog.html" timestamp="1504321004702">
         <mark key="[" line="49" column="28" />
         <mark key="]" line="49" column="44" />
@@ -480,7 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="84" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/CodeSyncUtils.java" />
       <jump line="224" column="56" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/CodeSyncUtils.java" />
       <jump line="300" column="39" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/CodeSyncUtils.java" />
       <jump line="283" column="32" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/CodeSyncUtils.java" />
@@ -580,6 +583,7 @@
       <jump line="22" column="79" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/action/MainAction.java" />
       <jump line="124" column="50" filename="/u01/workspace/GrepConsole/src/krasa/grepconsole/tail/TailContentExecutor.java" />
       <jump line="221" column="23" filename="/u01/workspace/GrepConsole/src/krasa/grepconsole/tail/TailContentExecutor.java" />
+      <jump line="25" column="27" filename="/u01/workspace/GrepConsole/src/krasa/grepconsole/action/OpenCurrentFileInConsoleAction.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
