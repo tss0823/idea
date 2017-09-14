@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1505374739307">
+      <file name="/a.dummy" timestamp="1505384940792">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -13,19 +13,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/CodeBuildSqlServiceImpl.java" timestamp="1505381416383">
-        <mark key="'" line="49" column="57" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/CourseVideo.java" timestamp="1505362064503">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="51" column="35" />
         <mark key="^" line="51" column="35" />
         <mark key="." line="51" column="35" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/mybatis-config.xml" timestamp="1505361976803">
+      <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/mybatis-config.xml" timestamp="1505385612915">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
@@ -68,16 +62,22 @@
         <mark key="." line="34" column="47" />
         <mark key="^" line="34" column="47" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/PointActive.java" timestamp="1505382999792">
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="12" />
-        <mark key="." line="40" column="12" />
-        <mark key="^" line="30" column="33" />
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/PointActive.java" timestamp="1505384179531">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="16" column="3" />
+        <mark key="^" line="16" column="2" />
+        <mark key="." line="16" column="3" />
       </file>
       <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/CourseMapper.xml" timestamp="1505378630543">
         <mark key="[" line="157" column="26" />
         <mark key="]" line="157" column="26" />
         <mark key="." line="157" column="26" />
+      </file>
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/UserPointActive.java" timestamp="1505384822575">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="46" column="24" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZpluginConstant.java" timestamp="1505362858871">
         <mark key="[" line="12" column="30" />
@@ -91,6 +91,12 @@
         <mark key="]" line="213" column="17" />
         <mark key="." line="213" column="17" />
         <mark key="^" line="213" column="17" />
+      </file>
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/pointTask.java" timestamp="1505384507385">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="60" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" timestamp="1505276551247">
         <mark key="'" line="539" column="49" />
@@ -156,6 +162,13 @@
         <mark key="^" line="24" column="44" />
         <mark key="." line="24" column="44" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/UserPointTask.java" timestamp="1505385430766">
+        <mark key="'" line="22" column="7" />
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="28" />
+        <mark key="^" line="17" column="2" />
+        <mark key="." line="22" column="28" />
+      </file>
       <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/CodeSyncUtils.java" timestamp="1505382171203">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -168,12 +181,6 @@
         <mark key="]" line="125" column="38" />
         <mark key="." line="125" column="38" />
         <mark key="^" line="125" column="36" />
-      </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/resources/META-INF/plugin.xml" timestamp="1505285819899">
-        <mark key="'" line="75" column="61" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/CodeBuildUtils.java" timestamp="1505382176363">
         <mark key="'" line="54" column="42" />
@@ -213,12 +220,6 @@
         <mark key="^" line="32" column="39" />
         <mark key="." line="32" column="39" />
       </file>
-      <file name="/u01/workspace/GrepConsole/src/krasa/grepconsole/action/OpenFileInConsoleAction.java" timestamp="1505294986728">
-        <mark key="'" line="55" column="52" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1505360706500">
         <mark key="[" line="265" column="51" />
         <mark key="]" line="265" column="67" />
@@ -243,6 +244,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/PointTask.java" timestamp="1505385344261" />
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/yuntao.js" timestamp="1505291647093">
         <mark key="[" line="581" column="50" />
         <mark key="]" line="582" column="28" />
@@ -303,11 +305,11 @@
         <mark key="." line="32" column="79" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-dal/src/main/resources/mybatis-config.xml" timestamp="1505381379024">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="58" />
-        <mark key="." line="75" column="0" />
+      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/annotation/ModelComment.java" timestamp="1505385237626">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
       </file>
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/Course.java" timestamp="1505378650365">
         <mark key="'" line="117" column="17" />
@@ -333,7 +335,7 @@
         <mark key="]" line="186" column="5" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1505382536808">
+      <file name="/fragment.java" timestamp="1505384873880">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -341,12 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="63" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/action/MainAction.java" />
-      <jump line="29" column="75" filename="$APPLICATION_HOME_DIR$/lib/idea.jar!/com/intellij/execution/filters/TextConsoleBuilderImpl.class" />
-      <jump line="18" column="56" filename="$APPLICATION_HOME_DIR$/lib/idea.jar!/com/intellij/execution/filters/TextConsoleBuilderImpl.class" />
-      <jump line="103" column="31" filename="/u01/workspace/GrepConsole/src/krasa/grepconsole/tail/TailContentExecutor.java" />
-      <jump line="50" column="31" filename="/u01/workspace/GrepConsole/src/krasa/grepconsole/tail/TailContentExecutor.java" />
-      <jump line="66" column="8" filename="/u01/workspace/GrepConsole/src/krasa/grepconsole/tail/TailContentExecutor.java" />
       <jump line="105" column="23" filename="/u01/workspace/GrepConsole/src/krasa/grepconsole/tail/TailContentExecutor.java" />
       <jump line="49" column="33" filename="/u01/workspace/GrepConsole/src/krasa/grepconsole/tail/TailContentExecutor.java" />
       <jump line="54" column="84" filename="/u01/workspace/GrepConsole/src/krasa/grepconsole/action/OpenFileInConsoleAction.java" />
@@ -441,49 +437,66 @@
       <jump line="53" column="17" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/CodeBuildSqlServiceImpl.java" />
       <jump line="49" column="57" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/CodeBuildSqlServiceImpl.java" />
       <jump line="173" column="9" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/CodeBuildController.java" />
+      <jump line="56" column="19" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/PointActive.java" />
+      <jump line="62" column="0" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/pointTask.java" />
+      <jump line="44" column="0" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/UserPointActive.java" />
+      <jump line="52" column="15" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/UserPointActive.java" />
+      <jump line="51" column="23" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/UserPointTask.java" />
+      <jump line="21" column="7" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/UserPointTask.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Long</text>
+        <text>&quot;</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>Long</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXNjcmlwdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiaXNMb2cuaW5mbyhzcWwpOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyB2YWx1ZSgpIGRlZmF1bHQgICIiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldElkKCkgewogICAgICAgIHJldHVybiBpZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJZChMb25nIGlkKSB7CiAgICAgICAgdGhpcy5pZCA9IGlkOwogICAgfQoKICAgIHB1YmxpYyBEYXRlIGdldEdtdENyZWF0ZSgpIHsKICAgICAgICByZXR1cm4gZ210Q3JlYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEdtdENyZWF0ZShEYXRlIGdtdENyZWF0ZSkgewogICAgICAgIHRoaXMuZ210Q3JlYXRlID0gZ210Q3JlYXRlOwogICAgfQoKICAgIHB1YmxpYyBEYXRlIGdldEdtdE1vZGlmeSgpIHsKICAgICAgICByZXR1cm4gZ210TW9kaWZ5OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEdtdE1vZGlmeShEYXRlIGdtdE1vZGlmeSkgewogICAgICAgIHRoaXMuZ210TW9kaWZ5ID0gZ210TW9kaWZ5OwogICAgfQoKICAgIHB1YmxpYyBCb29sZWFuIGdldERlbFN0YXRlKCkgewogICAgICAgIHJldHVybiBkZWxTdGF0ZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREZWxTdGF0ZShCb29sZWFuIGRlbFN0YXRlKSB7CiAgICAgICAgdGhpcy5kZWxTdGF0ZSA9IGRlbFN0YXRlOwogICAgfQoKICAgIHB1YmxpYyBJbnRlZ2VyIGdldFR5cGUoKSB7CiAgICAgICAgcmV0dXJuIHR5cGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VHlwZShJbnRlZ2VyIHR5cGUpIHsKICAgICAgICB0aGlzLnR5cGUgPSB0eXBlOwogICAgfQoKICAgIHB1YmxpYyBMb25nIGdldE91dGVySWQoKSB7CiAgICAgICAgcmV0dXJuIG91dGVySWQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0T3V0ZXJJZChMb25nIG91dGVySWQpIHsKICAgICAgICB0aGlzLm91dGVySWQgPSBvdXRlcklkOwogICAgfQoKICAgIHB1YmxpYyBJbnRlZ2VyIGdldFRha2VQb2ludCgpIHsKICAgICAgICByZXR1cm4gdGFrZVBvaW50OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFRha2VQb2ludChJbnRlZ2VyIHRha2VQb2ludCkgewogICAgICAgIHRoaXMudGFrZVBvaW50ID0gdGFrZVBvaW50OwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VGl0bGUoKSB7CiAgICAgICAgcmV0dXJuIHRpdGxlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFRpdGxlKFN0cmluZyB0aXRsZSkgewogICAgICAgIHRoaXMudGl0bGUgPSB0aXRsZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldERlc2NyaXB0aW9uKCkgewogICAgICAgIHJldHVybiBkZXNjcmlwdGlvbjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREZXNjcmlwdGlvbihTdHJpbmcgZGVzY3JpcHRpb24pIHsKICAgICAgICB0aGlzLmRlc2NyaXB0aW9uID0gZGVzY3JpcHRpb247CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRJbWdVcmwoKSB7CiAgICAgICAgcmV0dXJuIGltZ1VybDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJbWdVcmwoU3RyaW5nIGltZ1VybCkgewogICAgICAgIHRoaXMuaW1nVXJsID0gaW1nVXJsOwogICAgfQoKICAgIHB1YmxpYyBJbnRlZ2VyIGdldFN0YXR1cygpIHsKICAgICAgICByZXR1cm4gc3RhdHVzOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFN0YXR1cyhJbnRlZ2VyIHN0YXR1cykgewogICAgICAgIHRoaXMuc3RhdHVzID0gc3RhdHVzOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>@ModelFieldComment(value = &quot;可获取的积分&quot;,maxLength = 4)
+    private Integer takePoint;
+
+    @ModelFieldComment(value = &quot;标题&quot;,maxLength = 100,required = false)
+    private String title;
+
+    @ModelFieldComment(value = &quot;描述&quot;,maxLength = 1000,required = false)
+    private String description;
+
+
+    @ModelFieldComment(value = &quot;图片&quot;,maxLength = 200,required = false)
+    private String imgUrl;</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBNb2RlbEZpZWxkQ29tbWVudCh2YWx1ZSA9ICLnsbvlnovvvIgwIOivvueoi+ivhOiuuu+8jDEg6KeG6aKR5YiG5Lqr77yJIixtYXhMZW5ndGggPSA0KQogICAgcHJpdmF0ZSBJbnRlZ2VyIHR5cGU7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -639,10 +652,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiaXNMb2cuCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLmFubm90YXRpb24uTW9kZWxGaWVsZENvbW1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldElkKCkgewogICAgICAgIHJldHVybiBpZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJZChMb25nIGlkKSB7CiAgICAgICAgdGhpcy5pZCA9IGlkOwogICAgfQoKICAgIHB1YmxpYyBEYXRlIGdldEdtdENyZWF0ZSgpIHsKICAgICAgICByZXR1cm4gZ210Q3JlYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEdtdENyZWF0ZShEYXRlIGdtdENyZWF0ZSkgewogICAgICAgIHRoaXMuZ210Q3JlYXRlID0gZ210Q3JlYXRlOwogICAgfQoKICAgIHB1YmxpYyBEYXRlIGdldEdtdE1vZGlmeSgpIHsKICAgICAgICByZXR1cm4gZ210TW9kaWZ5OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEdtdE1vZGlmeShEYXRlIGdtdE1vZGlmeSkgewogICAgICAgIHRoaXMuZ210TW9kaWZ5ID0gZ210TW9kaWZ5OwogICAgfQoKICAgIHB1YmxpYyBCb29sZWFuIGdldERlbFN0YXRlKCkgewogICAgICAgIHJldHVybiBkZWxTdGF0ZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREZWxTdGF0ZShCb29sZWFuIGRlbFN0YXRlKSB7CiAgICAgICAgdGhpcy5kZWxTdGF0ZSA9IGRlbFN0YXRlOwogICAgfQoKICAgIHB1YmxpYyBJbnRlZ2VyIGdldFRhcmdldFBvaW50KCkgewogICAgICAgIHJldHVybiB0YXJnZXRQb2ludDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRUYXJnZXRQb2ludChJbnRlZ2VyIHRhcmdldFBvaW50KSB7CiAgICAgICAgdGhpcy50YXJnZXRQb2ludCA9IHRhcmdldFBvaW50OwogICAgfQoKICAgIHB1YmxpYyBEYXRlIGdldEFjdGl2ZVRpbWUoKSB7CiAgICAgICAgcmV0dXJuIGFjdGl2ZVRpbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0QWN0aXZlVGltZShEYXRlIGFjdGl2ZVRpbWUpIHsKICAgICAgICB0aGlzLmFjdGl2ZVRpbWUgPSBhY3RpdmVUaW1lOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VGl0bGUoKSB7CiAgICAgICAgcmV0dXJuIHRpdGxlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFRpdGxlKFN0cmluZyB0aXRsZSkgewogICAgICAgIHRoaXMudGl0bGUgPSB0aXRsZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldERlc2NyaXB0aW9uKCkgewogICAgICAgIHJldHVybiBkZXNjcmlwdGlvbjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREZXNjcmlwdGlvbihTdHJpbmcgZGVzY3JpcHRpb24pIHsKICAgICAgICB0aGlzLmRlc2NyaXB0aW9uID0gZGVzY3JpcHRpb247CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRJbWdVcmwoKSB7CiAgICAgICAgcmV0dXJuIGltZ1VybDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJbWdVcmwoU3RyaW5nIGltZ1VybCkgewogICAgICAgIHRoaXMuaW1nVXJsID0gaW1nVXJsOwogICAgfQoKICAgIHB1YmxpYyBJbnRlZ2VyIGdldFN0YXR1cygpIHsKICAgICAgICByZXR1cm4gc3RhdHVzOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFN0YXR1cyhJbnRlZ2VyIHN0YXR1cykgewogICAgICAgIHRoaXMuc3RhdHVzID0gc3RhdHVzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -723,6 +736,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
