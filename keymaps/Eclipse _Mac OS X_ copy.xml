@@ -2,6 +2,11 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="AutoIndentLines" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
@@ -16,6 +21,7 @@
   <action id="CompileDirty" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.Submit" />
+  <action id="DatabaseView.PropertiesAction" />
   <action id="DatabaseView.Tools.RecompileAction">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
@@ -46,6 +52,9 @@
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoImplementation">
@@ -109,4 +118,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="ViewSource" />
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
 </keymap>
