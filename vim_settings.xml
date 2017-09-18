@@ -415,6 +415,7 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
+      <file name="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar!/java/util/ArrayList.class" timestamp="1505722264244" />
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/query/UserPointTaskQuery.java" timestamp="1505463903548">
         <mark key="'" line="43" column="33" />
         <mark key="[" line="43" column="30" />
@@ -599,12 +600,12 @@
         <mark key="." line="21" column="22" />
         <mark key="^" line="21" column="22" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ActionManager.java" timestamp="1505382226912">
-        <mark key="'" line="172" column="26" />
-        <mark key="[" line="125" column="33" />
-        <mark key="]" line="125" column="33" />
-        <mark key="." line="125" column="33" />
-        <mark key="^" line="125" column="37" />
+      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ActionManager.java" timestamp="1505723013277">
+        <mark key="'" line="109" column="50" />
+        <mark key="[" line="139" column="30" />
+        <mark key="]" line="138" column="31" />
+        <mark key="." line="138" column="31" />
+        <mark key="^" line="138" column="31" />
       </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/dao/impl/EntityDaoImpl.java" timestamp="1505374738433">
         <mark key="'" line="31" column="38" />
@@ -646,7 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="364" column="18" filename="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/UserController.java" />
       <jump line="48" column="28" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/user/UserExtDataVo.java" />
       <jump line="259" column="51" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
       <jump line="104" column="4" filename="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/ManagerController.java" />
@@ -746,49 +746,50 @@
       <jump line="149" column="8" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
       <jump line="150" column="8" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
       <jump line="40" column="19" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
+      <jump line="109" column="50" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ActionManager.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>显示</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>显示</text>
+        <text>test1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidG5TaG93LnNldFRleHQoIuaYvuekuiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFByb3BlcnR5PiBlZGl0UHJvcGVydHlMaXN0ID0gbnVsbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWRpdFByb3BlcnR5TGlzdCA9IHByb3BlcnR5TGlzdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR4dFBhbFByb2Nlc3Muc2V0VmlzaWJsZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxQcm9wZXJ0eT4gcHJvcGVydHlMaXN0ID0gZW50aXR5UGFyYW0uZ2V0UHJvcGVydHlMaXN0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmcmFtZS5zZXRDb250ZW50UGFuZShuZXcgSlBhbmVsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0UHJvcGVydHlMaXN0ID0gZW50aXR5UGFyYW0uZ2V0UHJvcGVydHlMaXN0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmcmFtZS5zZXRDb250ZW50UGFuZShtYWluUGFuZWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0UHJvcGVydHlMaXN0ID0gZW50aXR5UGFyYW0uZ2V0UHJvcGVydHlMaXN0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxQcm9wZXJ0eT4gbmV3UHJvcGVydHlMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IDUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -944,10 +945,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGJ0bkV4ZWN1dGUuc2V0VmlzaWJsZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmcmFtZS5zZXRWaXNpYmxlKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3BlcnR5TGlzdC5yZW1vdmUocHJvcGVydHkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
