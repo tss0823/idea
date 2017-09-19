@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -78,6 +78,14 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'⌥⇧⌘U'</ShortCut>
           <Description>Show Dependencies...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Surround With...">
+        <Item>
+          <IdeaActionID>SurroundWith</IdeaActionID>
+          <ShortCut>'⌥⌘Z'</ShortCut>
+          <Description>Surround With...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -110,7 +118,7 @@
           <IdeaActionID>updateEntity</IdeaActionID>
           <ShortCut>'⌃⌘P'</ShortCut>
           <Description>添加属性</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
