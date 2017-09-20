@@ -73,6 +73,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'QiniuTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧⌘F11'</ShortCut>
+          <Description>Run 'QiniuTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Dependencies Popup...">
         <Item>
           <IdeaActionID>ShowUmlDiagramPopup</IdeaActionID>
@@ -94,7 +102,7 @@
           <IdeaActionID>SurroundWith</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Surround With...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
