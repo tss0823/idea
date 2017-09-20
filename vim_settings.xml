@@ -232,7 +232,12 @@
         <mark key="." line="29" column="34" />
         <mark key="^" line="29" column="34" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AtTemplateServiceImpl.java" timestamp="1505915114548" />
+      <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AtTemplateServiceImpl.java" timestamp="1505916393156">
+        <mark key="'" line="411" column="23" />
+        <mark key="[" line="411" column="58" />
+        <mark key="]" line="283" column="0" />
+        <mark key="." line="283" column="0" />
+      </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/inter/UserPointActiveService.java" timestamp="1505876578247">
         <mark key="'" line="24" column="17" />
         <mark key="[" line="107" column="0" />
@@ -737,11 +742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="8" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
-      <jump line="51" column="15" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/SettingsForm.java" />
-      <jump line="19" column="27" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/SettingsForm.java" />
-      <jump line="40" column="20" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/SettingsForm.java" />
-      <jump line="41" column="20" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/SettingsForm.java" />
       <jump line="43" column="20" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/SettingsForm.java" />
       <jump line="29" column="101" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/SettingsForm.java" />
       <jump line="97" column="26" filename="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar!/javax/swing/JPasswordField.class" />
@@ -837,49 +837,54 @@
       <jump line="71" column="19" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/SessionVo.java" />
       <jump line="138" column="35" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/JoinCourseServiceImpl.java" />
       <jump line="15" column="39" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/enums/StudioAddress.java" />
+      <jump line="395" column="25" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AtTemplateServiceImpl.java" />
+      <jump line="367" column="42" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AtTemplateServiceImpl.java" />
+      <jump line="309" column="14" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AtTemplateServiceImpl.java" />
+      <jump line="411" column="68" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AtTemplateServiceImpl.java" />
+      <jump line="414" column="23" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AtTemplateServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uVm8uc2V0U3R1ZGlvTmFtZShTdHVkaW9BZGRyZXNzLmdldEJ5Q29kZShjb3Vyc2UuZ2V0U3R1ZGlvSWQoKS5pbnRWYWx1ZSgpKS5nZXREZXNjcmlwdGlvbigpKTsKICAgICAgICBpZiAoY291cnNlLmdldFN0dWRpb0lkKCkuaW50VmFsdWUoKSA9PSBTdHVkaW9BZGRyZXNzLnpzY2ZkLmdldENvZGUoKSkgewogICAgICAgICAgICBzZXNzaW9uVm8uc2V0QWRkcmVzcygi6KW/5rmW5Yy65rWZ5ZWG6LSi5a+M5Lit5b+D5Zub5Y+35qW8MTA3LTEiKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBzZXNzaW9uVm8uc2V0QWRkcmVzcygi5oux5aKF5Yy65L2Z5p2t5aGY6LevNDQx5Y+3KOilv+Wfjue6qjXluaIx5qW8KSIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPExvbmcsIFJlc3BvbnNlT2JqZWN0PiBodHRwUmVzcG9uc2VPYmplY3RIYXNoTWFwID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>getDescription</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeUltZ1VybFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGRlc2NyaXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcmlhYmxlTWFwLnB1dCgicHJldlJlc3BvbnNlT2JqZWN0IixyZXNwb25zZU9iamVjdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uVm8uc2V0U3R1ZGlvTmFtZShTdHVkaW9BZGRyZXNzLmdldEJ5Q29kZShjb3Vyc2UuZ2V0U3R1ZGlvSWQoKS5pbnRWYWx1ZSgpKS5nZXREZXNjcmlwdGlvbigpKTsKICAgICAgICBpZiAoY291cnNlLmdldFN0dWRpb0lkKCkuaW50VmFsdWUoKSA9PSBTdHVkaW9BZGRyZXNzLnpzY2ZkLmdldENvZGUoKSkgewogICAgICAgICAgICBzZXNzaW9uVm8uc2V0QWRkcmVzcygi6KW/5rmW5Yy65rWZ5ZWG6LSi5a+M5Lit5b+D5Zub5Y+35qW8MTA3LTEiKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBzZXNzaW9uVm8uc2V0QWRkcmVzcygi5oux5aKF5Yy65L2Z5p2t5aGY6LevNDQx5Y+3KOilv+Wfjue6qjXluaIx5qW8KSIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPExvbmcsIFJlc3BvbnNlT2JqZWN0PiBodHRwUmVzcG9uc2VPYmplY3RIYXNoTWFwID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoY291cnNlLmdldFN0dWRpb0lkKCkuaW50VmFsdWUoKSA9PSBTdHVkaW9BZGRyZXNzLnpzY2ZkLmdldENvZGUoKSl7CiAgICAgICAgICAgICAgICBteVNlc3Npb25Wby5zZXRBZGRyZXNzKCIiKTsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICBteVNlc3Npb25Wby5zZXRBZGRyZXNzKCIiKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cEV4ZVJlc3VsdFRocmVhZExvY2FsLnNldChodHRwUmVzcG9uc2VPYmplY3RIYXNoTWFwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvblZvLnNldENhdGVnb3J5SW1nVXJsKGxpc3RJbWdVcmwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlTZXNzaW9uVm8uc2V0Q2F0ZWdvcnlJbWdVcmwoam9pbkNvdXJzZS5nZXRNZW1iZXJTY29yZVN0YXR1cygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlT2JqZWN0TWFwLnB1dChhY3RpdmVWby5nZXRJZCgpLHJlc3BvbnNlT2JqZWN0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE15U2Vzc2lvbkNvbnRyb2xsZXIgZXh0ZW5kcyBCYXNlQ29udHJvbGxlciB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxMb25nLCBSZXNwb25zZU9iamVjdD4gcmVzcG9uc2VPYmplY3RNYXAgPSBodHRwRXhlUmVzdWx0VGhyZWFkTG9jYWwuZ2V0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzaGFyZVVzZXJDbGlja1NlcnZpY2UucG9pbnRDYWxjVGFzaygpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVGhyZWFkTG9jYWw8TWFwPExvbmcsUmVzcG9uc2VPYmplY3Q+PiBodHRwRXhlUmVzdWx0VGhyZWFkTG9jYWwgPSBuZXcgVGhyZWFkTG9jYWw8PigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb3Vyc2VXb2RRdWVyeSBjb3Vyc2VXb2RRdWVyeSA9IG5ldyBDb3Vyc2VXb2RRdWVyeSgpOwogICAgICAgIGNvdXJzZVdvZFF1ZXJ5LnNldENvdXJzZUlkKChsb25nKSA2ODkpOwogICAgICAgIExpc3Q8Q291cnNlV29kPiBsaXN0ID0gY291cnNlV29kU2VydmljZS5zZWxlY3RMaXN0KGNvdXJzZVdvZFF1ZXJ5KTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyaWFibGVNYXAucHV0KCJodHRwRXhlUmVzdWx0TWFwIixodHRwUmVzcG9uc2VPYmplY3RIYXNoTWFwKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1035,10 +1040,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uVm8uc2V0U3R1ZGlvTmFtZShTdHVkaW9BZGRyZXNzLmdldEJ5Q29kZShjb3Vyc2UuZ2V0U3R1ZGlvSWQoKS5pbnRWYWx1ZSgpKS5nZXREZXNjcmlwdGlvbigpKTsKICAgICAgICBpZiAoY291cnNlLmdldFN0dWRpb0lkKCkuaW50VmFsdWUoKSA9PSBTdHVkaW9BZGRyZXNzLnpzY2ZkLmdldENvZGUoKSkgewogICAgICAgICAgICBzZXNzaW9uVm8uc2V0QWRkcmVzcygi6KW/5rmW5Yy65rWZ5ZWG6LSi5a+M5Lit5b+D5Zub5Y+35qW8MTA3LTEiKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBzZXNzaW9uVm8uc2V0QWRkcmVzcygi5oux5aKF5Yy65L2Z5p2t5aGY6LevNDQx5Y+3KOilv+Wfjue6qjXluaIx5qW8KSIpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocXVlcnkuZ2V0RGF5Q2F0ZWdvcnkoKSAhPSBudWxsKSB7CiAgICAgICAgICAgIERhdGUgbm93RGF0ZSA9IG5ldyBEYXRlKCk7CiAgICAgICAgICAgIGlmIChxdWVyeS5nZXREYXlDYXRlZ29yeSgpLmludFZhbHVlKCkgPT0gRGF5Q2F0ZWdvcnkudG9kYXkuZ2V0Q29kZSgpKSB7CiAgICAgICAgICAgICAgICBxdWVyeS5zZXRDb3Vyc2VEYXRlKERhdGVVdGlsLmdldEZtdFlNRChub3dEYXRlLmdldFRpbWUoKSkpOwogICAgICAgICAgICB9IGVsc2UgaWYgKHF1ZXJ5LmdldERheUNhdGVnb3J5KCkuaW50VmFsdWUoKSA9PSBEYXlDYXRlZ29yeS50b21vcnJvdy5nZXRDb2RlKCkpIHsKICAgICAgICAgICAgICAgIERhdGUgdG9tb3Jyb3dEYXkgPSBEYXRlVXRpbHMuYWRkRGF5cyhub3dEYXRlLCAxKTsKICAgICAgICAgICAgICAgIHF1ZXJ5LnNldENvdXJzZURhdGUoRGF0ZVV0aWwuZ2V0Rm10WU1EKHRvbW9ycm93RGF5LmdldFRpbWUoKSkpOwogICAgICAgICAgICB9IGVsc2UgaWYgKHF1ZXJ5LmdldERheUNhdGVnb3J5KCkuaW50VmFsdWUoKSA9PSBEYXlDYXRlZ29yeS5hZnRlclRvbW9ycm93LmdldENvZGUoKSkgewogICAgICAgICAgICAgICAgRGF0ZSBhZnRlclRvbW9ycm93RGF5ID0gRGF0ZVV0aWxzLmFkZERheXMobm93RGF0ZSwgMik7CiAgICAgICAgICAgICAgICBxdWVyeS5zZXRDb3Vyc2VEYXRlKERhdGVVdGlsLmdldEZtdFlNRChhZnRlclRvbW9ycm93RGF5LmdldFRpbWUoKSkpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoY291cnNlLmdldFN0dWRpb0lkKCkuaW50VmFsdWUoKSA9PSBTdHVkaW9BZGRyZXNzLnpzY2ZkLmdldENvZGUoKSl7CiAgICAgICAgICAgICAgICBteVNlc3Npb25Wby5zZXRBZGRyZXNzKCIiKTsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICBteVNlc3Npb25Wby5zZXRBZGRyZXNzKCIiKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
