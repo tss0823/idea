@@ -196,6 +196,9 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="30" />
       </file>
+      <file name="/u01/workspace/rayhotswap/src/main/java/com/raycloud/hotswap/ReloadTask.java" timestamp="1506221635118">
+        <mark key="'" line="27" column="27" />
+      </file>
       <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/utils/CollectUtils.java" timestamp="1506142125342">
         <mark key="[" line="34" column="7" />
         <mark key="]" line="34" column="12" />
@@ -443,7 +446,7 @@
         <mark key="." line="3" column="72" />
       </file>
       <file name="/u01/workspace/fitness/fitness-web/h5/src/main/java/com/doublefit/fitness/web/h5/controller/InviteCodeController.java" timestamp="1505894867245" />
-      <file name="/fragment.java" timestamp="1506176986638">
+      <file name="/fragment.java" timestamp="1506221870924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -482,6 +485,7 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="298" column="37" />
       </file>
+      <file name="/u01/workspace/rayhotswap/src/main/java/com/raycloud/hotswap/HotAgent.java" timestamp="1506221348416" />
       <file name="/u01/workspace/zhushou/zhushou-dal/src/main/resources/env/config-prod.properties" timestamp="1505119633478">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="11" column="17" />
@@ -1095,7 +1099,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="41" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/at/atTemplate.js" />
       <jump line="455" column="8" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/at/atTemplate.js" />
       <jump line="148" column="87" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/at/AtTemplateController.java" />
       <jump line="153" column="29" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/at/AtTemplateController.java" />
@@ -1195,6 +1198,7 @@
       <jump line="87" column="40" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/hot/MybatisMapperDynamicLoader.java" />
       <jump line="130" column="42" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/hot/MybatisMapperDynamicLoader.java" />
       <jump line="86" column="19" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/hot/MybatisMapperDynamicLoader.java" />
+      <jump line="27" column="27" filename="/u01/workspace/rayhotswap/src/main/java/com/raycloud/hotswap/ReloadTask.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1210,7 +1214,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXBwZXJSZWdpc3RyeVw+</text>
+        <text encoding="base64">XDxjbGFzc2VzUGF0aFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBSZXFNZXRob2RDb21tZW50KHZhbHVlPSLniYjmnKzmm7TmlrDmo4Dmn6UiLGF1dGhvciA9ICJzaGVuZ3NoYW4udGFuZyIsbW9kdWxlID0gImNvbW1vbiIsdmVyID0gIjEuMC4wIikKICAgIEBSZXF1ZXN0TWFwcGluZygiY2hlY2tVcGRhdGUiKQogICAgQFJlc3BvbnNlQm9keQogICAgcHVibGljIFJlc3BvbnNlT2JqZWN0IGNoZWNrVXBkYXRlKCkgewogICAgICAgIEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0ID0gKChTZXJ2bGV0UmVxdWVzdEF0dHJpYnV0ZXMpIFJlcXVlc3RDb250ZXh0SG9sZGVyLmdldFJlcXVlc3RBdHRyaWJ1dGVzKCkpCiAgICAgICAgICAgICAgICAuZ2V0UmVxdWVzdCgpOwogICAgICAgIFJlc3BvbnNlT2JqZWN0IHJlc3BvbnNlT2JqZWN0ID0gY29tbW9uU2VydmljZS5jaGVja1VwZGF0ZShyZXF1ZXN0KTsKICAgICAgICByZXR1cm4gcmVzcG9uc2VPYmplY3Q7CiAgICB9Cg==</text>
@@ -1403,15 +1407,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXBwZXJSZWdpc3RyeVw+</last-search>
+      <last-search encoding="base64">XDxjbGFzc2VzUGF0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXBwZXJSZWdpc3RyeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjbGFzc2VzUGF0aFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21tb25cPg==</entry>
         <entry encoding="base64">XDxhcHBMb2dcPg==</entry>
         <entry encoding="base64">XDxvcGVuUmVzcG9uc2VEaWFsb2dcPg==</entry>
         <entry encoding="base64">XDxtb21lbnRcPg==</entry>
@@ -1431,6 +1434,7 @@
         <entry encoding="base64">XDxjb25maWdMb2NhdGlvblw+</entry>
         <entry encoding="base64">XDxrbm93bk1hcHBlcnNcPg==</entry>
         <entry encoding="base64">XDxtYXBwZXJSZWdpc3RyeVw+</entry>
+        <entry encoding="base64">XDxjbGFzc2VzUGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
