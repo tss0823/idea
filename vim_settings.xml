@@ -121,11 +121,11 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE-sources.jar!/org/springframework/context/support/PropertySourcesPlaceholderConfigurer.java" timestamp="1506255573750">
         <mark key="'" line="64" column="72" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/resources/META-INF/plugin.xml" timestamp="1506325048145">
-        <mark key="[" line="87" column="88" />
-        <mark key="]" line="87" column="89" />
-        <mark key="." line="87" column="89" />
-        <mark key="^" line="87" column="89" />
+      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/resources/META-INF/plugin.xml" timestamp="1506409699645">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="11" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/idoc/list.html" timestamp="1505789980061">
         <mark key="[" line="137" column="0" />
@@ -336,10 +336,10 @@
         <mark key="^" line="18" column="17" />
         <mark key="." line="18" column="51" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZpluginConstant.java" timestamp="1506351752573">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="38" />
-        <mark key="." line="15" column="38" />
+      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZpluginConstant.java" timestamp="1506408538637">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
         <mark key="^" line="15" column="38" />
       </file>
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/query/UserPointTaskQuery.java" timestamp="1506319786327">
@@ -884,12 +884,11 @@
         <mark key="^" line="41" column="33" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/HotAppSelForm.java" timestamp="1506407452060">
-        <mark key="'" line="52" column="89" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="95" column="49" />
-        <mark key="." line="97" column="0" />
+      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/HotAppSelForm.java" timestamp="1506408928363">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="102" column="15" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="/u01/workspace/fitness/fitness-service/src/test/java/com/doublefit/fitness/service/TaskTest.java" timestamp="1505899302569">
         <mark key="'" line="60" column="57" />
@@ -988,7 +987,7 @@
         <mark key="." line="100" column="26" />
         <mark key="^" line="100" column="26" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZhushouRpcUtils.java" timestamp="1506408026387">
+      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZhushouRpcUtils.java" timestamp="1506408402264">
         <mark key="'" line="349" column="44" />
         <mark key="[" line="339" column="52" />
         <mark key="]" line="339" column="50" />
@@ -1214,7 +1213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="28" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/hot/MybatisMapperDynamicLoader.java" />
       <jump line="63" column="37" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/hot/MybatisMapperDynamicLoader.java" />
       <jump line="118" column="59" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/hot/MybatisMapperDynamicLoader.java" />
       <jump line="60" column="87" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/hot/MybatisMapperDynamicLoader.java" />
@@ -1314,49 +1312,50 @@
       <jump line="47" column="22" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
       <jump line="44" column="44" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/HotAppSelForm.java" />
       <jump line="51" column="89" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/HotAppSelForm.java" />
+      <jump line="100" column="39" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/HotAppSelForm.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>ROUND_HALF_UP</text>
+        <text>2</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>ROUND_HALF_UP</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eHRQYWxQcm9jZXNzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBaaHVzaG91UnBjVXRpbHMuaG90UmVsb2FkKGFwcE5hbWUpOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBhcHBQb3J0cyA9ICJ6aHVzaG91LmFwcFBvcnRzIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzcG9uc2VPYmplY3QgcmVzcG9uc2VPYmplY3QgPSBaaHVzaG91UnBjVXRpbHMuYXBwVXNlckRhdGFMaXN0KCk7CiAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gZGF0YU1hcCA9IChNYXA8U3RyaW5nLCBPYmplY3Q+KSByZXNwb25zZU9iamVjdC5nZXREYXRhKCk7CiAgICAgICAgICAgIExpc3Q8TWFwPFN0cmluZywgT2JqZWN0Pj4gZGF0YUxpc3QgPSAoTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PikgZGF0YU1hcC5nZXQoImFwcExpc3QiKTsKICAgICAgICAgICAgZm9yIChNYXA8U3RyaW5nLCBPYmplY3Q+IHN0cmluZ09iamVjdE1hcCA6IGRhdGFMaXN0KSB7CiAgICAgICAgICAgICAgICBBcHAgYXBwID0gKEFwcCkgQmVhblV0aWxzLm1hcFRvQmVhbihzdHJpbmdPYmplY3RNYXAsIEFwcC5jbGFzcyk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKFN0cmluZ1V0aWxzLmVxdWFscyhlbnRyeS5nZXRLZXkoKSxjdXJyZW50QXBwTmFtZSkpewogICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4ID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNieE1vZGVsLmFkZEVsZW1lbnQoYXBwLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBaaHVzaG91UnBjVXRpbHMuaG90UmVsb2FkKGFwcE5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jYnhBcHBOYW1lLnNldFNlbGVjdGVkSXRlbShjdXJyZW50QXBwTmFtZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFpodXNob3VScGNVdGlscy5ob3RSZWxvYWQoYXBwTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1512,10 +1511,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlcXVlc3RSZXMgcmVxdWVzdFJlcyA9IG5ldyBSZXF1ZXN0UmVzKCk7CiAgICAgICAgICAgICAgICByZXF1ZXN0UmVzLnNldFVybCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
