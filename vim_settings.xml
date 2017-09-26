@@ -52,7 +52,7 @@
         <mark key="^" line="76" column="43" />
         <mark key="." line="76" column="43" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZhushouComponent.java" timestamp="1506351902580">
+      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZhushouComponent.java" timestamp="1506405948936">
         <mark key="'" line="65" column="23" />
         <mark key="[" line="50" column="49" />
         <mark key="]" line="51" column="19" />
@@ -96,12 +96,12 @@
         <mark key="." line="182" column="0" />
       </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/JoinCourseWodServiceImpl.java" timestamp="1506329910007" />
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/SettingsForm.java" timestamp="1506350716234">
+      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/SettingsForm.java" timestamp="1506406038744">
         <mark key="'" line="24" column="23" />
-        <mark key="[" line="118" column="47" />
-        <mark key="]" line="118" column="47" />
-        <mark key="." line="118" column="47" />
-        <mark key="^" line="131" column="52" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="70" column="39" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/service/impl/EntityServiceImpl.java" timestamp="1505374652992">
         <mark key="'" line="59" column="34" />
@@ -656,12 +656,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" timestamp="1506336316636" />
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/SettingsConfigurable.java" timestamp="1505717007886">
-        <mark key="'" line="57" column="110" />
-        <mark key="[" line="57" column="102" />
-        <mark key="]" line="57" column="110" />
-        <mark key="^" line="57" column="110" />
-        <mark key="." line="57" column="110" />
+      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/SettingsConfigurable.java" timestamp="1506406144243">
+        <mark key="'" line="17" column="17" />
+        <mark key="[" line="73" column="60" />
+        <mark key="]" line="75" column="55" />
+        <mark key="^" line="75" column="55" />
+        <mark key="." line="75" column="55" />
       </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseWodServiceImpl.java" timestamp="1505964904710">
         <mark key="'" line="66" column="65" />
@@ -1194,7 +1194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="408" column="11" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java" />
       <jump line="642" column="4" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java" />
       <jump line="646" column="4" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java" />
       <jump line="650" column="4" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java" />
@@ -1294,49 +1293,50 @@
       <jump line="112" column="34" filename="/u01/workspace/fitness/fitness-web/h5/src/main/java/com/doublefit/fitness/web/h5/controller/ActiveController.java" />
       <jump line="127" column="14" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/MyPointActiveVo.java" />
       <jump line="84" column="85" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/utils/NumberUtil.java" />
+      <jump line="17" column="17" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/SettingsConfigurable.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>getTxtLogPath</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>getTxtLogPath</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUUkFJTkVSX0NPVVJTRV9BQ1RJT05cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBNb2RlbEZpZWxkQ29tbWVudCh2YWx1ZSA9ICLmiJHnmoTkvJrlkZjnrKzlh6DlpKkiKQogICAgcHJpdmF0ZSBJbnRlZ2VyIGFjdGl2ZURheU51bTsK</text>
+        <text encoding="base64">ICAgICAgICBacGx1Z2luVXRpbHMuc2V0TG9nUGF0aChzZXR0aW5nc0Zvcm0uZ2V0VHh0TG9nUGF0aCgpLmdldFRleHQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSB1c2VyU2VydmljZS5nZXRDdXJyZW50VXNlcigpOwo=</text>
+        <text encoding="base64">ICAgIFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBOZWVkTG9naW4K</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSB1c2VyU2VydmljZS5nZXRDdXJyZW50VXNlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldFVzZXJQb2ludEFjdGl2ZUlkKCkgewogICAgICAgIHJldHVybiB1c2VyUG9pbnRBY3RpdmVJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRVc2VyUG9pbnRBY3RpdmVJZChMb25nIHVzZXJQb2ludEFjdGl2ZUlkKSB7CiAgICAgICAgdGhpcy51c2VyUG9pbnRBY3RpdmVJZCA9IHVzZXJQb2ludEFjdGl2ZUlkOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBATW9kZWxGaWVsZENvbW1lbnQodmFsdWUgPSAi55So5oi356ev5YiG5rS75YqoaWQiKQogICAgcHJpdmF0ZSBMb25nIHVzZXJQb2ludEFjdGl2ZUlkOwo=</text>
+        <text encoding="base64">ICAgIEBOZWVkTG9naW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlQb2ludEFjdGl2ZVZvLnNldFVzZXJQb2ludEFjdGl2ZUlkKHVzZXJQb2ludEFjdGl2ZS5nZXRJZCgpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldFVzZXJQb2ludEFjdGl2ZUlkKCkgewogICAgICAgIHJldHVybiB1c2VyUG9pbnRBY3RpdmVJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRVc2VyUG9pbnRBY3RpdmVJZChMb25nIHVzZXJQb2ludEFjdGl2ZUlkKSB7CiAgICAgICAgdGhpcy51c2VyUG9pbnRBY3RpdmVJZCA9IHVzZXJQb2ludEFjdGl2ZUlkOwogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1492,10 +1492,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLzQsNS7mjqjpgIHor77nqIvlvIDlp4vnu5nmlZnnu4PlkozlrablkZggVE9ETwo=</text>
+        <text encoding="base64">CiAgICBATW9kZWxGaWVsZENvbW1lbnQodmFsdWUgPSAi55So5oi356ev5YiG5rS75YqoaWQiKQogICAgcHJpdmF0ZSBMb25nIHVzZXJQb2ludEFjdGl2ZUlkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXlQb2ludEFjdGl2ZVZvLnNldFVzZXJQb2ludEFjdGl2ZUlkKHVzZXJQb2ludEFjdGl2ZS5nZXRJZCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
