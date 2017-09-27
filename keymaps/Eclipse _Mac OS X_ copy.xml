@@ -20,7 +20,9 @@
   <action id="Compile">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
-  <action id="CompileDirty" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.Submit" />
   <action id="DatabaseView.PropertiesAction" />
