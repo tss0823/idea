@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1506505462313">
+      <file name="/a.dummy" timestamp="1506514744415">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -89,19 +89,19 @@
         <mark key="." line="51" column="19" />
         <mark key="^" line="51" column="19" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/at/AtTemplateController.java" timestamp="1506048931059">
-        <mark key="'" line="153" column="29" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-        <mark key="^" line="161" column="60" />
+      <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/at/AtTemplateController.java" timestamp="1506515179004">
+        <mark key="'" line="161" column="29" />
+        <mark key="[" line="137" column="55" />
+        <mark key="]" line="137" column="55" />
+        <mark key="^" line="137" column="55" />
+        <mark key="." line="137" column="55" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/at/activeEdit.html" timestamp="1506514364413">
-        <mark key="'" line="165" column="65" />
-        <mark key="[" line="54" column="52" />
-        <mark key="]" line="54" column="61" />
-        <mark key="^" line="54" column="61" />
-        <mark key="." line="54" column="61" />
+      <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/at/activeEdit.html" timestamp="1506515769664">
+        <mark key="'" line="167" column="65" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="55" column="105" />
       </file>
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/ShareUserClick.java" timestamp="1506151235414">
         <mark key="'" line="44" column="23" />
@@ -235,12 +235,12 @@
         <mark key="." line="29" column="34" />
         <mark key="^" line="29" column="34" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AtTemplateServiceImpl.java" timestamp="1506067229780">
+      <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AtTemplateServiceImpl.java" timestamp="1506514722526">
         <mark key="'" line="282" column="45" />
-        <mark key="[" line="280" column="62" />
-        <mark key="]" line="280" column="77" />
-        <mark key="." line="280" column="77" />
-        <mark key="^" line="280" column="77" />
+        <mark key="[" line="387" column="63" />
+        <mark key="]" line="387" column="78" />
+        <mark key="." line="387" column="78" />
+        <mark key="^" line="387" column="78" />
       </file>
       <file name="/u01/workspace/template_single/_appEnName_-service/src/main/java/_packagePath_/service/impl/_upperEntityEnName_ServiceImpl.java" timestamp="1506503216039">
         <mark key="[" line="25" column="8" />
@@ -408,12 +408,12 @@
         <mark key="." line="113" column="0" />
         <mark key="^" line="112" column="53" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/at/atTemplate.js" timestamp="1506060810555">
-        <mark key="'" line="131" column="37" />
-        <mark key="[" line="178" column="61" />
-        <mark key="]" line="180" column="28" />
-        <mark key="." line="180" column="28" />
-        <mark key="^" line="180" column="28" />
+      <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/at/atTemplate.js" timestamp="1506515960115">
+        <mark key="'" line="566" column="8" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="75" column="42" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/AtActive.java" timestamp="1506065548545">
         <mark key="'" line="77" column="14" />
@@ -670,9 +670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="17" filename="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/MySessionController.java" />
-      <jump line="151" column="36" filename="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/MySessionController.java" />
-      <jump line="232" column="37" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/JoinCourseServiceImpl.java" />
       <jump line="106" column="16" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/JoinCourse.java" />
       <jump line="137" column="15" filename="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/MySessionController.java" />
       <jump line="195" column="75" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/ShareUserClickServiceImpl.java" />
@@ -770,49 +767,52 @@
       <jump line="46" column="53" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/AnalyseModelUtils.java" />
       <jump line="77" column="35" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/AnalyseModelUtils.java" />
       <jump line="66" column="23" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/AnalyseModelUtils.java" />
+      <jump line="78" column="41" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/at/atTemplate.js" />
+      <jump line="565" column="8" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/at/atTemplate.js" />
+      <jump line="560" column="8" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/at/atTemplate.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>15267164682</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJCgiYVtuYW1lPSdidG5TYXZlVXJsJ10iKS5jbGljayhmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICB2YXIgJHVybEJsb2NrID0gJCh0aGlzKS5wYXJlbnQoImRpdltuYW1lPSdlbnRlckh0dHBFeGVjVmlldyddIikuZmluZCgic3BhbltuYW1lPSdlZGl0VXJsJ10iKTsKICAgICAgICAgICAgICAgIHZhciByZXFVcmwgPSAkdXJsQmxvY2suZmluZCgiaW5wdXQiKS52YWwoKTsKICAgICAgICAgICAgICAgIHZhciBkYXRhSWQgPSAkKHRoaXMpLmF0dHIoImRhdGEiKTsKICAgICAgICAgICAgfSk7Cgo=</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>15267164682</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbk5hbWVcPg==</text>
+        <text encoding="base64">XDxzYXZlQWN0aXZlVXJsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJQb2ludFRhc2tRdWVyeS5zZXRVc2VySWQoc2hhcmVSZWNvcmQuZ2V0VXNlcklkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKHRoaXMpLmF0dHIoIm1vZGVsIiwiMSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgiYVtuYW1lPSdidG5TYXZlVXJsJ10iKS5jbGljayhmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICB2YXIgJHVybEJsb2NrID0gJCh0aGlzKS5wYXJlbnQoImRpdltuYW1lPSdlbnRlckh0dHBFeGVjVmlldyddIikuZmluZCgic3BhbltuYW1lPSdlZGl0VXJsJ10iKTsKICAgICAgICAgICAgICAgIHZhciByZXFVcmwgPSAkdXJsQmxvY2suZmluZCgiaW5wdXQiKS52YWwoKTsKICAgICAgICAgICAgICAgIHZhciBkYXRhSWQgPSAkKHRoaXMpLmF0dHIoImRhdGEiKTsKICAgICAgICAgICAgfSk7Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihqb2luQ291cnNlLmdldFN0YXR1cygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkYXRhSWQgPSAkKHRoaXMpLmF0dHIoImRhdGEiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJbnRlZ2VyIGdldFZpZGVvVGFrZVNjb3JlU3RhdHVzKCkgewogICAgICAgIHJldHVybiB2aWRlb1Rha2VTY29yZVN0YXR1czsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRWaWRlb1Rha2VTY29yZVN0YXR1cyhJbnRlZ2VyIHZpZGVvVGFrZVNjb3JlU3RhdHVzKSB7CiAgICAgICAgdGhpcy52aWRlb1Rha2VTY29yZVN0YXR1cyA9IHZpZGVvVGFrZVNjb3JlU3RhdHVzOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFlULmRlcGxveS5hdFRlbXBsYXRlLnNhdmVBY3RpdmVVcmwoZGF0YUlkLHJlcVVybCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJQb2ludFRhc2tRdWVyeS5zZXRMaW1pdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJQb2ludFRhc2tRdWVyeS5zZXRUeXBlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZXFVcmwgPSAkdXJsQmxvY2sudGV4dCgpOwogICAgICAgICAgICAgICAgJHVybEJsb2NrLmh0bWwoIjxpbnB1dCB0eXBlPSd0ZXh0JyBzdHlsZT0nd2lkdGg6IDQwMHB4JyB2YWx1ZT0nIityZXFVcmwrIicgLz4iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJQb2ludFRhc2tRdWVyeS5zZXRUeXBlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciAkdXJsQmxvY2sgPSAkKHRoaXMpLnBhcmVudCgiZGl2W25hbWU9J2VudGVySHR0cEV4ZWNWaWV3J10iKS5maW5kKCJzcGFuW25hbWU9J2VkaXRVcmwnXSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJQb2ludFRhc2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBtb2RlbCA9ICQodGhpcykuYXR0cigibW9kZWwiKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -968,26 +968,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJqYXZhc2NyaXB0OnZvaWQoMCkiIG5hbWU9ImJ0blNhdmVVcmwiIGRhdGE9Int7YmVhbi5pZH19Ij48c3Ryb25nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0iY29sb3I6ZGFya3NlYWdyZWVuIj7kv53lrZg8L3N0cm9uZz48L2E+ICAmbmJzcDsmbmJzcDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlclBvaW50VGFzay5zZXRUYWtlU2NvcmVTdGF0dXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmVBY3RpdmVVcmwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbk5hbWVcPg==</last-search>
+      <last-search encoding="base64">XDxzYXZlQWN0aXZlVXJsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbk5hbWVcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxzYXZlQWN0aXZlVXJsXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYXZlQWN0aXZlQ29sbGVjdFw+</entry>
-        <entry encoding="base64">XDxvcGVuQWN0aXZlQ29sbGVjdFdpblw+</entry>
         <entry encoding="base64">XDxzaGFyZVJlY29yZElkXD4=</entry>
         <entry encoding="base64">XDxhdXRoQ2hlY2tcPg==</entry>
         <entry encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</entry>
@@ -1006,6 +1004,8 @@
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxjbHNFbk5hbWVcPg==</entry>
         <entry encoding="base64">XDxlbk5hbWVcPg==</entry>
+        <entry encoding="base64">XDxkZWxBY3RpdmVcPg==</entry>
+        <entry encoding="base64">XDxzYXZlQWN0aXZlVXJsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
