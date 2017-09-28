@@ -18,7 +18,7 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="298" column="37" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/TransDataController.java" timestamp="1505469740058">
+      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/TransDataController.java" timestamp="1506528720164">
         <mark key="'" line="24" column="20" />
         <mark key="[" line="66" column="8" />
         <mark key="]" line="74" column="18" />
@@ -397,12 +397,12 @@
         <mark key="^" line="215" column="56" />
         <mark key="." line="216" column="0" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserServiceImpl.java" timestamp="1506332616134">
-        <mark key="'" line="384" column="11" />
-        <mark key="[" line="379" column="30" />
-        <mark key="]" line="379" column="43" />
-        <mark key="." line="379" column="43" />
-        <mark key="^" line="379" column="43" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserServiceImpl.java" timestamp="1506528586009">
+        <mark key="'" line="753" column="31" />
+        <mark key="[" line="757" column="27" />
+        <mark key="]" line="757" column="38" />
+        <mark key="." line="757" column="38" />
+        <mark key="^" line="757" column="38" />
       </file>
       <file name="/u01/workspace/fitness/fitness-web/h5/src/main/java/com/doublefit/fitness/web/h5/controller/ActiveController.java" timestamp="1506397582659">
         <mark key="'" line="112" column="34" />
@@ -522,9 +522,6 @@
         <mark key="]" line="19" column="62" />
         <mark key="." line="19" column="62" />
         <mark key="^" line="19" column="62" />
-      </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/CodeSyncUtils.java" timestamp="1506503544014">
-        <mark key="j" line="21" column="23" />
       </file>
       <file name="/u01/workspace/GrepConsole/resources/META-INF/plugin.xml" timestamp="1505283882322">
         <mark key="'" line="116" column="87" />
@@ -679,7 +676,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="4" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/HotAppSelForm.java" />
       <jump line="265" column="24" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZhushouRpcUtils.java" />
       <jump line="55" column="67" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZpluginUtils.java" />
       <jump line="66" column="16" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZhushouRpcUtils.java" />
@@ -779,13 +775,14 @@
       <jump line="140" column="65" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" />
       <jump line="130" column="28" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" />
       <jump line="154" column="15" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" />
+      <jump line="753" column="31" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxNeVBvaW50VGFza0l0ZW1Wbz4gdmlkZW9UYXNrSXRlbUxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgbXlQb2ludFRhc2tWby5zZXRWaWRlb1Rhc2tJdGVtTGlzdCh2aWRlb1Rhc2tJdGVtTGlzdCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
@@ -797,7 +794,7 @@
         <text encoding="base64">XDxteVBvaW50VGFza1ZvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKHRoaXMpLmF0dHIoIm1vZGVsIiwiMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBub3RDaGVja1VybHMuYWRkKCIvdXNlci9nZXRMb2dpblVzZXIiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTGlzdDxNeVBvaW50VGFza0l0ZW1Wbz4gdmlkZW9UYXNrSXRlbUxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgbXlQb2ludFRhc2tWby5zZXRWaWRlb1Rhc2tJdGVtTGlzdCh2aWRlb1Rhc2tJdGVtTGlzdCk7Cg==</text>
