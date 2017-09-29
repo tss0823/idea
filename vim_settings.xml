@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1506652403651">
+      <file name="/a.dummy" timestamp="1506664859547">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -291,8 +291,8 @@
         <mark key="^" line="53" column="25" />
         <mark key="." line="53" column="25" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1506580684052">
-        <mark key="'" line="332" column="52" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1506664885388">
+        <mark key="'" line="289" column="52" />
         <mark key="[" line="1405" column="79" />
         <mark key="]" line="1405" column="80" />
         <mark key="." line="1405" column="80" />
@@ -539,6 +539,9 @@
         <mark key="." line="57" column="0" />
       </file>
       <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/env/config-prod.properties" timestamp="1506661895408" />
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/enums/CourseCategory.java" timestamp="1506664887884">
+        <mark key="'" line="72" column="23" />
+      </file>
       <file name="/u01/workspace/GrepConsole/src/krasa/grepconsole/action/OpenCurrentFileInConsoleAction.java" timestamp="1505283690053">
         <mark key="'" line="25" column="27" />
         <mark key="[" line="19" column="50" />
@@ -690,8 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/MyPointActiveVo.java" />
-      <jump line="116" column="17" filename="/u01/workspace/fitness/fitness-web/h5/src/main/java/com/doublefit/fitness/web/h5/controller/ActiveController.java" />
       <jump line="110" column="24" filename="/u01/workspace/fitness/fitness-web/h5/src/main/java/com/doublefit/fitness/web/h5/controller/ActiveController.java" />
       <jump line="50" column="35" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/MyPointActiveVo.java" />
       <jump line="112" column="34" filename="/u01/workspace/fitness/fitness-web/h5/src/main/java/com/doublefit/fitness/web/h5/controller/ActiveController.java" />
@@ -790,6 +791,8 @@
       <jump line="44" column="26" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/MyPointTaskItemVo.java" />
       <jump line="32" column="20" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/MyPointTaskItemVo.java" />
       <jump line="150" column="58" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" />
+      <jump line="289" column="52" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
+      <jump line="72" column="23" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/enums/CourseCategory.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
