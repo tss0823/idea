@@ -299,8 +299,8 @@
         <mark key="^" line="53" column="25" />
         <mark key="." line="53" column="25" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1506738550486">
-        <mark key="'" line="289" column="52" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1506753125059">
+        <mark key="'" line="287" column="46" />
         <mark key="[" line="1405" column="79" />
         <mark key="]" line="1405" column="80" />
         <mark key="." line="1405" column="80" />
@@ -326,6 +326,9 @@
         <mark key="]" line="44" column="12" />
         <mark key="^" line="44" column="12" />
         <mark key="." line="44" column="12" />
+      </file>
+      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/support/qiniu/QiNiuTools.java" timestamp="1506655051289">
+        <mark key="'" line="218" column="45" />
       </file>
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/ShareRecord.java" timestamp="1506499171049">
         <mark key="'" line="61" column="0" />
@@ -563,6 +566,9 @@
         <mark key="." line="57" column="0" />
       </file>
       <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/env/config-prod.properties" timestamp="1506661895408" />
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/enums/CourseCategory.java" timestamp="1506753029163">
+        <mark key="'" line="29" column="22" />
+      </file>
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/inter/AtActiveService.java" timestamp="1506672510756">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -711,6 +717,9 @@
         <mark key="." line="32" column="79" />
         <mark key="^" line="30" column="33" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AccountDetailServiceImpl.java" timestamp="1506524217842">
+        <mark key="'" line="72" column="56" />
+      </file>
       <file name="/u01/workspace/fitness/fitness-web/bos/src/main/webapp/_resources/scripts/module/trainer.js" timestamp="1506679210610" />
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/OrderServiceImpl.java" timestamp="1506665864012">
         <mark key="[" line="893" column="45" />
@@ -727,10 +736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="22" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
-      <jump line="44" column="44" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/HotAppSelForm.java" />
-      <jump line="51" column="89" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/HotAppSelForm.java" />
-      <jump line="100" column="39" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/HotAppSelForm.java" />
       <jump line="103" column="62" filename="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/OrderController.java" />
       <jump line="22" column="13" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/ShareRecord.java" />
       <jump line="152" column="0" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/ShareRecord.java" />
@@ -817,8 +822,6 @@
       <jump line="44" column="26" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/MyPointTaskItemVo.java" />
       <jump line="32" column="20" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/MyPointTaskItemVo.java" />
       <jump line="150" column="58" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" />
-      <jump line="289" column="52" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
-      <jump line="72" column="23" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/enums/CourseCategory.java" />
       <jump line="152" column="33" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseVideoServiceImpl.java" />
       <jump line="17" column="17" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/inter/AtParameterService.java" />
       <jump line="126" column="41" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/at/AtTemplateController.java" />
@@ -827,6 +830,12 @@
       <jump line="454" column="23" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AtTemplateServiceImpl.java" />
       <jump line="146" column="18" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/CourseVideo.java" />
       <jump line="52" column="0" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/CourseVideo.java" />
+      <jump line="293" column="18" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
+      <jump line="201" column="22" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
+      <jump line="289" column="48" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
+      <jump line="72" column="21" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/enums/CourseCategory.java" />
+      <jump line="29" column="22" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/enums/CourseCategory.java" />
+      <jump line="287" column="46" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -842,7 +851,7 @@
         <text>shareTemplate.getIconUrl()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNDb29raWVNYXBcPg==</text>
+        <text encoding="base64">XDxpbWdVcmxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2hhcmVEYXRhVm8uc2V0SWNvblVybChzaGFyZVRlbXBsYXRlLmdldEljb25VcmwoKSk7Cg==</text>
@@ -1035,16 +1044,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNDb29raWVNYXBcPg==</last-search>
+      <last-search encoding="base64">XDxpbWdVcmxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNDb29raWVNYXBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbWdVcmxcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25maWdMb2NhdGlvblw+</entry>
-        <entry encoding="base64">XDxrbm93bk1hcHBlcnNcPg==</entry>
         <entry encoding="base64">XDxtYXBwZXJSZWdpc3RyeVw+</entry>
         <entry encoding="base64">XDxjbGFzc2VzUGF0aFw+</entry>
         <entry encoding="base64">XDxwb2ludFRhc2tJZFw+</entry>
@@ -1063,6 +1070,8 @@
         <entry encoding="base64">XDxjb3Vyc2VWaWRlb0xpc3RcPg==</entry>
         <entry encoding="base64">XDx0YWtlUG9pbnRcPg==</entry>
         <entry encoding="base64">XDxyZXNDb29raWVNYXBcPg==</entry>
+        <entry encoding="base64">XDxzZXRDYXRlZ29yeUltZ1VybFw+</entry>
+        <entry encoding="base64">XDxpbWdVcmxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
