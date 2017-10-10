@@ -238,6 +238,13 @@
         <mark key="." line="482" column="0" />
         <mark key="^" line="466" column="54" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/User.java" timestamp="1507606009451">
+        <mark key="'" line="185" column="24" />
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+      </file>
       <file name="/u01/workspace/template_single/_appEnName_-service/src/main/java/_packagePath_/service/impl/_upperEntityEnName_ServiceImpl.java" timestamp="1506503216039">
         <mark key="[" line="25" column="8" />
         <mark key="]" line="25" column="7" />
@@ -505,7 +512,7 @@
         <mark key="." line="213" column="17" />
         <mark key="^" line="213" column="17" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" timestamp="1507604033544">
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" timestamp="1507605687199">
         <mark key="'" line="66" column="27" />
         <mark key="[" line="250" column="23" />
         <mark key="]" line="250" column="28" />
@@ -683,8 +690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="40" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/ShareRecord.java" />
-      <jump line="24" column="30" filename="/u01/workspace/TranslationPlugin/src/cn/yiiguxing/plugin/translate/action/ShowTranslationDialogAction.java" />
       <jump line="53" column="53" filename="/u01/workspace/TranslationPlugin/src/cn/yiiguxing/plugin/translate/TranslationComponent.java" />
       <jump line="31" column="106" filename="/u01/workspace/TranslationPlugin/src/cn/yiiguxing/plugin/translate/TranslationComponent.java" />
       <jump line="47" column="66" filename="/u01/workspace/TranslationPlugin/src/cn/yiiguxing/plugin/translate/TranslationComponent.java" />
@@ -783,25 +788,27 @@
       <jump line="248" column="38" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
       <jump line="241" column="33" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
       <jump line="96" column="40" filename="/u01/workspace/fitness/fitness-web/bos/src/main/webapp/_resources/scripts/module/course.js" />
+      <jump line="18" column="13" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/User.java" />
+      <jump line="180" column="24" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/User.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>condition</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>shareTemplate.getIconUrl()</text>
+        <text>condition</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWdVcmxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hhcmVEYXRhVm8uc2V0SWNvblVybChzaGFyZVRlbXBsYXRlLmdldEljb25VcmwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0iY29uZGl0aW9uICE9IG51bGwiPmFuZCBgY29uZGl0aW9uYCA9ICN7Y29uZGl0aW9ufTwvaWY+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
