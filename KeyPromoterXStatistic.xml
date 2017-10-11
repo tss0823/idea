@@ -358,7 +358,15 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>19</Count>
+          <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="新建实体">
+        <Item>
+          <IdeaActionID>newEntity</IdeaActionID>
+          <ShortCut>'⌃⌘N'</ShortCut>
+          <Description>新建实体</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="添加属性">
