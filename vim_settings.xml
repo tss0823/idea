@@ -5,7 +5,7 @@
       <mark key="V" line="81" column="33" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/at/activeEdit.html" />
     </globalmarks>
     <filemarks>
-      <file name="/a.dummy" timestamp="1507725343209">
+      <file name="/a.dummy" timestamp="1507727584585">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -478,6 +478,12 @@
         <mark key="^" line="110" column="14" />
         <mark key="." line="108" column="53" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-web/h5/src/main/webapp/template/pointsRule.html" timestamp="1507728064652">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="37" />
+        <mark key="." line="31" column="37" />
+        <mark key="^" line="31" column="37" />
+      </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserServiceImpl.java" timestamp="1507726153666">
         <mark key="'" line="753" column="31" />
         <mark key="[" line="582" column="38" />
@@ -547,10 +553,10 @@
         <mark key="^" line="228" column="82" />
         <mark key="." line="228" column="82" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/webapp/template/pointGiveRecord/new.html" timestamp="1507725023204">
-        <mark key="[" line="39" column="27" />
-        <mark key="]" line="39" column="28" />
-        <mark key="." line="39" column="28" />
+      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/webapp/template/pointGiveRecord/new.html" timestamp="1507728301718">
+        <mark key="[" line="47" column="102" />
+        <mark key="]" line="47" column="102" />
+        <mark key="." line="47" column="102" />
         <mark key="^" line="39" column="28" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/idoc/idoc.js" timestamp="1506061090496">
@@ -914,14 +920,14 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSB1c2VyU2VydmljZS5maW5kQnlJZCh1c2VySWQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>存</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>存</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWdVcmxcPg==</text>
@@ -930,21 +936,24 @@
         <text encoding="base64">ICAgICAgICBzdGFja0xvZy5pbmZvKCLmtLvliqjnp6/liIborrDlvZXkv53lrZjnu5PmnZ8scmVzdWx0PSIrYWN0aXZlUG9pbnRSZXN1bHQpOyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSB1c2VyU2VydmljZS5maW5kQnlJZCh1c2VySWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PjxwPmMu5YiG5Lqr5oiR5Lus5Li+5Yqe55qE5rS75Yqo6ZO+5o6l57uZ5aW95Y+L77yM5Y+v5Lul6I635b6X55u45bqU56ev5YiG5aWW5YqxPC9wPjwvZGl2Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSB1c2VyU2VydmljZS5maW5kQnlJZCh1c2VySWQpOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CgogICAgICAgICAgIA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAvLyB2YXIgcG9pbnRHaXZlUmVjb3JkQ2F0ZWdvcnkgPSBlbnVtcy5wb2ludEdpdmVSZWNvcmRDYXRlZ29yeTsKICAgICAgICAgICAgICAgIFlULmRlcGxveS51dGlsLmluaXRFbnVtU2VsZWN0KCJwb2ludEdpdmVSZWNvcmRDYXRlZ29yeSIsImNhdGVnb3J5IixkYXRhLmNhdGVnb3J5KTsKCiAgICAgICAgICAgICAgICAvLyB2YXIgcG9pbnRHaXZlUmVjb3JkV29kVHlwZSA9IGVudW1zLndvZFR5cGU7CiAgICAgICAgICAgICAgICBZVC5kZXBsb3kudXRpbC5pbml0RW51bVNlbGVjdCgicG9pbnRHaXZlUmVjb3JkV29kVHlwZSIsIndvZFR5cGUiLGRhdGEud29kVHlwZSk7CgogICAgICAgICAgICAgICAgLy8gdmFyIHN0dWRpb0FkZHJlc3MgPSBlbnVtcy5zdHVkaW9BZGRyZXNzOwogICAgICAgICAgICAgICAgWVQuZGVwbG95LnV0aWwuaW5pdEVudW1TZWxlY3QoInN0dWRpb0FkZHJlc3MiLCJzdHVkaW9JZCIsZGF0YS5zdHVkaW9JZCk7</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>//进入课程预约、排队
             $(&quot;button[id='btnInfo']&quot;).click(function () {
                 var id = $(this).attr(&quot;data&quot;);
@@ -962,7 +971,7 @@
                 YT.deploy.pointGiveRecord.appointmentSignIn(userId,pointGiveRecordId);
             });</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>//推送签到消息
             $(&quot;button[id='btnPushSignInMsg']&quot;).click(function () {
                 // if (!confirm(&quot;您确认要开始课程么？&quot;)) {
@@ -992,81 +1001,6 @@
                 confirm(&quot;您确认要结束课程么？&quot;,function(){
                     YT.deploy.pointGiveRecord.end(id);
                 });
-            });</text>
-      </register>
-      <register name="7" type="4">
-        <text>//强制删除
-            $(&quot;button[id='btnForceDel']&quot;).click(function () {
-                var id = $(this).attr(&quot;data&quot;);
-                confirm(&quot;强制删除有风险,您确认要强制删除么？&quot;,function(){
-                    YT.deploy.pointGiveRecord.forceDel(id);
-                });
-            });
-
-            //活动记录开始
-            $(&quot;button[id='btnRecordStart']&quot;).click(function () {
-                var id = $(this).attr(&quot;data&quot;);
-                confirm(&quot;您确认要开始&quot;,function(){
-                    YT.deploy.pointGiveRecord.recordStart(id);
-                });
-            });
-
-            //活动记录结束
-            $(&quot;button[id='btnRecordEnd']&quot;).click(function () {
-                var id = $(this).attr(&quot;data&quot;);
-                confirm(&quot;您确认要结束&quot;,function(){
-                    YT.deploy.pointGiveRecord.recordEnd(id);
-                });
-            });
-
-
-            //动作列表
-            $(&quot;button[id='btnWodDetail']&quot;).click(function () {
-                var pageNum = 1;  //查询触发从第一页开始
-                var pointGiveRecordId = $(this).attr(&quot;data&quot;);
-                YT.deploy.pointGiveRecord.queryWodList(pointGiveRecordId,pageNum);
-            });
-            //动作新增
-            $(document).off(&quot;click&quot;,&quot;button[id='btnWodNew']&quot;);
-            $(document).on(&quot;click&quot;,&quot;button[id='btnWodNew']&quot;,function () {
-                var pointGiveRecordId = $(this).attr(&quot;data&quot;);
-                YT.deploy.pointGiveRecord.openCourseWodNew(pointGiveRecordId);
-            });
-            //动作编辑
-            $(document).off(&quot;click&quot;,&quot;button[id='btnWodEdit']&quot;);
-            $(document).on(&quot;click&quot;,&quot;button[id='btnWodEdit']&quot;,function () {
-                var id = $(this).attr(&quot;data&quot;);
-                YT.deploy.pointGiveRecord.openCourseWodEdit(id);
-            });
-            //动作删除
-            $(document).off(&quot;click&quot;,&quot;button[id='btnWodDel']&quot;);
-            $(document).on(&quot;click&quot;,&quot;button[id='btnWodDel']&quot;,function () {
-                var id = $(this).attr(&quot;data&quot;);
-                YT.deploy.pointGiveRecord.wodDel(id);
-            });
-            //动作保存
-            $(document).off(&quot;click&quot;,&quot;button[id='btnWodSave']&quot;);
-            $(document).on(&quot;click&quot;,&quot;button[id='btnWodSave']&quot;,function () {
-                YT.deploy.pointGiveRecord.wodSave();
-            });
-
-            //学员列表
-            $(&quot;button[id='btnMemberDetail']&quot;).click(function () {
-                var pageNum = 1;  //查询触发从第一页开始
-                var pointGiveRecordId = $(this).attr(&quot;data&quot;);
-                YT.deploy.pointGiveRecord.queryMemberList(pointGiveRecordId,pageNum);
-            });
-            //wo列表
-            $(&quot;button[id='btnWodScore']&quot;).click(function () {
-                var userId = $(this).attr(&quot;data&quot;).split(&quot;,&quot;)[0];
-                var pointGiveRecordId = $(this).attr(&quot;data&quot;).split(&quot;,&quot;)[1];
-                YT.deploy.pointGiveRecord.openWodList(userId,pointGiveRecordId);
-            });
-            //wod打分
-            $(document).off(&quot;click&quot;,&quot;button[id='btnJoinWodScore']&quot;);
-            $(document).on(&quot;click&quot;,&quot;button[id='btnJoinWodScore']&quot;,function () {
-                var id = $(this).attr(&quot;data&quot;);
-                YT.deploy.pointGiveRecord.joinWodScore(id);
             });</text>
       </register>
       <register name="w" type="4">
@@ -1223,6 +1157,81 @@
         </keys>
       </register>
       <register name="8" type="4">
+        <text>//强制删除
+            $(&quot;button[id='btnForceDel']&quot;).click(function () {
+                var id = $(this).attr(&quot;data&quot;);
+                confirm(&quot;强制删除有风险,您确认要强制删除么？&quot;,function(){
+                    YT.deploy.pointGiveRecord.forceDel(id);
+                });
+            });
+
+            //活动记录开始
+            $(&quot;button[id='btnRecordStart']&quot;).click(function () {
+                var id = $(this).attr(&quot;data&quot;);
+                confirm(&quot;您确认要开始&quot;,function(){
+                    YT.deploy.pointGiveRecord.recordStart(id);
+                });
+            });
+
+            //活动记录结束
+            $(&quot;button[id='btnRecordEnd']&quot;).click(function () {
+                var id = $(this).attr(&quot;data&quot;);
+                confirm(&quot;您确认要结束&quot;,function(){
+                    YT.deploy.pointGiveRecord.recordEnd(id);
+                });
+            });
+
+
+            //动作列表
+            $(&quot;button[id='btnWodDetail']&quot;).click(function () {
+                var pageNum = 1;  //查询触发从第一页开始
+                var pointGiveRecordId = $(this).attr(&quot;data&quot;);
+                YT.deploy.pointGiveRecord.queryWodList(pointGiveRecordId,pageNum);
+            });
+            //动作新增
+            $(document).off(&quot;click&quot;,&quot;button[id='btnWodNew']&quot;);
+            $(document).on(&quot;click&quot;,&quot;button[id='btnWodNew']&quot;,function () {
+                var pointGiveRecordId = $(this).attr(&quot;data&quot;);
+                YT.deploy.pointGiveRecord.openCourseWodNew(pointGiveRecordId);
+            });
+            //动作编辑
+            $(document).off(&quot;click&quot;,&quot;button[id='btnWodEdit']&quot;);
+            $(document).on(&quot;click&quot;,&quot;button[id='btnWodEdit']&quot;,function () {
+                var id = $(this).attr(&quot;data&quot;);
+                YT.deploy.pointGiveRecord.openCourseWodEdit(id);
+            });
+            //动作删除
+            $(document).off(&quot;click&quot;,&quot;button[id='btnWodDel']&quot;);
+            $(document).on(&quot;click&quot;,&quot;button[id='btnWodDel']&quot;,function () {
+                var id = $(this).attr(&quot;data&quot;);
+                YT.deploy.pointGiveRecord.wodDel(id);
+            });
+            //动作保存
+            $(document).off(&quot;click&quot;,&quot;button[id='btnWodSave']&quot;);
+            $(document).on(&quot;click&quot;,&quot;button[id='btnWodSave']&quot;,function () {
+                YT.deploy.pointGiveRecord.wodSave();
+            });
+
+            //学员列表
+            $(&quot;button[id='btnMemberDetail']&quot;).click(function () {
+                var pageNum = 1;  //查询触发从第一页开始
+                var pointGiveRecordId = $(this).attr(&quot;data&quot;);
+                YT.deploy.pointGiveRecord.queryMemberList(pointGiveRecordId,pageNum);
+            });
+            //wo列表
+            $(&quot;button[id='btnWodScore']&quot;).click(function () {
+                var userId = $(this).attr(&quot;data&quot;).split(&quot;,&quot;)[0];
+                var pointGiveRecordId = $(this).attr(&quot;data&quot;).split(&quot;,&quot;)[1];
+                YT.deploy.pointGiveRecord.openWodList(userId,pointGiveRecordId);
+            });
+            //wod打分
+            $(document).off(&quot;click&quot;,&quot;button[id='btnJoinWodScore']&quot;);
+            $(document).on(&quot;click&quot;,&quot;button[id='btnJoinWodScore']&quot;,function () {
+                var id = $(this).attr(&quot;data&quot;);
+                YT.deploy.pointGiveRecord.joinWodScore(id);
+            });</text>
+      </register>
+      <register name="9" type="4">
         <text>openInfoWin: function (id) {
             var param = {tp_title: &quot;课程预约排队详情&quot;, dataList: null};
             var params = {id: id};
@@ -1244,57 +1253,6 @@
                 });
             });
 
-        },</text>
-      </register>
-      <register name="9" type="4">
-        <text>pushSignInMsg: function (id) {
-            var params = {id: id};
-            YT.deploy.util.reqPost(&quot;/pointGiveRecord/pushSignInMsg&quot;, params, function (d) {
-                if (d.success) {
-                    alert(&quot;课程签到消息推送成功&quot;);
-                    // YT.deploy.pointGiveRecord.query(1);
-                } else {
-                    alert(&quot;课程签到消息推送失败,err=&quot; + d.message);
-                }
-            });
-        },
-
-        changeChart: function (id) {
-            var params = {pointGiveRecordId: id};
-            YT.deploy.util.reqPost(&quot;/pointGiveRecord/changeChart&quot;, params, function (d) {
-                if (d.success) {
-                    alert(&quot;改变运动图表样式成功,value=&quot;+d.data);
-                    // YT.deploy.pointGiveRecord.query(1);
-                } else {
-                    alert(&quot;改变运动图表样式失败,err=&quot; + d.message);
-                }
-            });
-        },
-
-        start: function (id) {
-            var params = {id: id};
-            YT.deploy.util.reqPost(&quot;/pointGiveRecord/start&quot;, params, function (d) {
-                if (d.success) {
-                    alert(&quot;课程开始成功&quot;,function(){
-                        YT.deploy.pointGiveRecord.query(1);
-                    });
-                } else {
-                    alert(&quot;课程开始失败,err=&quot; + d.message);
-                }
-            });
-        },
-
-        end: function (id) {
-            var params = {id: id};
-            YT.deploy.util.reqPost(&quot;/pointGiveRecord/end&quot;, params, function (d) {
-                if (d.success) {
-                    alert(&quot;课程结束成功&quot;,function(){
-                        YT.deploy.pointGiveRecord.query(1);
-                    });
-                } else {
-                    alert(&quot;课程结束失败,err=&quot; + d.message);
-                }
-            });
         },</text>
       </register>
       <register name=":" type="4">
