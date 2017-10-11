@@ -5,7 +5,7 @@
       <mark key="V" line="81" column="33" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/at/activeEdit.html" />
     </globalmarks>
     <filemarks>
-      <file name="/a.dummy" timestamp="1507705884909">
+      <file name="/a.dummy" timestamp="1507707855084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -249,12 +249,12 @@
         <mark key="." line="482" column="0" />
         <mark key="^" line="466" column="54" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/User.java" timestamp="1507606009451">
-        <mark key="'" line="185" column="24" />
-        <mark key="[" line="20" column="3" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="16" />
-        <mark key="^" line="21" column="16" />
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/User.java" timestamp="1507707659486">
+        <mark key="'" line="183" column="24" />
+        <mark key="[" line="183" column="25" />
+        <mark key="]" line="177" column="35" />
+        <mark key="." line="177" column="35" />
+        <mark key="^" line="177" column="35" />
       </file>
       <file name="/u01/workspace/template_single/_appEnName_-service/src/main/java/_packagePath_/service/impl/_upperEntityEnName_ServiceImpl.java" timestamp="1506503216039">
         <mark key="[" line="25" column="8" />
@@ -325,12 +325,12 @@
         <mark key="." line="45" column="36" />
         <mark key="^" line="46" column="24" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/yuntao.js" timestamp="1507706544054">
+      <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/yuntao.js" timestamp="1507708504783">
         <mark key="'" line="748" column="43" />
-        <mark key="[" line="721" column="65" />
-        <mark key="]" line="721" column="74" />
-        <mark key="^" line="721" column="74" />
-        <mark key="." line="721" column="74" />
+        <mark key="[" line="718" column="42" />
+        <mark key="]" line="718" column="42" />
+        <mark key="^" line="718" column="42" />
+        <mark key="." line="718" column="42" />
       </file>
       <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/utils/DateUtil.java" timestamp="1507620567892">
         <mark key="[" line="351" column="53" />
@@ -385,6 +385,12 @@
         <mark key="]" line="72" column="12" />
         <mark key="^" line="72" column="12" />
         <mark key="." line="72" column="12" />
+      </file>
+      <file name="/u01/workspace/zhushou/zhushou-service/src/test/java/com/yuntao/zhushou/websocket/EmptyClient.java" timestamp="1507708175466">
+        <mark key="[" line="42" column="83" />
+        <mark key="]" line="42" column="151" />
+        <mark key="." line="42" column="151" />
+        <mark key="^" line="42" column="151" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/log/appLog.js" timestamp="1506326936055">
         <mark key="'" line="238" column="36" />
@@ -601,11 +607,12 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="52" column="45" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/support/YTWebSocketServer.java" timestamp="1507608250133">
+      <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/support/YTWebSocketServer.java" timestamp="1507708283001">
         <mark key="'" line="30" column="11" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="29" />
+        <mark key="." line="31" column="29" />
+        <mark key="^" line="31" column="29" />
       </file>
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/Studio.java" timestamp="1506141737725">
         <mark key="'" line="22" column="13" />
@@ -823,43 +830,43 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>websocket</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>websocket</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWdVcmxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKGhpc1VzZXJQb2ludC5nZXRBY2NvdW50Tm8oKSsiLCIpOwo=</text>
+        <text encoding="base64">ICAgIEBNb2RlbEZpZWxkQ29tbWVudCh2YWx1ZSA9ICLpl6jlupdpZCIsbWF4TGVuZ3RoID0gMjAscmVxdWlyZWQgPSBmYWxzZSkKICAgIHByaXZhdGUgTG9uZyBzdHVkaW9JZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKiDpl6jlupdpZCAqICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vdG90YWxQb2ludAogICAgICAgICAgICAgICAgZm9yIChVc2VyUG9pbnRBY3RpdmUgdXNlclBvaW50QWN0aXZlIDogdXNlclBvaW50QWN0aXZlTGlzdCkgewogICAgICAgICAgICAgICAgICAgIGlmICh1c2VyUG9pbnRBY3RpdmUuZ2V0VXNlcklkKCkubG9uZ1ZhbHVlKCkgPT0gdXNlclZvLmdldElkKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdXNlckRheVBvaW50U3RhdGlzdGljcy5zZXRUb3RhbFBvaW50KHVzZXJQb2ludEFjdGl2ZS5nZXRUb3RhbFBvaW50KCkpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZih1c2VyRGF5UG9pbnRTdGF0aXN0aWNzLmdldFRvdGFsUG9pbnQoKSA9PSBudWxsKXsKCiAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHVzZXJEYXlQb2ludFN0YXRpc3RpY3MuZ2V0VG90YWxQb2ludCgpID09IG51bGwpewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2Uuc2V0SGVhZGVyKCIiKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vdG90YWxQb2ludAogICAgICAgICAgICAgICAgZm9yIChVc2VyUG9pbnRBY3RpdmUgdXNlclBvaW50QWN0aXZlIDogdXNlclBvaW50QWN0aXZlTGlzdCkgewogICAgICAgICAgICAgICAgICAgIGlmICh1c2VyUG9pbnRBY3RpdmUuZ2V0VXNlcklkKCkubG9uZ1ZhbHVlKCkgPT0gdXNlclZvLmdldElkKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdXNlckRheVBvaW50U3RhdGlzdGljcy5zZXRUb3RhbFBvaW50KHVzZXJQb2ludEFjdGl2ZS5nZXRUb3RhbFBvaW50KCkpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZih1c2VyRGF5UG9pbnRTdGF0aXN0aWNzLmdldFRvdGFsUG9pbnQoKSA9PSBudWxsKXsKCiAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHVzZXJEYXlQb2ludFN0YXRpc3RpY3MuZ2V0VG90YWxQb2ludCgpID09IG51bGwpewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2Uuc2V0SGVhZGVyKCIiKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoaGlzVXNlclBvaW50LmdldFVzZXJOYW1lKCkrIiwiKTsKICAgICAgICBzYi5hcHBlbmQoaGlzVXNlclBvaW50LmdldEFjY291bnRObygpKyIsIik7CiAgICAgICAgc2IuYXBwZW5kKGhpc1VzZXJQb2ludC5nZXRUb3RhbFBvaW50KCkrIiwiKTsKICAgICAgICBzYi5hcHBlbmQoaGlzVXNlclBvaW50LmdldERheVRvdGFsUG9pbnQoKSsiLCIpOwogICAgICAgIHNiLmFwcGVuZChoaXNVc2VyUG9pbnQuZ2V0Q291cnNlQ29tbWVudFBvaW50KCkrIiwiKTsKICAgICAgICBzYi5hcHBlbmQoaGlzVXNlclBvaW50LmdldENvdXJzZVNpZ25Qb2ludCgpKyIsIik7CiAgICAgICAgc2IuYXBwZW5kKGhpc1VzZXJQb2ludC5nZXRWaWRlb1NoYXJlUG9pbnQoKSsiLCIpOwogICAgICAgIHNiLmFwcGVuZChoaXNVc2VyUG9pbnQuZ2V0VmlkZW9TaGFyZUNvdW50KCkrIlxuIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZU9iamVjdC5zZXREYXRhKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoaGlzVXNlclBvaW50LmdldFVzZXJOYW1lKCkrIiwiKTsKICAgICAgICBzYi5hcHBlbmQoaGlzVXNlclBvaW50LmdldEFjY291bnRObygpKyIsIik7CiAgICAgICAgc2IuYXBwZW5kKGhpc1VzZXJQb2ludC5nZXRUb3RhbFBvaW50KCkrIiwiKTsKICAgICAgICBzYi5hcHBlbmQoaGlzVXNlclBvaW50LmdldERheVRvdGFsUG9pbnQoKSsiLCIpOwogICAgICAgIHNiLmFwcGVuZChoaXNVc2VyUG9pbnQuZ2V0Q291cnNlQ29tbWVudFBvaW50KCkrIiwiKTsKICAgICAgICBzYi5hcHBlbmQoaGlzVXNlclBvaW50LmdldENvdXJzZVNpZ25Qb2ludCgpKyIsIik7CiAgICAgICAgc2IuYXBwZW5kKGhpc1VzZXJQb2ludC5nZXRWaWRlb1NoYXJlUG9pbnQoKSsiLCIpOwogICAgICAgIHNiLmFwcGVuZChoaXNVc2VyUG9pbnQuZ2V0VmlkZW9TaGFyZUNvdW50KCkrIlxuIik7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1015,10 +1022,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZGF0YSA9IChTdHJpbmcpIGhpc1VzZXJQb2ludHMK</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZU9iamVjdC5zZXREYXRhKGRhdGEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZGF0YSA9IChTdHJpbmcpIGhpc1VzZXJQb2ludHMK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
