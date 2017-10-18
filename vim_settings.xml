@@ -16,6 +16,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/ShareRecordServiceImpl.java" timestamp="1508294795415">
+        <mark key="'" line="154" column="21" />
+        <mark key="[" line="152" column="47" />
+        <mark key="]" line="152" column="62" />
+        <mark key="." line="152" column="62" />
+        <mark key="^" line="152" column="62" />
+      </file>
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/CourseVideo.java" timestamp="1506679298112">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+      </file>
       <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/TransDataController.java" timestamp="1508223721471">
         <mark key="'" line="31" column="20" />
         <mark key="[" line="124" column="35" />
@@ -113,6 +126,12 @@
         <mark key="]" line="1049" column="12" />
         <mark key="^" line="1049" column="12" />
         <mark key="." line="1049" column="12" />
+      </file>
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/ShareRecord.java" timestamp="1508294754257">
+        <mark key="'" line="109" column="14" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="/u01/workspace/fitness/fitness-web/bos/src/main/webapp/template/pointGiveRecord/newUserCoupon.html" timestamp="1508148960793">
         <mark key="[" line="28" column="27" />
@@ -262,9 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="17" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/inter/AtParameterService.java" />
-      <jump line="126" column="41" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/at/AtTemplateController.java" />
-      <jump line="481" column="24" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AtTemplateServiceImpl.java" />
       <jump line="379" column="28" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AtTemplateServiceImpl.java" />
       <jump line="454" column="23" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AtTemplateServiceImpl.java" />
       <jump line="146" column="18" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/CourseVideo.java" />
@@ -362,19 +378,22 @@
       <jump line="337" column="20" filename="/u01/workspace/zhushou/zhushou-web/client/src/main/java/com/yuntao/zhushou/client/controller/DeployController.java" />
       <jump line="364" column="35" filename="/u01/workspace/zhushou/zhushou-web/client/src/main/java/com/yuntao/zhushou/client/controller/DeployController.java" />
       <jump line="382" column="20" filename="/u01/workspace/zhushou/zhushou-web/client/src/main/java/com/yuntao/zhushou/client/controller/DeployController.java" />
+      <jump line="128" column="23" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/ShareRecordServiceImpl.java" />
+      <jump line="109" column="14" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/ShareRecord.java" />
+      <jump line="154" column="21" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/ShareRecordServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>getVideoUrl</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>getVideoUrl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjUnVuXD4=</text>
