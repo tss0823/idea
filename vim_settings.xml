@@ -23,6 +23,12 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="107" column="45" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointActiveServiceImpl.java" timestamp="1508772296591">
+        <mark key="[" line="144" column="80" />
+        <mark key="]" line="144" column="169" />
+        <mark key="^" line="144" column="169" />
+        <mark key="." line="144" column="169" />
+      </file>
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/SessionVo.java" timestamp="1508755312498">
         <mark key="'" line="77" column="20" />
         <mark key="[" line="77" column="38" />
@@ -238,9 +244,6 @@
         <mark key="]" line="32" column="79" />
         <mark key="." line="32" column="79" />
         <mark key="^" line="30" column="33" />
-      </file>
-      <file name="/fragment.java" timestamp="1508753164443">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/ShareRecordServiceImpl.java" timestamp="1508765189566">
         <mark key="[" line="146" column="0" />
@@ -942,14 +945,14 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>userPointActive.getShareVideoCount()</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>courseVideo.getId()</text>
+        <text>userPointActive.getShareVideoCount()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZW1iZXJTY29yZVN0YXR1c1w+</text>
