@@ -23,12 +23,12 @@
         <mark key="^" line="134" column="64" />
         <mark key="." line="134" column="64" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointActiveServiceImpl.java" timestamp="1508840450296">
-        <mark key="'" line="217" column="46" />
-        <mark key="[" line="235" column="68" />
-        <mark key="]" line="235" column="75" />
-        <mark key="^" line="235" column="75" />
-        <mark key="." line="235" column="75" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointActiveServiceImpl.java" timestamp="1509354122265">
+        <mark key="'" line="147" column="64" />
+        <mark key="[" line="146" column="141" />
+        <mark key="]" line="146" column="160" />
+        <mark key="^" line="146" column="160" />
+        <mark key="." line="146" column="160" />
       </file>
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/enums/PointsGiveRecordType.java" timestamp="1508145485444">
         <mark key="[" line="14" column="4" />
@@ -1143,7 +1143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="28" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" />
       <jump line="453" column="7" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
       <jump line="1870" column="78" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
       <jump line="1863" column="44" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
@@ -1243,19 +1242,20 @@
       <jump line="64" column="29" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/query/AuthResQuery.java" />
       <jump line="170" column="12" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AuthResServiceImpl.java" />
       <jump line="189" column="70" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AuthResServiceImpl.java" />
+      <jump line="147" column="64" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointActiveServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>btnclear</text>
+        <text>getCourseCommentCount</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>btnclear</text>
+        <text>getCourseCommentCount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxTZXRcPg==</text>
