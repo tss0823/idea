@@ -66,7 +66,7 @@
         <mark key="^" line="12" column="44" />
         <mark key="." line="12" column="44" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/UserPointTaskMapper.xml" timestamp="1508642376506">
+      <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/UserPointTaskMapper.xml" timestamp="1509954075840">
         <mark key="'" line="109" column="30" />
         <mark key="[" line="132" column="20" />
         <mark key="]" line="132" column="28" />
@@ -163,12 +163,12 @@
         <mark key="." line="142" column="48" />
         <mark key="^" line="142" column="101" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" timestamp="1509936143523">
-        <mark key="'" line="245" column="35" />
-        <mark key="[" line="146" column="38" />
-        <mark key="]" line="146" column="55" />
-        <mark key="^" line="146" column="55" />
-        <mark key="." line="146" column="55" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" timestamp="1509954139369">
+        <mark key="'" line="253" column="24" />
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="256" column="44" />
+        <mark key="^" line="241" column="40" />
+        <mark key="." line="256" column="0" />
       </file>
       <file name="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/OrderController.java" timestamp="1508332566858">
         <mark key="'" line="325" column="57" />
@@ -621,8 +621,8 @@
         <mark key="." line="339" column="50" />
         <mark key="^" line="339" column="50" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/query/UserPointTaskQuery.java" timestamp="1508577604099">
-        <mark key="'" line="53" column="27" />
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/query/UserPointTaskQuery.java" timestamp="1509954128588">
+        <mark key="'" line="17" column="42" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="53" column="27" />
         <mark key="." line="53" column="27" />
@@ -664,6 +664,7 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/UserMapper.xml" timestamp="1509954070555" />
       <file name="/u01/workspace/zhushou/zhushou-web/client/src/main/java/com/yuntao/zhushou/client/controller/DeployController.java" timestamp="1509591252201">
         <mark key="'" line="383" column="20" />
         <mark key="[" line="370" column="66" />
@@ -872,8 +873,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="25" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointActiveServiceImpl.java" />
-      <jump line="229" column="7" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointActiveServiceImpl.java" />
       <jump line="233" column="34" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointActiveServiceImpl.java" />
       <jump line="58" column="18" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/inter/UserPointTaskService.java" />
       <jump line="938" column="18" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
@@ -972,13 +971,15 @@
       <jump line="58" column="55" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/log/appLog.js" />
       <jump line="70" column="30" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/log/appLog.js" />
       <jump line="54" column="36" filename="/u01/workspace/fitness/fitness-service/src/test/java/com/doublefit/fitness/service/MainTest.java" />
+      <jump line="253" column="24" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" />
+      <jump line="17" column="42" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/query/UserPointTaskQuery.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5zZXRPcmRlckJ5Q29sdW1uKCJnbXRDcmVhdGUiKTsK</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
@@ -990,7 +991,7 @@
         <text encoding="base64">XDxDYWNoZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc3RhcnRJbmRleCA9IHJvdW5kICogc3RlcENvdW50OyAK</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5zZXRPcmRlckJ5Q29sdW1uKCJnbXRDcmVhdGUiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
