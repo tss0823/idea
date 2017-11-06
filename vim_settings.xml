@@ -10,7 +10,7 @@
         <mark key="." line="65" column="50" />
         <mark key="^" line="65" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1509519624352">
+      <file name="/a.dummy" timestamp="1509949567271">
         <mark key="u" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -341,12 +341,12 @@
         <mark key="^" line="53" column="25" />
         <mark key="." line="53" column="25" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1509936179770">
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1509949825401">
         <mark key="'" line="1351" column="48" />
-        <mark key="[" line="1549" column="50" />
-        <mark key="]" line="1549" column="57" />
-        <mark key="^" line="1549" column="57" />
-        <mark key="." line="1549" column="57" />
+        <mark key="[" line="1371" column="81" />
+        <mark key="]" line="1371" column="102" />
+        <mark key="^" line="1371" column="102" />
+        <mark key="." line="1371" column="102" />
       </file>
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/param/CommentTemplateParam.java" timestamp="1508742223736">
         <mark key="'" line="10" column="50" />
@@ -547,7 +547,7 @@
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/ShareUserClickServiceImpl.java" timestamp="1509938982661">
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/ShareUserClickServiceImpl.java" timestamp="1509950034500">
         <mark key="'" line="188" column="59" />
         <mark key="[" line="173" column="26" />
         <mark key="]" line="173" column="26" />
@@ -972,13 +972,13 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>userId</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYWNoZVw+</text>
@@ -987,28 +987,28 @@
         <text encoding="base64">ICAgICAgICBpbnQgc3RhcnRJbmRleCA9IHJvdW5kICogc3RlcENvdW50OyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEhiTG9nQ29udGV4dE1nci53cml0ZVN1Y2Nlc01zZyhhcHBOYW1lLCBtb2R1bGUsIGJhdGNoTm8sICJwb2ludFRhc2tJZD0iK3BvaW50VGFzay5nZXRJZCgpKyIsdXNlcklkPSIrc2hhcmVSZWNvcmQuZ2V0VXNlcklkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJQb2ludEFjdGl2ZS5zZXRTdGF0dXMoWWVzTm8ueWVzLmdldENvZGUoKSk7CiAgICAgICAgICAgICAgICB0aGlzLnVwZGF0ZUJ5SWQodXNlclBvaW50QWN0aXZlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEhiTG9nQ29udGV4dE1nci53cml0ZVN1Y2Nlc01zZyhhcHBOYW1lLCBtb2R1bGUsIGJhdGNoTm8sICJwb2ludFRhc2tJZD0iK3BvaW50VGFzay5nZXRJZCgpKyIsdXNlcklkPSIrc2hhcmVSZWNvcmQuZ2V0VXNlcklkKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJJTlNFUlQgSU5UTyBgMTIzMDZgIChgZW1haWxgLGBwYXNzd29yZGAsYGlkQ2FyZE5vYCxgbW9iaWxlYCkgdmFsdWVzICIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJQb2ludEFjdGl2ZS5zZXRTdGF0dXMoWWVzTm8ueWVzLmdldENvZGUoKSk7CiAgICAgICAgICAgICAgICB0aGlzLnVwZGF0ZUJ5SWQodXNlclBvaW50QWN0aXZlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gZGF0YUxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJJTlNFUlQgSU5UTyBgMTIzMDZgIChgZW1haWxgLGBwYXNzd29yZGAsYGlkQ2FyZE5vYCxgbW9iaWxlYCkgdmFsdWVzICIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBmaXJzdCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gZGF0YUxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBmaXJzdCA9IHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ1tdIHN0cmluZ3MgPSBzLnNwbGl0KCItLS0tIik7CiAgICAgICAgICAgICAgICBTdHJpbmcgZW1haWwgPSBzdHJpbmdzWzBdOwogICAgICAgICAgICAgICAgU3RyaW5nIHBhc3N3b3JkID0gc3RyaW5nc1sxXTsKICAgICAgICAgICAgICAgIFN0cmluZyB1c2VyTmFtZSA9IHN0cmluZ3NbMl07CiAgICAgICAgICAgICAgICBTdHJpbmcgaWRDYXJkTm8gPSBzdHJpbmdzWzNdOwogICAgICAgICAgICAgICAgU3RyaW5nIG1vYmlsZSA9IHN0cmluZ3NbNV07CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCIoJyIrZW1haWwrIicsICciK3Bhc3N3b3JkKyInLCciK2lkQ2FyZE5vKyInLCAnIittb2JpbGUrIicpLCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1164,10 +1164,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ1tdIHN0cmluZ3MgPSBzLnNwbGl0KCItLS0tIik7CiAgICAgICAgICAgICAgICBTdHJpbmcgZW1haWwgPSBzdHJpbmdzWzBdOwogICAgICAgICAgICAgICAgU3RyaW5nIHBhc3N3b3JkID0gc3RyaW5nc1sxXTsKICAgICAgICAgICAgICAgIFN0cmluZyB1c2VyTmFtZSA9IHN0cmluZ3NbMl07CiAgICAgICAgICAgICAgICBTdHJpbmcgaWRDYXJkTm8gPSBzdHJpbmdzWzNdOwogICAgICAgICAgICAgICAgU3RyaW5nIG1vYmlsZSA9IHN0cmluZ3NbNV07CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCIoJyIrZW1haWwrIicsICciK3Bhc3N3b3JkKyInLCciK2lkQ2FyZE5vKyInLCAnIittb2JpbGUrIicpLCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGZpcnN0KXsKICAgICAgICAgICAgICAgICAgICBmaXJzdCA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
