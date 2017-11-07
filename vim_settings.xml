@@ -174,10 +174,10 @@
       </file>
       <file name="/u01/workspace/fitness/fitness-web/h5/src/main/java/com/doublefit/fitness/web/h5/controller/ShareController.java" timestamp="1510045319034">
         <mark key="'" line="155" column="89" />
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="0" />
-        <mark key="." line="251" column="0" />
-        <mark key="^" line="250" column="55" />
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="0" />
+        <mark key="." line="248" column="0" />
+        <mark key="^" line="247" column="55" />
       </file>
       <file name="/u01/workspace/fitness/fitness-web/h5/src/main/java/com/doublefit/fitness/web/h5/controller/SessionController.java" timestamp="1509965850453" />
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/at/varEdit.html" timestamp="1508379098755">
@@ -556,13 +556,18 @@
         <mark key="." line="142" column="48" />
         <mark key="^" line="142" column="101" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" timestamp="1509954139369">
+      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/log/HbLogContextMgr.java" timestamp="1510047064386">
+        <mark key="'" line="418" column="17" />
+        <mark key="[" line="413" column="25" />
+      </file>
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" timestamp="1510046665069">
         <mark key="'" line="253" column="24" />
         <mark key="[" line="256" column="0" />
         <mark key="]" line="256" column="44" />
         <mark key="^" line="241" column="40" />
         <mark key="." line="256" column="0" />
       </file>
+      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/log/HbFileOutputStream.java" timestamp="1510046708099" />
       <file name="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/OrderController.java" timestamp="1509969365284">
         <mark key="'" line="325" column="57" />
         <mark key="[" line="227" column="130" />
@@ -864,12 +869,12 @@
         <mark key="." line="113" column="30" />
         <mark key="^" line="113" column="30" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/ShareUserClickServiceImpl.java" timestamp="1509950034500">
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/ShareUserClickServiceImpl.java" timestamp="1510046676612">
         <mark key="'" line="188" column="59" />
-        <mark key="[" line="173" column="26" />
-        <mark key="]" line="173" column="26" />
-        <mark key="." line="173" column="26" />
-        <mark key="^" line="173" column="25" />
+        <mark key="[" line="173" column="24" />
+        <mark key="]" line="173" column="27" />
+        <mark key="." line="173" column="27" />
+        <mark key="^" line="173" column="27" />
       </file>
       <file name="/u01/workspace/fitness/fitness-web/bos/src/main/webapp/template/commentTemplate/edit.html" timestamp="1508753428486">
         <mark key="[" line="53" column="30" />
@@ -1089,7 +1094,9 @@
         <mark key="." line="171" column="0" />
         <mark key="^" line="170" column="16" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/OuterUserServiceImpl.java" timestamp="1510045548884" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/OuterUserServiceImpl.java" timestamp="1510046549195">
+        <mark key="[" line="86" column="71" />
+      </file>
       <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ActionManager.java" timestamp="1506503590463">
         <mark key="'" line="186" column="36" />
         <mark key="[" line="211" column="60" />
@@ -1124,7 +1131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="32" filename="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/vo/AtActiveVo.java" />
       <jump line="10" column="34" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/CourseVo.java" />
       <jump line="80" column="35" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/SessionVo.java" />
       <jump line="77" column="20" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/SessionVo.java" />
@@ -1224,19 +1230,20 @@
       <jump line="60" column="20" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/Goods.java" />
       <jump line="38" column="35" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/query/GoodsQuery.java" />
       <jump line="155" column="89" filename="/u01/workspace/fitness/fitness-web/h5/src/main/java/com/doublefit/fitness/web/h5/controller/ShareController.java" />
+      <jump line="418" column="17" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/log/HbLogContextMgr.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>new Integer[]{CardType.experience.getCode(),CardType.month.getCode(),CardType.season.getCode(),CardType.year.getCode()}</text>
+        <text>error</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>new Integer[]{CardType.experience.getCode(),CardType.month.getCode(),CardType.season.getCode(),CardType.year.getCode()}</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaXpUeXBlXD4=</text>
