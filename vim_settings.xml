@@ -556,12 +556,12 @@
         <mark key="." line="142" column="48" />
         <mark key="^" line="142" column="101" />
       </file>
-      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/log/HbLogContextMgr.java" timestamp="1510052842891">
+      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/log/HbLogContextMgr.java" timestamp="1510057350183">
         <mark key="'" line="460" column="27" />
         <mark key="[" line="450" column="33" />
-        <mark key="]" line="432" column="20" />
-        <mark key="." line="432" column="20" />
-        <mark key="^" line="432" column="20" />
+        <mark key="]" line="475" column="65" />
+        <mark key="." line="475" column="65" />
+        <mark key="^" line="475" column="65" />
       </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" timestamp="1510046665069">
         <mark key="'" line="253" column="24" />
@@ -570,7 +570,7 @@
         <mark key="^" line="241" column="40" />
         <mark key="." line="256" column="0" />
       </file>
-      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/log/HbFileOutputStream.java" timestamp="1510048711062" />
+      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/log/HbFileOutputStream.java" timestamp="1510057408496" />
       <file name="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/OrderController.java" timestamp="1509969365284">
         <mark key="'" line="325" column="57" />
         <mark key="[" line="227" column="130" />
@@ -1027,8 +1027,12 @@
         <mark key="^" line="59" column="25" />
         <mark key="." line="143" column="15" />
       </file>
-      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/log/task/HbTaskFileOutputStream.java" timestamp="1510048453513">
-        <mark key="'" line="41" column="61" />
+      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/log/task/HbTaskFileOutputStream.java" timestamp="1510057433381">
+        <mark key="'" line="45" column="61" />
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="36" column="11" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/AuthResMapper.xml" timestamp="1509086314899">
         <mark key="'" line="23" column="24" />
@@ -1248,13 +1252,13 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>master</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFyVGltZVw+</text>
@@ -1263,28 +1267,28 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBzdGFydFRhc2soU3RyaW5nIGJhdGNoTm8pewogICAgICAgIHRhc2tUaHJlYWRMb2NhbC5zZXQoYmF0Y2hObyk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcganNvbiA9IEpzb25VdGlscy5vYmplY3QySnNvbihoYkxvZ1Rhc2tCZWFuKTsKICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RFbXB0eShqc29uKSkgewogICAgICAgICAgICB0YXNrTG9nLmluZm8oanNvbik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIGxvZ0JlYW4gPSBKc29uVXRpbHMuanNvbjJPYmplY3QobWVzc2FnZSxIYkxvZ1Rhc2tCZWFuLmNsYXNzKTsKICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgbG9nLmVycm9yKCJsb2dFcnJvcixtZXNzYWdlPSIrbWVzc2FnZSk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcganNvbiA9IEpzb25VdGlscy5vYmplY3QySnNvbihoYkxvZ1Rhc2tCZWFuKTsKICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RFbXB0eShqc29uKSkgewogICAgICAgICAgICB0YXNrTG9nLmluZm8oanNvbik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoYkxvZ1Rhc2tCZWFuLnNldEVuZFRpbWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrVGhyZWFkTG9jYWwuc2V0KGJhdGNoTm8pOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoYkxvZ1Rhc2tCZWFuLnNldERlc2MoZXJyTXNnKTsK</text>
+        <text encoding="base64">ICAgICAgICBoYkxvZ1Rhc2tCZWFuLnNldEVuZFRpbWUoKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1440,10 +1444,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoYkxvZ1Rhc2tCZWFuLnNldE1lc3NhZ2UobWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrVGhyZWFkTG9jYWwuc2V0KGJhdGNoTm8pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBoYkxvZ1Rhc2tCZWFuLnNldERlc2MoZXJyTXNnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
