@@ -38,7 +38,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>55</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CodeSyncUtils.main()'">
@@ -174,7 +174,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recent Find Usages">
@@ -183,6 +183,14 @@
           <ShortCut>'⌘E'</ShortCut>
           <Description>Recent Find Usages</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'UserController.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⌃⇧C'</ShortCut>
+          <Description>Recompile 'UserController.java'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MainTest'">
@@ -246,7 +254,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>57</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -406,7 +414,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⇧⌘B'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>82</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -425,6 +433,14 @@
           <Count>22</Count>
         </Item>
       </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'⇧⌘F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="新建实体">
         <Item>
           <IdeaActionID>newEntity</IdeaActionID>
@@ -439,6 +455,14 @@
           <ShortCut>'⌃⌘P'</ShortCut>
           <Description>添加属性</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="资源文件热部署">
+        <Item>
+          <IdeaActionID>hotReload</IdeaActionID>
+          <ShortCut>'⌃⇧F'</ShortCut>
+          <Description>资源文件热部署</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
