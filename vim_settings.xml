@@ -245,8 +245,8 @@
         <mark key="." line="37" column="33" />
         <mark key="^" line="37" column="33" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/support/SmsServer.java" timestamp="1510384079031">
-        <mark key="'" line="44" column="70" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/support/SmsServer.java" timestamp="1510387010888">
+        <mark key="'" line="116" column="30" />
         <mark key="[" line="78" column="5" />
         <mark key="]" line="66" column="21" />
         <mark key="." line="66" column="21" />
@@ -322,7 +322,8 @@
         <mark key="." line="77" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-servlet-api/8.0.5/tomcat-servlet-api-8.0.5-sources.jar!/javax/servlet/http/HttpServletRequest.java" timestamp="1509970536237" />
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/MessageServiceImpl.java" timestamp="1510384189261">
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/MessageServiceImpl.java" timestamp="1510386995565">
+        <mark key="'" line="166" column="22" />
         <mark key="[" line="166" column="44" />
         <mark key="]" line="166" column="53" />
         <mark key="^" line="166" column="53" />
@@ -862,7 +863,12 @@
         <mark key="^" line="72" column="12" />
         <mark key="." line="72" column="12" />
       </file>
-      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/support/SendMsgUtils.java" timestamp="1510384083333" />
+      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/support/SendMsgUtils.java" timestamp="1510387077315">
+        <mark key="[" line="143" column="18" />
+        <mark key="]" line="143" column="21" />
+        <mark key="^" line="143" column="21" />
+        <mark key="." line="143" column="21" />
+      </file>
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/taskLog/list.html" timestamp="1510107104394">
         <mark key="[" line="115" column="88" />
         <mark key="]" line="115" column="138" />
@@ -1225,8 +1231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="78" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AuthResServiceImpl.java" />
-      <jump line="197" column="15" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AuthResServiceImpl.java" />
       <jump line="64" column="29" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/query/AuthResQuery.java" />
       <jump line="170" column="12" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AuthResServiceImpl.java" />
       <jump line="189" column="70" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AuthResServiceImpl.java" />
@@ -1325,6 +1329,8 @@
       <jump line="220" column="53" filename="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/UserController.java" />
       <jump line="44" column="70" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/support/SmsServer.java" />
       <jump line="379" column="40" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/TransDataServiceImpl.java" />
+      <jump line="166" column="22" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/MessageServiceImpl.java" />
+      <jump line="116" column="30" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/support/SmsServer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
