@@ -10,7 +10,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-dal/src/main/resources/env/config-dev.properties" timestamp="1509590014711" />
-      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/TransDataController.java" timestamp="1510384286488">
+      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/TransDataController.java" timestamp="1510397428307">
         <mark key="'" line="49" column="57" />
         <mark key="[" line="309" column="25" />
         <mark key="]" line="309" column="36" />
@@ -42,11 +42,11 @@
         <mark key="^" line="109" column="31" />
         <mark key="." line="109" column="31" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-common/src/main/java/com/doublefit/fitness/common/constant/AppConstant.java" timestamp="1510384003227">
+      <file name="/u01/workspace/fitness/fitness-common/src/main/java/com/doublefit/fitness/common/constant/AppConstant.java" timestamp="1510397084520">
         <mark key="[" line="83" column="24" />
-        <mark key="]" line="83" column="30" />
-        <mark key="." line="83" column="30" />
-        <mark key="^" line="83" column="30" />
+        <mark key="]" line="83" column="29" />
+        <mark key="." line="83" column="29" />
+        <mark key="^" line="83" column="29" />
       </file>
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/enums/OpenType.java" timestamp="1510044866756" />
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/at/activeCollect.html" timestamp="1508669634457">
@@ -61,8 +61,8 @@
         <mark key="^" line="88" column="7" />
         <mark key="." line="88" column="7" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/TransDataServiceImpl.java" timestamp="1510395055714">
-        <mark key="'" line="379" column="40" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/TransDataServiceImpl.java" timestamp="1510397591276">
+        <mark key="'" line="386" column="84" />
         <mark key="[" line="385" column="49" />
         <mark key="]" line="385" column="48" />
         <mark key="." line="385" column="48" />
@@ -188,7 +188,7 @@
         <mark key="." line="37" column="33" />
         <mark key="^" line="37" column="33" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/support/SmsServer.java" timestamp="1510387010888">
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/support/SmsServer.java" timestamp="1510397449686">
         <mark key="'" line="116" column="30" />
         <mark key="[" line="78" column="5" />
         <mark key="]" line="66" column="21" />
@@ -228,7 +228,7 @@
         <mark key="." line="77" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-servlet-api/8.0.5/tomcat-servlet-api-8.0.5-sources.jar!/javax/servlet/http/HttpServletRequest.java" timestamp="1509970536237" />
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/MessageServiceImpl.java" timestamp="1510386995565">
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/MessageServiceImpl.java" timestamp="1510397439081">
         <mark key="'" line="166" column="22" />
         <mark key="[" line="166" column="44" />
         <mark key="]" line="166" column="53" />
@@ -594,7 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="29" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/query/AuthResQuery.java" />
       <jump line="170" column="12" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AuthResServiceImpl.java" />
       <jump line="189" column="70" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AuthResServiceImpl.java" />
       <jump line="147" column="64" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointActiveServiceImpl.java" />
@@ -694,19 +693,20 @@
       <jump line="379" column="40" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/TransDataServiceImpl.java" />
       <jump line="166" column="22" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/MessageServiceImpl.java" />
       <jump line="116" column="30" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/support/SmsServer.java" />
+      <jump line="386" column="84" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/TransDataServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyRGF0YVw+</text>
