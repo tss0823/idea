@@ -193,6 +193,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CourseServiceImpl'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'CourseServiceImpl'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MainTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -270,7 +278,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'QiniuTest'">
@@ -454,7 +462,7 @@
           <IdeaActionID>updateEntity</IdeaActionID>
           <ShortCut>'⌃⌘P'</ShortCut>
           <Description>添加属性</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="资源文件热部署">
