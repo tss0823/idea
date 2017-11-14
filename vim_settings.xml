@@ -210,8 +210,8 @@
         <mark key="^" line="451" column="52" />
       </file>
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/UserCard.java" timestamp="1510636232927" />
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" timestamp="1510630685441">
-        <mark key="'" line="263" column="19" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" timestamp="1510639805549">
+        <mark key="'" line="40" column="79" />
         <mark key="[" line="349" column="20" />
         <mark key="]" line="349" column="30" />
         <mark key="^" line="349" column="30" />
@@ -248,7 +248,7 @@
       </file>
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/log/AppLogController.java" timestamp="1510060662080" />
       <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/web/ResponseObject.java" timestamp="1509963039858" />
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/inter/UserPointTaskService.java" timestamp="1510632536805">
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/inter/UserPointTaskService.java" timestamp="1510639839753">
         <mark key="'" line="58" column="18" />
         <mark key="[" line="164" column="32" />
         <mark key="]" line="164" column="31" />
@@ -458,7 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="464" column="17" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/log/HbLogContextMgr.java" />
       <jump line="37" column="37" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/log/HbLogContextMgr.java" />
       <jump line="469" column="27" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/log/HbLogContextMgr.java" />
       <jump line="41" column="61" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/log/task/HbTaskFileOutputStream.java" />
@@ -558,6 +557,7 @@
       <jump line="200" column="60" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/UserPointTask.java" />
       <jump line="196" column="38" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/UserPointTask.java" />
       <jump line="197" column="19" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/UserPointTask.java" />
+      <jump line="40" column="79" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
