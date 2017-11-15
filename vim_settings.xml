@@ -10,12 +10,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-dal/src/main/resources/env/config-dev.properties" timestamp="1509590014711" />
-      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/TransDataController.java" timestamp="1510646418393">
-        <mark key="'" line="49" column="57" />
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="0" />
-        <mark key="^" line="224" column="29" />
-        <mark key="." line="224" column="0" />
+      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/TransDataController.java" timestamp="1510668439144">
+        <mark key="'" line="331" column="36" />
+        <mark key="[" line="331" column="49" />
+        <mark key="]" line="331" column="49" />
+        <mark key="^" line="331" column="49" />
+        <mark key="." line="331" column="49" />
       </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointActiveServiceImpl.java" timestamp="1510647264513">
         <mark key="'" line="282" column="25" />
@@ -396,7 +396,7 @@
         <mark key="^" line="287" column="43" />
       </file>
       <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/log/HbFileOutputStream.java" timestamp="1510058125278" />
-      <file name="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/OrderController.java" timestamp="1509969365284">
+      <file name="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/OrderController.java" timestamp="1510667757861">
         <mark key="'" line="325" column="57" />
         <mark key="[" line="227" column="130" />
         <mark key="]" line="230" column="8" />
@@ -680,6 +680,7 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/WeiXinController.java" timestamp="1510668096957" />
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/enums/UserCardStatus.java" timestamp="1510636190989" />
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseVideoServiceImpl.java" timestamp="1510642842663">
         <mark key="'" line="221" column="23" />
@@ -725,8 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="26" filename="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/vo/LogMessageVo.java" />
-      <jump line="68" column="22" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/taskLog/TaskLogController.java" />
       <jump line="9" column="21" filename="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/vo/LogMessageVo.java" />
       <jump line="102" column="68" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/log/appLog.html" />
       <jump line="130" column="22" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/taskLog/taskLog.js" />
@@ -825,25 +824,27 @@
       <jump line="18" column="20" filename="/u01/workspace/timeforest/timeforest-common/src/main/java/com/forest/timeforest/common/utils/SMSCodeUtils.java" />
       <jump line="39" column="65" filename="/u01/workspace/timeforest/timeforest-service/src/main/java/com/forest/timeforest/service/impl/UserServiceImpl.java" />
       <jump line="40" column="64" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserServiceImpl.java" />
+      <jump line="52" column="37" filename="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/TransDataController.java" />
+      <jump line="331" column="36" filename="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/TransDataController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>outTradeNo</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>outTradeNo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlQb2ludFRhc2tWb1YyLnNldFRhc2tCaWdUeXBlKDEpOwo=</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygicHVzaDExQWN0aXZlU21zIikKICAgIEBOZWVkTG9naW4KICAgIHB1YmxpYyBSZXNwb25zZU9iamVjdCBwdXNoMTFBY3RpdmVTbXMoKSB7Ci8vICAgICAgICBVc2VyIHVzZXIgPSB1c2VyU2VydmljZS5nZXRDdXJyZW50VXNlcigpOwogICAgICAgIFJlc3BvbnNlT2JqZWN0IHJlc3BvbnNlT2JqZWN0ID0gUmVzcG9uc2VPYmplY3RVdGlscy5idWlsZFJlc09iamVjdCgpOwogICAgICAgIHRyYW5zRGF0YVNlcnZpY2UucHVzaDExQWN0aXZlKCk7CiAgICAgICAgcmV0dXJuIHJlc3BvbnNlT2JqZWN0OwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
