@@ -38,7 +38,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>74</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CodeSyncUtils.main()'">
@@ -57,11 +57,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Example3b.main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'Example3b.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'MainTest.main()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'MainTest.main()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Sniffer.main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'Sniffer.main()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -182,7 +198,15 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>16</Count>
+          <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild Module 'raytest'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⌃⇧C'</ShortCut>
+          <Description>Rebuild Module 'raytest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recent Find Usages">
@@ -191,6 +215,14 @@
           <ShortCut>'⌘E'</ShortCut>
           <Description>Recent Find Usages</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'Example3b.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⌃⇧C'</ShortCut>
+          <Description>Recompile 'Example3b.java'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'UserController.java'">
@@ -223,6 +255,22 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'Example1'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Example2'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'Example2'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Example3b'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'Example3b'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MainTest'">
@@ -286,7 +334,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -302,7 +350,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>13</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'EmbeddedServer2'">
@@ -313,11 +361,43 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Example1'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧⌘F11'</ShortCut>
+          <Description>Run 'Example1'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Example3c'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧⌘F11'</ShortCut>
+          <Description>Run 'Example3c'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MainTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧⌘F11'</ShortCut>
+          <Description>Run 'MainTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'QiniuTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧⌘F11'</ShortCut>
           <Description>Run 'QiniuTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Sniffer'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧⌘F11'</ShortCut>
+          <Description>Run 'Sniffer'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -358,6 +438,54 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'EmptyClient'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Example3'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Example3'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Example4'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Example4'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Example5'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Example5'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Example6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Example6'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Example7'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Example7'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Sniffer'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Sniffer'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -414,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'wsconsole.log'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'zplugin'">
@@ -430,7 +558,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround With...">
@@ -454,7 +582,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⇧⌘B'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>95</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
