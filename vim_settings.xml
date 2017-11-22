@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/DataController.java" timestamp="1511339230821">
+      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/DataController.java" timestamp="1511347299991">
         <mark key="[" line="164" column="31" />
         <mark key="]" line="164" column="46" />
         <mark key="." line="164" column="46" />
@@ -162,13 +162,12 @@
         <mark key="." line="105" column="59" />
         <mark key="^" line="105" column="71" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/User.java" timestamp="1511335718318" />
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1510827208781">
-        <mark key="'" line="1890" column="65" />
-        <mark key="[" line="1892" column="86" />
-        <mark key="]" line="1892" column="93" />
-        <mark key="." line="1892" column="93" />
-        <mark key="^" line="1892" column="93" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1511347475906">
+        <mark key="'" line="481" column="41" />
+        <mark key="[" line="453" column="0" />
+        <mark key="]" line="453" column="54" />
+        <mark key="." line="453" column="0" />
+        <mark key="^" line="491" column="7" />
       </file>
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/MyPointActiveVo.java" timestamp="1510557662582">
         <mark key="'" line="33" column="20" />
@@ -337,7 +336,6 @@
         <mark key="." line="33" column="22" />
         <mark key="^" line="33" column="22" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/JoinCourseWod.java" timestamp="1511337434028" />
       <file name="/u01/workspace/testjpcap/src/com/test/sample/SendTCP.java" timestamp="1511323069563">
         <mark key="'" line="22" column="44" />
         <mark key="[" line="26" column="39" />
@@ -358,11 +356,11 @@
         <mark key="." line="49" column="31" />
         <mark key="^" line="49" column="31" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/inter/CourseService.java" timestamp="1508900976762">
-        <mark key="[" line="77" column="33" />
-        <mark key="]" line="77" column="33" />
-        <mark key="^" line="77" column="40" />
-        <mark key="." line="77" column="33" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/inter/CourseService.java" timestamp="1511346342441">
+        <mark key="[" line="161" column="14" />
+        <mark key="]" line="161" column="25" />
+        <mark key="^" line="161" column="25" />
+        <mark key="." line="161" column="25" />
       </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/MessageServiceImpl.java" timestamp="1510559779117">
         <mark key="'" line="166" column="22" />
@@ -378,13 +376,19 @@
         <mark key="^" line="11" column="43" />
         <mark key="." line="11" column="43" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/CourseNewController.java" timestamp="1511345597163">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="37" column="25" />
-        <mark key="." line="58" column="0" />
+      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/CourseNewController.java" timestamp="1511346075777">
+        <mark key="[" line="154" column="3" />
+        <mark key="]" line="154" column="3" />
+        <mark key="^" line="26" column="25" />
+        <mark key="." line="154" column="3" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/Studio.java" timestamp="1511336273474" />
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/Studio.java" timestamp="1511347365389">
+        <mark key="'" line="48" column="55" />
+        <mark key="[" line="48" column="53" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="66" column="0" />
+      </file>
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/header.js" timestamp="1510113489260">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -687,18 +691,22 @@
         <mark key="." line="184" column="3" />
         <mark key="^" line="184" column="3" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/Course.java" timestamp="1511338963877">
-        <mark key="'" line="126" column="35" />
-        <mark key="[" line="126" column="34" />
-        <mark key="]" line="126" column="35" />
-        <mark key="." line="126" column="35" />
-        <mark key="^" line="126" column="35" />
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/Course.java" timestamp="1511347684514">
+        <mark key="'" line="139" column="3" />
+        <mark key="[" line="369" column="0" />
+        <mark key="^" line="123" column="36" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/taskLog/list.html" timestamp="1510107104394">
         <mark key="[" line="115" column="88" />
         <mark key="]" line="115" column="138" />
         <mark key="^" line="115" column="138" />
         <mark key="." line="115" column="138" />
+      </file>
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/RoleStudioServiceImpl.java" timestamp="1511346959559">
+        <mark key="[" line="134" column="15" />
+        <mark key="]" line="134" column="15" />
+        <mark key="." line="134" column="15" />
+        <mark key="^" line="134" column="45" />
       </file>
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/CardTemplate.java" timestamp="1511335766750">
         <mark key="'" line="65" column="28" />
@@ -713,7 +721,6 @@
         <mark key="." line="12" column="66" />
         <mark key="^" line="12" column="64" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-web/h5/src/main/java/com/doublefit/fitness/web/h5/controller/WeixinController.java" timestamp="1511341376238" />
       <file name="/u01/workspace/fitness/fitness-web/h5/src/main/webapp/template/pointsRule.html" timestamp="1507728064652">
         <mark key="[" line="31" column="16" />
         <mark key="]" line="31" column="37" />
@@ -727,7 +734,7 @@
         <mark key="." line="111" column="65" />
         <mark key="^" line="111" column="65" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserServiceImpl.java" timestamp="1510655335631">
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserServiceImpl.java" timestamp="1511347306814">
         <mark key="'" line="40" column="64" />
         <mark key="[" line="582" column="38" />
         <mark key="]" line="582" column="8" />
@@ -747,7 +754,6 @@
         <mark key="." line="258" column="70" />
         <mark key="^" line="258" column="70" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/SpecificationCard.java" timestamp="1511338434762" />
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/CourseWodGroup.java" timestamp="1511337746394">
         <mark key="[" line="26" column="50" />
         <mark key="]" line="26" column="65" />
@@ -772,13 +778,13 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/CourseController.java" timestamp="1508577817760">
-        <mark key="[" line="230" column="22" />
-        <mark key="]" line="230" column="25" />
-        <mark key="." line="230" column="25" />
-        <mark key="^" line="230" column="25" />
+      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/CourseController.java" timestamp="1511347639843">
+        <mark key="'" line="202" column="49" />
+        <mark key="[" line="202" column="37" />
+        <mark key="]" line="202" column="52" />
+        <mark key="." line="202" column="52" />
+        <mark key="^" line="202" column="52" />
       </file>
-      <file name="/u01/workspace/testjpcap/src/com/test/sample/ReadDump.java" timestamp="1511320552375" />
       <file name="/u01/workspace/fitness/fitness-web/bos/src/main/webapp/template/commentTemplate/new.html" timestamp="1508753415573">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -855,6 +861,12 @@
         <mark key="^" line="75" column="34" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/inter/RoleStudioService.java" timestamp="1511346792868">
+        <mark key="[" line="91" column="32" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+        <mark key="^" line="24" column="24" />
+      </file>
       <file name="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/CommonController.java" timestamp="1508223132881">
         <mark key="[" line="87" column="31" />
         <mark key="]" line="87" column="31" />
@@ -916,15 +928,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="34" filename="/u01/workspace/timeforest/timeforest-service/src/main/java/com/forest/timeforest/service/impl/UserServiceImpl.java" />
-      <jump line="180" column="29" filename="/u01/workspace/timeforest/timeforest-service/src/main/java/com/forest/timeforest/service/impl/AuthResServiceImpl.java" />
-      <jump line="175" column="23" filename="/u01/workspace/timeforest/timeforest-service/src/main/java/com/forest/timeforest/service/impl/AuthResServiceImpl.java" />
-      <jump line="162" column="44" filename="/u01/workspace/timeforest/timeforest-service/src/main/java/com/forest/timeforest/service/impl/AuthResServiceImpl.java" />
-      <jump line="36" column="64" filename="/u01/workspace/timeforest/timeforest-service/src/main/java/com/forest/timeforest/service/impl/UserServiceImpl.java" />
-      <jump line="163" column="44" filename="/u01/workspace/timeforest/timeforest-service/src/main/java/com/forest/timeforest/service/impl/AuthResServiceImpl.java" />
-      <jump line="35" column="21" filename="/u01/workspace/timeforest/timeforest-service/src/main/java/com/forest/timeforest/service/impl/AuthResServiceImpl.java" />
-      <jump line="44" column="44" filename="/u01/workspace/timeforest/timeforest-web/member/src/main/java/com/forest/timeforest/web/member/controller/BaseController.java" />
-      <jump line="16" column="45" filename="/u01/workspace/timeforest/timeforest-web/member/src/main/java/com/forest/timeforest/web/member/controller/CommonController.java" />
       <jump line="76" column="4" filename="/u01/workspace/timeforest/timeforest-web/member/src/main/java/com/forest/timeforest/web/member/controller/DemoController.java" />
       <jump line="98" column="0" filename="/u01/workspace/timeforest/timeforest-web/member/src/main/java/com/forest/timeforest/web/member/controller/DemoController.java" />
       <jump line="14" column="37" filename="/u01/workspace/timeforest/timeforest-web/member/src/main/java/com/forest/timeforest/web/member/controller/DemoController.java" />
@@ -1016,49 +1019,58 @@
       <jump line="26" column="84" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseWodGroupServiceImpl.java" />
       <jump line="207" column="41" filename="/u01/workspace/fitness/fitness-web/bos/src/main/webapp/_resources/scripts/module/goods.js" />
       <jump line="408" column="25" filename="/u01/workspace/fitness/fitness-web/bos/src/main/webapp/_resources/scripts/module/goods.js" />
+      <jump line="198" column="33" filename="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/CourseController.java" />
+      <jump line="476" column="14" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
+      <jump line="478" column="35" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
+      <jump line="48" column="55" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/Studio.java" />
+      <jump line="487" column="10" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
+      <jump line="480" column="41" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
+      <jump line="202" column="49" filename="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/CourseController.java" />
+      <jump line="371" column="24" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/Course.java" />
+      <jump line="139" column="3" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/Course.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>间</text>
+        <text>getCourseTemplateId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZUZsb2F0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBWYWxpZGF0ZVV0aWxzLm5vdE51bGwoY291cnNlV29kR3JvdXBQYXJhbS5nZXRDb3Vyc2VUaW1lKCksIuivvueoi+aXtumXtOS4jeiDveS4uuepuiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBWYWxpZGF0ZVV0aWxzLm5vdE51bGwoY291cnNlLmdldENvdXJzZVRlbXBsYXRlSWQoKSwi6K++56iL5qih5p2/5LiN6IO95Li656m6Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBSZXFNZXRob2RDb21tZW50KHZhbAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldENvdXJzZVdvZElkKCkgewogICAgICAgIHJldHVybiBjb3Vyc2VXb2RJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDb3Vyc2VXb2RJZChMb25nIGNvdXJzZVdvZElkKSB7CiAgICAgICAgdGhpcy5jb3Vyc2VXb2RJZCA9IGNvdXJzZVdvZElkOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">dWUgPSAi6K++56iL5Yqo5L2c5YiX6KGoIiwgYXV0aG9yID0gInN1IiwgbW9kdWxlID0gImNvdXJzZSIsIHZlciA9ICIxLjUuMCIpCiAgICBAUmVxdWVzdE1hcHBpbmcoIndvZEluZm8iKQogICAgQE5lZWRMb2dpbgogICAgcHVibGljIFJlc3BvbnNlT2JqZWN0IGluZm8oQFBhcmFtQ2xhc3NDb21tZW50KHZhbHVlID0gIuivvueoi+WKqOS9nCIpIENvdXJzZVdvZFF1ZXJ5IGNvdXJzZVdvZFF1ZXJ5KSB7Ci8vICAgICAgVXNlciB1c2VyID0gdXNlclNlcnZpY2UuZ2V0Q3VycmVudFVzZXIoKTsKICAgICAgICBpZihudWxsID09IGNvdXJzZVdvZFF1ZXJ5LmdldENvdXJzZUlkKCkpewogICAgICAgICAgICB0aHJvdyBuZXcgQml6RXhjZXB0aW9uKCLor77nqItJROS4jeWPr+S4uuepuiIpOwogICAgICAgIH0KICAgICAgICBQYWdpbmF0aW9uPENvdXJzZVdvZFZvPiBwYWdpbmF0aW9uID0gY291cnNlV29kU2VydmljZS5zZWxlY3RQYWdlKGNvdXJzZVdvZFF1ZXJ5KTsKICAgICAgICBSZXNwb25zZU9iamVjdCByZXNwb25zZU9iamVjdCA9IFJlc3BvbnNlT2JqZWN0VXRpbHMuYnVpbGRSZXNPYmplY3QoKTsKICAgICAgICByZXNwb25zZU9iamVjdC5zZXREYXRhKHBhZ2luYXRpb24pOwogICAgICAgIHJldHVybiByZXNwb25zZU9iamVjdDsKICAgIH0KCiAgICBAUmVxTWV0aG9kQ29tbWVudCh2YWx1ZSA9ICLor77nqIvliqjkvZzor6bmg4UiLCBhdXRob3IgPSAic3UiLCBtb2R1bGUgPSAiY291cnNlIiwgdmVyID0gIjEuNS4wIikKICAgIEBSZXF1ZXN0TWFwcGluZygid29kRGV0YWlsIikKICAgIEBOZWVkTG9naW4KICAgIHB1YmxpYyBSZXNwb25zZU9iamVjdCB3b2REZXRhaWwoQFJlcXVlc3RQYXJhbSBMb25nIGlkKSB7CiAgICAgICAgQ291cnNlV29kIHJlc3VsdCA9Y291cnNlV29kU2VydmljZS5maW5kQnlJZChpZCk7CiAgICAgICAgUmVzcG9uc2VPYmplY3QgcmVzcG9uc2VPYmplY3QgPSBSZXNwb25zZU9iamVjdFV0aWxzLmJ1aWxkUmVzT2JqZWN0KCk7CiAgICAgICAgcmVzcG9uc2VPYmplY3Quc2V0RGF0YShyZXN1bHQpOwogICAgICAgIHJldHVybiByZXNwb25zZU9iamVjdDsKICAgIH0KCiAgICBAUmVxTWV0aG9kQ29tbWVudCh2YWx1ZSA9ICLmlrDlop7or77nqIvliqjkvZwiLCBhdXRob3IgPSAic3UiLCBtb2R1bGUgPSAiY291cnNlIiwgdmVyID0gIjEuNS4wIikKICAgIEBSZXF1ZXN0TWFwcGluZygiaW5zZXJ0V29kIikKICAgIEBOZWVkTG9naW4KICAgIHB1YmxpYyBSZXNwb25zZU9iamVjdCBpbnNlcnQoQ291cnNlV29kICBjb3Vyc2VXb2QpIHsKICAgICAgICBpbnQgcmVzdWx0ID0gY291cnNlV29kU2VydmljZS5pbnNlcnQoY291cnNlV29kKTsKICAgICAgICBSZXNwb25zZU9iamVjdCByZXNwb25zZU9iamVjdCA9IFJlc3BvbnNlT2JqZWN0VXRpbHMuYnVpbGRSZXNPYmplY3QoKTsKICAgICAgICByZXNwb25zZU9iamVjdC5zZXREYXRhKHJlc3VsdCk7CiAgICAgICAgcmV0dXJuIHJlc3BvbnNlT2JqZWN0OwogICAgfQoKCiAgICBAUmVxTWV0aG9kQ29tbWVudCh2YWx1ZSA9ICLmm7TmlrDor77nqIvliqjkvZwiLCBhdXRob3IgPSAic3UiLCBtb2R1bGUgPSAiY291cnNlIiwgdmVyID0gIjEuNS4wIikKICAgIEBSZXF1ZXN0TWFwcGluZygidXBkYXRlV29kIikKICAgIEBOZWVkTG9naW4KICAgIHB1YmxpYyBSZXNwb25zZU9iamVjdCB1cGRhdGUoQ291cnNlV29kIGNvdXJzZVdvZCkgewogICAgICAgIGlmKG51bGwgPT0gY291cnNlV29kLmdldElkKCkpewogICAgICAgICAgICB0aHJvdyBuZXcgQml6RXhjZXB0aW9uKCLor77nqIvliqjkvZxJROaXoOaViCIpOwogICAgICAgIH0KICAgICAgICBpbnQgcmVzdWx0ID0gY291cnNlV29kU2VydmljZS51cGRhdGVCeUlkKGNvdXJzZVdvZCk7CiAgICAgICAgUmVzcG9uc2VPYmplY3QgcmVzcG9uc2VPYmplY3QgPSBSZXNwb25zZU9iamVjdFV0aWxzLmJ1aWxkUmVzT2JqZWN0KCk7CiAgICAgICAgcmVzcG9uc2VPYmplY3Quc2V0RGF0YShyZXN1bHQpOwogICAgICAgIHJldHVybiByZXNwb25zZU9iamVjdDsKICAgIH0KCiAgICAvKioKICAgICAqIOWIoOmZpAogICAgICoKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgQFJlcU1ldGhvZENvbW1lbnQodmFsdWUgPSAi5Yig6Zmk6K++56iL5Yqo5L2cIiwgYXV0aG9yID0gInN1IiwgbW9kdWxlID0gImNvdXJzZSIsIHZlciA9ICIxLjUuMCIpCiAgICBAUmVxdWVzdE1hcHBpbmcoImRlbFdvZCIpCiAgICBATmVlZExvZ2luCiAgICBwdWJsaWMgUmVzcG9uc2VPYmplY3QgZGVsV29kKEBSZXF1ZXN0UGFyYW0gTG9uZyBpZCkgewogICAgICAgIFJlc3BvbnNlT2JqZWN0IHJlc3BvbnNlT2JqZWN0ID0gUmVzcG9uc2VPYmplY3RVdGlscy5idWlsZFJlc09iamVjdCgpOwogICAgICAgIGludCByZXN1bHQgPSBjb3Vyc2VXb2RTZXJ2aWNlLmRlbGV0ZUJ5SWQoaWQpOwogICAgICAgIHJlc3BvbnNlT2JqZWN0LnNldERhdGEocmVzdWx0KTsKICAgICAgICByZXR1cm4gcmVzcG9uc2VPYmplY3Q7CiAgICB9CgogICAgLyoqCiAgICAgKiDmjpLpmJ/pooTnuqbor6bmg4UKICAgICAqCiAgICAgKiBAcGFyYW0KICAgICAqIEByZXR1cm4KICAgICAqLwogICAgQFJlcXVlc3RNYXBwaW5nKCJpbmZvIikKICAgIEBOZWVkTG9naW4KICAgIHB1YmxpYyBSZXNwb25zZU9iamVjdCBjb3Vyc2VBcHBvaW50bWVudEluZm8oTG9uZyBpZCl7CgogICAgICAgIFF1ZXVlQXBwb2ludG1lbnRWbyBxdWV1ZUFwcG9pbnRtZW50Vm8gPWNvdXJzZVNlcnZpY2UuY291cnNlQXBwb2ludG1lbnRJbmZvKGlkKTsKICAgICAgICBSZXNwb25zZU9iamVjdCByZXNwb25zZU9iamVjdCA9IFJlc3BvbnNlT2JqZWN0VXRpbHMuYnVpbGRSZXNPYmplY3QoKTsKICAgICAgICByZXNwb25zZU9iamVjdC5zZXREYXRhKHF1ZXVlQXBwb2ludG1lbnRWbyk7CiAgICAgICAgcmV0dXJuIHJlc3BvbnNlT2JqZWN0OwogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb3Vyc2Uuc2V0U3RhdHVzKENvdXJzZVN0YXR1cy5qb2luLmdldENvZGUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gZGVsZXRlIGJ5IGdyb3VwSWQK</text>
+        <text encoding="base64">ICAgICAgICBjb3Vyc2Uuc2V0U3RhdHVzKENvdXJzZVN0YXR1cy5qb2luLmdldENvZGUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3Vyc2Uuc2V0Sm9pbkNvdW50KDApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGludCBkZWxldGVCeUdyb3VwSWQoQFBhcmFtKCJjb3Vyc2VXb2RHcm91cElkIikgTG9uZyBjb3Vyc2VXb2RHcm91cElkKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb3Vyc2Uuc2V0Sm9pbkNvdW50KDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCBkZWxldGVCeUdyb3VwSWQoTG9uZyBjb3Vyc2VXb2RHcm91cElkKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb3Vyc2Uuc2V0VHlwZSgwKTsgIC8v5YWN6LS5Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1214,10 +1226,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBmZWUgPSBwYXJzZUZsb2F0KGZlZSkgKiAxMDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBmZWUgPSBwYXJzZUZsb2F0KGZlZSkgKiAxMDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSB1c2VyU2VydmljZS5maW5kQnlJZChhY3Rpb25Vc2VySWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
