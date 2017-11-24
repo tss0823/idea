@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌥⌘Q, S'</ShortCut>
           <Description>Find</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -694,7 +694,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>26</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -718,7 +718,7 @@
           <IdeaActionID>updateEntity</IdeaActionID>
           <ShortCut>'⌃⌘P'</ShortCut>
           <Description>添加属性</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="资源文件热部署">
