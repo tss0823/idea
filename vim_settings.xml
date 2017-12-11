@@ -117,7 +117,7 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="28" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/CourseWodMapper.xml" timestamp="1512984254748">
+      <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/CourseWodMapper.xml" timestamp="1512986088485">
         <mark key="[" line="115" column="109" />
         <mark key="]" line="115" column="108" />
         <mark key="." line="115" column="108" />
@@ -811,7 +811,7 @@
         <mark key="^" line="17" column="64" />
         <mark key="." line="17" column="64" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/param/CourseWodBatchParam.java" timestamp="1512984872258">
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/param/CourseWodBatchParam.java" timestamp="1512985721055">
         <mark key="'" line="16" column="17" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="28" column="0" />
@@ -932,12 +932,12 @@
         <mark key="^" line="135" column="91" />
         <mark key="." line="135" column="91" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/query/CourseWodQuery.java" timestamp="1511429192224">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="54" column="33" />
-        <mark key="." line="54" column="0" />
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/query/CourseWodQuery.java" timestamp="1512985769018">
+        <mark key="'" line="54" column="28" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="^" line="54" column="28" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/inter/PointsGiveRecordService.java" timestamp="1508147986388">
         <mark key="[" line="90" column="7" />
@@ -1019,7 +1019,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="61" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/MemberStudioServiceImpl.java" />
       <jump line="44" column="39" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/MemberStudioServiceImpl.java" />
       <jump line="46" column="29" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/MemberStudio.java" />
       <jump line="70" column="17" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/Goods.java" />
@@ -1119,19 +1118,20 @@
       <jump line="158" column="35" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseWodServiceImpl.java" />
       <jump line="171" column="23" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseWodServiceImpl.java" />
       <jump line="70" column="46" filename="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/CourseWodController.java" />
+      <jump line="54" column="28" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/query/CourseWodQuery.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>oupId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Vyc2VXb2RHcm91cElkXD4=</text>
@@ -1140,15 +1140,21 @@
         <text encoding="base64">ICAgICAgICAgICAgVmFsaWRhdGVVdGlscy5ub3RFbXB0eShjb3Vyc2VXb2QuZ2V0RGVzY3JpcHRpb24oKSwi6K++56iL5Yqo5L2c5YaF5a655LiN6IO95Li656m6Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldENvdXJzZVdvZEdyb3VwSWQoKSB7CiAgICAgICAgcmV0dXJuIGNvdXJzZVdvZEdyb3VwSWQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q291cnNlV29kR3JvdXBJZChMb25nIGNvdXJzZVdvZEdyb3VwSWQpIHsKICAgICAgICB0aGlzLmNvdXJzZVdvZEdyb3VwSWQgPSBjb3Vyc2VXb2RHcm91cElkOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIEBUcmFuc2FjdGkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>onal
     @Override
     public int update(CourseWodBatchParam courseWodBatchParam) {
@@ -1163,17 +1169,11 @@
         return 1;
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGludCB1cGRhdGUoQ291cnNlV29kQmF0Y2hQYXJhbSBjb3Vyc2VXb2RCYXRjaFBhcmFtKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmFsaWRhdGVVdGlscy5ub3RFbXB0eShjb3Vyc2VXb2QuZ2V0TmFtZSgpLCLor77nqIvliqjkvZzlkI3np7DkuI3og73kuLrnqboiKTsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmFsaWRhdGVVdGlscy5ub3RFbXB0eShjb3Vyc2VXb2QuZ2V0TmFtZSgpLCLor77nqIvliqjkvZzlkI3np7DkuI3og73kuLrnqboiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1329,10 +1329,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmFsaWRhdGVVdGlscy5ub3RFbXB0eShjb3Vyc2VXb2QuZ2V0TmFtZSgpLCLor77nqIvliqjkvZzlkI3np7DkuI3og73kuLrnqboiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q291cnNlVGltZSgpIHsKICAgICAgICByZXR1cm4gY291cnNlVGltZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDb3Vyc2VUaW1lKFN0cmluZyBjb3Vyc2VUaW1lKSB7CiAgICAgICAgdGhpcy5jb3Vyc2VUaW1lID0gY291cnNlVGltZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmFsaWRhdGVVdGlscy5ub3RFbXB0eShjb3Vyc2VXb2QuZ2V0TmFtZSgpLCLor77nqIvliqjkvZzlkI3np7DkuI3og73kuLrnqboiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
