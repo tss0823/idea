@@ -304,6 +304,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/MarkServiceImpl.java" timestamp="1511616420268" />
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/hacker/TransformTest.java" timestamp="1513150268228">
+        <mark key="'" line="15" column="25" />
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="55" />
+        <mark key="." line="20" column="55" />
+        <mark key="^" line="20" column="55" />
+      </file>
       <file name="/fragment.java" timestamp="1513048893414">
         <mark key="[" line="0" column="0" />
       </file>
@@ -680,7 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="35" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/PointsGiveRecordServiceImpl.java" />
       <jump line="286" column="38" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/PointsGiveRecordServiceImpl.java" />
       <jump line="291" column="32" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/PointsGiveRecordServiceImpl.java" />
       <jump line="292" column="29" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/PointsGiveRecordServiceImpl.java" />
@@ -780,19 +786,20 @@
       <jump line="603" column="10" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
       <jump line="20" column="35" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/CourseVo.java" />
       <jump line="124" column="45" filename="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1-sources.jar!/org/apache/commons/collections/functors/InvokerTransformer.java" />
+      <jump line="15" column="25" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/hacker/TransformTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiLyIpCiAgICBwdWJsaWMgU3RyaW5nIGluZGV4KCkgewogICAgICAgIHJldHVybiAicmVkaXJlY3Q6L2luZGV4Lmh0bWwiOwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>calc</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>calc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Vyc2VXb2RHcm91cElkXD4=</text>
