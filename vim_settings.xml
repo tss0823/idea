@@ -861,7 +861,8 @@
       <file name="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1-sources.jar!/org/apache/commons/collections/functors/InvokerTransformer.java" timestamp="1513148791822">
         <mark key="'" line="124" column="45" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/UserMapper.xml" timestamp="1513500705863">
+      <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/UserMapper.xml" timestamp="1513567274099">
+        <mark key="'" line="165" column="19" />
         <mark key="[" line="186" column="83" />
         <mark key="]" line="187" column="7" />
         <mark key="^" line="187" column="7" />
@@ -974,7 +975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="46" filename="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/CourseWodController.java" />
       <jump line="54" column="28" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/query/CourseWodQuery.java" />
       <jump line="34" column="66" filename="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/CourseWodController.java" />
       <jump line="96" column="20" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseWodServiceImpl.java" />
@@ -1074,6 +1074,7 @@
       <jump line="394" column="40" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jasper/8.0.5/tomcat-jasper-8.0.5-sources.jar!/org/apache/jasper/servlet/JspServlet.java" />
       <jump line="119" column="31" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jasper/8.0.5/tomcat-jasper-8.0.5-sources.jar!/org/apache/jasper/servlet/JspServletWrapper.java" />
       <jump line="94" column="44" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jasper/8.0.5/tomcat-jasper-8.0.5-sources.jar!/org/apache/jasper/JspCompilationContext.java" />
+      <jump line="165" column="19" filename="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/UserMapper.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
