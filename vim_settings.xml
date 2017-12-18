@@ -209,6 +209,12 @@
         <mark key="^" line="199" column="18" />
       </file>
       <file name="/u01/workspace/fitness/fitness-web/bos/src/main/webapp/_resources/scripts/module/pointGiveRecord.js" timestamp="1512547501388" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1513610382907">
+        <mark key="[" line="606" column="0" />
+        <mark key="]" line="606" column="0" />
+        <mark key="." line="606" column="0" />
+        <mark key="^" line="608" column="19" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/net/URLEncoder.java" timestamp="1512024171012" />
       <file name="/u01/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/annation/ModelFieldComment.java" timestamp="1508726229395">
         <mark key="[" line="13" column="31" />
@@ -801,7 +807,7 @@
         <mark key="." line="31" column="37" />
         <mark key="^" line="31" column="37" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserServiceImpl.java" timestamp="1513503685452">
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserServiceImpl.java" timestamp="1513610489055">
         <mark key="'" line="141" column="29" />
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
@@ -1131,13 +1137,13 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0eXBlID09IG51bGwpewogICAgICAgICAgICB0eXBlID0gT3BlblR5cGUuZnJpZW5kLmdldENvZGUoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyLnNldElkKGpvaW5Db3Vyc2UuZ2V0VXNlcklkKCkpOwo=</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>) Integer type</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdTZXJ2aWNlXD4=</text>
@@ -1146,28 +1152,28 @@
         <text encoding="base64">ICAgIEBNb2RlbEZpZWxkQ29tbWVudCh2YWx1ZSA9ICLmjqjpgIHop4bpopHnirbmgIHvvIgwIOacquaOqOmAge+8jDEg5bey5o6o6YCB77yJIixtYXhMZW5ndGggPSA0LGRlZmF1bHRWYWx1ZT0iMCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0eXBlID09IG51bGwpewogICAgICAgICAgICB0eXBlID0gT3BlblR5cGUuZnJpZW5kLmdldENvZGUoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyLnNldElkKGpvaW5Db3Vyc2UuZ2V0VXNlcklkKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnVzZXJTZXJ2aWNlLnVwZGF0ZUJ5SWQodXNlcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB0eXBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVc2VyIHVzZXIgPSBuZXcgVXNlcigpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LEludGVnZXIgdHlwZSk7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZih0eXBlID09IG51bGwpewogICAgICAgICAgICB0eXBlID0gT3BlblR5cGUuZnJpZW5kLmdldENvZGUoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTaGFyZURhdGFWbyBzaGFyZURhdGFWbyA9IHNoYXJlUmVjb3JkU2VydmljZS5kb1NoYXJlKHVzZXIuZ2V0SWQoKSwgU2hhcmVUZW1wbGF0ZUJpelR5cGUuY291cnNlUGljLmdldENvZGUoKSx1c2VySWQsIHR5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB0eXBlCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaGFyZUNvdXJzZVBpY1ZvLnNldFNoYXJlUmVjb3JkSWQoc2hhcmVEYXRhVm8uZ2V0U2hhcmVSZWNvcmRJZCgpKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">LEludGVnZXIgdHlwZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1323,10 +1329,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldFNoYXJlUmVjb3JkSWQoKSB7CiAgICAgICAgcmV0dXJuIHNoYXJlUmVjb3JkSWQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0U2hhcmVSZWNvcmRJZChMb25nIHNoYXJlUmVjb3JkSWQpIHsKICAgICAgICB0aGlzLnNoYXJlUmVjb3JkSWQgPSBzaGFyZVJlY29yZElkOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBSZXR1cm5GaWVsZENvbW1lbnQoIuWIhuS6q+iusOW9lUlEIikKICAgIHByaXZhdGUgTG9uZyBzaGFyZVJlY29yZElkOwo=</text>
+        <text encoding="base64">ICAgICAgICBTaGFyZURhdGFWbyBzaGFyZURhdGFWbyA9IHNoYXJlUmVjb3JkU2VydmljZS5kb1NoYXJlKHVzZXIuZ2V0SWQoKSwgU2hhcmVUZW1wbGF0ZUJpelR5cGUuY291cnNlUGljLmdldENvZGUoKSx1c2VySWQsIHR5cGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
