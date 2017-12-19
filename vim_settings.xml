@@ -209,11 +209,11 @@
         <mark key="^" line="199" column="18" />
       </file>
       <file name="/u01/workspace/fitness/fitness-web/bos/src/main/webapp/_resources/scripts/module/pointGiveRecord.js" timestamp="1512547501388" />
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1513610382907">
-        <mark key="[" line="606" column="0" />
-        <mark key="]" line="606" column="0" />
-        <mark key="." line="606" column="0" />
-        <mark key="^" line="608" column="19" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1513653243045">
+        <mark key="[" line="608" column="0" />
+        <mark key="]" line="608" column="0" />
+        <mark key="." line="608" column="0" />
+        <mark key="^" line="607" column="76" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/net/URLEncoder.java" timestamp="1512024171012" />
       <file name="/u01/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/annation/ModelFieldComment.java" timestamp="1508726229395">
@@ -538,11 +538,11 @@
         <mark key="." line="16" column="118" />
         <mark key="^" line="16" column="118" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/ShareRecordServiceImpl.java" timestamp="1513607633952">
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="0" />
-        <mark key="." line="189" column="0" />
-        <mark key="^" line="177" column="11" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/ShareRecordServiceImpl.java" timestamp="1513653420953">
+        <mark key="[" line="174" column="41" />
+        <mark key="]" line="175" column="7" />
+        <mark key="." line="175" column="7" />
+        <mark key="^" line="175" column="7" />
       </file>
       <file name="/u01/workspace/fitness/fitness-web/bos/src/main/webapp/template/commentTemplate/list.html" timestamp="1508754392377">
         <mark key="[" line="69" column="30" />
@@ -1136,14 +1136,14 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2hhcmVEYXRhVm8uc2V0U2hhcmVJZChzaGFyZUlkKTsKICAgICAgICAgICAgc2hhcmVEYXRhVm8uc2V0U2hhcmVSZWNvcmRJZChzaGFyZVJlY29yZC5nZXRJZCgpKTsKICAgICAgICAgICAgc2hhcmVEYXRhVm8uc2V0SDVVcmwoc2hhcmVSZWNvcmQuZ2V0SDVVcmwoKSk7Cg==</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdTZXJ2aWNlXD4=</text>
@@ -1152,28 +1152,28 @@
         <text encoding="base64">ICAgIEBNb2RlbEZpZWxkQ29tbWVudCh2YWx1ZSA9ICLmjqjpgIHop4bpopHnirbmgIHvvIgwIOacquaOqOmAge+8jDEg5bey5o6o6YCB77yJIixtYXhMZW5ndGggPSA0LGRlZmF1bHRWYWx1ZT0iMCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyLnNldElkKGpvaW5Db3Vyc2UuZ2V0VXNlcklkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hhcmVEYXRhVm8uc2V0U2hhcmVJZChzaGFyZUlkKTsKICAgICAgICAgICAgc2hhcmVEYXRhVm8uc2V0U2hhcmVSZWNvcmRJZChzaGFyZVJlY29yZC5nZXRJZCgpKTsKICAgICAgICAgICAgc2hhcmVEYXRhVm8uc2V0SDVVcmwoc2hhcmVSZWNvcmQuZ2V0SDVVcmwoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnVzZXJTZXJ2aWNlLnVwZGF0ZUJ5SWQodXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hhcmVEYXRhVm8uc2V0VGl0bGUoc2hhcmVUZW1wbGF0ZS5nZXRUaXRsZSgpKTsKICAgICAgICAgICAgc2hhcmVEYXRhVm8uc2V0RGVzY3JpcHRpb24oc2hhcmVUZW1wbGF0ZS5nZXREZXNjcmlwdGlvbigpKTsKICAgICAgICAgICAgaWYgKGJpelR5cGUgPT0gU2hhcmVUZW1wbGF0ZUJpelR5cGUuc2hhcmVDb3Vyc2VWaWRlby5nZXRDb2RlKCkpIHsKICAgICAgICAgICAgICAgIENvdXJzZVZpZGVvIGNvdXJzZVZpZGVvID0gY291cnNlVmlkZW9TZXJ2aWNlLmZpbmRCeUlkKHNoYXJlSWQpOwogICAgICAgICAgICAgICAgc2hhcmVEYXRhVm8uc2V0SWNvblVybChjb3Vyc2VWaWRlby5nZXRGcm9udEltZ1VybCgpICsgIj9pbWFnZVZpZXcyLzEvdy8xMjAvaC8xMjAiKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHNoYXJlRGF0YVZvLnNldEljb25Vcmwoc2hhcmVUZW1wbGF0ZS5nZXRJY29uVXJsKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVc2VyIHVzZXIgPSBuZXcgVXNlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyLnNldFN0YXJ0RGlzdGFuY2VOdW0odXNlci5nZXRTdGFydERpc3RhbmNlTnVtKCktMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0eXBlID09IG51bGwpewogICAgICAgICAgICB0eXBlID0gT3BlblR5cGUuZnJpZW5kLmdldENvZGUoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyLnNldElkKGpvaW5Db3Vyc2UuZ2V0VXNlcklkKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnVzZXJTZXJ2aWNlLnVwZGF0ZUJ5SWQodXNlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB0eXBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVc2VyIHVzZXIgPSBuZXcgVXNlcigpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LEludGVnZXIgdHlwZSk7Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZih0eXBlID09IG51bGwpewogICAgICAgICAgICB0eXBlID0gT3BlblR5cGUuZnJpZW5kLmdldENvZGUoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1329,10 +1329,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTaGFyZURhdGFWbyBzaGFyZURhdGFWbyA9IHNoYXJlUmVjb3JkU2VydmljZS5kb1NoYXJlKHVzZXIuZ2V0SWQoKSwgU2hhcmVUZW1wbGF0ZUJpelR5cGUuY291cnNlUGljLmdldENvZGUoKSx1c2VySWQsIHR5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB0eXBlCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
