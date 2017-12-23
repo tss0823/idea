@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>96</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CodeSyncUtils.main()'">
@@ -134,6 +134,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌘F11'</ShortCut>
           <Description>Debug 'deploy'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'h5'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌘F11'</ShortCut>
+          <Description>Debug 'h5'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -414,7 +422,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'h5'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'member'">
@@ -670,7 +678,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'h5'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'member'">
@@ -734,7 +742,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⇧⌘B'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>108</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
