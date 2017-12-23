@@ -281,6 +281,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'AwardTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'AwardTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CourseServiceImpl'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -446,7 +454,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'EmbeddedServer2'">
