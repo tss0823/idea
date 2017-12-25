@@ -68,6 +68,7 @@
         <mark key="^" line="51" column="46" />
         <mark key="." line="51" column="46" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/mapper/UserCardMapper.java" timestamp="1514172932749" />
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserServiceImpl.java" timestamp="1514168983654">
         <mark key="'" line="741" column="30" />
         <mark key="[" line="433" column="55" />
@@ -108,6 +109,7 @@
         <mark key="." line="217" column="12" />
         <mark key="^" line="217" column="12" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/CardRecord.java" timestamp="1514173045213" />
       <file name="/u01/workspace/fitness/fitness-common/src/main/java/com/doublefit/fitness/common/constant/AppConstant.java" timestamp="1514036737018">
         <mark key="[" line="28" column="27" />
         <mark key="]" line="28" column="27" />
@@ -140,18 +142,24 @@
         <mark key="." line="424" column="0" />
         <mark key="^" line="421" column="40" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/webapp/template/card/list.html" timestamp="1514173815853">
+        <mark key="[" line="93" column="21" />
+        <mark key="]" line="93" column="21" />
+        <mark key="." line="93" column="21" />
+        <mark key="^" line="93" column="21" />
+      </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/inter/PointActiveService.java" timestamp="1514050695368">
         <mark key="[" line="90" column="32" />
         <mark key="]" line="90" column="34" />
         <mark key="^" line="90" column="34" />
         <mark key="." line="90" column="34" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" timestamp="1513855792549">
-        <mark key="'" line="12" column="33" />
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="12" column="42" />
-        <mark key="." line="12" column="42" />
-        <mark key="^" line="12" column="42" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" timestamp="1514175033364">
+        <mark key="'" line="831" column="82" />
+        <mark key="[" line="998" column="46" />
+        <mark key="]" line="831" column="82" />
+        <mark key="." line="831" column="82" />
+        <mark key="^" line="831" column="82" />
       </file>
       <file name="/u01/workspace/fitness/fitness-web/task/src/main/java/com/doublefit/fitness/web/task/job/CourseJob.java" timestamp="1514081802279">
         <mark key="[" line="43" column="9" />
@@ -237,12 +245,14 @@
         <mark key="^" line="27" column="26" />
         <mark key="." line="27" column="26" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/CardController.java" timestamp="1514173586475" />
       <file name="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/mapper/ActiveAwardMapper.java" timestamp="1513856850657">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="16" column="46" />
         <mark key="^" line="16" column="46" />
         <mark key="." line="16" column="46" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/UserCardMapper.xml" timestamp="1514174752540" />
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/PointActiveServiceImpl.java" timestamp="1514050992128">
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="0" />
@@ -277,13 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="383" column="16" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jasper/8.0.5/tomcat-jasper-8.0.5-sources.jar!/org/apache/jasper/servlet/JspServlet.java" />
-      <jump line="394" column="40" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jasper/8.0.5/tomcat-jasper-8.0.5-sources.jar!/org/apache/jasper/servlet/JspServlet.java" />
-      <jump line="119" column="31" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jasper/8.0.5/tomcat-jasper-8.0.5-sources.jar!/org/apache/jasper/servlet/JspServletWrapper.java" />
-      <jump line="94" column="44" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jasper/8.0.5/tomcat-jasper-8.0.5-sources.jar!/org/apache/jasper/JspCompilationContext.java" />
-      <jump line="165" column="19" filename="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/UserMapper.xml" />
-      <jump line="35" column="98" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/config/WebMvcConfig.java" />
-      <jump line="80" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.3.RELEASE/spring-webmvc-4.0.3.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/ResourceHandlerRegistration.java" />
       <jump line="70" column="43" filename="/u01/workspace/zhushou/zhushou-web/deploy/pom.xml" />
       <jump line="47" column="32" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/SessionVo.java" />
       <jump line="70" column="19" filename="/u01/workspace/fitness/fitness-web/h5/src/main/java/com/doublefit/fitness/web/h5/controller/ShareController.java" />
@@ -377,19 +380,26 @@
       <jump line="63" column="42" filename="/u01/workspace/fitness/fitness-service/src/test/java/com/doublefit/fitness/service/TaskTest.java" />
       <jump line="72" column="26" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/auth/AuthAspect.java" />
       <jump line="739" column="30" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserServiceImpl.java" />
+      <jump line="847" column="17" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" />
+      <jump line="839" column="17" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" />
+      <jump line="823" column="24" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" />
+      <jump line="61" column="20" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" />
+      <jump line="880" column="100" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" />
+      <jump line="841" column="46" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" />
+      <jump line="831" column="82" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>suspendEndTime</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>AppConstant</text>
+        <text>suspendEndTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Vyc2VTaWduXD4=</text>
