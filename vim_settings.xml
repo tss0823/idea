@@ -50,12 +50,12 @@
         <mark key="^" line="426" column="47" />
         <mark key="." line="426" column="47" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointActiveServiceImpl.java" timestamp="1514081605182">
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointActiveServiceImpl.java" timestamp="1514533297447">
         <mark key="'" line="117" column="29" />
-        <mark key="[" line="223" column="57" />
-        <mark key="]" line="223" column="57" />
-        <mark key="." line="223" column="57" />
-        <mark key="^" line="223" column="55" />
+        <mark key="[" line="405" column="11" />
+        <mark key="]" line="405" column="21" />
+        <mark key="." line="405" column="21" />
+        <mark key="^" line="405" column="21" />
       </file>
       <file name="/u01/workspace/fitness/fitness-web/task/src/main/java/com/doublefit/fitness/web/task/job/PointJob.java" timestamp="1514050763476">
         <mark key="[" line="51" column="43" />
@@ -86,11 +86,6 @@
       </file>
       <file name="/u01/workspace/timeforest/timeforest-dal/src/main/resources/env/config-test.properties" timestamp="1510716525438">
         <mark key="[" line="5" column="41" />
-      </file>
-      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/AwardRecordController.java" timestamp="1514195397911">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/ShareUserClickServiceImpl.java" timestamp="1514029288611">
         <mark key="'" line="238" column="93" />
@@ -179,8 +174,8 @@
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CalcServiceImpl.java" timestamp="1514342078926">
         <mark key="'" line="61" column="41" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AwardRecordServiceImpl.java" timestamp="1514196721484">
-        <mark key="'" line="115" column="0" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AwardRecordServiceImpl.java" timestamp="1514533231830">
+        <mark key="'" line="178" column="132" />
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
@@ -258,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="397" column="32" filename="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/UserController.java" />
       <jump line="165" column="110" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AwardRecordServiceImpl.java" />
       <jump line="253" column="32" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/User.java" />
       <jump line="168" column="54" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/ShareRecordServiceImpl.java" />
@@ -358,19 +352,20 @@
       <jump line="235" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
       <jump line="240" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
       <jump line="245" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
+      <jump line="178" column="132" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AwardRecordServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>totalPoint</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>totalPoint</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdNYXBwZXJGYWN0b3J5QmVhblw+</text>
