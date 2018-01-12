@@ -31,6 +31,13 @@
         <mark key="'" line="61" column="41" />
       </file>
       <file name="$MAVEN_REPOSITORY$/net/sourceforge/tess4j/tess4j/3.2.1/tess4j-3.2.1.jar!/net/sourceforge/tess4j/Tesseract.class" timestamp="1515746715685" />
+      <file name="/u01/workspace/MillionHero/src/main/java/OCRDemoForHttp.java" timestamp="1515749870760">
+        <mark key="'" line="58" column="65" />
+        <mark key="[" line="46" column="49" />
+        <mark key="]" line="48" column="31" />
+        <mark key="." line="48" column="31" />
+        <mark key="^" line="48" column="31" />
+      </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1515398825483">
         <mark key="'" line="966" column="87" />
         <mark key="[" line="967" column="42" />
@@ -94,22 +101,25 @@
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" timestamp="1515398271629">
         <mark key="'" line="809" column="78" />
       </file>
+      <file name="/u01/workspace/MillionHero/src/main/java/CDDHGetQuestion.java" timestamp="1515749938987" />
       <file name="/u01/workspace/MillionHero/src/main/java/Search.java" timestamp="1515727704640" />
       <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/utils/QRCodeGenUtil.java" timestamp="1513603282690">
         <mark key="[" line="5" column="28" />
       </file>
+      <file name="/u01/workspace/MillionHero/src/main/java/ExtractTextFromOpenApi.java" timestamp="1515749339675">
+        <mark key="[" line="3" column="37" />
+      </file>
       <file name="/fragment.java" timestamp="1514357198096">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/u01/workspace/MillionHero/src/main/java/ExtractTextFromImg.java" timestamp="1515747258077">
+      <file name="/u01/workspace/MillionHero/src/main/java/ExtractTextFromImg.java" timestamp="1515749478352">
         <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="34" />
-        <mark key="." line="16" column="34" />
-        <mark key="^" line="13" column="38" />
+        <mark key="]" line="28" column="56" />
+        <mark key="." line="28" column="56" />
+        <mark key="^" line="28" column="56" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="65" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" />
       <jump line="171" column="97" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/ShareRecordServiceImpl.java" />
       <jump line="711" column="27" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
       <jump line="75" column="16" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/query/CourseQuery.java" />
@@ -209,19 +219,20 @@
       <jump line="41" column="19" filename="/u01/workspace/MillionHero/src/main/java/SearchAndOpen.java" />
       <jump line="73" column="42" filename="/u01/workspace/MillionHero/src/main/java/Main.java" />
       <jump line="169" column="26" filename="$MAVEN_REPOSITORY$/net/sourceforge/tess4j/tess4j/3.2.1/tess4j-3.2.1.jar!/net/sourceforge/tess4j/TessAPI.class" />
+      <jump line="59" column="65" filename="/u01/workspace/MillionHero/src/main/java/OCRDemoForHttp.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>chi_sim</text>
+        <text>您的应用密钥</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>chi_sim</text>
+        <text>您的应用密钥</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRRdWVzdGlvbkluZm9ybWF0aW9uXD4=</text>
