@@ -11,6 +11,9 @@
       <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/HelloWorld.java" timestamp="1515477489943">
         <mark key="[" line="5" column="25" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/net/sourceforge/tess4j/tess4j/3.2.1/tess4j-3.2.1.jar!/net/sourceforge/tess4j/TessAPI.class" timestamp="1515746728496">
+        <mark key="'" line="169" column="26" />
+      </file>
       <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/filter/ResponseHolderFilter.java" timestamp="1514880461367">
         <mark key="'" line="109" column="15" />
       </file>
@@ -27,6 +30,7 @@
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CalcServiceImpl.java" timestamp="1514342078926">
         <mark key="'" line="61" column="41" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/net/sourceforge/tess4j/tess4j/3.2.1/tess4j-3.2.1.jar!/net/sourceforge/tess4j/Tesseract.class" timestamp="1515746715685" />
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1515398825483">
         <mark key="'" line="966" column="87" />
         <mark key="[" line="967" column="42" />
@@ -34,7 +38,11 @@
         <mark key="^" line="967" column="43" />
         <mark key="." line="967" column="43" />
       </file>
-      <file name="/u01/workspace/MillionHero/src/main/java/TessOCR.java" timestamp="1515742066826" />
+      <file name="/u01/workspace/MillionHero/src/main/java/TessOCR.java" timestamp="1515746934767">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="63" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/u01/workspace/timeforest/timeforest-dal/src/main/resources/env/config-test.properties" timestamp="1510716525438">
         <mark key="[" line="5" column="41" />
       </file>
@@ -58,12 +66,6 @@
       </file>
       <file name="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/mapper/ActionRecordMapper.java" timestamp="1514357044221">
         <mark key="[" line="12" column="3" />
-      </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/AnalyseModelUtils.java" timestamp="1514358324173">
-        <mark key="[" line="81" column="49" />
-        <mark key="]" line="82" column="43" />
-        <mark key="^" line="82" column="43" />
-        <mark key="." line="82" column="43" />
       </file>
       <file name="/a.regexp" timestamp="1510901402444">
         <mark key="[" line="0" column="0" />
@@ -99,15 +101,14 @@
       <file name="/fragment.java" timestamp="1514357198096">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/u01/workspace/MillionHero/src/main/java/ExtractTextFromImg.java" timestamp="1515742456312">
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="43" />
-        <mark key="^" line="25" column="25" />
-        <mark key="." line="26" column="43" />
+      <file name="/u01/workspace/MillionHero/src/main/java/ExtractTextFromImg.java" timestamp="1515747258077">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="34" />
+        <mark key="." line="16" column="34" />
+        <mark key="^" line="13" column="38" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="105" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" />
       <jump line="172" column="65" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointTaskServiceImpl.java" />
       <jump line="171" column="97" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/ShareRecordServiceImpl.java" />
       <jump line="711" column="27" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
@@ -207,19 +208,20 @@
       <jump line="204" column="66" filename="/u01/workspace/MillionHero/src/main/java/Main.java" />
       <jump line="41" column="19" filename="/u01/workspace/MillionHero/src/main/java/SearchAndOpen.java" />
       <jump line="73" column="42" filename="/u01/workspace/MillionHero/src/main/java/Main.java" />
+      <jump line="169" column="26" filename="$MAVEN_REPOSITORY$/net/sourceforge/tess4j/tess4j/3.2.1/tess4j-3.2.1.jar!/net/sourceforge/tess4j/TessAPI.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>C:\\Users\\User\\Pictures\\img.png</text>
+        <text>chi_sim</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>C:\\Users\\User\\Pictures\\img.png</text>
+        <text>chi_sim</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRRdWVzdGlvbkluZm9ybWF0aW9uXD4=</text>
@@ -228,28 +230,28 @@
         <text encoding="base64">ICAgICAgICAgICAgPHRoIHdpZHRoPSIzJSI+bWFzdGVyPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIOW3suaTjeS9nOWBnOWNoQo=</text>
+        <text encoding="base64">ICAgICAgICAvL1NldCB0aGUgdGVzc2RhdGEgcGF0aAogICAgICAgIGluc3RhbmNlLnNldERhdGFwYXRoKHRlc3NEYXRhRm9sZGVyLmdldEFic29sdXRlUGF0aCgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7aWYgYmVhbi5hY3Rpb25UeXBlID09IDR9fQogICAgICAgICAgICAgICAg5YGc5Y2h5bey55Sf5pWICiAgICAgICAgICAgICAgICB7ey9pZn19Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS5zZXREYXRhcGF0aCh0ZXNzRGF0YUZvbGRlci5nZXRBYnNvbHV0ZVBhdGgoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4teHMgYnRuLXBpbmsiIGRhdGE9Int7YmVhbi5pZH19IiBpZD0iYnRuQ2FuY2VsU3VzcGVuZCI+5pKk6ZSA5YGc5Y2hPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5nZXRNZXNzYWdlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJFcnJvciB3aGlsZSByZWFkaW5nIGltYWdlIjsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIEZpbGVJbnB1dFN0cmVhbSBpbnB1dFN0cmVhbSA9IG5ldyBGaWxlSW5wdXRTdHJlYW0oaW5wdXRJbWFnZVBhdGgpOwogICAgICAgIEZpbGVPdXRwdXRTdHJlYW0gb3V0cHV0U3RyZWFtID0gbmV3IEZpbGVPdXRwdXRTdHJlYW0ob3V0cHV0SW1hZ2VQYXRoKTsKCiAgICAgICAgLy8gcmVhZHMgaW5wdXQgaW1hZ2UgZnJvbSBmaWxlCiAgICAgICAgQnVmZmVyZWRJbWFnZSBpbnB1dEltYWdlID0gSW1hZ2VJTy5yZWFkKGlucHV0U3RyZWFtKTsKCiAgICAgICAgLy8gd3JpdGVzIHRvIHRoZSBvdXRwdXQgaW1hZ2UgaW4gc3BlY2lmaWVkIGZvcm1hdAogICAgICAgIGJvb2xlYW4gcmVzdWx0ID0gSW1hZ2VJTy53cml0ZShpbnB1dEltYWdlLCBmb3JtYXROYW1lLCBvdXRwdXRTdHJlYW0pOwoKICAgICAgICAvLyBuZWVkcyB0byBjbG9zZSB0aGUgc3RyZWFtcwogICAgICAgIG91dHB1dFN0cmVhbS5jbG9zZSgpOwogICAgICAgIGlucHV0U3RyZWFtLmNsb3NlKCk7CgogICAgICAgIHJldHVybiByZXN1bHQ7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2Uuc2V0TGFuZ3VhZ2UoImNoaV9zaW0iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmbmJzcDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIOW3suaTjeS9nOWBnOWNoQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7YmVhbi5leGNoYW5nZSB8IHRleHQ6J3llc05vJ319PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7aWYgYmVhbi5hY3Rpb25UeXBlID09IDR9fQogICAgICAgICAgICAgICAg5YGc5Y2h5bey55Sf5pWICiAgICAgICAgICAgICAgICB7ey9pZn19Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -405,10 +407,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoYWN0aXZlQXdhcmQgIT0gbnVsbCl7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4teHMgYnRuLXBpbmsiIGRhdGE9Int7YmVhbi5pZH19IiBpZD0iYnRuQ2FuY2VsU3VzcGVuZCI+5pKk6ZSA5YGc5Y2hPC9idXR0b24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YXJkUmVjb3JkVm8uc2V0QXdhcmROYW1lKGFjdGl2ZUF3YXJkLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
