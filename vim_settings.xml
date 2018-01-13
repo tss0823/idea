@@ -22,12 +22,11 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Main.java" timestamp="1515843980321">
-        <mark key="'" line="76" column="25" />
-        <mark key="[" line="64" column="54" />
-        <mark key="]" line="64" column="54" />
-        <mark key="." line="64" column="54" />
-        <mark key="^" line="64" column="39" />
+      <file name="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Main.java" timestamp="1515845047247">
+        <mark key="[" line="60" column="50" />
+        <mark key="]" line="60" column="19" />
+        <mark key="^" line="60" column="19" />
+        <mark key="." line="60" column="19" />
       </file>
       <file name="/u01/workspace/MillionHero/src/main/java/OCRDemoForHttp.java" timestamp="1515749870760">
         <mark key="'" line="58" column="65" />
@@ -167,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="43" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/PointActiveServiceImpl.java" />
       <jump line="64" column="37" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/PointActive.java" />
       <jump line="44" column="64" filename="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/PointActiveMapper.xml" />
       <jump line="43" column="18" filename="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/PointActiveMapper.xml" />
@@ -267,49 +265,50 @@
       <jump line="387" column="41" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/crawling/tc58/Tc58Main.java" />
       <jump line="80" column="27" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/crawling/tc58/Tc58Main.java" />
       <jump line="570" column="97" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/crawling/tc58/Tc58Main.java" />
+      <jump line="89" column="26" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>startTime</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>startTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRRdWVzdGlvbkluZm9ybWF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0ID0gZXhlY3V0ZUNtZChjbWQpOwogICAgICAgIHdoaWxlKHJlc3VsdCAhPSAwKXsKICAgICAgICAgICAgZXhlY3V0ZUNtZChjbWQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdGVtTGlzdC5hZGQoIua4uOazsyIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxJbnRlZ2VyPiB2YWx1ZXMgPSAoTGlzdDxJbnRlZ2VyPikgcmFua01hcC52YWx1ZXMoKTsKICAgICAgICAgICAgQ29sbGVjdGlvbnMuc29ydCh2YWx1ZXMpOwogICAgICAgICAgICBpbnQgc29ydEluZGV4ID0gMDsKICAgICAgICAgICAgZm9yIChJbnRlZ2VyIHZhbHVlIDogdmFsdWVzKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCIiIHZhbHVlKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAgCiAgICAgICAgICAgIGZvciAoTWFwLkVudHJ5PEludGVnZXIsIEludGVnZXI+IGVudHJ5IDogZW50cmllcykgewovLyAgICAgICAgICAgICAgIGVudHJ5LmdldCAKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVsZS5hdHRyKCJocmVmIikrIj0iK2VsZS50ZXh0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybFF1ZXVlLm9mZmVyKGVsZS5hdHRyKCJocmVmIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHN1Y2Nlc3NJbmRleCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -465,7 +464,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uLlJlc3BvbnNlIHJlc3BvbnNlID0gSnNvdXAuY29ubmVjdChyZXFVcmwpLnVzZXJBZ2VudChhZ2VudCkuaGVhZGVyKCJBY2NlcHQiLCBhY2NlcHQpCiAgICAgICAgICAgICAgICAudGltZW91dCgxMDAwMCkuZXhlY3V0ZSgpOwoKICAgICAgICBEb2N1bWVudCByb290RG9jID0gcmVzcG9uc2UucGFyc2UoKTsKICAgICAgICBFbGVtZW50cyBlbGVtZW50cyA9IHJvb3REb2Muc2VsZWN0KCJkaXYuY29tcExpc3QiKS5zZWxlY3QoImFbaHJlZl0iKTsKICAgICAgICBmb3IgKEVsZW1lbnQgZWxlIDogZWxlbWVudHMpIHsKICAgICAgICAgICAgLy8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZWxlLmF0dHIoImhyZWYiKSsiPSIrZWxlLnRleHQoKSk7CiAgICAgICAgICAgIHVybFF1ZXVlLm9mZmVyKGVsZS5hdHRyKCJocmVmIikpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBjb3VudCA9IDA7CiAgICAgICAgICAgICAgICBQYXR0ZXJuIHAgPSBQYXR0ZXJuLmNvbXBpbGUoKTsKICAgICAgICAgICAgICAgIE1hdGNoZXIgbSA9IHAubWF0Y2hlcihzcmNUZXh0KTsKICAgICAgICAgICAgICAgIHdoaWxlIChtLmZpbmQoKSkgewogICAgICAgICAgICAgICAgICAgIGNvdW50Kys7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
