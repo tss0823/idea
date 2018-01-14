@@ -26,12 +26,10 @@
         <mark key="." line="12" column="57" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/yuntao/platform/platform-common/0.0.3-SNAPSHOT/platform-common-0.0.3-20171218.141628-22.jar!/com/yuntao/platform/common/utils/JsonUtils.class" timestamp="1515846938672" />
-      <file name="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Main.java" timestamp="1515938572590">
-        <mark key="'" line="132" column="18" />
-        <mark key="[" line="152" column="43" />
-        <mark key="]" line="152" column="43" />
-        <mark key="^" line="152" column="43" />
-        <mark key="." line="152" column="43" />
+      <file name="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Main.java" timestamp="1515941915520">
+        <mark key="[" line="38" column="79" />
+        <mark key="]" line="38" column="79" />
+        <mark key="." line="38" column="79" />
       </file>
       <file name="/u01/workspace/MillionHero/src/main/java/OCRDemoForHttp.java" timestamp="1515749870760">
         <mark key="'" line="58" column="65" />
@@ -45,6 +43,11 @@
         <mark key="]" line="4" column="41" />
         <mark key="." line="4" column="41" />
         <mark key="^" line="4" column="41" />
+      </file>
+      <file name="/u01/workspace/MillionHero/src/main/java/TessOCR.java" timestamp="1515746934767">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="63" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/u01/workspace/timeforest/timeforest-dal/src/main/resources/env/config-test.properties" timestamp="1510716525438">
         <mark key="[" line="5" column="41" />
@@ -180,17 +183,15 @@
       <file name="/fragment.java" timestamp="1515839324343">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/OCRDemoForHttp.java" timestamp="1515937799420">
+      <file name="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/OCRDemoForHttp.java" timestamp="1515941807279">
         <mark key="'" line="121" column="64" />
-        <mark key="[" line="117" column="72" />
-        <mark key="]" line="117" column="72" />
-        <mark key="." line="117" column="72" />
-        <mark key="^" line="119" column="43" />
+        <mark key="[" line="104" column="40" />
+        <mark key="]" line="104" column="81" />
+        <mark key="." line="104" column="81" />
+        <mark key="^" line="104" column="81" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="880" column="100" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" />
-      <jump line="841" column="46" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" />
       <jump line="831" column="82" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" />
       <jump line="88" column="32" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AwardRecordServiceImpl.java" />
       <jump line="31" column="0" filename="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/AwardRecordVo.java" />
@@ -265,7 +266,6 @@
       <jump line="33" column="65" filename="/u01/workspace/MillionHero/src/main/java/Phone.java" />
       <jump line="44" column="25" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Main.java" />
       <jump line="35" column="27" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Main.java" />
-      <jump line="37" column="25" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Main.java" />
       <jump line="33" column="25" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/crawling/takewz/TakeWzMain.java" />
       <jump line="91" column="15" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/crawling/takewz/TakeWzUtils.java" />
       <jump line="387" column="41" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/crawling/tc58/Tc58Main.java" />
@@ -289,49 +289,52 @@
       <jump line="131" column="18" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Main.java" />
       <jump line="102" column="31" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/OCRDemoForHttp.java" />
       <jump line="121" column="64" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/OCRDemoForHttp.java" />
+      <jump line="37" column="21" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Main.java" />
+      <jump line="208" column="21" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Main.java" />
+      <jump line="38" column="19" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>dbCount</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gaXNGaXJzdCA9IHRydWU7Cg==</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>dbCount</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRSZXN1bHRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmFua01hcC5wdXQoaW5kZXgsIGRiQ291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBpbWdQYXRoID0gU3lzdGVtLmdldFByb3BlcnR5KCJ1c2VyLmhvbWUiKSArICIvcWNfIitTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSsiLnBuZyI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gaXNGaXJzdCA9IHRydWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmFua01hcC5wdXQoaW5kZXgsIGRiQ291bnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoZmNUZXh0TGlzdCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihpc0ZpcnN0KXsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gaXNTdGFydCA9IGZhbHNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYodGFrZVRleHQuZW5kc1dpdGgoIj8iKSB8fCB0YWtlVGV4dC5lcXVhbHMoIjIiKSl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpc1RpdGxlID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaW1nUGF0aD0iK2ltZ1BhdGgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXNUaXRsZSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltZ1BhdGggPQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYodCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYoY2hpbmVzZSl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpc1N0YXJ0ID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -487,10 +490,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXNUaXRsZSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gaXNUaXRsZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmFua01hcC5wdXQoaW5kZXgsIGRiQ291bnQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
