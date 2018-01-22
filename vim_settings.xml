@@ -25,7 +25,16 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="57" />
       </file>
+      <file name="/a.dummy" timestamp="1516605443137">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/u01/workspace/chinamons/chinamons-dal/src/main/resources/env/config-test.properties" timestamp="1516329971725" />
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserPointActiveServiceImpl.java" timestamp="1516606142362">
+        <mark key="[" line="410" column="47" />
+        <mark key="]" line="410" column="49" />
+        <mark key="." line="410" column="49" />
+        <mark key="^" line="410" column="49" />
+      </file>
       <file name="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Main.java" timestamp="1516173507127">
         <mark key="'" line="35" column="40" />
         <mark key="[" line="35" column="35" />
@@ -91,6 +100,7 @@
         <mark key="^" line="59" column="23" />
         <mark key="." line="59" column="27" />
       </file>
+      <file name="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/BurpExtender.java" timestamp="1516606388117" />
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" timestamp="1515398271629">
         <mark key="'" line="809" column="78" />
       </file>
@@ -117,8 +127,20 @@
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CalcServiceImpl.java" timestamp="1514342078926">
         <mark key="'" line="61" column="41" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/inter/UserPointActiveService.java" timestamp="1516605379376">
+        <mark key="[" line="172" column="6" />
+        <mark key="]" line="172" column="20" />
+        <mark key="." line="172" column="20" />
+        <mark key="^" line="172" column="20" />
+      </file>
       <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/crawling/tc58/Tc58Main.java" timestamp="1515843317399">
         <mark key="'" line="570" column="97" />
+      </file>
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AwardRecordServiceImpl.java" timestamp="1516605489357">
+        <mark key="[" line="145" column="70" />
+        <mark key="]" line="145" column="72" />
+        <mark key="^" line="145" column="72" />
+        <mark key="." line="145" column="72" />
       </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1515398825483">
         <mark key="'" line="966" column="87" />
@@ -151,6 +173,9 @@
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/vo/UserActiveTaskVo.java" timestamp="1514342263399">
         <mark key="'" line="33" column="38" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/PointActiveServiceImpl.java" timestamp="1516605497563">
+        <mark key="'" line="119" column="24" />
+      </file>
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/UserPointActivePointTask.java" timestamp="1510641203030">
         <mark key="[" line="22" column="23" />
       </file>
@@ -165,6 +190,11 @@
         <mark key="]" line="275" column="0" />
         <mark key="^" line="275" column="0" />
         <mark key="." line="275" column="0" />
+      </file>
+      <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/mapper/UserPointActiveMapper.xml" timestamp="1516605569715">
+        <mark key="[" line="157" column="25" />
+        <mark key="]" line="157" column="25" />
+        <mark key="." line="157" column="25" />
       </file>
       <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/interceptor/MyBatisInterceptor.java" timestamp="1514341294855">
         <mark key="'" line="44" column="53" />
@@ -190,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="34" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/interceptor/MyBatisInterceptor.java" />
       <jump line="44" column="53" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/interceptor/MyBatisInterceptor.java" />
       <jump line="105" column="18" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/filter/ResponseHolderFilter.java" />
       <jump line="109" column="15" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/filter/ResponseHolderFilter.java" />
@@ -290,25 +319,26 @@
       <jump line="35" column="40" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Main.java" />
       <jump line="81" column="27" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/OCRDemoForHttp.java" />
       <jump line="7" column="41" filename="/u01/workspace/example-hello-world/burpcj/src/main/java/com/zhihan/burpcj/BurpExtender.java" />
+      <jump line="119" column="24" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/PointActiveServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>请输入0或者1选择您的手机系统[0 Android,1 IOS]&quot;);</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdHJpbmdVdGlsc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuivt+i+k+WFpTDmiJbogIUx6YCJ5oup5oKo55qE5omL5py657O757ufWzAgQW5kcm9pZCwxIElPU10iKTsK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFVzZXJQb2ludEFjdGl2ZSBnZXRNeUFjdGl2ZUJ5QWN0aXZlSWQoTG9uZyB1c2VySWQsIExvbmcgcG9pbnRBY3RpdmVJZCkgewogICAgICAgIFVzZXJQb2ludEFjdGl2ZVF1ZXJ5IHVzZXJQb2ludEFjdGl2ZVF1ZXJ5ID0gbmV3IFVzZXJQb2ludEFjdGl2ZVF1ZXJ5KCk7CiAgICAgICAgdXNlclBvaW50QWN0aXZlUXVlcnkuc2V0VXNlcklkKHVzZXJJZCk7CiAgICAgICAgdXNlclBvaW50QWN0aXZlUXVlcnkuc2V0U3RhdHVzKFllc05vLm5vLmdldENvZGUoKSk7CiAgICAgICAgdXNlclBvaW50QWN0aXZlUXVlcnkuc2V0UG9pbnRBY3RpdmVJZChwb2ludEFjdGl2ZUlkKTsKICAgICAgICB1c2VyUG9pbnRBY3RpdmVRdWVyeS5zZXRMaW1pdCgxKTsKICAgICAgICBVc2VyUG9pbnRBY3RpdmUgdXNlclBvaW50QWN0aXZlID0gdGhpcy5zZWxlY3RPbmUodXNlclBvaW50QWN0aXZlUXVlcnkpOwogICAgICAgIHJldHVybiB1c2VyUG9pbnRBY3RpdmU7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
