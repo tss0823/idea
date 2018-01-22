@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'⌃⇧B'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Cancel Cloning source repository git@github.com:lingfengsan/MillionHero.git">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -326,7 +334,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>28</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'raytest'">
