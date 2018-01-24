@@ -111,12 +111,12 @@
         <mark key="^" line="59" column="23" />
         <mark key="." line="59" column="27" />
       </file>
-      <file name="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/BurpExtender.java" timestamp="1516798583748">
+      <file name="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/BurpExtender.java" timestamp="1516801413309">
         <mark key="'" line="182" column="124" />
-        <mark key="[" line="108" column="57" />
-        <mark key="]" line="133" column="46" />
-        <mark key="^" line="133" column="46" />
-        <mark key="." line="133" column="46" />
+        <mark key="[" line="52" column="23" />
+        <mark key="]" line="52" column="26" />
+        <mark key="^" line="52" column="26" />
+        <mark key="." line="52" column="26" />
       </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" timestamp="1515398271629">
         <mark key="'" line="809" column="78" />
@@ -230,6 +230,9 @@
       <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/interceptor/MyBatisInterceptor.java" timestamp="1514341294855">
         <mark key="'" line="44" column="53" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/SessionController.java" timestamp="1516800229094">
+        <mark key="'" line="161" column="47" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/ansj/ansj_seg/5.1.1/ansj_seg-5.1.1.jar!/org/ansj/splitWord/Analysis.class" timestamp="1515857713771">
         <mark key="'" line="213" column="38" />
       </file>
@@ -251,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
       <jump line="230" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
       <jump line="235" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
       <jump line="240" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
@@ -351,19 +353,20 @@
       <jump line="667" column="58" filename="$USER_HOME$/_-2117976350_81.wxapkg.unpacked/app-service.js" />
       <jump line="5639" column="29" filename="$USER_HOME$/_-2117976350_81.wxapkg.unpacked/app-service.js" />
       <jump line="654" column="6" filename="$USER_HOME$/_-2117976350_81.wxapkg.unpacked/app-service.js" />
+      <jump line="161" column="47" filename="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/SessionController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>udi</text>
+        <text>body</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>udi</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZXhfbWQ1XD4=</text>
