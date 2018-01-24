@@ -28,7 +28,7 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="57" />
       </file>
-      <file name="/a.dummy" timestamp="1516793071397">
+      <file name="/a.dummy" timestamp="1516793663715">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -111,12 +111,12 @@
         <mark key="^" line="59" column="23" />
         <mark key="." line="59" column="27" />
       </file>
-      <file name="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/BurpExtender.java" timestamp="1516763423727">
-        <mark key="'" line="118" column="29" />
-        <mark key="[" line="137" column="41" />
-        <mark key="]" line="137" column="41" />
-        <mark key="." line="137" column="41" />
-        <mark key="^" line="137" column="58" />
+      <file name="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/BurpExtender.java" timestamp="1516797021935">
+        <mark key="'" line="166" column="124" />
+        <mark key="[" line="170" column="27" />
+        <mark key="]" line="170" column="27" />
+        <mark key="^" line="168" column="21" />
+        <mark key="." line="170" column="27" />
       </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" timestamp="1515398271629">
         <mark key="'" line="809" column="78" />
@@ -204,6 +204,9 @@
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/PointActiveServiceImpl.java" timestamp="1516605497563">
         <mark key="'" line="119" column="24" />
       </file>
+      <file name="$USER_HOME$/_-2117976350_81.wxapkg.unpacked/app-service.js" timestamp="1516796873825">
+        <mark key="'" line="654" column="6" />
+      </file>
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/UserPointActivePointTask.java" timestamp="1510641203030">
         <mark key="[" line="22" column="23" />
       </file>
@@ -248,18 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
-      <jump line="170" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
-      <jump line="175" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
-      <jump line="180" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
-      <jump line="185" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
-      <jump line="190" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
-      <jump line="195" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
-      <jump line="200" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
-      <jump line="205" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
-      <jump line="210" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
-      <jump line="215" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
-      <jump line="220" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
       <jump line="225" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
       <jump line="230" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
       <jump line="235" column="15" filename="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/config/DalConfig.java" />
@@ -348,49 +339,61 @@
       <jump line="57" column="23" filename="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/BurpExtender.java" />
       <jump line="12" column="24" filename="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/Question.java" />
       <jump line="98" column="29" filename="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/BurpExtender.java" />
+      <jump line="142" column="124" filename="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/BurpExtender.java" />
+      <jump line="1177" column="28" filename="$USER_HOME$/_-2117976350_81.wxapkg.unpacked/app-service.js" />
+      <jump line="1181" column="18" filename="$USER_HOME$/_-2117976350_81.wxapkg.unpacked/app-service.js" />
+      <jump line="661" column="76" filename="$USER_HOME$/_-2117976350_81.wxapkg.unpacked/app-service.js" />
+      <jump line="663" column="76" filename="$USER_HOME$/_-2117976350_81.wxapkg.unpacked/app-service.js" />
+      <jump line="665" column="76" filename="$USER_HOME$/_-2117976350_81.wxapkg.unpacked/app-service.js" />
+      <jump line="655" column="34" filename="$USER_HOME$/_-2117976350_81.wxapkg.unpacked/app-service.js" />
+      <jump line="657" column="34" filename="$USER_HOME$/_-2117976350_81.wxapkg.unpacked/app-service.js" />
+      <jump line="659" column="34" filename="$USER_HOME$/_-2117976350_81.wxapkg.unpacked/app-service.js" />
+      <jump line="667" column="58" filename="$USER_HOME$/_-2117976350_81.wxapkg.unpacked/app-service.js" />
+      <jump line="5639" column="29" filename="$USER_HOME$/_-2117976350_81.wxapkg.unpacked/app-service.js" />
+      <jump line="654" column="6" filename="$USER_HOME$/_-2117976350_81.wxapkg.unpacked/app-service.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>question/bat/</text>
+        <text>sign</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>question/bat/</text>
+        <text>sign</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWxwZXJzXD4=</text>
+        <text encoding="base64">XDxoZXhfbWQ1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIiYiK2tleSsiPSIrcGFyYW1NYXAuZ2V0KGtleSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2lnbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIiYiK2tleSsiPSIrcGFyYW1NYXAuZ2V0KGtleSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGVzdCA9IE1ENVV0aWwuTUQ1RW5jb2RlKCJhYmMiKS50b0xvd2VyQ2FzZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2IuYXBwZW5kKCImIitrZXkrIj0iK3BhcmFtTWFwLmdldChrZXkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGVzdCA9IE1ENVV0aWwuTUQ1RW5jb2RlKCJhYmMiKS50b0xvd2VyQ2FzZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3U2IuYXBwZW5kKCkK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICBJdGVyYXRvcjxNYXAuRW50cnk8U3RyaW5nLCBTdHJpbmc+PiBpdCA9IHRyZWVNYXAuZW50cnlTZXQoKS5pdGVyYXRvcigpOwogICAgICAgIHdoaWxlKGl0Lmhhc05leHQoKSkgewogICAgICAgICAgICBNYXAuRW50cnk8U3RyaW5nLCBTdHJpbmc+IGVudHJ5ID0gaXQubmV4dCgpOwogICAgICAgICAgICBzYi5hcHBlbmQoIiYiK2VudHJ5LmdldEtleSgpKyI9IitlbnRyeS5nZXRWYWx1ZSgpKTsKICAgICAgICB9CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3RyPSIrc2IudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVudHJ5LmdldEtleSgpICsgIiA6ICIgKyBlbnRyeS5nZXRWYWx1ZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIiYiK2tleSsiPSIrcGFyYW1NYXAuZ2V0KGtleSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cmVlTWFwLnB1dCgidG9rZW4iLCIxNTE2NzYyODM3MTQyIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICDkvZzogIXvvJpTa3llX2toCiAgICAgICAgICAgICAgICDpk77mjqXvvJpodHRwczovL3d3dy5qaWFuc2h1LmNvbS9wLzY1NjNhOTY5MWM3NAogICAgICAgICAgICAgICAg5L6G5rqQ77ya566A5LmmCiAgICAgICAgICAgICAgICDokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
+        <text encoding="base64">ICAgICAgICB0cmVlTWFwLnB1dCgidWlkIiwiMjYyNzQ3NDciKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIiYiK2tleSsiPSIrcGFyYW1NYXAuZ2V0KGtleSkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -546,29 +549,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZG91dC5wcmludGxuKCLljp/mnaXnmoTmj5DkuqTnmoTlj4LmlbB0PSIrcGFyYW1NYXAuZ2V0KCJ0IikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2IuYXBwZW5kKCImIitrZXkrIj0iK3BhcmFtTWFwLmdldChrZXkpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElQYXJhbWV0ZXIgcGFyYW1ldGVyID0gaGVscGVycy5idWlsZFBhcmFtZXRlcigidCIsIHQsIElQYXJhbWV0ZXIuUEFSQU1fQk9EWSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3U2IuYXBwZW5kKCkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoZWxwZXJzXD4=</last-search>
+      <last-search encoding="base64">XDxoZXhfbWQ1XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWxwZXJzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxoZXhfbWQ1XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3Vyc2VWaWRlb0xpc3RcPg==</entry>
-        <entry encoding="base64">XDxoNVRlc3RIdHRwVXJsXD4=</entry>
-        <entry encoding="base64">XDxjb25maWdTZXJ2aWNlXD4=</entry>
-        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
-        <entry encoding="base64">XDxnZXRBd2FyZGVkUmVjb3JkTGlzdFw+</entry>
         <entry encoding="base64">XDxhY3RpdmVTdGFydFRpbWVcPg==</entry>
         <entry encoding="base64">XDxhY3RpdmVNb250aFw+</entry>
         <entry encoding="base64">XDxjb3Vyc2VTaWduXD4=</entry>
@@ -584,6 +582,11 @@
         <entry encoding="base64">XDxiYXNlUmVxdWVzdFw+</entry>
         <entry encoding="base64">XDxjdXJyZW50TWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxoZWxwZXJzXD4=</entry>
+        <entry encoding="base64">XDxhc3NpZ25cPg==</entry>
+        <entry encoding="base64">XDxHZW5OZXRTaWduXD4=</entry>
+        <entry encoding="base64">XDxzdHIycnN0cl91dGY4XD4=</entry>
+        <entry encoding="base64">XDxyc3RyX21kNVw+</entry>
+        <entry encoding="base64">XDxoZXhfbWQ1XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
