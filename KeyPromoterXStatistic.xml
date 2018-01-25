@@ -70,7 +70,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'⌘X' or '⇧⌦'</ShortCut>
           <Description>Cut</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -311,6 +311,14 @@
           <ShortCut>'F3'</ShortCut>
           <Description>Jump to Source</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'⌥⌘V'</ShortCut>
+          <Description>Move...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
