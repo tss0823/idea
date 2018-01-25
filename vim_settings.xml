@@ -22,11 +22,12 @@
       <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/filter/ResponseHolderFilter.java" timestamp="1514880461367">
         <mark key="'" line="109" column="15" />
       </file>
-      <file name="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Question.java" timestamp="1515848247426">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="57" />
-        <mark key="^" line="12" column="57" />
-        <mark key="." line="12" column="57" />
+      <file name="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Question.java" timestamp="1516857721638">
+        <mark key="'" line="17" column="38" />
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="38" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="17" column="38" />
       </file>
       <file name="/a.dummy" timestamp="1516848157674">
         <mark key="[" line="0" column="0" />
@@ -110,7 +111,7 @@
         <mark key="." line="108" column="20" />
         <mark key="^" line="108" column="20" />
       </file>
-      <file name="/u01/workspace/questionCompetition/pom.xml" timestamp="1516856658999">
+      <file name="/u01/workspace/questionCompetition/pom.xml" timestamp="1516857529264">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="20" column="19" />
@@ -155,11 +156,11 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/SearchUtils.java" timestamp="1516856616748">
-        <mark key="[" line="22" column="178" />
-        <mark key="]" line="22" column="178" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="18" column="0" />
+      <file name="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/SearchUtils.java" timestamp="1516857598920">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+        <mark key="." line="24" column="20" />
       </file>
       <file name="/u01/workspace/MillionHero/src/main/java/Phone.java" timestamp="1515751324049">
         <mark key="'" line="33" column="65" />
@@ -281,8 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="132" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/AwardRecordServiceImpl.java" />
-      <jump line="809" column="78" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" />
       <jump line="963" column="86" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
       <jump line="966" column="87" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
       <jump line="29" column="83" filename="/u01/workspace/MillionHero/src/main/java/Phone.java" />
@@ -381,25 +380,27 @@
       <jump line="19" column="17" filename="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/StoreConfigUtils.java" />
       <jump line="22" column="25" filename="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/StoreConfigUtils.java" />
       <jump line="128" column="39" filename="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/BurpExtender.java" />
+      <jump line="16" column="56" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Question.java" />
+      <jump line="17" column="38" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/Question.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBhZ2VudCAgICAgICAgICA9ICJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS80MC4wLjIxOTQuMiBTYWZhcmkvNTM3LjM2IjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBtb2JpbGVfYWdlbnQgICA9ICJNb3ppbGxhLzUuMCAoTGludXg7IFU7IEFuZHJvaWQgNC40LjQ7IHpoLWNuOyBNSSA0TFRFIEJ1aWxkL0tUVTg0UCkgQXBwbGVXZWJLaXQvNTMzLjEgKEtIVE1MLCBsaWtlIEdlY2tvKVZlcnNpb24vNC4wIE1RUUJyb3dzZXIvNS40IFRCUy8wMjU0MTEgTW9iaWxlIFNhZmFyaS81MzMuMSBNaWNyb01lc3Nlbmdlci82LjEuMC43M19yMTA5NzI5OC41NDMgTmV0VHlwZS9XSUZJIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBhY2NlcHRFbmNvZGluZyA9ICJnemlwLCBkZWZsYXRlLCBzZGNoIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBhY2NlcHRMYW5ndWFnZSA9ICJ6aC1DTix6aDtxPTAuOCxlbjtxPTAuNiI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgYWNjZXB0ICAgICAgICAgPSAiYXBwbGljYXRpb24vdm5kLndhcC54aHRtbCt4bWwsIHRleHQvdm5kLndhcC53bWwsIGFwcGxpY2F0aW9uL3hodG1sK3htbCwgdGV4dC9odG1sLCBpbWFnZS9wbmcsIGltYWdlL2pwZWcsIGltYWdlL2dpZiwgKi8qO3E9MC4xIjsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPEludGVnZXIsSW50ZWdlcj4gaXRlbVJhbmtNYXAgPSBuZXcgVHJlZU1hcCgpOwo=</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZXhfbWQ1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc3Rkb3V0LnByaW50bG4oYm9keSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPEludGVnZXIsSW50ZWdlcj4gaXRlbVJhbmtNYXAgPSBuZXcgVHJlZU1hcCgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBhZ2VudCAgICAgICAgICA9ICJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS80MC4wLjIxOTQuMiBTYWZhcmkvNTM3LjM2IjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBtb2JpbGVfYWdlbnQgICA9ICJNb3ppbGxhLzUuMCAoTGludXg7IFU7IEFuZHJvaWQgNC40LjQ7IHpoLWNuOyBNSSA0TFRFIEJ1aWxkL0tUVTg0UCkgQXBwbGVXZWJLaXQvNTMzLjEgKEtIVE1MLCBsaWtlIEdlY2tvKVZlcnNpb24vNC4wIE1RUUJyb3dzZXIvNS40IFRCUy8wMjU0MTEgTW9iaWxlIFNhZmFyaS81MzMuMSBNaWNyb01lc3Nlbmdlci82LjEuMC43M19yMTA5NzI5OC41NDMgTmV0VHlwZS9XSUZJIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBhY2NlcHRFbmNvZGluZyA9ICJnemlwLCBkZWZsYXRlLCBzZGNoIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBhY2NlcHRMYW5ndWFnZSA9ICJ6aC1DTix6aDtxPTAuOCxlbjtxPTAuNiI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgYWNjZXB0ICAgICAgICAgPSAiYXBwbGljYXRpb24vdm5kLndhcC54aHRtbCt4bWwsIHRleHQvdm5kLndhcC53bWwsIGFwcGxpY2F0aW9uL3hodG1sK3htbCwgdGV4dC9odG1sLCBpbWFnZS9wbmcsIGltYWdlL2pwZWcsIGltYWdlL2dpZiwgKi8qO3E9MC4xIjsK</text>
