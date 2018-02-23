@@ -23,6 +23,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="/u01/workspace/fitness/merge.sh" timestamp="1519372796118" />
       <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/encrypt/aes/AESUtil.java" timestamp="1517539059493">
         <mark key="'" line="148" column="48" />
         <mark key="[" line="151" column="34" />
@@ -50,7 +51,7 @@
         <mark key="." line="24" column="7" />
         <mark key="^" line="24" column="7" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/env/config-dev.properties" timestamp="1519284439405" />
+      <file name="/u01/workspace/fitness/fitness-dal/src/main/resources/env/config-dev.properties" timestamp="1519372736487" />
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1519280918995">
         <mark key="'" line="963" column="85" />
         <mark key="[" line="918" column="21" />
@@ -86,6 +87,11 @@
         <mark key="'" line="57" column="40" />
       </file>
       <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/CardController.java" timestamp="1519280525607" />
+      <file name="/u01/workspace/fitness/push.sh" timestamp="1519373080723">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="/u01/workspace/fitness/fitness-dal/src/main/java/com/doublefit/fitness/dal/mapper/ActionRecordMapper.java" timestamp="1514357044221">
         <mark key="[" line="12" column="3" />
       </file>
@@ -236,14 +242,14 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>zhou</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2FzZQo=</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>zhou</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWNyeXB0XD4=</text>
@@ -252,28 +258,28 @@
         <text encoding="base64">ICAgIHl1YW4xKDUsICLkuIDlhYPljaEiKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyQ2FyZFF1ZXJ5LnNldFN0YXR1cyhVc2VyQ2FyZFN0YXR1cy5hY3RpdmVkLmdldENvZGUoKSk7Cg==</text>
+        <text encoding="base64">Y2FzZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VjcmV0S2V5U3BlYyBza2V5U3BlYyA9IG5ldyBTZWNyZXRLZXlTcGVjKHJhdywgIkFFUyIpOwo=</text>
+        <text encoding="base64">aWYgdGVzdDsgdGhlbgogICAgZWNobwplbGlmIHRlc3Q7IHRoZW4KICAgIGVjaG8gICAgCmVsc2UgCiAgICAKZmkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgdGVzdDsgdGhlbgogICAgCmZpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgdGVzdDsgdGhlbgogICAgCmZpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTZWNyZXRLZXlTcGVjIHNrZXlTcGVjID0gbmV3IFNlY3JldEtleVNwZWMocmF3LCAiQUVTIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyQ2FyZFF1ZXJ5LnNldFN0YXR1cyhVc2VyQ2FyZFN0YXR1cy5hY3RpdmVkLmdldENvZGUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gcmF3ID0gc2tleS5nZXRFbmNvZGVkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VjcmV0S2V5U3BlYyBza2V5U3BlYyA9IG5ldyBTZWNyZXRLZXlTcGVjKHJhdywgIkFFUyIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTZWNyZXRLZXkgc2tleSA9IGtleUdlbi5nZW5lcmF0ZUtleSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -429,10 +435,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoaW5wdXRTdHIsIG91dHB1dFN0cik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoTWFwVXRpbHMuaXNFbXB0eShyYW5rTWFwKSl7CgogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZWNyZXRLZXlTcGVjIHNrZXlTcGVjID0gbmV3IFNlY3JldEtleVNwZWMocmF3LCAiQUVTIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
