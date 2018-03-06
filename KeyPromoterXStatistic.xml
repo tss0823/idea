@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌃⇧B'</ShortCut>
           <Description>Build Project</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cancel Cloning source repository git@github.com:lingfengsan/MillionHero.git">
@@ -639,6 +639,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'member'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Default Layout">
+        <Item>
+          <IdeaActionID>RestoreDefaultLayout</IdeaActionID>
+          <ShortCut>'⇧F12'</ShortCut>
+          <Description>Restore Default Layout</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
