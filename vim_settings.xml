@@ -34,6 +34,13 @@
         <mark key="'" line="123" column="80" />
       </file>
       <file name="/u01/workspace/mcsh/mcsh_common/app/models/history/History.java" timestamp="1520761309959" />
+      <file name="/u01/workspace/fitness/fitness-service/src/test/java/com/doublefit/fitness/service/redis/RedisObjTest.java" timestamp="1521013530633">
+        <mark key="'" line="37" column="53" />
+        <mark key="[" line="37" column="80" />
+        <mark key="]" line="37" column="81" />
+        <mark key="." line="37" column="81" />
+        <mark key="^" line="37" column="81" />
+      </file>
       <file name="/u01/workspace/mcsh/mcsh_app/conf/routes" timestamp="1520762986827">
         <mark key="[" line="25" column="66" />
       </file>
@@ -44,6 +51,7 @@
         <mark key="'" line="71" column="16" />
       </file>
       <file name="/u01/workspace/mcsh/mcsh_common/app/models/history/HistoryAttach.java" timestamp="1520761636714" />
+      <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/jedis/Connection.java" timestamp="1521013503840" />
       <file name="/u01/workspace/mcsh/mcsh_app/app/controllers/admin/HistoryController.java" timestamp="1520761623529">
         <mark key="'" line="27" column="49" />
       </file>
@@ -67,8 +75,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="50" filename="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/BurpExtender6.java" />
-      <jump line="49" column="23" filename="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/BurpExtender6.java" />
       <jump line="54" column="30" filename="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/BurpExtender6.java" />
       <jump line="56" column="17" filename="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/BurpExtender6.java" />
       <jump line="119" column="51" filename="/u01/workspace/example-hello-world/burpcj/src/main/java/burp/BurpExtender5.java" />
@@ -167,49 +173,51 @@
       <jump line="125" column="22" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/cache/impl/JedisCacheServiceImpl.java" />
       <jump line="154" column="52" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/cache/impl/JedisCacheServiceImpl.java" />
       <jump line="29" column="19" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/cache/impl/JedisCacheServiceImpl.java" />
+      <jump line="50" column="20" filename="/u01/workspace/fitness/fitness-service/src/test/java/com/doublefit/fitness/service/redis/RedisObjTest.java" />
+      <jump line="37" column="53" filename="/u01/workspace/fitness/fitness-service/src/test/java/com/doublefit/fitness/service/redis/RedisObjTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>p.getProperty(&quot;http.port&quot;)</text>
+        <text>&quot;);</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>p.getProperty(&quot;http.port&quot;)</text>
+        <text>&quot;);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRpc0luZm9cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHl1YW4xKDUsICLkuIDlhYPljaEiKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LnNldCgiYWJjIiwiMTIzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2FzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgdGVzdDsgdGhlbgogICAgZWNobwplbGlmIHRlc3Q7IHRoZW4KICAgIGVjaG8gICAgCmVsc2UgCiAgICAKZmkK</text>
+        <text encoding="base64">Y2FzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgdGVzdDsgdGhlbgogICAgCmZpCg==</text>
+        <text encoding="base64">aWYgdGVzdDsgdGhlbgogICAgZWNobwplbGlmIHRlc3Q7IHRoZW4KICAgIGVjaG8gICAgCmVsc2UgCiAgICAKZmkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aWYgdGVzdDsgdGhlbgogICAgCmZpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyQ2FyZFF1ZXJ5LnNldFN0YXR1cyhVc2VyQ2FyZFN0YXR1cy5hY3RpdmVkLmdldENvZGUoKSk7Cg==</text>
+        <text encoding="base64">aWYgdGVzdDsgdGhlbgogICAgCmZpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VjcmV0S2V5U3BlYyBza2V5U3BlYyA9IG5ldyBTZWNyZXRLZXlTcGVjKHJhdywgIkFFUyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyQ2FyZFF1ZXJ5LnNldFN0YXR1cyhVc2VyQ2FyZFN0YXR1cy5hY3RpdmVkLmdldENvZGUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VjcmV0S2V5U3BlYyBza2V5U3BlYyA9IG5ldyBTZWNyZXRLZXlTcGVjKHJhdywgIkFFUyIpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -368,7 +376,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTZWNyZXRLZXlTcGVjIHNrZXlTcGVjID0gbmV3IFNlY3JldEtleVNwZWMocmF3LCAiQUVTIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
