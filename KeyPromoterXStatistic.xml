@@ -265,6 +265,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'oa'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌘F11'</ShortCut>
+          <Description>Debug 'oa'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'play'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -342,7 +350,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⌘M'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -374,7 +382,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'⌘,'</ShortCut>
           <Description>Preferences...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -390,7 +398,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>48</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'raytest'">
@@ -697,6 +705,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'oa'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'oa'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Default Layout">
         <Item>
           <IdeaActionID>RestoreDefaultLayout</IdeaActionID>
@@ -823,6 +839,14 @@
           <ShortCut>'⇧⌘F11'</ShortCut>
           <Description>Run 'mcsh'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'oa'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧⌘F11'</ShortCut>
+          <Description>Run 'oa'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Dependencies Popup...">
@@ -1009,6 +1033,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'oa'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'oa'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'remotemember'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1062,7 +1094,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>Terminal</Description>
-          <Count>80</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
