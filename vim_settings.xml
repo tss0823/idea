@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/lib/tools.jar!/sun/tools/jps/Arguments.class" timestamp="1521861166378">
+        <mark key="'" line="21" column="27" />
+      </file>
       <file name="/u01/workspace/oa/oa_app/app/controllers/web/ApiController.java" timestamp="1521708074706">
         <mark key="'" line="14" column="17" />
       </file>
@@ -12,6 +15,9 @@
         <mark key="]" line="26" column="104" />
         <mark key="." line="26" column="104" />
         <mark key="^" line="26" column="104" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/tools/jps/Jps.java" timestamp="1521861213065">
+        <mark key="'" line="39" column="25" />
       </file>
       <file name="/a.dummy" timestamp="1521708007918">
         <mark key="[" line="0" column="0" />
@@ -133,11 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="24" filename="/u01/workspace/questionCompetition/src/main/java/model/Question.java" />
-      <jump line="123" column="58" filename="/u01/workspace/questionCompetition/src/main/java/utils/SearchUtils.java" />
-      <jump line="511" column="39" filename="$MAVEN_REPOSITORY$/commons-configuration/commons-configuration/1.10/commons-configuration-1.10.jar!/org/apache/commons/configuration/AbstractConfiguration.class" />
-      <jump line="467" column="31" filename="$MAVEN_REPOSITORY$/commons-configuration/commons-configuration/1.10/commons-configuration-1.10.jar!/org/apache/commons/configuration/AbstractFileConfiguration.class" />
-      <jump line="41" column="24" filename="$MAVEN_REPOSITORY$/commons-configuration/commons-configuration/1.10/commons-configuration-1.10.jar!/org/apache/commons/configuration/BaseConfiguration.class" />
       <jump line="207" column="23" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/OCRDemoForHttp.java" />
       <jump line="2" column="54" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/OCRDemoForHttp.java" />
       <jump line="209" column="24" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/OCRDemoForHttp.java" />
@@ -233,6 +234,11 @@
       <jump line="14" column="17" filename="/u01/workspace/oa/oa_app/app/controllers/web/ApiController.java" />
       <jump line="134" column="23" filename="$USER_HOME$/Downloads/play-1.4.5/modules/play_base/app/controllers/BaseController.java" />
       <jump line="137" column="38" filename="$USER_HOME$/Downloads/play-1.4.5/modules/play_base/app/controllers/BaseController.java" />
+      <jump line="120" column="30" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/tools/jps/Jps.java" />
+      <jump line="58" column="25" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/tools/jps/Jps.java" />
+      <jump line="39" column="25" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/tools/jps/Jps.java" />
+      <jump line="125" column="24" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/lib/tools.jar!/sun/tools/jps/Arguments.class" />
+      <jump line="21" column="27" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/lib/tools.jar!/sun/tools/jps/Arguments.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -248,7 +254,7 @@
         <text>Collectors.toList()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBvc2l0b3JpZXNcPg==</text>
+        <text encoding="base64">XDxob3N0SWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LnNldCgiYWJjIiwiMTIzIik7Cg==</text>
@@ -441,15 +447,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXBvc2l0b3JpZXNcPg==</last-search>
+      <last-search encoding="base64">XDxob3N0SWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBvc2l0b3JpZXNcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxob3N0SWRcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRRdWVzdGlvbkluZm9ybWF0aW9uXD4=</entry>
         <entry encoding="base64">XDxTVERPVVRcPg==</entry>
         <entry encoding="base64">XDxnZXRSZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxTdHJpbmdVdGlsc1w+</entry>
@@ -469,6 +474,7 @@
         <entry encoding="base64">XDxuYW1lc3BhY2VcPg==</entry>
         <entry encoding="base64">XDxyZWRpc0luZm9cPg==</entry>
         <entry encoding="base64">XDxyZXBvc2l0b3JpZXNcPg==</entry>
+        <entry encoding="base64">XDxob3N0SWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
