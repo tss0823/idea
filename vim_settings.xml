@@ -3,8 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/lib/tools.jar!/sun/tools/jps/Arguments.class" timestamp="1521861166378">
-        <mark key="'" line="21" column="27" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/lib/tools.jar!/sun/tools/jps/Arguments.class" timestamp="1522135971845">
+        <mark key="'" line="38" column="28" />
+      </file>
+      <file name="/u01/workspace/raytest/src/main/java/jvm/JpsTest.java" timestamp="1522136477100">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
       </file>
       <file name="/u01/workspace/oa/oa_app/app/controllers/web/ApiController.java" timestamp="1521708074706">
         <mark key="'" line="14" column="17" />
@@ -16,8 +22,8 @@
         <mark key="." line="26" column="104" />
         <mark key="^" line="26" column="104" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/tools/jps/Jps.java" timestamp="1522053986368">
-        <mark key="'" line="39" column="25" />
+      <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/tools/jps/Jps.java" timestamp="1522136422396">
+        <mark key="'" line="43" column="31" />
       </file>
       <file name="/a.dummy" timestamp="1521708007918">
         <mark key="[" line="0" column="0" />
@@ -126,7 +132,7 @@
       <file name="$USER_HOME$/Downloads/play-1.4.5/modules/play_base/app/models/back/Admin.java" timestamp="1521547887802">
         <mark key="'" line="14" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1521796865865">
+      <file name="/fragment.java" timestamp="1522135415667">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -144,9 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="54" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/OCRDemoForHttp.java" />
-      <jump line="209" column="24" filename="/u01/workspace/questionCompetition/src/main/java/com/zhihan/qc/OCRDemoForHttp.java" />
-      <jump line="53" column="25" filename="/u01/workspace/questionCompetition/src/main/java/utils/SearchUtils.java" />
       <jump line="25" column="43" filename="/u01/workspace/questionCompetition/src/main/java/utils/SearchUtils.java" />
       <jump line="87" column="37" filename="/u01/workspace/questionCompetition/src/main/java/utils/SearchUtils.java" />
       <jump line="21" column="24" filename="/u01/workspace/questionCompetition/src/main/java/model/Question.java" />
@@ -244,6 +247,9 @@
       <jump line="125" column="24" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/lib/tools.jar!/sun/tools/jps/Arguments.class" />
       <jump line="21" column="27" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/lib/tools.jar!/sun/tools/jps/Arguments.class" />
       <jump line="501" column="11" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/java/lang/Object.java" />
+      <jump line="31" column="12" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/lib/tools.jar!/sun/tools/jps/Arguments.class" />
+      <jump line="43" column="31" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/tools/jps/Jps.java" />
+      <jump line="38" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/lib/tools.jar!/sun/tools/jps/Arguments.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
