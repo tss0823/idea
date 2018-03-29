@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1521708007918">
+      <file name="/a.dummy" timestamp="1522308380847">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -16,6 +16,12 @@
       </file>
       <file name="/u01/workspace/oa/oa_app/conf/routes" timestamp="1521704913077">
         <mark key="'" line="63" column="80" />
+      </file>
+      <file name="/u01/workspace/patriarch/patriarch_app/conf/dependencies.yml" timestamp="1522308456235">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar!/java/util/function/Function.class" timestamp="1521706957215">
         <mark key="'" line="9" column="17" />
@@ -43,7 +49,7 @@
       <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/tools/jstack/JStack.java" timestamp="1522146087366">
         <mark key="'" line="62" column="16" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java" timestamp="1522226135883">
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java" timestamp="1522308172020">
         <mark key="'" line="762" column="29" />
       </file>
       <file name="/u01/workspace/mcsh/mcsh_app/app/controllers/admin/ConferenceController.java" timestamp="1520761033656">
@@ -280,8 +286,13 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUueHBhdGgub3BlcmF0aW9ucy5TdHJpbmc7Cg==</text>
+      <register name="&quot;" type="8">
+        <text>#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
@@ -295,29 +306,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LnNldCgiYWJjIiwiMTIzIik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUueHBhdGgub3BlcmF0aW9ucy5TdHJpbmc7Cg==</text>
+      <register name="1" type="8">
+        <text>#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUueHBhdGgub3BlcmF0aW9ucy5TdHJpbmc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZigxIGluc3RhbmNlb2YgYSkK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb3Vyc2VTZXJ2aWNlLmFsbG9jYXRpZGRvblBvaW50QWN0aXZlVGFzaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZigxIGluc3RhbmNlb2YgYSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3Vyc2VTZXJ2aWNlLmFsbG9jYXRpZGRvblBvaW50QWN0aXZlVGFzaygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2FzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgdGVzdDsgdGhlbgogICAgZWNobwplbGlmIHRlc3Q7IHRoZW4KICAgIGVjaG8gICAgCmVsc2UgCiAgICAKZmkK</text>
+        <text encoding="base64">Y2FzZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -473,7 +489,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgdGVzdDsgdGhlbgogICAgCmZpCg==</text>
+        <text encoding="base64">aWYgdGVzdDsgdGhlbgogICAgZWNobwplbGlmIHRlc3Q7IHRoZW4KICAgIGVjaG8gICAgCmVsc2UgCiAgICAKZmkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aWYgdGVzdDsgdGhlbgogICAgCmZpCg==</text>
