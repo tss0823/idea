@@ -350,6 +350,14 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌘U'</ShortCut>
           <Description>Find Usages</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find by XPath...">
+        <Item>
+          <IdeaActionID>XPathView.Actions.FindByExpression</IdeaActionID>
+          <ShortCut>'⌥⌘X, F'</ShortCut>
+          <Description>Find by XPath...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -422,7 +430,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>82</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -430,7 +438,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>73</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'raytest'">
