@@ -121,7 +121,13 @@
       <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/tools/jmap/JMap.java" timestamp="1522146059572">
         <mark key="'" line="248" column="10" />
       </file>
-      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/UserCardServiceImpl.java" timestamp="1522640176630" />
+      <file name="/u01/workspace/raytest/src/main/java/test/MimaTest.java" timestamp="1522660196141">
+        <mark key="'" line="24" column="40" />
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="24" column="48" />
+        <mark key="^" line="24" column="48" />
+        <mark key="." line="24" column="48" />
+      </file>
       <file name="$USER_HOME$/Downloads/play-1.4.5/modules/play_base/app/jobs/BaseStartUp.java" timestamp="1521547949765">
         <mark key="'" line="28" column="16" />
       </file>
@@ -150,7 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="23" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/encrypt/aes/AESTester.java" />
       <jump line="43" column="40" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/encrypt/aes/AESTester.java" />
       <jump line="127" column="42" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/encrypt/aes/AESUtils.java" />
       <jump line="155" column="23" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/encrypt/aes/AESUtils.java" />
@@ -250,19 +255,20 @@
       <jump line="762" column="29" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java" />
       <jump line="29" column="13" filename="/u01/workspace/patriarch/patriarch_app/conf/dependencies.yml" />
       <jump line="25" column="6" filename="/u01/workspace/patriarch/patriarch_app/conf/dependencies.yml" />
+      <jump line="24" column="40" filename="/u01/workspace/raytest/src/main/java/test/MimaTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzOgogICAgLSBwbGF5Q3VzdG9tTW9kdWxlczoKICAgICAgICB0eXBlOiBsb2NhbAogICAgICAgIGFydGlmYWN0OiAke2FwcGxpY2F0aW9uLnBhdGh9Ly4uL1ttb2R1bGVdCiAgICAgICAgY29udGFpbnM6CiAgICAgICAgICAgLSBjdXN0b21lck1vZHVsZXMgLT4gKgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5Q3VzdG9tTW9kdWxlc1w+</text>
