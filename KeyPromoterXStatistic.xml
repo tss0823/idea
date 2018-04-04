@@ -321,6 +321,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'tomcat_run'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌘F11'</ShortCut>
+          <Description>Debug 'tomcat_run'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'zplugin'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
