@@ -300,6 +300,13 @@
         <mark key="." line="82" column="0" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/Host.java" timestamp="1522923434057" />
+      <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/AtTemplate.java" timestamp="1522930688364">
+        <mark key="'" line="35" column="25" />
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="4" />
+        <mark key="." line="42" column="4" />
+        <mark key="^" line="42" column="4" />
+      </file>
       <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/Template.java" timestamp="1522890744349">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -307,7 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="7" filename="/u01/workspace/patriarch/patriarch_common/app/models/produce/Produce.java" />
       <jump line="25" column="15" filename="/u01/workspace/patriarch/patriarch_common/app/models/produce/Produce.java" />
       <jump line="18" column="31" filename="/u01/workspace/patriarch/patriarch_common/app/models/person/Person.java" />
       <jump line="47" column="19" filename="/u01/workspace/patriarch/patriarch_common/app/models/msg/Msg.java" />
@@ -407,6 +413,7 @@
       <jump line="25" column="25" filename="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/DeployLog.java" />
       <jump line="7" column="39" filename="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/query/DeployLogQuery.java" />
       <jump line="9" column="26" filename="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/query/DeployLogQuery.java" />
+      <jump line="35" column="25" filename="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/AtTemplate.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -425,7 +432,7 @@
         <text encoding="base64">XDxvcGVuTXNnV2luXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9ImNvbXBhbnlJZCAhPSBudWxsIj5gY29tcGFueUlkYD0je2NvbXBhbnlJZH0sPC9pZj4K</text>
+        <text encoding="base64">CS8qKiAg5LyB5LiaSUQgKiAqLwoJcHJpdmF0ZSBMb25nIGNvbXBhbnlJZDsK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgICAgICAgICAgWVQuZGVwbG95LnV0aWwucmVxR2V0KCIvZGF0YS9wcm9qZWN0TGlzdCIse30sZnVuY3Rpb24oZCl7CiAgICAgICAgICAgICAgICB2YXIgcHJvamVjdExpc3QgPSBkLmRhdGE7CiAgICAgICAgICAgICAgICBZVC5kZXBsb3kudXRpbC5pbml0U2VsZWN0KHByb2plY3RMaXN0LCJpZCIsIm5hbWUiLCJwcm9qZWN0SWQiLGRhdGEucHJvamVjdElkKTsKICAgICAgICAgICAgfSk7</text>
