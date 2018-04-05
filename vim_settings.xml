@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1522891251350">
+      <file name="/a.dummy" timestamp="1522900553245">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -25,6 +25,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/controller/MemberController.java" timestamp="1522900295696" />
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/ProjectServiceImpl.java" timestamp="1522890826618">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -75,10 +76,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/ProjectController.java" timestamp="1522898901309">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/ProjectController.java" timestamp="1522900625347">
+        <mark key="[" line="82" column="5" />
+        <mark key="]" line="78" column="48" />
+        <mark key="." line="78" column="48" />
+        <mark key="^" line="78" column="48" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/TemplateServiceImpl.java" timestamp="1522889445197">
         <mark key="[" line="16" column="0" />
@@ -239,41 +241,41 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdpbmF0aW9uPEFwcFZvPiBwYWdpbmF0aW9uID0gKFBhZ2luYXRpb248QXBwVm8+KSBwYWdpbmF0aW9uMQo=</text>
+      <register name="&quot;" type="4">
+        <text>project</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>project</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQXBwU2VydmljZSBhcHBTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygidXBkYXRlIikKICAgIEBOZWVkTG9naW4KICAgIHB1YmxpYyBSZXNwb25zZU9iamVjdCB1cGRhdGUoUHJvamVjdCBwcm9qZWN0KSB7CiAgICAgICAgVmFsaWRhdGVVdGlscy5ub3ROdWxsKHByb2plY3QuZ2V0SWQoKSwiaWQg5LiN6IO95Li656m6Iik7CiAgICAgICAgaW50IHJlc3VsdCA9IHByb2plY3RTZXJ2aWNlLnVwZGF0ZUJ5SWQocHJvamVjdCk7CiAgICAgICAgUmVzcG9uc2VPYmplY3QgcmVzcG9uc2VPYmplY3QgPSBSZXNwb25zZU9iamVjdFV0aWxzLmJ1aWxkUmVzT2JqZWN0KCk7CiAgICAgICAgcmVzcG9uc2VPYmplY3Quc2V0RGF0YShyZXN1bHQpOwogICAgICAgIHJldHVybiByZXNwb25zZU9iamVjdDsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdpbmF0aW9uPEFwcFZvPiBwYWdpbmF0aW9uID0gKFBhZ2luYXRpb248QXBwVm8+KSBwYWdpbmF0aW9uMQo=</text>
+        <text encoding="base64">ICAgICAgICBWYWxpZGF0ZVV0aWxzLm5vdE51bGwocHJvamVjdC5nZXRJZCgpLCJpZCDkuI3og73kuLrnqboiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLnV0aWxzLkJlYW5VdGlsczsKaW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLndlYi5QYWdpbmF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICBQcm9qZWN0IHByb2plY3QgPSAoUHJvamVjdCkgcmVzdWx0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLmFubm90YXRpb24uTW9kZWxGaWVsZENvbW1lbnQ7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFVzZXIgdXNlciA9IHVzZXJTZXJ2aWNlLmdldEN1cnJlbnRVc2VyKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLmFubm90YXRpb24uTW9kZWxGaWVsZENvbW1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5zZXRDb21wYW55SWQodXNlci5nZXRDb21wYW55SWQoKSk7CiAgICAgICAgUGFnaW5hdGlvbjxQcm9qZWN0Vm8+IHBhZ2luYXRpb24gPSBwcm9qZWN0U2VydmljZS5zZWxlY3RQYWdlKHF1ZXJ5KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLmFubm90YXRpb24uTW9kZWxGaWVsZENvbW1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQYWdpbmF0aW9uPEFwcFZvPiBwYWdpbmF0aW9uID0gKFBhZ2luYXRpb248QXBwVm8+KSBwYWdpbmF0aW9uMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLmFubm90YXRpb24uTW9kZWxGaWVsZENvbW1lbnQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLnV0aWxzLkJlYW5VdGlsczsKaW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLndlYi5QYWdpbmF0aW9uOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLmFubm90YXRpb24uTW9kZWxGaWVsZENvbW1lbnQ7Cg==</text>
@@ -432,10 +434,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLnV0aWxzLkJlYW5VdGlsczsKaW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLndlYi5QYWdpbmF0aW9uOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLmFubm90YXRpb24uTW9kZWxGaWVsZENvbW1lbnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLnV0aWxzLkJlYW5VdGlsczsKaW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLndlYi5QYWdpbmF0aW9uOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8ucGxhdGZvcm0uY29tbW9uLmFubm90YXRpb24uTW9kZWxGaWVsZENvbW1lbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
