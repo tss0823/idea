@@ -47,6 +47,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/codeBuild/list.html" timestamp="1522981060075" />
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/RoleAuthResServiceImpl.java" timestamp="1522934244145" />
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AtProcessInstServiceImpl.java" timestamp="1522934269091" />
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/project/hostList.html" timestamp="1522924045933">
@@ -72,6 +73,10 @@
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/UserServiceImpl.java" timestamp="1522934305124">
         <mark key="'" line="71" column="16" />
       </file>
+      <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/codeBuild/Entity.java" timestamp="1522981905618">
+        <mark key="'" line="47" column="20" />
+      </file>
+      <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/codeBuild/DbConfigure.java" timestamp="1522981980472" />
       <file name="/u01/workspace/zhushou/zhushou-dal/src/main/resources/mapper/DeployLogMapper.xml" timestamp="1522930076835">
         <mark key="[" line="138" column="55" />
         <mark key="]" line="138" column="55" />
@@ -106,6 +111,13 @@
         <mark key="." line="36" column="65" />
         <mark key="^" line="36" column="26" />
       </file>
+      <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/query/EntityQuery.java" timestamp="1522981736145">
+        <mark key="'" line="36" column="19" />
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="36" column="19" />
+        <mark key="^" line="36" column="19" />
+        <mark key="." line="36" column="19" />
+      </file>
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/at/processInstList.html" timestamp="1522928226754" />
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/domain/Attachment.java" timestamp="1522936378265" />
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/DeployLogServiceImpl.java" timestamp="1522934201733" />
@@ -131,10 +143,11 @@
         <mark key="." line="136" column="0" />
       </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/domain/DbConfigure.java" timestamp="1522887336501" />
-      <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/Entity.java" timestamp="1522890722292">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/Entity.java" timestamp="1522981759071">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="33" />
+        <mark key="." line="36" column="33" />
+        <mark key="^" line="36" column="33" />
       </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/domain/GenFile.java" timestamp="1522836705108" />
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/inter/PropertyService.java" timestamp="1522889383318">
@@ -146,6 +159,9 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/codeBuild/Property.java" timestamp="1522981950914">
+        <mark key="'" line="184" column="13" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/AppController.java" timestamp="1522935758629">
         <mark key="'" line="53" column="19" />
@@ -234,7 +250,9 @@
       <file name="/u01/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/web/Pagination.java" timestamp="1522933485702" />
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AppFrontServiceImpl.java" timestamp="1522934300711" />
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/RoleServiceImpl.java" timestamp="1522934273323" />
-      <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/CodeBuildController.java" timestamp="1522922774458" />
+      <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/CodeBuildController.java" timestamp="1522981883523">
+        <mark key="'" line="58" column="20" />
+      </file>
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AuthResServiceImpl.java" timestamp="1522934286419" />
       <file name="/u01/workspace/patriarch/patriarch_common/app/enums/ImgResType.java" timestamp="1522727375898">
         <mark key="[" line="7" column="14" />
@@ -296,6 +314,12 @@
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/IdocParamServiceImpl.java" timestamp="1522934249488" />
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/mapper/AttachmentMapper.xml" timestamp="1522936392921" />
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/AtActiveInstServiceImpl.java" timestamp="1522934258490" />
+      <file name="/u01/workspace/zhushou/zhushou-dal/src/main/resources/mapper/EntityMapper.xml" timestamp="1522981828222">
+        <mark key="[" line="80" column="57" />
+        <mark key="]" line="80" column="57" />
+        <mark key="." line="80" column="65" />
+        <mark key="^" line="80" column="30" />
+      </file>
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/DeployServiceImpl.java" timestamp="1522936060368" />
       <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/Host.java" timestamp="1522923434057" />
       <file name="/u01/workspace/zhushou/zhushou-dal/src/main/java/com/yuntao/zhushou/dal/config/DalConfig.java" timestamp="1522890695042">
@@ -315,13 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="30" filename="/u01/workspace/patriarch/patriarch_common/app/models/produce/Produce.java" />
-      <jump line="63" column="35" filename="$USER_HOME$/Downloads/play-1.4.5/modules/play_base/app/models/BaseModel.java" />
-      <jump line="18" column="13" filename="/u01/workspace/patriarch/patriarch_common/app/models/msg/ImgRes.java" />
-      <jump line="17" column="16" filename="/u01/workspace/patriarch/patriarch_common/app/models/msg/ImgRes.java" />
-      <jump line="20" column="31" filename="/u01/workspace/patriarch/patriarch_common/app/models/msg/MsgImg.java" />
-      <jump line="18" column="14" filename="/u01/workspace/oa/oa_common/app/models/category/Document.java" />
-      <jump line="33" column="28" filename="/u01/workspace/patriarch/patriarch_common/app/models/msg/Msg.java" />
       <jump line="35" column="34" filename="/u01/workspace/patriarch/patriarch_common/app/models/produce/Produce.java" />
       <jump line="39" column="27" filename="/u01/workspace/oa/oa_common/app/models/content/Notice.java" />
       <jump line="22" column="11" filename="/u01/workspace/oa/oa_common/app/vos/NoticeVO.java" />
@@ -415,49 +432,56 @@
       <jump line="30" column="34" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/project/host.js" />
       <jump line="53" column="19" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/AppController.java" />
       <jump line="42" column="38" filename="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/Project.java" />
+      <jump line="51" column="36" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/CodeBuildController.java" />
+      <jump line="35" column="10" filename="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/query/EntityQuery.java" />
+      <jump line="36" column="19" filename="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/query/EntityQuery.java" />
+      <jump line="58" column="20" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/CodeBuildController.java" />
+      <jump line="47" column="20" filename="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/codeBuild/Entity.java" />
+      <jump line="59" column="20" filename="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/codeBuild/Property.java" />
+      <jump line="184" column="13" filename="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/codeBuild/Property.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6IDUwcHgiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbD7nq6/lj6PvvJo8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgaWQ9InBvcnQiIG5hbWU9InBvcnQiIHZhbHVlPSJ7e3BvcnR9fSIgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpeerr+WPoyIgY2xhc3M9ImlucHV0LXhsYXJnZSI+CiAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzcGFjZS00Ij48L2Rpdj4K</text>
+      <register name="&quot;" type="4">
+        <text>appId</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>称</text>
+        <text>appId</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcGVuTXNnV2luXD4=</text>
+        <text encoding="base64">XDxvcmRlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6IDUwcHgiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbD7lkI3np7DvvJo8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgaWQ9Im5hbWUiIG5hbWU9Im5hbWUiIHZhbHVlPSJ7e25hbWV9fSIgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpeWQjeensCIgY2xhc3M9ImlucHV0LXhsYXJnZSI+CiAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICZuYnNwOyZuYnNwOwogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzcGFjZS00Ij48L2Rpdj4K</text>
+        <text encoding="base64">CQkJPGlmIHRlc3Q9ImFwcElkICE9IG51bGwiPmBhcHBJZGAgPSAje2FwcElkfSwgPC9pZj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6IDUwcHgiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbD7nq6/lj6PvvJo8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgaWQ9InBvcnQiIG5hbWU9InBvcnQiIHZhbHVlPSJ7e3BvcnR9fSIgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpeerr+WPoyIgY2xhc3M9ImlucHV0LXhsYXJnZSI+CiAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzcGFjZS00Ij48L2Rpdj4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmbmJzcDsmbmJzcDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEFwcElkKExvbmcgdmFsdWUpIHsKICAgICAgICB0aGlzLmFwcElkID0gdmFsdWU7CiAgICB9CiAgICAKICAgIHB1YmxpYyBMb25nIGdldEFwcElkKCkgewogICAgICAgIHJldHVybiB0aGlzLmFwcElkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWw+Z2l05Luj56CB5ZCN56ew77yaPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8c3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGlkPSJjb2RlTmFtZSIgbmFtZT0iY29kZU5hbWUiIHZhbHVlPSJ7e2NvZGVOYW1lfX0iIHBsYWNlaG9sZGVyPSLor7fovpPlhaVnaXTku6PnoIHlkI3np7AiIGNsYXNzPSJpbnB1dC14bGFyZ2UiPgogICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAmbmJzcDsmbmJzcDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6IDUwcHgiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbD7nq6/lj6PvvJo8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgaWQ9InBvcnQiIG5hbWU9InBvcnQiIHZhbHVlPSJ7e3BvcnR9fSIgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpeerr+WPoyIgY2xhc3M9ImlucHV0LXhsYXJnZSI+CiAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzcGFjZS00Ij48L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAuc2V0cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmbmJzcDsmbmJzcDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IGlkPSJjb2RlTmFtZSIgbmFtZT0icHJvamVjdElkIj4KICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbj48L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICA8L3NlbGVjdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWw+Z2l05Luj56CB5ZCN56ew77yaPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8c3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGlkPSJjb2RlTmFtZSIgbmFtZT0iY29kZU5hbWUiIHZhbHVlPSJ7e2NvZGVOYW1lfX0iIHBsYWNlaG9sZGVyPSLor7fovpPlhaVnaXTku6PnoIHlkI3np7AiIGNsYXNzPSJpbnB1dC14bGFyZ2UiPgogICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAmbmJzcDsmbmJzcDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDpobnnm67vvJoK</text>
+        <text encoding="base64">ICAgICAgICBhcHAuc2V0cAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGlkPSJuYW1lIiBuYW1lPSJuYW1lIiB2YWx1ZT0ie3tuYW1lfX0iIHBsYWNlaG9sZGVyPSLor7fovpPlhaXlkI3np7AiIGNsYXNzPSJpbnB1dC14bGFyZ2UiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IGlkPSJjb2RlTmFtZSIgbmFtZT0icHJvamVjdElkIj4KICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbj48L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICA8L3NlbGVjdD4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -613,25 +637,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDpobnnm67vvJoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGlkPSJuYW1lIiBuYW1lPSJuYW1lIiB2YWx1ZT0ie3tuYW1lfX0iIHBsYWNlaG9sZGVyPSLor7fovpPlhaXlkI3np7AiIGNsYXNzPSJpbnB1dC14bGFyZ2UiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcGVuTXNnV2luXD4=</last-search>
+      <last-search encoding="base64">XDxvcmRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcGVuTXNnV2luXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvcmRlclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWRpc0luZm9cPg==</entry>
         <entry encoding="base64">XDxyZXBvc2l0b3JpZXNcPg==</entry>
         <entry encoding="base64">XDxob3N0SWRcPg==</entry>
         <entry encoding="base64">XDxNYW5pZmVzdFw+</entry>
@@ -643,7 +666,6 @@
         <entry encoding="base64">XDxjb3VudFw+</entry>
         <entry encoding="base64">XDxmaWxsXD4=</entry>
         <entry encoding="base64">XDxwcm9qZWN0SWRcPg==</entry>
-        <entry encoding="base64">XDx2ZXJcPg==</entry>
         <entry encoding="base64">XDxxdWVyeVw+</entry>
         <entry encoding="base64">XDxxdWVyeVZhckxpc3RcPg==</entry>
         <entry encoding="base64">XDxwcm9wZXJ0eVNhdmVcPg==</entry>
@@ -651,6 +673,8 @@
         <entry encoding="base64">XDxkZWxcPg==</entry>
         <entry encoding="base64">XDxxdWVyeUhvc3RMaXN0XD4=</entry>
         <entry encoding="base64">XDxvcGVuTXNnV2luXD4=</entry>
+        <entry encoding="base64">XDx2ZXJcPg==</entry>
+        <entry encoding="base64">XDxvcmRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
