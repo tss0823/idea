@@ -105,6 +105,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'BigScreenClientTest1'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌘F11'</ShortCut>
+          <Description>Debug 'BigScreenClientTest1'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'CodeSyncUtils.main()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -454,7 +462,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>74</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'raytest'">
@@ -526,7 +534,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'BigScreenClientTest1'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BurpExtender'">
@@ -833,6 +841,14 @@
           <Count>37</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BigScreenClientTest1'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧⌘F11'</ShortCut>
+          <Description>Run 'BigScreenClientTest1'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'EmbeddedServer2'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -990,7 +1006,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'BigScreenClientTest1'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EmptyClient'">
@@ -1230,7 +1246,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⇧⌘B'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>177</Count>
+          <Count>180</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
