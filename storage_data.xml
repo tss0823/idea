@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An invocation of this method behaves in exactly the same way as the invocation" />
+      <item value="A hint to the scheduler that the current thread is willing to yield its current use of a processor . The scheduler is free to ignore this hint" />
       <item value="so prevents false alarms that would add threads when it shouldn ' t" />
       <item value="If a task can be successfully queued , then we still need to double - check whether we should have added a thread ( because existing ones died since last checking ) or that the pool shut down since entry into this method . So we recheck state and if necessary roll back the enqueuing if stopped , or start a new thread if there are none" />
       <item value="If fewer than core Pool Size threads are running , try to start a new thread with the given command as its first task . The call to add Worker atomically checks run State and worker Count , and so prevents false alarms that would add threads when it shouldn ' t , by returning false ." />
