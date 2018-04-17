@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="1. If fewer than core Pool Size threads are running , try to start a new thread with the given command as its first task . The call to add Worker atomically checks run State and worker Count , and so prevents false alarms that would add threads when it shouldn ' t , by returning false" />
       <item value="requested stack size for this thread" />
       <item value="multiplexed" />
       <item value="taking into account" />
