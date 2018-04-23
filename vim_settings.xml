@@ -84,8 +84,8 @@
       <file name="/u01/workspace/test1/test1-dal/src/main/resources/config-common.properties" timestamp="1524389313096">
         <mark key="[" line="15" column="41" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/WsMsgHandlerServiceImpl.java" timestamp="1524465995850">
-        <mark key="'" line="157" column="26" />
+      <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/WsMsgHandlerServiceImpl.java" timestamp="1524469454572">
+        <mark key="'" line="156" column="84" />
       </file>
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.34/mysql-connector-java-5.1.34.jar!/com/mysql/jdbc/NonRegisteringDriver.class" timestamp="1523950498258">
         <mark key="'" line="554" column="54" />
@@ -240,6 +240,9 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/channels/spi/AbstractSelectableChannel.java" timestamp="1523348769599">
         <mark key="'" line="50" column="22" />
+      </file>
+      <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/support/deploy/DZMessageHelperServer.java" timestamp="1524469237654">
+        <mark key="'" line="265" column="93" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.0.3.RELEASE/spring-core-4.0.3.RELEASE-sources.jar!/org/springframework/core/io/ClassPathResource.java" timestamp="1524282037297">
         <mark key="'" line="42" column="52" />
@@ -1071,8 +1074,8 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/client/src/main/java/com/yuntao/zhushou/client/support/CDWebSocketMsgHandler.java" timestamp="1524465739056">
-        <mark key="'" line="66" column="80" />
+      <file name="/u01/workspace/zhushou/zhushou-web/client/src/main/java/com/yuntao/zhushou/client/support/CDWebSocketMsgHandler.java" timestamp="1524469201517">
+        <mark key="'" line="101" column="53" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" timestamp="1524129626154">
         <mark key="'" line="171" column="34" />
@@ -1111,7 +1114,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/BufferedInputStream.java" timestamp="1522810000942">
         <mark key="'" line="236" column="62" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/constant/MsgConstant.java" timestamp="1524465889256" />
+      <file name="/u01/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/constant/MsgConstant.java" timestamp="1524469073869" />
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/appList.html" timestamp="1523520935773">
         <mark key="[" line="10" column="29" />
         <mark key="]" line="12" column="46" />
@@ -1151,10 +1154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1302" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
-      <jump line="235" column="26" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java" />
-      <jump line="316" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java" />
-      <jump line="163" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java" />
       <jump line="269" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java" />
       <jump line="653" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java" />
       <jump line="0" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java" />
@@ -1251,6 +1250,10 @@
       <jump line="1069" column="26" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
       <jump line="66" column="80" filename="/u01/workspace/zhushou/zhushou-web/client/src/main/java/com/yuntao/zhushou/client/support/CDWebSocketMsgHandler.java" />
       <jump line="157" column="26" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/WsMsgHandlerServiceImpl.java" />
+      <jump line="155" column="59" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/WsMsgHandlerServiceImpl.java" />
+      <jump line="265" column="93" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/support/deploy/DZMessageHelperServer.java" />
+      <jump line="101" column="53" filename="/u01/workspace/zhushou/zhushou-web/client/src/main/java/com/yuntao/zhushou/client/support/CDWebSocketMsgHandler.java" />
+      <jump line="156" column="84" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/WsMsgHandlerServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
