@@ -16,7 +16,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/valves/AbstractAccessLogValve.java" timestamp="1523865305368">
         <mark key="'" line="428" column="60" />
       </file>
-      <file name="/a.dummy" timestamp="1524488396139">
+      <file name="/a.dummy" timestamp="1524561793971">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -148,6 +148,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/Valve.java" timestamp="1523864262420">
         <mark key="'" line="60" column="26" />
+      </file>
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" timestamp="1524562077401">
+        <mark key="'" line="2007" column="24" />
+        <mark key="[" line="2283" column="20" />
+        <mark key="]" line="2007" column="23" />
+        <mark key="." line="2007" column="23" />
+        <mark key="^" line="2007" column="23" />
       </file>
       <file name="/u01/workspace/mcsh/mcsh_common/app/models/conference/Unit.java" timestamp="1520761076376">
         <mark key="'" line="16" column="28" />
@@ -631,6 +638,9 @@
         <mark key="." line="82" column="33" />
         <mark key="^" line="82" column="33" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/SessionController.java" timestamp="1524561862503">
+        <mark key="'" line="290" column="42" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1524044340708">
         <mark key="'" line="143" column="40" />
       </file>
@@ -902,8 +912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="29" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/util/Sharded.java" />
-      <jump line="82" column="20" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/util/Sharded.java" />
       <jump line="56" column="8" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/util/Sharded.java" />
       <jump line="74" column="30" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/util/Sharded.java" />
       <jump line="76" column="23" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/util/Sharded.java" />
@@ -1002,19 +1010,21 @@
       <jump line="161" column="35" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/DeployController.java" />
       <jump line="42" column="18" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/DeployController.java" />
       <jump line="165" column="44" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/DeployController.java" />
+      <jump line="290" column="42" filename="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/SessionController.java" />
+      <jump line="2007" column="24" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>companyId</text>
+        <text>a</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>companyId</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZyZXNoQnJhbmNoXD4=</text>
@@ -1023,28 +1033,28 @@
         <text encoding="base64">ICAgICAgICBhcHBOYW1lIDogJCgiI2FwcE5hbWUiKS52YWwoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgY21kID0gInNoICIrZmlsZVBhdGggKyBjb2RlTmFtZTsK</text>
+        <text encoding="base64">ICAgICAgICBpZihqKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZmlsZVBhdGggPSBnZXRTaGVsbFBhdGgoImJyYW5jaF9saXN0LnNoICAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgY21kID0gInNoICIrZmlsZVBhdGggKyBjb2RlTmFtZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZmlsZVBhdGggPSBnZXRTaGVsbFBhdGgoImJyYW5jaF9saXN0LnNoICAiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21pemVkUHJvcGVydHlDb25maWd1cmVyLmdldENvbnRleHRQcm9wZXJ0eSgiIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL2dldCBhcHAKICAgICAgICBBcHAgYXBwID0gYXBwU2VydmljZS5maW5kQnlOYW1lKGNvbXBhbnlJZCwgYXBwTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21pemVkUHJvcGVydHlDb25maWd1cmVyLmdldENvbnRleHRQcm9wZXJ0eSgiIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CTxpbnB1dCB0eXBlPSJoaWRkZW4iIGlkPSJtb2RlbCIgdmFsdWU9Int7bW9kZWx9fSIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAvL2dldCBhcHAKICAgICAgICBBcHAgYXBwID0gYXBwU2VydmljZS5maW5kQnlOYW1lKGNvbXBhbnlJZCwgYXBwTmFtZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2dldCBwcm9qZWN0CiAgICAgICAgUHJvamVjdCBwcm9qZWN0ID0gcHJvamVjdFNlcnZpY2UuZmluZEJ5SWQoYXBwLmdldFByb2plY3RJZCgpKTsK</text>
+        <text encoding="base64">CTxpbnB1dCB0eXBlPSJoaWRkZW4iIGlkPSJtb2RlbCIgdmFsdWU9Int7bW9kZWx9fSIgLz4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1200,10 +1210,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL2dldCBhcHAKICAgICAgICBBcHAgYXBwID0gYXBwU2VydmljZS5maW5kQnlJZChhcHBJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2dldCBwcm9qZWN0CiAgICAgICAgUHJvamVjdCBwcm9qZWN0ID0gcHJvamVjdFNlcnZpY2UuZmluZEJ5SWQoYXBwLmdldFByb2plY3RJZCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2dldCBhcHAKICAgICAgICBBcHAgYXBwID0gYXBwU2VydmljZS5maW5kQnlJZChhcHBJZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
