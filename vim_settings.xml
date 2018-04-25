@@ -162,8 +162,8 @@
       <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/net/netty/example/http/HttpSnoopServerInitializer.java" timestamp="1524628195532">
         <mark key="'" line="44" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/MultithreadEventLoopGroup.class" timestamp="1524633431721">
-        <mark key="'" line="25" column="49" />
+      <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/MultithreadEventLoopGroup.class" timestamp="1524633520082">
+        <mark key="'" line="43" column="31" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/jar/Pack200.java" timestamp="1522144176418">
         <mark key="'" line="134" column="43" />
@@ -651,7 +651,6 @@
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/ChannelHandler.class" timestamp="1524628023504" />
     </filemarks>
     <jumps>
-      <jump line="54" column="43" filename="$MAVEN_REPOSITORY$/io/netty/netty/3.5.2.Final/netty-3.5.2.Final.jar!/org/jboss/netty/channel/socket/nio/NioServerSocketChannel.class" />
       <jump line="81" column="16" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/DefaultChannelProgressivePromise.class" />
       <jump line="74" column="16" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/util/concurrent/DefaultProgressivePromise.class" />
       <jump line="27" column="42" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/net/netty/DiscardServer.java" />
@@ -751,6 +750,7 @@
       <jump line="25" column="49" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/MultithreadEventLoopGroup.class" />
       <jump line="45" column="41" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/util/concurrent/MultithreadEventExecutorGroup.class" />
       <jump line="48" column="21" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/util/concurrent/MultithreadEventExecutorGroup.class" />
+      <jump line="43" column="31" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/MultithreadEventLoopGroup.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
