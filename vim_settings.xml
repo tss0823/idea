@@ -156,14 +156,14 @@
       <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/jvmstat/monitor/MonitoredVmUtil.java" timestamp="1522143824677">
         <mark key="'" line="64" column="16" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/NioEventLoopGroup.class" timestamp="1524628822882">
-        <mark key="'" line="16" column="55" />
+      <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/NioEventLoopGroup.class" timestamp="1524632648275">
+        <mark key="'" line="38" column="9" />
       </file>
       <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/net/netty/example/http/HttpSnoopServerInitializer.java" timestamp="1524628195532">
         <mark key="'" line="44" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/MultithreadEventLoopGroup.class" timestamp="1524628865682">
-        <mark key="'" line="20" column="103" />
+      <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/MultithreadEventLoopGroup.class" timestamp="1524632653769">
+        <mark key="'" line="25" column="49" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/jar/Pack200.java" timestamp="1522144176418">
         <mark key="'" line="134" column="43" />
@@ -175,7 +175,7 @@
         <mark key="." line="138" column="38" />
         <mark key="^" line="137" column="26" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/util/concurrent/EventExecutor.class" timestamp="1524630924433">
+      <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/util/concurrent/EventExecutor.class" timestamp="1524632144796">
         <mark key="'" line="13" column="49" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1524196290309">
@@ -445,6 +445,9 @@
       <file name="/u01/workspace/test123/test123-service/src/main/java/com/zhihan/test123/service/impl/UserServiceImpl.java" timestamp="1523285494940">
         <mark key="'" line="142" column="9" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/util/concurrent/MultithreadEventExecutorGroup.class" timestamp="1524632746214">
+        <mark key="'" line="48" column="21" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java" timestamp="1523935331087">
         <mark key="'" line="352" column="30" />
       </file>
@@ -560,8 +563,8 @@
       <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/java/lang/Object.java" timestamp="1522120460972">
         <mark key="'" line="501" column="11" />
       </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/net/netty/DiscardServer.java" timestamp="1524628096723">
-        <mark key="'" line="30" column="40" />
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/net/netty/DiscardServer.java" timestamp="1524632544869">
+        <mark key="'" line="24" column="48" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Thread.java" timestamp="1523946908621">
         <mark key="'" line="1389" column="28" />
@@ -648,13 +651,6 @@
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/ChannelHandler.class" timestamp="1524628023504" />
     </filemarks>
     <jumps>
-      <jump line="42" column="18" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/DeployController.java" />
-      <jump line="165" column="44" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/DeployController.java" />
-      <jump line="290" column="42" filename="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/SessionController.java" />
-      <jump line="2007" column="24" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
-      <jump line="32" column="48" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/proxy/nio2/NIOSocketServer.java" />
-      <jump line="75" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/channels/ServerSocketChannel.java" />
-      <jump line="113" column="26" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/channels/DatagramChannel.java" />
       <jump line="54" column="43" filename="$MAVEN_REPOSITORY$/io/netty/netty/3.5.2.Final/netty-3.5.2.Final.jar!/org/jboss/netty/channel/socket/nio/NioServerSocketChannel.class" />
       <jump line="81" column="16" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/DefaultChannelProgressivePromise.class" />
       <jump line="74" column="16" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/util/concurrent/DefaultProgressivePromise.class" />
@@ -731,7 +727,6 @@
       <jump line="61" column="18" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/bootstrap/ServerBootstrap.class" />
       <jump line="61" column="20" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/bootstrap/AbstractBootstrap.class" />
       <jump line="67" column="25" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/bootstrap/ServerBootstrap.class" />
-      <jump line="24" column="17" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/net/netty/DiscardServer.java" />
       <jump line="30" column="40" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/net/netty/DiscardServer.java" />
       <jump line="54" column="18" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/net/netty/example/http/HttpSnoopServer.java" />
       <jump line="262" column="28" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/bootstrap/AbstractBootstrap.class" />
@@ -748,6 +743,14 @@
       <jump line="17" column="56" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/util/concurrent/EventExecutorGroup.class" />
       <jump line="93" column="54" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledExecutorService.java" />
       <jump line="136" column="44" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java" />
+      <jump line="24" column="48" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/net/netty/DiscardServer.java" />
+      <jump line="18" column="9" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/NioEventLoopGroup.class" />
+      <jump line="22" column="9" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/NioEventLoopGroup.class" />
+      <jump line="30" column="9" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/NioEventLoopGroup.class" />
+      <jump line="38" column="9" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/NioEventLoopGroup.class" />
+      <jump line="25" column="49" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/MultithreadEventLoopGroup.class" />
+      <jump line="45" column="41" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/util/concurrent/MultithreadEventExecutorGroup.class" />
+      <jump line="48" column="21" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/util/concurrent/MultithreadEventExecutorGroup.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
