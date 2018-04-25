@@ -103,6 +103,9 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java" timestamp="1524131859846">
         <mark key="'" line="269" column="22" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/channels/ServerSocketChannel.java" timestamp="1524575127250">
+        <mark key="'" line="75" column="22" />
+      </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/common/bo/ApplicationBo.java" timestamp="1523155864757">
         <mark key="'" line="25" column="30" />
       </file>
@@ -384,8 +387,8 @@
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/UserServiceImpl.java" timestamp="1522934305124">
         <mark key="'" line="71" column="16" />
       </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/proxy/nio2/NIOSocketServer.java" timestamp="1523344127201">
-        <mark key="'" line="41" column="62" />
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/proxy/nio2/NIOSocketServer.java" timestamp="1524575123037">
+        <mark key="'" line="32" column="48" />
       </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/common/db/DbBuilderFactory.java" timestamp="1523285757878">
         <mark key="'" line="38" column="20" />
@@ -520,6 +523,9 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/channels/FileChannel.java" timestamp="1523327358238">
         <mark key="'" line="155" column="25" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/channels/DatagramChannel.java" timestamp="1524575144665">
+        <mark key="'" line="113" column="26" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-dal/src/main/java/com/yuntao/zhushou/dal/config/ApplicationConfig.java" timestamp="1524488794895" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Error.java" timestamp="1522807541826">
@@ -682,9 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="8" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/util/Sharded.java" />
-      <jump line="74" column="30" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/util/Sharded.java" />
-      <jump line="76" column="23" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/util/Sharded.java" />
       <jump line="100" column="46" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/util/Sharded.java" />
       <jump line="51" column="4" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/util/Sharded.java" />
       <jump line="59" column="11" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/util/Sharded.java" />
@@ -782,6 +785,9 @@
       <jump line="165" column="44" filename="/u01/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/DeployController.java" />
       <jump line="290" column="42" filename="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/SessionController.java" />
       <jump line="2007" column="24" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/impl/CourseServiceImpl.java" />
+      <jump line="32" column="48" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/proxy/nio2/NIOSocketServer.java" />
+      <jump line="75" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/channels/ServerSocketChannel.java" />
+      <jump line="113" column="26" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/channels/DatagramChannel.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
