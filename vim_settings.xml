@@ -476,6 +476,7 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/support/FailbackRegistry.java" timestamp="1524712954412">
         <mark key="'" line="188" column="18" />
       </file>
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/rocketMQ/Producer.java" timestamp="1524738598615" />
       <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/net/netty/example/http/HttpSnoopServerHandler.java" timestamp="1524628203245">
         <mark key="'" line="46" column="58" />
       </file>
@@ -776,6 +777,9 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1524044340708">
         <mark key="'" line="143" column="40" />
       </file>
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/rocketMQ/Consumer.java" timestamp="1524738643361">
+        <mark key="'" line="28" column="28" />
+      </file>
       <file name="/u01/workspace/template/_appEnName_-dal/src/main/resources/env/config-dev.properties" timestamp="1524389205443">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="6" column="0" />
@@ -1045,7 +1049,6 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverClusterInvoker.class" timestamp="1524728221837" />
     </filemarks>
     <jumps>
-      <jump line="20" column="103" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/MultithreadEventLoopGroup.class" />
       <jump line="13" column="48" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/EventLoopGroup.class" />
       <jump line="17" column="56" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/util/concurrent/EventExecutorGroup.class" />
       <jump line="93" column="54" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledExecutorService.java" />
@@ -1145,6 +1148,7 @@
       <jump line="611" column="38" filename="$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar!/org/jboss/netty/channel/Channels.java" />
       <jump line="30" column="53" filename="$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar!/org/jboss/netty/channel/DownstreamMessageEvent.java" />
       <jump line="141" column="41" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/remoting/transport/netty/NettyCodecAdapter.class" />
+      <jump line="28" column="28" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/rocketMQ/Consumer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
