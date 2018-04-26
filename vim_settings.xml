@@ -78,8 +78,8 @@
         <mark key="'" line="14" column="18" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/index.html" timestamp="1524477275257" />
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/URL.java" timestamp="1524711112059">
-        <mark key="'" line="1372" column="30" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/URL.java" timestamp="1524714863612">
+        <mark key="'" line="1167" column="23" />
       </file>
       <file name="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/BaseController.java" timestamp="1523284656346">
         <mark key="'" line="2" column="52" />
@@ -124,7 +124,7 @@
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/bootstrap/AbstractBootstrap.class" timestamp="1524627952309">
         <mark key="'" line="262" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" timestamp="1524713017711">
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" timestamp="1524714606466">
         <mark key="'" line="43" column="65" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-web/client/src/main/resources/script/deploy.sh" timestamp="1524478917743" />
@@ -133,6 +133,9 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1524127219789">
         <mark key="'" line="241" column="30" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/codec/ExchangeCodec.java" timestamp="1524714694409">
+        <mark key="'" line="105" column="28" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/job/CheckServerStatusJob.java" timestamp="1524490126250">
         <mark key="'" line="123" column="80" />
@@ -361,6 +364,9 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java" timestamp="1524131859846">
         <mark key="'" line="269" column="22" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/telnet/codec/TelnetCodec.java" timestamp="1524714731111">
+        <mark key="'" line="172" column="44" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/channels/ServerSocketChannel.java" timestamp="1524575127250">
         <mark key="'" line="75" column="22" />
       </file>
@@ -378,6 +384,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/zookeeper/curator/CuratorZookeeperClient.java" timestamp="1524710301938">
         <mark key="'" line="66" column="15" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboProtocol.java" timestamp="1524714815113">
+        <mark key="'" line="361" column="46" />
       </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/common/bo/PropertyBo.java" timestamp="1523155405459">
         <mark key="'" line="24" column="30" />
@@ -637,14 +646,6 @@
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/ChannelHandler.class" timestamp="1524628023504" />
     </filemarks>
     <jumps>
-      <jump line="255" column="23" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/AbstractNioChannel.class" />
-      <jump line="258" column="24" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/AbstractNioChannel.class" />
-      <jump line="259" column="24" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/AbstractNioChannel.class" />
-      <jump line="260" column="51" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/AbstractNioChannel.class" />
-      <jump line="262" column="75" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/AbstractNioChannel.class" />
-      <jump line="264" column="68" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/AbstractNioChannel.class" />
-      <jump line="277" column="39" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/AbstractNioChannel.class" />
-      <jump line="278" column="40" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/AbstractNioChannel.class" />
       <jump line="281" column="36" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/AbstractNioChannel.class" />
       <jump line="299" column="33" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/AbstractNioChannel.class" />
       <jump line="50" column="12" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/AbstractNioChannel.class" />
@@ -737,6 +738,14 @@
       <jump line="60" column="52" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryDirectory.java" />
       <jump line="39" column="57" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/cluster/directory/AbstractDirectory.java" />
       <jump line="188" column="18" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/support/FailbackRegistry.java" />
+      <jump line="91" column="45" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/codec/ExchangeCodec.java" />
+      <jump line="105" column="28" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/codec/ExchangeCodec.java" />
+      <jump line="172" column="44" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/telnet/codec/TelnetCodec.java" />
+      <jump line="361" column="46" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboProtocol.java" />
+      <jump line="917" column="20" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/URL.java" />
+      <jump line="1060" column="30" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/URL.java" />
+      <jump line="1126" column="23" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/URL.java" />
+      <jump line="1167" column="23" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/URL.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
