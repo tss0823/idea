@@ -64,8 +64,8 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/rpc/proxy/InvokerInvocationHandler.class" timestamp="1524727910394">
         <mark key="'" line="22" column="81" />
       </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/thread/ThreadPoolExecutorTest.java" timestamp="1523933528534">
-        <mark key="'" line="31" column="19" />
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/thread/ThreadPoolExecutorTest.java" timestamp="1524832565917">
+        <mark key="'" line="12" column="42" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/WsMsgHandlerServiceImpl.java" timestamp="1524469454572">
         <mark key="'" line="156" column="84" />
@@ -490,8 +490,8 @@
       <file name="$USER_HOME$/Downloads/play-1.4.5/modules/play_base/app/vos/OneData.java" timestamp="1520761023172">
         <mark key="'" line="20" column="31" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1523935135556">
-        <mark key="'" line="623" column="18" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1524832599531">
+        <mark key="'" line="550" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/AbstractChannelHandlerContext.class" timestamp="1524624196778">
         <mark key="'" line="27" column="67" />
@@ -710,9 +710,6 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverClusterInvoker.class" timestamp="1524728221837" />
     </filemarks>
     <jumps>
-      <jump line="354" column="38" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryProtocol.java" />
-      <jump line="367" column="44" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryProtocol.java" />
-      <jump line="44" column="46" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/zookeeper/ZookeeperRegistry.java" />
       <jump line="41" column="56" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/support/FailbackRegistry.java" />
       <jump line="56" column="55" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/support/AbstractRegistry.java" />
       <jump line="82" column="24" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" />
@@ -810,6 +807,9 @@
       <jump line="376" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java" />
       <jump line="521" column="30" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java" />
       <jump line="9" column="13" filename="$MAVEN_REPOSITORY$/com/alibaba/rocketmq/rocketmq-client/3.2.6/rocketmq-client-3.2.6.jar!/com/alibaba/rocketmq/client/consumer/listener/ConsumeConcurrentlyStatus.class" />
+      <jump line="12" column="42" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/thread/ThreadPoolExecutorTest.java" />
+      <jump line="1202" column="49" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="550" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
