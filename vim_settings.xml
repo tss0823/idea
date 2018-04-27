@@ -147,6 +147,9 @@
       <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/encrypt/aes/b_AES.java" timestamp="1517487439097">
         <mark key="'" line="57" column="40" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/rocketmq/rocketmq-client/3.2.6/rocketmq-client-3.2.6.jar!/com/alibaba/rocketmq/client/consumer/listener/ConsumeConcurrentlyStatus.class" timestamp="1524818481496">
+        <mark key="'" line="9" column="13" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/zookeeper/curator/CuratorZookeeperClient.java" timestamp="1524710301938">
         <mark key="'" line="66" column="15" />
       </file>
@@ -162,6 +165,7 @@
       <file name="$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar!/org/jboss/netty/channel/DefaultChannelPipeline.java" timestamp="1524733977262">
         <mark key="'" line="569" column="37" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/rocketmq/rocketmq-common/3.2.6/rocketmq-common-3.2.6.jar!/com/alibaba/rocketmq/common/protocol/heartbeat/MessageModel.class" timestamp="1524818428914" />
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/EventLoopGroup.class" timestamp="1524628866756">
         <mark key="'" line="13" column="48" />
       </file>
@@ -221,7 +225,7 @@
       <file name="$USER_HOME$/Downloads/play-1.4.5/modules/play_base/app/controllers/BaseController.java" timestamp="1521712443550">
         <mark key="'" line="137" column="38" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" timestamp="1524747163046">
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" timestamp="1524818436833">
         <mark key="'" line="208" column="39" />
       </file>
       <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/jedis/ShardedJedis.java" timestamp="1524197420511">
@@ -706,7 +710,6 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverClusterInvoker.class" timestamp="1524728221837" />
     </filemarks>
     <jumps>
-      <jump line="1372" column="30" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/URL.java" />
       <jump line="354" column="38" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryProtocol.java" />
       <jump line="367" column="44" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryProtocol.java" />
       <jump line="44" column="46" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/zookeeper/ZookeeperRegistry.java" />
@@ -806,6 +809,7 @@
       <jump line="1923" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/DualPivotQuicksort.java" />
       <jump line="376" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java" />
       <jump line="521" column="30" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java" />
+      <jump line="9" column="13" filename="$MAVEN_REPOSITORY$/com/alibaba/rocketmq/rocketmq-client/3.2.6/rocketmq-client-3.2.6.jar!/com/alibaba/rocketmq/client/consumer/listener/ConsumeConcurrentlyStatus.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
