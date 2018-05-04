@@ -37,6 +37,9 @@
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/DefaultChannelPipeline.class" timestamp="1524623979619">
         <mark key="'" line="940" column="25" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/alipay/util/AlipayNotify.java" timestamp="1525420855299">
+        <mark key="'" line="71" column="23" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/Registry.java" timestamp="1524710758887">
         <mark key="'" line="27" column="51" />
       </file>
@@ -312,6 +315,7 @@
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/bootstrap/AbstractBootstrap.class" timestamp="1524627952309">
         <mark key="'" line="262" column="28" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/alipay/impl/AlipayNotifyServiceImpl.java" timestamp="1525420724796" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" timestamp="1524714606466">
         <mark key="'" line="43" column="65" />
       </file>
@@ -596,6 +600,7 @@
       <file name="$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar!/org/jboss/netty/channel/DownstreamMessageEvent.java" timestamp="1524733950966">
         <mark key="'" line="30" column="53" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/alipay/sign/MD5.java" timestamp="1525420815589" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java" timestamp="1524131840754">
         <mark key="'" line="235" column="26" />
       </file>
@@ -604,6 +609,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/SingleThreadEventLoop.class" timestamp="1524643636478">
         <mark key="'" line="19" column="94" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/security/Signature.java" timestamp="1525420898672">
+        <mark key="'" line="216" column="49" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/nio/AbstractNioMessageChannel.class" timestamp="1524626389831">
         <mark key="'" line="24" column="10" />
@@ -681,6 +689,9 @@
       <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/cache/impl/JedisCacheServiceImpl.java" timestamp="1524646397056">
         <mark key="'" line="29" column="19" />
       </file>
+      <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/alipay/sign/RSA.java" timestamp="1525420890930">
+        <mark key="'" line="63" column="27" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/SimpleChannelInboundHandler.class" timestamp="1524628208671">
         <mark key="'" line="12" column="73" />
       </file>
@@ -723,12 +734,6 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverClusterInvoker.class" timestamp="1524728221837" />
     </filemarks>
     <jumps>
-      <jump line="112" column="20" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" />
-      <jump line="59" column="34" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" />
-      <jump line="129" column="30" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" />
-      <jump line="129" column="18" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/support/FailbackRegistry.java" />
-      <jump line="61" column="11" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" />
-      <jump line="37" column="3" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" />
       <jump line="41" column="13" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" />
       <jump line="43" column="65" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" />
       <jump line="72" column="19" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistryFactory.java" />
@@ -823,6 +828,12 @@
       <jump line="46" column="42" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/misc/BASE64Encoder.java" />
       <jump line="322" column="16" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/misc/CharacterEncoder.java" />
       <jump line="63" column="30" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/misc/BASE64Encoder.java" />
+      <jump line="43" column="33" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/alipay/util/AlipayNotify.java" />
+      <jump line="67" column="29" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/alipay/util/AlipayNotify.java" />
+      <jump line="68" column="29" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/alipay/util/AlipayNotify.java" />
+      <jump line="71" column="23" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/alipay/util/AlipayNotify.java" />
+      <jump line="63" column="27" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/alipay/sign/RSA.java" />
+      <jump line="216" column="49" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/security/Signature.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
