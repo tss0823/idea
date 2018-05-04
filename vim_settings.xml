@@ -123,7 +123,7 @@
       <file name="/u01/workspace/fitness/fitness-model/src/main/java/com/doublefit/fitness/model/domain/User.java" timestamp="1523284150733">
         <mark key="'" line="147" column="19" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java" timestamp="1522810008877">
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java" timestamp="1525442808218">
         <mark key="'" line="206" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/util/concurrent/EventExecutorGroup.class" timestamp="1524628878229">
@@ -431,6 +431,9 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/KQueueSelectorProvider.class" timestamp="1523268682457">
         <mark key="'" line="17" column="31" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/IOUtil.java" timestamp="1525442783909">
+        <mark key="'" line="219" column="22" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/MultithreadEventLoopGroup.class" timestamp="1524633520082">
         <mark key="'" line="43" column="31" />
       </file>
@@ -455,7 +458,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java" timestamp="1524750301342">
         <mark key="'" line="712" column="14" />
       </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/proxy/nio2/NIOSocketServer.java" timestamp="1525440812954">
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/proxy/nio2/NIOSocketServer.java" timestamp="1525442685599">
         <mark key="'" line="32" column="48" />
         <mark key="[" line="35" column="69" />
         <mark key="]" line="35" column="11" />
@@ -468,8 +471,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1524024105645">
         <mark key="'" line="303" column="19" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/SocketChannelImpl.java" timestamp="1523268395978">
-        <mark key="'" line="52" column="7" />
+      <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/SocketChannelImpl.java" timestamp="1525442851881">
+        <mark key="'" line="50" column="29" />
       </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/web/ApiController.java" timestamp="1523068073407">
         <mark key="'" line="48" column="14" />
@@ -743,13 +746,6 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverClusterInvoker.class" timestamp="1524728221837" />
     </filemarks>
     <jumps>
-      <jump line="60" column="52" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryDirectory.java" />
-      <jump line="39" column="57" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/cluster/directory/AbstractDirectory.java" />
-      <jump line="188" column="18" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/support/FailbackRegistry.java" />
-      <jump line="91" column="45" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/codec/ExchangeCodec.java" />
-      <jump line="105" column="28" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/exchange/codec/ExchangeCodec.java" />
-      <jump line="172" column="44" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/telnet/codec/TelnetCodec.java" />
-      <jump line="361" column="46" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboProtocol.java" />
       <jump line="917" column="20" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/URL.java" />
       <jump line="1060" column="30" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/URL.java" />
       <jump line="1126" column="23" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/URL.java" />
@@ -843,6 +839,13 @@
       <jump line="96" column="17" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/javax/crypto/spec/SecretKeySpec.java" />
       <jump line="380" column="58" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/com/sun/crypto/provider/DHKeyAgreement.java" />
       <jump line="394" column="40" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/encrypt/ssl/CertificateCoder.java" />
+      <jump line="288" column="31" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/SocketChannelImpl.java" />
+      <jump line="290" column="12" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/SocketChannelImpl.java" />
+      <jump line="374" column="37" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/SocketChannelImpl.java" />
+      <jump line="50" column="29" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/SocketChannelImpl.java" />
+      <jump line="196" column="30" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/IOUtil.java" />
+      <jump line="219" column="22" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/IOUtil.java" />
+      <jump line="206" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -858,7 +861,7 @@
         <text>9090</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZW1fYXJyYXlcPg==</text>
+        <text encoding="base64">XDxidWZcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhcHBOYW1lIDogJCgiI2FwcE5hbWUiKS52YWwoKSwK</text>
@@ -1051,9 +1054,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZW1fYXJyYXlcPg==</last-search>
+      <last-search encoding="base64">XDxidWZcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZW1fYXJyYXlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxidWZcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaGdkaWFsb2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1061,7 +1064,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxub2Rlc1w+</entry>
         <entry encoding="base64">XDxkaXNhYmxlZFw+</entry>
         <entry encoding="base64">XDxvcGVuTXNnV2luXD4=</entry>
         <entry encoding="base64">XDxkb3dubG9hZFw+</entry>
@@ -1081,6 +1083,7 @@
         <entry encoding="base64">XDxxdWV1ZVw+</entry>
         <entry encoding="base64">XDxSZWZlcmVuY2VRdWV1ZVw+</entry>
         <entry encoding="base64">XDxwZW1fYXJyYXlcPg==</entry>
+        <entry encoding="base64">XDxidWZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
