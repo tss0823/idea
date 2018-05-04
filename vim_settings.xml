@@ -430,6 +430,9 @@
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/util/concurrent/EventExecutor.class" timestamp="1524632144796">
         <mark key="'" line="13" column="49" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/misc/CharacterEncoder.java" timestamp="1525414774703">
+        <mark key="'" line="322" column="16" />
+      </file>
       <file name="/u01/workspace/mcsh/mcsh_app/app/controllers/admin/ConferenceController.java" timestamp="1520761033656">
         <mark key="'" line="93" column="42" />
       </file>
@@ -614,6 +617,9 @@
       <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/jedis/ShardedJedisPool.java" timestamp="1524196941981">
         <mark key="'" line="81" column="38" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/misc/BASE64Encoder.java" timestamp="1525414825690">
+        <mark key="'" line="63" column="30" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.34/mysql-connector-java-5.1.34.jar!/com/mysql/jdbc/ConnectionImpl.class" timestamp="1523950607622">
         <mark key="'" line="439" column="28" />
       </file>
@@ -717,9 +723,6 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverClusterInvoker.class" timestamp="1524728221837" />
     </filemarks>
     <jumps>
-      <jump line="41" column="56" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/support/FailbackRegistry.java" />
-      <jump line="56" column="55" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/support/AbstractRegistry.java" />
-      <jump line="82" column="24" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" />
       <jump line="112" column="20" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" />
       <jump line="59" column="34" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" />
       <jump line="129" column="30" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" />
@@ -817,6 +820,9 @@
       <jump line="12" column="42" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/thread/ThreadPoolExecutorTest.java" />
       <jump line="1202" column="49" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
       <jump line="550" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="46" column="42" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/misc/BASE64Encoder.java" />
+      <jump line="322" column="16" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/misc/CharacterEncoder.java" />
+      <jump line="63" column="30" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/misc/BASE64Encoder.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -832,7 +838,7 @@
         <text>9090</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWZlcmVuY2VRdWV1ZVw+</text>
+        <text encoding="base64">XDxwZW1fYXJyYXlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhcHBOYW1lIDogJCgiI2FwcE5hbWUiKS52YWwoKSwK</text>
@@ -1025,9 +1031,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZWZlcmVuY2VRdWV1ZVw+</last-search>
+      <last-search encoding="base64">XDxwZW1fYXJyYXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWZlcmVuY2VRdWV1ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwZW1fYXJyYXlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaGdkaWFsb2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1035,7 +1041,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzeW5jXD4=</entry>
         <entry encoding="base64">XDxub2Rlc1w+</entry>
         <entry encoding="base64">XDxkaXNhYmxlZFw+</entry>
         <entry encoding="base64">XDxvcGVuTXNnV2luXD4=</entry>
@@ -1055,6 +1060,7 @@
         <entry encoding="base64">XDx0aHJlc2hvbGRcPg==</entry>
         <entry encoding="base64">XDxxdWV1ZVw+</entry>
         <entry encoding="base64">XDxSZWZlcmVuY2VRdWV1ZVw+</entry>
+        <entry encoding="base64">XDxwZW1fYXJyYXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
