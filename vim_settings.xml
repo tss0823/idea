@@ -322,6 +322,9 @@
       <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/util/Pool.java" timestamp="1524196919460">
         <mark key="'" line="22" column="9" />
       </file>
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/encrypt/ssl/CertificateCoder.java" timestamp="1525425620886">
+        <mark key="'" line="394" column="40" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/8.0.5/tomcat-catalina-8.0.5-sources.jar!/org/apache/catalina/valves/AbstractAccessLogValve.java" timestamp="1523865157643">
         <mark key="'" line="609" column="22" />
       </file>
@@ -728,7 +731,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1524452952189">
         <mark key="'" line="289" column="28" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/com/sun/crypto/provider/DHKeyAgreement.java" timestamp="1525421963478">
+      <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/com/sun/crypto/provider/DHKeyAgreement.java" timestamp="1525425531995">
         <mark key="'" line="380" column="58" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/DefaultSelectorProvider.class" timestamp="1523268680434">
@@ -740,7 +743,6 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverClusterInvoker.class" timestamp="1524728221837" />
     </filemarks>
     <jumps>
-      <jump line="72" column="19" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistryFactory.java" />
       <jump line="60" column="52" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryDirectory.java" />
       <jump line="39" column="57" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/cluster/directory/AbstractDirectory.java" />
       <jump line="188" column="18" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/support/FailbackRegistry.java" />
@@ -840,6 +842,7 @@
       <jump line="216" column="49" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/security/Signature.java" />
       <jump line="96" column="17" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/javax/crypto/spec/SecretKeySpec.java" />
       <jump line="380" column="58" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/com/sun/crypto/provider/DHKeyAgreement.java" />
+      <jump line="394" column="40" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/encrypt/ssl/CertificateCoder.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
