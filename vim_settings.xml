@@ -471,7 +471,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1524024105645">
         <mark key="'" line="303" column="19" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/SocketChannelImpl.java" timestamp="1525442851881">
+      <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/SocketChannelImpl.java" timestamp="1525514445670">
         <mark key="'" line="50" column="29" />
       </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/web/ApiController.java" timestamp="1523068073407">
@@ -543,8 +543,8 @@
       <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/net/netty/DiscardServer.java" timestamp="1525229795889">
         <mark key="'" line="36" column="40" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Thread.java" timestamp="1523946908621">
-        <mark key="'" line="1389" column="28" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Thread.java" timestamp="1525514550213">
+        <mark key="'" line="1325" column="9" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java" timestamp="1524452189788">
         <mark key="'" line="88" column="31" />
@@ -746,9 +746,6 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverClusterInvoker.class" timestamp="1524728221837" />
     </filemarks>
     <jumps>
-      <jump line="917" column="20" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/URL.java" />
-      <jump line="1060" column="30" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/URL.java" />
-      <jump line="1126" column="23" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/URL.java" />
       <jump line="1167" column="23" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/common/URL.java" />
       <jump line="48" column="33" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/pili/RPC.java" />
       <jump line="184" column="12" filename="/u01/workspace/raytest/src/main/java/net/sourceforge/jpcap/client/CaptureTool.java" />
@@ -846,6 +843,9 @@
       <jump line="196" column="30" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/IOUtil.java" />
       <jump line="219" column="22" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/IOUtil.java" />
       <jump line="206" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java" />
+      <jump line="1251" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
+      <jump line="1250" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
+      <jump line="1325" column="9" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
