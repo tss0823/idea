@@ -333,11 +333,11 @@
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/bootstrap/AbstractBootstrap.class" timestamp="1524627952309">
         <mark key="'" line="262" column="28" />
       </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/TLink.java" timestamp="1525685884418">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-        <mark key="." line="11" column="20" />
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/TLink.java" timestamp="1525687295028">
+        <mark key="[" line="72" column="18" />
+        <mark key="]" line="72" column="18" />
+        <mark key="." line="72" column="18" />
+        <mark key="^" line="72" column="18" />
       </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/alipay/impl/AlipayNotifyServiceImpl.java" timestamp="1525420724796" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" timestamp="1524714606466">
@@ -555,8 +555,8 @@
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/service/impl/ApplicationServiceImpl.java" timestamp="1523285642306">
         <mark key="'" line="235" column="39" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" timestamp="1525685927593">
-        <mark key="'" line="280" column="15" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" timestamp="1525686421783">
+        <mark key="'" line="337" column="13" />
       </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/service/impl/PropertyServiceImpl.java" timestamp="1523067982898">
         <mark key="'" line="159" column="26" />
@@ -740,10 +740,10 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/dubbo/DubboRegistryFactory.java" timestamp="1524712906011">
         <mark key="'" line="72" column="19" />
       </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/TArray.java" timestamp="1525685308627">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/TArray.java" timestamp="1525686807565">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
         <mark key="^" line="37" column="26" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/DefaultSelectorProvider.class" timestamp="1523268555721">
@@ -779,7 +779,6 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverClusterInvoker.class" timestamp="1524728221837" />
     </filemarks>
     <jumps>
-      <jump line="570" column="65" filename="$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar!/org/jboss/netty/channel/DefaultChannelPipeline.java" />
       <jump line="42" column="19" filename="$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar!/org/jboss/netty/channel/DownstreamMessageEvent.java" />
       <jump line="50" column="12" filename="$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar!/org/jboss/netty/channel/DownstreamMessageEvent.java" />
       <jump line="51" column="44" filename="$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar!/org/jboss/netty/channel/DownstreamMessageEvent.java" />
@@ -879,49 +878,51 @@
       <jump line="434" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
       <jump line="421" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
       <jump line="280" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
+      <jump line="337" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>First</text>
+        <text>2</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>First</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGRlbGV0ZShUIG5vZGUpe30K</text>
+        <text encoding="base64">ICAgICAgICBOb2RlIG5vZGUgPSBoZWFkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZChUIG5vZGUpe30K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFkZCgiMyIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZShoZWFkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>else{
+        }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihpbmRleCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VyTm9kZS5wcmV2ID0gdGFpbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0YWlsID0gY3VyTm9kZTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1077,10 +1078,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgTm9kZXsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
