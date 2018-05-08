@@ -138,6 +138,9 @@
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/common/bo/ApplicationBo.java" timestamp="1523155864757">
         <mark key="'" line="25" column="30" />
       </file>
+      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/interceptor/ParameterInterceptor.java" timestamp="1525765730428">
+        <mark key="'" line="9" column="49" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-transport/4.0.34.Final/netty-transport-4.0.34.Final.jar!/io/netty/channel/AbstractChannelHandlerContext.class" timestamp="1524624241026">
         <mark key="'" line="389" column="54" />
       </file>
@@ -167,6 +170,13 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Arrays.java" timestamp="1524044623664">
         <mark key="'" line="1505" column="14" />
+      </file>
+      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/auth/AuthAspect.java" timestamp="1525765679455">
+        <mark key="'" line="47" column="7" />
+        <mark key="[" line="105" column="24" />
+        <mark key="]" line="105" column="24" />
+        <mark key="." line="105" column="24" />
+        <mark key="^" line="105" column="24" />
       </file>
       <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/encrypt/aes/b_AES.java" timestamp="1517487439097">
         <mark key="'" line="57" column="40" />
@@ -227,6 +237,7 @@
         <mark key="'" line="140" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/remoting/transport/netty/NettyChannel.class" timestamp="1524734019263" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.3.RELEASE/spring-webmvc-4.0.3.RELEASE-sources.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.java" timestamp="1525765462881" />
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/log/appLog.js" timestamp="1523520961801">
         <mark key="[" line="24" column="88" />
       </file>
@@ -447,6 +458,7 @@
       <file name="/fragment.java" timestamp="1524728842406">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4-sources.jar!/org/aspectj/lang/annotation/Around.java" timestamp="1525765692086" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1524747863974">
         <mark key="'" line="630" column="25" />
       </file>
@@ -541,6 +553,13 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java" timestamp="1524750301342">
         <mark key="'" line="712" column="14" />
+      </file>
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/proxy/nio2/NIOSocketServer.java" timestamp="1525442685599">
+        <mark key="'" line="32" column="48" />
+        <mark key="[" line="35" column="69" />
+        <mark key="]" line="35" column="11" />
+        <mark key="." line="35" column="11" />
+        <mark key="^" line="35" column="11" />
       </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/common/db/DbBuilderFactory.java" timestamp="1523285757878">
         <mark key="'" line="38" column="20" />
@@ -857,9 +876,6 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverClusterInvoker.class" timestamp="1524728221837" />
     </filemarks>
     <jumps>
-      <jump line="215" column="45" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java" />
-      <jump line="273" column="29" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java" />
-      <jump line="63" column="43" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ref/SoftReference.java" />
       <jump line="93" column="20" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java" />
       <jump line="111" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ref/SoftReference.java" />
       <jump line="84" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ref/SoftReference.java" />
@@ -957,6 +973,9 @@
       <jump line="94" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/AbstractQueue.java" />
       <jump line="403" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
       <jump line="353" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
+      <jump line="9" column="49" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/interceptor/ParameterInterceptor.java" />
+      <jump line="29" column="6" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/auth/AuthAspect.java" />
+      <jump line="47" column="7" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/auth/AuthAspect.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
