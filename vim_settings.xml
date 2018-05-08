@@ -765,6 +765,9 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java" timestamp="1524452189788">
         <mark key="'" line="88" column="31" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/Collections.java" timestamp="1525774391855">
+        <mark key="'" line="258" column="39" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Queue.java" timestamp="1525688849564" />
       <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/SelectorImpl.java" timestamp="1523268302028">
         <mark key="'" line="111" column="30" />
@@ -875,7 +878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="307" column="61" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java" />
       <jump line="56" column="9" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ref/WeakReference.java" />
       <jump line="504" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java" />
       <jump line="465" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java" />
@@ -975,6 +977,7 @@
       <jump line="46" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.3.RELEASE/spring-web-4.0.3.RELEASE-sources.jar!/org/springframework/web/context/AbstractContextLoaderInitializer.java" />
       <jump line="56" column="59" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.3.RELEASE/spring-web-4.0.3.RELEASE-sources.jar!/org/springframework/web/context/AbstractContextLoaderInitializer.java" />
       <jump line="18" column="5" filename="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/config/WebMvcConfig.java" />
+      <jump line="258" column="39" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
