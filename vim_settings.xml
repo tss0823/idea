@@ -40,8 +40,8 @@
         <mark key="'" line="14" column="54" />
       </file>
       <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/dubbo/DemoServiceImpl.java" timestamp="1524732953213" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1524123911898">
-        <mark key="'" line="2508" column="4" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1525746759647">
+        <mark key="'" line="909" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/DefaultChannelPipeline.class" timestamp="1524623979619">
         <mark key="'" line="940" column="25" />
@@ -64,8 +64,8 @@
       <file name="$USER_HOME$/Downloads/play-1.4.5/modules/play_base/app/models/token/BasePerson.java" timestamp="1523278873118">
         <mark key="'" line="15" column="44" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1524048303554">
-        <mark key="'" line="353" column="17" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1525747109888">
+        <mark key="'" line="353" column="16" />
       </file>
       <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/tools/jar/Main.java" timestamp="1522144257044">
         <mark key="'" line="173" column="43" />
@@ -542,13 +542,6 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java" timestamp="1524750301342">
         <mark key="'" line="712" column="14" />
       </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/proxy/nio2/NIOSocketServer.java" timestamp="1525442685599">
-        <mark key="'" line="32" column="48" />
-        <mark key="[" line="35" column="69" />
-        <mark key="]" line="35" column="11" />
-        <mark key="." line="35" column="11" />
-        <mark key="^" line="35" column="11" />
-      </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/common/db/DbBuilderFactory.java" timestamp="1523285757878">
         <mark key="'" line="38" column="20" />
       </file>
@@ -767,8 +760,8 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/cluster/directory/AbstractDirectory.java" timestamp="1524712911069">
         <mark key="'" line="39" column="57" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/AbstractQueue.java" timestamp="1524047593852">
-        <mark key="'" line="94" column="16" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/AbstractQueue.java" timestamp="1525746798472">
+        <mark key="'" line="94" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/ChannelFuture.class" timestamp="1524624039937">
         <mark key="'" line="12" column="6" />
@@ -864,13 +857,6 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverClusterInvoker.class" timestamp="1524728221837" />
     </filemarks>
     <jumps>
-      <jump line="141" column="41" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/remoting/transport/netty/NettyCodecAdapter.class" />
-      <jump line="28" column="28" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/rocketMQ/Consumer.java" />
-      <jump line="208" column="39" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
-      <jump line="447" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java" />
-      <jump line="448" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java" />
-      <jump line="169" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java" />
-      <jump line="97" column="40" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java" />
       <jump line="215" column="45" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java" />
       <jump line="273" column="29" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java" />
       <jump line="63" column="43" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ref/SoftReference.java" />
@@ -964,6 +950,13 @@
       <jump line="83" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Stack.java" />
       <jump line="102" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Stack.java" />
       <jump line="476" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Vector.java" />
+      <jump line="1005" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
+      <jump line="1096" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
+      <jump line="909" column="20" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
+      <jump line="311" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
+      <jump line="94" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/AbstractQueue.java" />
+      <jump line="403" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
+      <jump line="353" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
