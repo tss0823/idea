@@ -461,6 +461,12 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/telnet/codec/TelnetCodec.java" timestamp="1524714731111">
         <mark key="'" line="172" column="44" />
       </file>
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/TTree.java" timestamp="1526004367773">
+        <mark key="'" line="55" column="29" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/channels/ServerSocketChannel.java" timestamp="1524575127250">
         <mark key="'" line="75" column="22" />
       </file>
@@ -865,7 +871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="374" column="37" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/SocketChannelImpl.java" />
       <jump line="50" column="29" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/SocketChannelImpl.java" />
       <jump line="196" column="30" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/IOUtil.java" />
       <jump line="219" column="22" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/IOUtil.java" />
@@ -965,19 +970,20 @@
       <jump line="29" column="26" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/weixin/tencent/common/config/WeiXinUserConfigure.java" />
       <jump line="49" column="15" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/weixin/tencent/common/config/WeiXinUserConfigure.java" />
       <jump line="97" column="37" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/weixin/tencent/protocol/unified_order_protocol/UnifiedOrderClientReqData.java" />
+      <jump line="53" column="29" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/TTree.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>WeiXinUserConfigure</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIrc3RyLmdldEJ5dGVzKCkubGVuZ3RoKTsK</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>WeiXinUserConfigure</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0TG9jYWxQYXRoXD4=</text>
@@ -986,29 +992,28 @@
         <text encoding="base64">ICAgICAgIHB1YmxpYyBOb2RlIHJpZ2h0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIrc3RyLmdldEJ5dGVzKCkubGVuZ3RoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTm9kZSB0YWlsOwo=</text>
+        <text encoding="base64">ICAgICAgICBUVHJlZSB0TGluayA9IG5ldyBUVHJlZSgpOwogICAgICAgIHRMaW5rLmFkZCgzKTsKICAgICAgICB0TGluay5hZGQoMSk7CiAgICAgICAgdExpbmsuYWRkKDkpOwogICAgICAgIHRMaW5rLmFkZCg4KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFkZCgiMyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0TGluay5hZGQoMik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGYodExpbmsudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZShoZWFkKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTm9kZSB0YWlsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFkZCgiMyIpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>else{
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1164,10 +1169,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyTm9kZS5wcmV2ID0gdGFpbDsK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZShoZWFkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0YWlsID0gY3VyTm9kZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
