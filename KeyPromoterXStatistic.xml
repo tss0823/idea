@@ -569,6 +569,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'BubbleSort'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'BubbleSort'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'BurpExtender'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1254,7 +1262,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'deploy'</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'h5'">

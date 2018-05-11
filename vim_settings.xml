@@ -198,6 +198,11 @@
         <mark key="'" line="39" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/remoting/exchange/codec/ExchangeCodec.class" timestamp="1524734499779" />
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/sort/BubbleSort.java" timestamp="1526033302703">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/zookeeper/zkclient/ZkclientZookeeperClient.java" timestamp="1524710283273">
         <mark key="'" line="49" column="16" />
       </file>
@@ -461,7 +466,7 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/telnet/codec/TelnetCodec.java" timestamp="1524714731111">
         <mark key="'" line="172" column="44" />
       </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/TTree.java" timestamp="1526024565154">
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/TTree.java" timestamp="1526031380710">
         <mark key="'" line="55" column="29" />
         <mark key="[" line="58" column="9" />
         <mark key="]" line="43" column="0" />
@@ -993,13 +998,13 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIrc3RyLmdldEJ5dGVzKCkubGVuZ3RoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>num</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0TG9jYWxQYXRoXD4=</text>
@@ -1008,28 +1013,30 @@
         <text encoding="base64">ICAgICAgIHB1YmxpYyBOb2RlIHJpZ2h0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIrc3RyLmdldEJ5dGVzKCkubGVuZ3RoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUVHJlZSB0TGluayA9IG5ldyBUVHJlZSgpOwogICAgICAgIHRMaW5rLmFkZCgzKTsKICAgICAgICB0TGluay5hZGQoMSk7CiAgICAgICAgdExpbmsuYWRkKDkpOwogICAgICAgIHRMaW5rLmFkZCg4KTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbnVtID0gYXJyYXlbYXJyYXkubGVuZ3RoLTFdOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0TGluay5hZGQoMik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGYodExpbmsudG9TdHJpbmcoKSk7Cg==</text>
+      <register name="3" type="4">
+        <text>else{
+                    num = array[j];
+                }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIG51bSA9IGFycmF5W2pdOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTm9kZSB0YWlsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFkZCgiMyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1185,10 +1192,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZShoZWFkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIrc3RyLmdldEJ5dGVzKCkubGVuZ3RoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
