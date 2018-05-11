@@ -17,6 +17,12 @@
       <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/JdbcUtils.java" timestamp="1522983748446">
         <mark key="'" line="13" column="37" />
       </file>
+      <file name="/u01/workspace/raytest/src/main/resources/dubbo/dubbo-demo-consumer.xml" timestamp="1524731467433">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="29" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar!/org/jboss/netty/channel/Channels.java" timestamp="1524733947653">
         <mark key="'" line="611" column="38" />
       </file>
@@ -134,6 +140,12 @@
       <file name="$MAVEN_REPOSITORY$/io/netty/netty/3.5.2.Final/netty-3.5.2.Final.jar!/org/jboss/netty/channel/socket/nio/NioServerSocketChannel.class" timestamp="1524623793420">
         <mark key="'" line="54" column="43" />
       </file>
+      <file name="/u01/workspace/raytest/src/main/resources/dubbo/dubbo-demo-provider.xml" timestamp="1524732280164">
+        <mark key="[" line="6" column="60" />
+        <mark key="]" line="6" column="60" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="6" column="60" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/DualPivotQuicksort.java" timestamp="1524752009563">
         <mark key="'" line="1923" column="10" />
       </file>
@@ -198,10 +210,11 @@
         <mark key="'" line="39" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/remoting/exchange/codec/ExchangeCodec.class" timestamp="1524734499779" />
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/sort/BubbleSort.java" timestamp="1526033302703">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/sort/BubbleSort.java" timestamp="1526042226119">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="29" column="45" />
+        <mark key="." line="29" column="45" />
+        <mark key="^" line="29" column="45" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/zookeeper/zkclient/ZkclientZookeeperClient.java" timestamp="1524710283273">
         <mark key="'" line="49" column="16" />
@@ -361,6 +374,12 @@
       </file>
       <file name="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/WeiXinController.java" timestamp="1525960258944">
         <mark key="'" line="40" column="25" />
+      </file>
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/TArray.java" timestamp="1525686807565">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="37" column="26" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/KQueueSelectorProvider.class" timestamp="1523268562771">
         <mark key="'" line="17" column="24" />
@@ -611,6 +630,12 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" timestamp="1525912637432">
         <mark key="'" line="431" column="22" />
+      </file>
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/TLink.java" timestamp="1525687492890">
+        <mark key="[" line="40" column="41" />
+        <mark key="]" line="69" column="18" />
+        <mark key="." line="69" column="18" />
+        <mark key="^" line="69" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/util/Pool.java" timestamp="1524196919460">
         <mark key="'" line="22" column="9" />
@@ -998,45 +1023,45 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbnVtID0gYXJyYXlbYXJyYXkubGVuZ3RoLTFdOwo=</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>num</text>
+        <text>array[array.length-1];</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZXJ0TG9jYWxQYXRoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIHB1YmxpYyBOb2RlIHJpZ2h0Owo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBzb3J0MSgpIHsKICAgICAgICBpbnQgYXJyYXkgW10gPSBuZXcgaW50W117NSwyLDcsNiwzLDksOCw0LDF9OwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYXJyYXkubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgZm9yIChpbnQgaiA9IGFycmF5Lmxlbmd0aC0xOyBqID4gaTsgai0tKSB7CiAgICAgICAgICAgICAgICBpZihhcnJheVtqXSA8IGFycmF5W2otMV0pewogICAgICAgICAgICAgICAgICAgIGludCB0ZW1wID0gYXJyYXlbal07CiAgICAgICAgICAgICAgICAgICAgYXJyYXlbal0gPSBhcnJheVtqLTFdOwogICAgICAgICAgICAgICAgICAgIGFycmF5W2otMV0gPSB0ZW1wOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgIH0KCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBhcnJheS5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYXJyYXlbaV0pOwoKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbnVtID0gYXJyYXlbYXJyYXkubGVuZ3RoLTFdOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHRlbXAgPSBhcnJheVtpXTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgdGVtcCA9IGFycmF5W2pdOwogICAgICAgICAgICAgICAgICAgIGFycmF5W2pdID0gYXJyYXlbai0xXTsKICAgICAgICAgICAgICAgICAgICBhcnJheVtqLTFdID0gdGVtcDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgbnVtID0gYXJyYXlbYXJyYXkubGVuZ3RoLTFdOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>else{
                     num = array[j];
                 }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIG51bSA9IGFycmF5W2pdOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1192,10 +1217,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIG51bSA9IGFycmF5W2pdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIrc3RyLmdldEJ5dGVzKCkubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
