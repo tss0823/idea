@@ -52,6 +52,9 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE-sources.jar!/org/springframework/cache/support/SimpleValueWrapper.java" timestamp="1523864214465">
         <mark key="'" line="27" column="46" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/jsse.jar!/sun/security/ssl/SSLServerSocketImpl.class" timestamp="1526100037512">
+        <mark key="'" line="31" column="10" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.class" timestamp="1524727696439" />
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-transport/4.0.34.Final/netty-transport-4.0.34.Final.jar!/io/netty/channel/AbstractChannelHandlerContext.class" timestamp="1524624241026">
         <mark key="'" line="389" column="54" />
@@ -276,6 +279,9 @@
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/weixin/tencent/common/Util.java" timestamp="1525960001599" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1525229508514">
         <mark key="'" line="550" column="17" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar!/javax/net/ssl/SSLServerSocket.class" timestamp="1526100039993">
+        <mark key="'" line="21" column="10" />
       </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/service/impl/ApplicationServiceImpl.java" timestamp="1523285642306">
         <mark key="'" line="235" column="39" />
@@ -736,8 +742,8 @@
         <mark key="." line="35" column="11" />
         <mark key="^" line="35" column="11" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/tomcat/util/net/Nio2Endpoint.java" timestamp="1525790790883">
-        <mark key="'" line="368" column="25" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/tomcat/util/net/Nio2Endpoint.java" timestamp="1526100099152">
+        <mark key="'" line="296" column="43" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1525685121016">
         <mark key="'" line="421" column="21" />
@@ -885,6 +891,9 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/javax/naming/InitialContext.java" timestamp="1523865861786">
         <mark key="'" line="338" column="49" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/net/ServerSocket.java" timestamp="1526100064197">
+        <mark key="'" line="283" column="30" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4-sources.jar!/org/apache/http/impl/SocketHttpServerConnection.java" timestamp="1525913530618" />
       <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/misc/Unsafe.java" timestamp="1524111106769">
         <mark key="'" line="847" column="59" />
@@ -920,13 +929,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="6" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/auth/AuthAspect.java" />
-      <jump line="47" column="7" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/auth/AuthAspect.java" />
-      <jump line="36" column="35" filename="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/config/WebAppInitializer.java" />
-      <jump line="22" column="38" filename="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/config/WebMvcConfig.java" />
-      <jump line="32" column="47" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.3.RELEASE/spring-web-4.0.3.RELEASE-sources.jar!/org/springframework/web/context/ServletContextAware.java" />
-      <jump line="143" column="55" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.3.RELEASE/spring-webmvc-4.0.3.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.java" />
-      <jump line="22" column="73" filename="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/config/WebAppInitializer.java" />
       <jump line="39" column="43" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.3.RELEASE/spring-webmvc-4.0.3.RELEASE-sources.jar!/org/springframework/web/servlet/support/AbstractAnnotationConfigDispatcherServletInitializer.java" />
       <jump line="56" column="74" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.3.RELEASE/spring-webmvc-4.0.3.RELEASE-sources.jar!/org/springframework/web/servlet/support/AbstractDispatcherServletInitializer.java" />
       <jump line="38" column="74" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.3.RELEASE/spring-web-4.0.3.RELEASE-sources.jar!/org/springframework/web/context/AbstractContextLoaderInitializer.java" />
@@ -1020,6 +1022,13 @@
       <jump line="47" column="18" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
       <jump line="46" column="60" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
       <jump line="682" column="15" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/tomcat/util/net/AbstractEndpoint.java" />
+      <jump line="32" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/jsse.jar!/sun/security/ssl/SSLServerSocketImpl.class" />
+      <jump line="31" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/jsse.jar!/sun/security/ssl/SSLServerSocketImpl.class" />
+      <jump line="21" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar!/javax/net/ssl/SSLServerSocket.class" />
+      <jump line="180" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/net/ServerSocket.java" />
+      <jump line="229" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/net/ServerSocket.java" />
+      <jump line="283" column="30" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/net/ServerSocket.java" />
+      <jump line="296" column="43" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/tomcat/util/net/Nio2Endpoint.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
