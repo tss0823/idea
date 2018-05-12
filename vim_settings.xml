@@ -472,8 +472,8 @@
         <mark key="'" line="14" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty/3.5.2.Final/netty-3.5.2.Final.jar!/org/jboss/netty/channel/socket/nio/NioClientSocketPipelineSink.class" timestamp="1524733857707" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/tomcat/util/net/AbstractEndpoint.java" timestamp="1525957694872">
-        <mark key="'" line="165" column="52" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/tomcat/util/net/AbstractEndpoint.java" timestamp="1526097867807">
+        <mark key="'" line="682" column="15" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/Arrays.java" timestamp="1524752006182">
         <mark key="'" line="235" column="28" />
@@ -920,7 +920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="49" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/interceptor/ParameterInterceptor.java" />
       <jump line="29" column="6" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/auth/AuthAspect.java" />
       <jump line="47" column="7" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/auth/AuthAspect.java" />
       <jump line="36" column="35" filename="/u01/workspace/fitness/fitness-web/bos/src/main/java/com/doublefit/fitness/web/bos/config/WebAppInitializer.java" />
@@ -1020,6 +1019,7 @@
       <jump line="225" column="46" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
       <jump line="47" column="18" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
       <jump line="46" column="60" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="682" column="15" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/tomcat/util/net/AbstractEndpoint.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
