@@ -270,6 +270,9 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryProtocol.java" timestamp="1524712501021">
         <mark key="'" line="367" column="44" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" timestamp="1526096182200">
+        <mark key="'" line="46" column="60" />
+      </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/weixin/tencent/common/Util.java" timestamp="1525960001599" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1525229508514">
         <mark key="'" line="550" column="17" />
@@ -683,6 +686,9 @@
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/common/ApplicationBuilder.java" timestamp="1523155421720">
         <mark key="'" line="178" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/http11/AbstractHttp11JsseProtocol.java" timestamp="1526096082596">
+        <mark key="'" line="119" column="15" />
+      </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/dao/IEnumDataDao.java" timestamp="1522829118001">
         <mark key="'" line="28" column="8" />
       </file>
@@ -914,34 +920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1250" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
-      <jump line="1325" column="9" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
-      <jump line="431" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
-      <jump line="476" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
-      <jump line="664" column="37" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
-      <jump line="55" column="9" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/IndexOutOfBoundsException.java" />
-      <jump line="61" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java" />
-      <jump line="65" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Exception.java" />
-      <jump line="434" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
-      <jump line="421" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
-      <jump line="280" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
-      <jump line="337" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
-      <jump line="506" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
-      <jump line="558" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
-      <jump line="511" column="34" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
-      <jump line="66" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Stack.java" />
-      <jump line="619" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Vector.java" />
-      <jump line="245" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Vector.java" />
-      <jump line="83" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Stack.java" />
-      <jump line="102" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Stack.java" />
-      <jump line="476" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Vector.java" />
-      <jump line="1005" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
-      <jump line="1096" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
-      <jump line="909" column="20" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
-      <jump line="311" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
-      <jump line="94" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/AbstractQueue.java" />
-      <jump line="403" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
-      <jump line="353" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
       <jump line="9" column="49" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/interceptor/ParameterInterceptor.java" />
       <jump line="29" column="6" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/auth/AuthAspect.java" />
       <jump line="47" column="7" filename="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/auth/AuthAspect.java" />
@@ -1014,6 +992,34 @@
       <jump line="252" column="34" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/8.0.5/tomcat-catalina-8.0.5-sources.jar!/org/apache/catalina/startup/Catalina.java" />
       <jump line="224" column="18" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/8.0.5/tomcat-catalina-8.0.5-sources.jar!/org/apache/catalina/connector/Connector.java" />
       <jump line="943" column="30" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/8.0.5/tomcat-catalina-8.0.5-sources.jar!/org/apache/catalina/connector/Connector.java" />
+      <jump line="119" column="15" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/http11/AbstractHttp11JsseProtocol.java" />
+      <jump line="455" column="15" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="452" column="14" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="88" column="34" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="101" column="15" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="110" column="15" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="163" column="15" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="169" column="15" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="175" column="15" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="182" column="43" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="184" column="8" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="188" column="40" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="190" column="8" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="193" column="44" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="195" column="8" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="199" column="45" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="201" column="8" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="205" column="44" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="207" column="8" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="211" column="37" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="212" column="42" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="215" column="44" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="217" column="8" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="221" column="38" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="222" column="44" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="225" column="46" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="47" column="18" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
+      <jump line="46" column="60" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1029,7 +1035,7 @@
         <text>array[array.length-1];</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjZXJ0TG9jYWxQYXRoXD4=</text>
+        <text encoding="base64">XDxlbmRwb2ludFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBzb3J0MSgpIHsKICAgICAgICBpbnQgYXJyYXkgW10gPSBuZXcgaW50W117NSwyLDcsNiwzLDksOCw0LDF9OwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYXJyYXkubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgZm9yIChpbnQgaiA9IGFycmF5Lmxlbmd0aC0xOyBqID4gaTsgai0tKSB7CiAgICAgICAgICAgICAgICBpZihhcnJheVtqXSA8IGFycmF5W2otMV0pewogICAgICAgICAgICAgICAgICAgIGludCB0ZW1wID0gYXJyYXlbal07CiAgICAgICAgICAgICAgICAgICAgYXJyYXlbal0gPSBhcnJheVtqLTFdOwogICAgICAgICAgICAgICAgICAgIGFycmF5W2otMV0gPSB0ZW1wOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgIH0KCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBhcnJheS5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYXJyYXlbaV0pOwoKICAgICAgICB9CiAgICB9Cg==</text>
@@ -1224,9 +1230,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjZXJ0TG9jYWxQYXRoXD4=</last-search>
+      <last-search encoding="base64">XDxlbmRwb2ludFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjZXJ0TG9jYWxQYXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlbmRwb2ludFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaGdkaWFsb2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1234,7 +1240,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyU2VydmljZVw+</entry>
         <entry encoding="base64">XDxjb2RlQnVpbGRVcmxcPg==</entry>
         <entry encoding="base64">XDxsaGdkaWFsb2dcPg==</entry>
         <entry encoding="base64">XDxjb21waWxlXD4=</entry>
@@ -1254,6 +1259,7 @@
         <entry encoding="base64">XDxjcmVhdGVFbnRyeVw+</entry>
         <entry encoding="base64">XDxzZXJ2bGV0Q2xhc3NcPg==</entry>
         <entry encoding="base64">XDxjZXJ0TG9jYWxQYXRoXD4=</entry>
+        <entry encoding="base64">XDxlbmRwb2ludFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
