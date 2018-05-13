@@ -654,8 +654,8 @@
         <mark key="'" line="13" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4-sources.jar!/org/aspectj/lang/annotation/Around.java" timestamp="1525765692086" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1526197622855">
-        <mark key="'" line="611" column="18" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1526198940718">
+        <mark key="'" line="683" column="38" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/javax/naming/spi/NamingManager.java" timestamp="1523871616905">
         <mark key="'" line="600" column="37" />
@@ -822,6 +822,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java" timestamp="1524131840754">
         <mark key="'" line="235" column="26" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Integer.java" timestamp="1526198944299" />
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/SingleThreadEventLoop.class" timestamp="1524643636478">
         <mark key="'" line="19" column="94" />
       </file>
@@ -896,9 +897,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="62" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/alipay/util/AlipayCore.java" />
-      <jump line="8" column="11" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/weixin/tencent/service/UnifiedOrderService.java" />
-      <jump line="33" column="36" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/weixin/tencent/service/BaseService.java" />
       <jump line="74" column="13" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/weixin/tencent/common/HttpsRequest.java" />
       <jump line="85" column="35" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/weixin/tencent/business/UnifiedOrderBusiness.java" />
       <jump line="74" column="25" filename="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/weixin/tencent/protocol/unified_order_protocol/UnifiedOrderClientReqData.java" />
@@ -995,7 +993,10 @@
       <jump line="580" column="38" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
       <jump line="216" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/HashSet.java" />
       <jump line="169" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/HashSet.java" />
-      <jump line="611" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
+      <jump line="611" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
+      <jump line="662" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
+      <jump line="682" column="38" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
+      <jump line="683" column="38" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
