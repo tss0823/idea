@@ -9,6 +9,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/IndexOutOfBoundsException.java" timestamp="1525684381920">
         <mark key="'" line="55" column="9" />
       </file>
+      <file name="/a.dummy" timestamp="1525958123189">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/JdbcUtils.java" timestamp="1522983748446">
         <mark key="'" line="13" column="37" />
       </file>
@@ -206,6 +211,11 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/remoting/exchange/codec/ExchangeCodec.class" timestamp="1524734499779" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/8.0.5/tomcat-catalina-8.0.5-sources.jar!/org/apache/catalina/startup/Catalina.java" timestamp="1526092481859">
         <mark key="'" line="252" column="34" />
+      </file>
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/sort/BubbleSort.java" timestamp="1526210632646">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/zookeeper/zkclient/ZkclientZookeeperClient.java" timestamp="1524710283273">
         <mark key="'" line="49" column="16" />
@@ -666,6 +676,11 @@
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-transport/4.0.34.Final/netty-transport-4.0.34.Final.jar!/io/netty/bootstrap/AbstractBootstrap.class" timestamp="1524626081602">
         <mark key="'" line="344" column="89" />
       </file>
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/dubbo/Consumer.java" timestamp="1524730560043">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+      </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/common/ApplicationBuilder.java" timestamp="1523155421720">
         <mark key="'" line="178" column="29" />
       </file>
@@ -1003,7 +1018,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIFJldHJpZXZlIG9iamVjdCBoYXNoIGNvZGUgYW5kIGFwcGxpZXMgYSBzdXBwbGVtZW50YWwgaGFzaCBmdW5jdGlvbiB0byB0aGUK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9sYXRpbGUgCg==</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
@@ -1018,30 +1033,28 @@
         <text encoding="base64">ICAgICAqIFJldHJpZXZlIG9iamVjdCBoYXNoIGNvZGUgYW5kIGFwcGxpZXMgYSBzdXBwbGVtZW50YWwgaGFzaCBmdW5jdGlvbiB0byB0aGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbnVtID0gYXJyYXlbYXJyYXkubGVuZ3RoLTFdOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9sYXRpbGUgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHRlbXAgPSBhcnJheVtpXTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgdGVtcCA9IGFycmF5W2pdOwogICAgICAgICAgICAgICAgICAgIGFycmF5W2pdID0gYXJyYXlbai0xXTsKICAgICAgICAgICAgICAgICAgICBhcnJheVtqLTFdID0gdGVtcDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgbnVtID0gYXJyYXlbYXJyYXkubGVuZ3RoLTFdOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>else{
-                    num = array[j];
-                }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHRlbXAgPSBhcnJheVtpXTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgdGVtcCA9IGFycmF5W2pdOwogICAgICAgICAgICAgICAgICAgIGFycmF5W2pdID0gYXJyYXlbai0xXTsKICAgICAgICAgICAgICAgICAgICBhcnJheVtqLTFdID0gdGVtcDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgbnVtID0gYXJyYXlbYXJyYXkubGVuZ3RoLTFdOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1196,11 +1209,13 @@
           <key char="112" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIG51bSA9IGFycmF5W2pdOwo=</text>
+      <register name="8" type="4">
+        <text>else{
+                    num = array[j];
+                }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIG51bSA9IGFycmF5W2pdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
