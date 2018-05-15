@@ -522,12 +522,11 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/telnet/codec/TelnetCodec.java" timestamp="1524714731111">
         <mark key="'" line="172" column="44" />
       </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/TTree.java" timestamp="1526353444082">
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/TTree.java" timestamp="1526376084268">
         <mark key="'" line="7" column="33" />
-        <mark key="[" line="80" column="52" />
-        <mark key="]" line="84" column="52" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="80" column="51" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/channels/ServerSocketChannel.java" timestamp="1524575127250">
         <mark key="'" line="75" column="22" />
@@ -550,13 +549,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" timestamp="1525790707670">
         <mark key="'" line="470" column="23" />
-      </file>
-      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/auth/AuthAspect.java" timestamp="1525765679455">
-        <mark key="'" line="47" column="7" />
-        <mark key="[" line="105" column="24" />
-        <mark key="]" line="105" column="24" />
-        <mark key="." line="105" column="24" />
-        <mark key="^" line="105" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/8.0.5/tomcat-catalina-8.0.5-sources.jar!/org/apache/catalina/startup/ContextConfig.java" timestamp="1525957683795" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/rocketmq/rocketmq-client/3.2.6/rocketmq-client-3.2.6.jar!/com/alibaba/rocketmq/client/consumer/listener/ConsumeConcurrentlyStatus.class" timestamp="1524818481496">
@@ -767,13 +759,6 @@
       </file>
       <file name="/u01/workspace/mcsh/mcsh_app/app/controllers/admin/ConferenceController.java" timestamp="1520761033656">
         <mark key="'" line="93" column="42" />
-      </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/proxy/nio2/NIOSocketServer.java" timestamp="1525442685599">
-        <mark key="'" line="32" column="48" />
-        <mark key="[" line="35" column="69" />
-        <mark key="]" line="35" column="11" />
-        <mark key="." line="35" column="11" />
-        <mark key="^" line="35" column="11" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/tomcat/util/net/Nio2Endpoint.java" timestamp="1526122809601">
         <mark key="'" line="368" column="24" />
@@ -1069,7 +1054,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCJjdXJyZW50IGRhdGEgIitub3dOb2RlLmRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZAo=</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
@@ -1084,28 +1069,28 @@
         <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCJjdXJyZW50IGRhdGEgIitub3dOb2RlLmRhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBoZWFkID0gY3VyTm9kZTsKLy8gICAgICAgIH0KLy8gICAgICAgIGlmKHRhaWwgPT0gbnVsbCl7Ci8vICAgICAgICAgICAgdGFpbCA9IGN1ck5vZGU7Ci8vICAgICAgICB9ZWxzZXsKLy8gICAgICAgICAgICB0YWlsLm5leHQgPSBjdXJOb2RlOwovLyAgICAgICAgICAgIGN1ck5vZGUucHJldiA9IHRhaWw7Ci8vICAgICAgICAgICAgdGFpbCA9IGN1ck5vZGU7Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGNvbXBhcmVOb2RlID09IG51bGwpewovLyAgICAgICAgICAgICAgICAgICAgaWYocmVzdWx0ID4gMCl7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgCi8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21wYXJlTm9kZSA9IGNvbXBhcmVOb2RlLnJpZ2h0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGNvbXBhcmVOb2RlID09IG51bGwpewovLyAgICAgICAgICAgICAgICAgICAgaWYocmVzdWx0ID4gMCl7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgCi8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1261,10 +1246,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLmNvbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21wYXJlTm9kZSA9IGNvbXBhcmVOb2RlLnJpZ2h0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmKGhlYWQgPT0gbnVsbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
