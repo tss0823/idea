@@ -528,12 +528,12 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/telnet/codec/TelnetCodec.java" timestamp="1524714731111">
         <mark key="'" line="172" column="44" />
       </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/TTree.java" timestamp="1526352493700">
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/TTree.java" timestamp="1526353444082">
         <mark key="'" line="7" column="33" />
-        <mark key="[" line="42" column="17" />
-        <mark key="]" line="36" column="40" />
-        <mark key="." line="36" column="40" />
-        <mark key="^" line="36" column="40" />
+        <mark key="[" line="80" column="52" />
+        <mark key="]" line="84" column="52" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="80" column="51" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/channels/ServerSocketChannel.java" timestamp="1524575127250">
         <mark key="'" line="75" column="22" />
@@ -1078,44 +1078,44 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCJjdXJyZW50IGRhdGEgIitub3dOb2RlLmRhdGEpOwo=</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>+&quot; left &quot;+nowNode.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGb3JrSm9pbldvcmtlclRocmVhZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIFJldHJpZXZlIG9iamVjdCBoYXNoIGNvZGUgYW5kIGFwcGxpZXMgYSBzdXBwbGVtZW50YWwgaGFzaCBmdW5jdGlvbiB0byB0aGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCJjdXJyZW50IGRhdGEgIitub3dOb2RlLmRhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLmNvbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmKGhlYWQgPT0gbnVsbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGNvbXBhcmVOb2RlID09IG51bGwpewovLyAgICAgICAgICAgICAgICAgICAgaWYocmVzdWx0ID4gMCl7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgCi8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9sYXRpbGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbnVtID0gYXJyYXlbYXJyYXkubGVuZ3RoLTFdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21wYXJlTm9kZSA9IGNvbXBhcmVOb2RlLnJpZ2h0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHRlbXAgPSBhcnJheVtpXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1271,10 +1271,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLmNvbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgdGVtcCA9IGFycmF5W2pdOwogICAgICAgICAgICAgICAgICAgIGFycmF5W2pdID0gYXJyYXlbai0xXTsKICAgICAgICAgICAgICAgICAgICBhcnJheVtqLTFdID0gdGVtcDsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmKGhlYWQgPT0gbnVsbCkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
