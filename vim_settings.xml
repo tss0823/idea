@@ -9,11 +9,6 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/IndexOutOfBoundsException.java" timestamp="1525684381920">
         <mark key="'" line="55" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1525958123189">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/JdbcUtils.java" timestamp="1522983748446">
         <mark key="'" line="13" column="37" />
       </file>
@@ -67,6 +62,9 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.class" timestamp="1524727696439" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/core/StandardHost.java" timestamp="1526122577524">
         <mark key="'" line="850" column="22" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" timestamp="1526356064050">
+        <mark key="'" line="104" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-transport/4.0.34.Final/netty-transport-4.0.34.Final.jar!/io/netty/channel/AbstractChannelHandlerContext.class" timestamp="1524624241026">
         <mark key="'" line="389" column="54" />
@@ -229,11 +227,6 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/8.0.5/tomcat-catalina-8.0.5-sources.jar!/org/apache/catalina/startup/Catalina.java" timestamp="1526092481859">
         <mark key="'" line="252" column="34" />
       </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/sort/BubbleSort.java" timestamp="1526210632646">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/zookeeper/zkclient/ZkclientZookeeperClient.java" timestamp="1524710283273">
         <mark key="'" line="49" column="16" />
       </file>
@@ -374,6 +367,7 @@
       <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/jedis/ShardedJedisPool.java" timestamp="1524196941981">
         <mark key="'" line="81" column="38" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java" timestamp="1526356266464" />
       <file name="$USER_HOME$/Downloads/play-1.4.5/framework/lib/commons-io-2.5.jar!/org/apache/commons/io/IOUtils.class" timestamp="1522809917140">
         <mark key="'" line="974" column="16" />
       </file>
@@ -694,6 +688,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/util/LifecycleBase.java" timestamp="1526122991693">
         <mark key="'" line="101" column="18" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" timestamp="1526356198747" />
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/weixin/tencent/business/UnifiedOrderBusiness.java" timestamp="1525959507201">
         <mark key="'" line="85" column="35" />
       </file>
@@ -726,11 +721,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-transport/4.0.34.Final/netty-transport-4.0.34.Final.jar!/io/netty/bootstrap/AbstractBootstrap.class" timestamp="1524626081602">
         <mark key="'" line="344" column="89" />
-      </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/dubbo/Consumer.java" timestamp="1524730560043">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="7" column="30" />
       </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/common/ApplicationBuilder.java" timestamp="1523155421720">
         <mark key="'" line="178" column="29" />
@@ -973,14 +963,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="850" column="22" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/core/StandardHost.java" />
-      <jump line="937" column="14" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/core/ContainerBase.java" />
-      <jump line="101" column="18" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/util/LifecycleBase.java" />
-      <jump line="682" column="13" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/tomcat/util/net/AbstractEndpoint.java" />
-      <jump line="442" column="28" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/core/StandardService.java" />
-      <jump line="89" column="40" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/core/StandardService.java" />
-      <jump line="359" column="22" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/core/StandardService.java" />
-      <jump line="360" column="17" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/core/StandardService.java" />
       <jump line="361" column="16" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/core/StandardService.java" />
       <jump line="373" column="21" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/core/StandardService.java" />
       <jump line="378" column="22" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/core/StandardService.java" />
@@ -1073,6 +1055,14 @@
       <jump line="107" column="46" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
       <jump line="139" column="64" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
       <jump line="7" column="33" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/TTree.java" />
+      <jump line="200" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="232" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="204" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="243" column="38" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="369" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="366" column="36" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="84" column="48" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="104" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
