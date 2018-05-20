@@ -114,6 +114,9 @@
         <mark key="'" line="1167" column="23" />
       </file>
       <file name="/u01/workspace/chinamons/pom.xml" timestamp="1526472837287" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java" timestamp="1526804880978">
+        <mark key="'" line="119" column="14" />
+      </file>
       <file name="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/BaseController.java" timestamp="1523284656346">
         <mark key="'" line="2" column="52" />
       </file>
@@ -299,6 +302,9 @@
         <mark key="'" line="46" column="60" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/mbeans/ServiceMBean.java" timestamp="1526122909156" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/cache/decorators/TransactionalCache.java" timestamp="1526804988709">
+        <mark key="'" line="101" column="20" />
+      </file>
       <file name="/u01/workspace/fitness/fitness-service/src/main/java/com/doublefit/fitness/service/weixin/tencent/common/Util.java" timestamp="1525960001599" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1526264768052">
         <mark key="'" line="550" column="17" />
@@ -433,7 +439,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java" timestamp="1526384839919">
         <mark key="'" line="136" column="44" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1526707584659">
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1526804647668">
         <mark key="'" line="1262" column="25" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/DefaultSelectorProvider.class" timestamp="1523268680434">
@@ -663,6 +669,9 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/RecursiveTask.java" timestamp="1526288913072">
         <mark key="'" line="67" column="51" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/cache/TransactionalCacheManager.java" timestamp="1526804955605">
+        <mark key="'" line="30" column="14" />
+      </file>
       <file name="/u01/workspace/oa/oa_common/app/models/person/Person.java" timestamp="1523278869812">
         <mark key="'" line="25" column="35" />
       </file>
@@ -815,6 +824,9 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" timestamp="1526611109387">
         <mark key="'" line="337" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/CachingExecutor.java" timestamp="1526804929943">
+        <mark key="'" line="144" column="27" />
+      </file>
       <file name="/u01/workspace/ud/src/main/java/com/usefullc/ud/service/impl/PropertyServiceImpl.java" timestamp="1523067982898">
         <mark key="'" line="159" column="26" />
       </file>
@@ -956,13 +968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="18" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/jedis/BinaryClient.java" />
-      <jump line="1269" column="44" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
-      <jump line="264" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
-      <jump line="272" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
-      <jump line="754" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
-      <jump line="1094" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
-      <jump line="263" column="21" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/java/util/HashMap.java" />
       <jump line="66" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Stack.java" />
       <jump line="337" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
       <jump line="311" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
@@ -1056,6 +1061,13 @@
       <jump line="1262" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
       <jump line="228" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
       <jump line="239" column="29" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="119" column="14" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java" />
+      <jump line="69" column="16" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/CachingExecutor.java" />
+      <jump line="144" column="27" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/CachingExecutor.java" />
+      <jump line="30" column="14" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/cache/TransactionalCacheManager.java" />
+      <jump line="76" column="6" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/cache/decorators/TransactionalCache.java" />
+      <jump line="100" column="24" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/cache/decorators/TransactionalCache.java" />
+      <jump line="101" column="20" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/cache/decorators/TransactionalCache.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
