@@ -1089,6 +1089,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Diagram...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'⌥⇧⌘U'</ShortCut>
+          <Description>Show Diagram...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Execution Point">
         <Item>
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
