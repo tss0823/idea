@@ -843,6 +843,13 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" timestamp="1525790707670">
         <mark key="'" line="470" column="23" />
       </file>
+      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/auth/AuthAspect.java" timestamp="1525765679455">
+        <mark key="'" line="47" column="7" />
+        <mark key="[" line="105" column="24" />
+        <mark key="]" line="105" column="24" />
+        <mark key="." line="105" column="24" />
+        <mark key="^" line="105" column="24" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/8.0.5/tomcat-catalina-8.0.5-sources.jar!/org/apache/catalina/startup/ContextConfig.java" timestamp="1525957683795" />
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/yuntao.js" timestamp="1522934115403">
         <mark key="[" line="223" column="31" />
@@ -1024,6 +1031,13 @@
       <file name="/u01/workspace/oa/oa_common/app/models/person/Person.java" timestamp="1523278869812">
         <mark key="'" line="25" column="35" />
       </file>
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/Test.java" timestamp="1526980680120">
+        <mark key="'" line="27" column="40" />
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="27" column="42" />
+        <mark key="." line="27" column="42" />
+        <mark key="^" line="27" column="42" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" timestamp="1525912637432">
         <mark key="'" line="431" column="22" />
       </file>
@@ -1156,6 +1170,13 @@
         <mark key="]" line="45" column="29" />
         <mark key="^" line="47" column="27" />
         <mark key="." line="45" column="29" />
+      </file>
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/proxy/nio2/NIOSocketServer.java" timestamp="1525442685599">
+        <mark key="'" line="32" column="48" />
+        <mark key="[" line="35" column="69" />
+        <mark key="]" line="35" column="11" />
+        <mark key="." line="35" column="11" />
+        <mark key="^" line="35" column="11" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/tomcat/util/net/Nio2Endpoint.java" timestamp="1526122809601">
         <mark key="'" line="368" column="24" />
@@ -1430,7 +1451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
       <jump line="251" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
       <jump line="352" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
       <jump line="116" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
@@ -1530,19 +1550,20 @@
       <jump line="504" column="12" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
       <jump line="883" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
       <jump line="73" column="53" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java" />
+      <jump line="27" column="40" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/Test.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>forEach();</text>
+        <text>1</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>forEach();</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbnRyeVNldFw+</text>
@@ -1551,28 +1572,28 @@
         <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCJjdXJyZW50IGRhdGEgIitub3dOb2RlLmRhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxPYmplY3QsIE9iamVjdD4gZW50cnkgOiBlbnRyaWVzKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">eHhrCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICog5Yqg5a+GCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBoZWFkID0gY3VyTm9kZTsKLy8gICAgICAgIH0KLy8gICAgICAgIGlmKHRhaWwgPT0gbnVsbCl7Ci8vICAgICAgICAgICAgdGFpbCA9IGN1ck5vZGU7Ci8vICAgICAgICB9ZWxzZXsKLy8gICAgICAgICAgICB0YWlsLm5leHQgPSBjdXJOb2RlOwovLyAgICAgICAgICAgIGN1ck5vZGUucHJldiA9IHRhaWw7Ci8vICAgICAgICAgICAgdGFpbCA9IGN1ck5vZGU7Ci8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxPYmplY3QsIE9iamVjdD4gZW50cnkgOiBlbnRyaWVzKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBoZWFkID0gY3VyTm9kZTsKLy8gICAgICAgIH0KLy8gICAgICAgIGlmKHRhaWwgPT0gbnVsbCl7Ci8vICAgICAgICAgICAgdGFpbCA9IGN1ck5vZGU7Ci8vICAgICAgICB9ZWxzZXsKLy8gICAgICAgICAgICB0YWlsLm5leHQgPSBjdXJOb2RlOwovLyAgICAgICAgICAgIGN1ck5vZGUucHJldiA9IHRhaWw7Ci8vICAgICAgICAgICAgdGFpbCA9IGN1ck5vZGU7Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGNvbXBhcmVOb2RlID09IG51bGwpewovLyAgICAgICAgICAgICAgICAgICAgaWYocmVzdWx0ID4gMCl7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgCi8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1728,10 +1749,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21wYXJlTm9kZSA9IGNvbXBhcmVOb2RlLnJpZ2h0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGNvbXBhcmVOb2RlID09IG51bGwpewovLyAgICAgICAgICAgICAgICAgICAgaWYocmVzdWx0ID4gMCl7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgCi8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
