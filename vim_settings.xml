@@ -244,6 +244,11 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="/u01/workspace/raytest/src/main/java/test/MimaTest.java" timestamp="1524723730432">
+        <mark key="[" line="35" column="69" />
+        <mark key="]" line="35" column="69" />
+        <mark key="." line="35" column="69" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty/3.5.2.Final/netty-3.5.2.Final.jar!/org/jboss/netty/channel/socket/nio/NioServerSocketChannel.class" timestamp="1524623793420">
         <mark key="'" line="54" column="43" />
       </file>
@@ -343,10 +348,10 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/8.0.5/tomcat-catalina-8.0.5-sources.jar!/org/apache/catalina/startup/Catalina.java" timestamp="1526092481859">
         <mark key="'" line="252" column="34" />
       </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/sort/BubbleSort.java" timestamp="1527045866935">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/algorithm/sort/BubbleSort.java" timestamp="1527056387696">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/zookeeper/zkclient/ZkclientZookeeperClient.java" timestamp="1524710283273">
         <mark key="'" line="49" column="16" />
@@ -1079,6 +1084,11 @@
       <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/javax/crypto/spec/SecretKeySpec.java" timestamp="1525421949380">
         <mark key="'" line="96" column="17" />
       </file>
+      <file name="/u01/workspace/zhushou/zhushou-dal/src/main/resources/mybatis-config.xml" timestamp="1524472077652">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/socket/SocketChannel.class" timestamp="1524636890118">
         <mark key="'" line="13" column="18" />
       </file>
@@ -1559,14 +1569,14 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudW0gPSBhCg==</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbnRyeVNldFw+</text>
@@ -1575,28 +1585,28 @@
         <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCJjdXJyZW50IGRhdGEgIitub3dOb2RlLmRhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eHhrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudW0gPSBhCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICog5Yqg5a+GCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudW0gPSBhcnJheVtqXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxPYmplY3QsIE9iamVjdD4gZW50cnkgOiBlbnRyaWVzKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHRlbXAgPSBhcnJheVtpXTsKICAgICAgICAgICAgYXJyYXlbaV0gPSBudW07CiAgICAgICAgICAgIGFycmF5W2FycmF5Lmxlbmd0aC1pLTFdID0gdGVtcDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZAo=</text>
+        <text encoding="base64">eHhrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBoZWFkID0gY3VyTm9kZTsKLy8gICAgICAgIH0KLy8gICAgICAgIGlmKHRhaWwgPT0gbnVsbCl7Ci8vICAgICAgICAgICAgdGFpbCA9IGN1ck5vZGU7Ci8vICAgICAgICB9ZWxzZXsKLy8gICAgICAgICAgICB0YWlsLm5leHQgPSBjdXJOb2RlOwovLyAgICAgICAgICAgIGN1ck5vZGUucHJldiA9IHRhaWw7Ci8vICAgICAgICAgICAgdGFpbCA9IGN1ck5vZGU7Ci8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICog5Yqg5a+GCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxPYmplY3QsIE9iamVjdD4gZW50cnkgOiBlbnRyaWVzKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1752,10 +1762,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBoZWFkID0gY3VyTm9kZTsKLy8gICAgICAgIH0KLy8gICAgICAgIGlmKHRhaWwgPT0gbnVsbCl7Ci8vICAgICAgICAgICAgdGFpbCA9IGN1ck5vZGU7Ci8vICAgICAgICB9ZWxzZXsKLy8gICAgICAgICAgICB0YWlsLm5leHQgPSBjdXJOb2RlOwovLyAgICAgICAgICAgIGN1ck5vZGUucHJldiA9IHRhaWw7Ci8vICAgICAgICAgICAgdGFpbCA9IGN1ck5vZGU7Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGNvbXBhcmVOb2RlID09IG51bGwpewovLyAgICAgICAgICAgICAgICAgICAgaWYocmVzdWx0ID4gMCl7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgCi8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
