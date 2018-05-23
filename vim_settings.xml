@@ -83,6 +83,9 @@
       <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/codeBuild/Entity.java" timestamp="1522981905618">
         <mark key="'" line="47" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE.jar!/org/springframework/context/ApplicationContext.class" timestamp="1527063749360">
+        <mark key="'" line="15" column="94" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/remoting/zookeeper/zkclient/ZkclientZookeeperTransporter.java" timestamp="1524652982438">
         <mark key="'" line="9" column="35" />
       </file>
@@ -546,6 +549,9 @@
       <file name="/u01/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/cache/impl/CacheServiceImpl.java" timestamp="1525911621728" />
       <file name="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar!/java/util/stream/ReferencePipeline.class" timestamp="1521707192740">
         <mark key="'" line="469" column="103" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/HierarchicalBeanFactory.class" timestamp="1527063767406">
+        <mark key="'" line="9" column="52" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-pool2/2.4.2/commons-pool2-2.4.2-sources.jar!/org/apache/commons/pool2/impl/BaseGenericObjectPool.java" timestamp="1524196854395">
         <mark key="'" line="132" column="29" />
@@ -1165,6 +1171,7 @@
       <file name="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/nio/ch/IOUtil.java" timestamp="1525442783909">
         <mark key="'" line="219" column="22" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class" timestamp="1527063781776" />
       <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/log/HbLogContextMgr.java" timestamp="1526473226973" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java" timestamp="1525684383473">
         <mark key="'" line="61" column="10" />
@@ -1464,8 +1471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
-      <jump line="352" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
       <jump line="116" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
       <jump line="183" column="8" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
       <jump line="227" column="8" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
@@ -1564,6 +1569,8 @@
       <jump line="883" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
       <jump line="73" column="53" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java" />
       <jump line="27" column="40" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/Test.java" />
+      <jump line="15" column="94" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE.jar!/org/springframework/context/ApplicationContext.class" />
+      <jump line="9" column="52" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/HierarchicalBeanFactory.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
