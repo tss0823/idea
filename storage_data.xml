@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Heuristically scan some cells looking for stale entries . This is invoked when either a new element is added , or another stale one has been expunged . It performs a logarithmic number of scans , as a balance between no scanning ( fast but retains garbage ) and a number of scans proportional to number of elements , that would find all garbage but would cause some insertions to take O ( n ) time ." />
       <item value="The load factor for the hash table" />
       <item value="This method should only be called by a thread that is the owner of this object ' s monitor" />
       <item value="Yield is a heuristic attempt to improve relative progression between threads that would otherwise over - utilise a CPU" />
@@ -50,7 +51,6 @@
       <item value="requested stack size for this thread" />
       <item value="multiplexed" />
       <item value="taking into account" />
-      <item value="Fills the buffer with more data , taking into account" />
     </histories>
   </component>
 </application>
