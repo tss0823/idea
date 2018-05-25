@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="When the keepalive option is set for a TCP socket and no data has been exchanged across the socket in either direction for 2 hours ( NOTE : the actual value is implementation dependent ), TCP automatically sends a keepalive probe to the peer . This probe is a TCP segment to which the peer must respond . One of three responses is expected :" />
+      <item value="Disable Nagle ' s algorithm for this connection . Written data to the network is not buffered pending acknowledgement of previously written data" />
       <item value="Heuristically scan some cells looking for stale entries . This is invoked when either a new element is added , or another stale one has been expunged . It performs a logarithmic number of scans , as a balance between no scanning ( fast but retains garbage ) and a number of scans proportional to number of elements , that would find all garbage but would cause some insertions to take O ( n ) time ." />
       <item value="The load factor for the hash table" />
       <item value="This method should only be called by a thread that is the owner of this object ' s monitor" />
@@ -49,8 +51,6 @@
       <item value="If fewer than core Pool Size threads are running , try to start a new thread with the given command as its first task . The call to add Worker atomically checks run State and worker Count , and so prevents false alarms that would add threads when it shouldn ' t , by returning false ." />
       <item value="1. If fewer than core Pool Size threads are running , try to start a new thread with the given command as its first task . The call to add Worker atomically checks run State and worker Count , and so prevents false alarms that would add threads when it shouldn ' t , by returning false" />
       <item value="requested stack size for this thread" />
-      <item value="multiplexed" />
-      <item value="taking into account" />
     </histories>
   </component>
 </application>

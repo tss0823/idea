@@ -591,13 +591,6 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/coyote/AbstractProtocol.java" timestamp="1525790707670">
         <mark key="'" line="470" column="23" />
       </file>
-      <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/auth/AuthAspect.java" timestamp="1525765679455">
-        <mark key="'" line="47" column="7" />
-        <mark key="[" line="105" column="24" />
-        <mark key="]" line="105" column="24" />
-        <mark key="." line="105" column="24" />
-        <mark key="^" line="105" column="24" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/8.0.5/tomcat-catalina-8.0.5-sources.jar!/org/apache/catalina/startup/ContextConfig.java" timestamp="1525957683795" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/rocketmq/rocketmq-client/3.2.6/rocketmq-client-3.2.6.jar!/com/alibaba/rocketmq/client/consumer/listener/ConsumeConcurrentlyStatus.class" timestamp="1524818481496">
         <mark key="'" line="9" column="13" />
@@ -717,13 +710,6 @@
       <file name="/u01/workspace/oa/oa_common/app/models/person/Person.java" timestamp="1523278869812">
         <mark key="'" line="25" column="35" />
       </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/Test.java" timestamp="1526983564111">
-        <mark key="'" line="27" column="40" />
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="27" column="42" />
-        <mark key="." line="27" column="42" />
-        <mark key="^" line="27" column="42" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" timestamp="1525912637432">
         <mark key="'" line="431" column="22" />
       </file>
@@ -766,6 +752,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.CR3/netty-all-4.1.0.CR3.jar!/io/netty/channel/socket/SocketChannel.class" timestamp="1524636890118">
         <mark key="'" line="13" column="18" />
+      </file>
+      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/proxy/bio/HttpProxyServer.java" timestamp="1527218265297">
+        <mark key="'" line="76" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4-sources.jar!/org/aspectj/lang/annotation/Around.java" timestamp="1525765692086" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1526958818219">
@@ -831,19 +820,13 @@
       <file name="/u01/workspace/mcsh/mcsh_app/app/controllers/admin/ConferenceController.java" timestamp="1520761033656">
         <mark key="'" line="93" column="42" />
       </file>
-      <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/proxy/nio2/NIOSocketServer.java" timestamp="1525442685599">
-        <mark key="'" line="32" column="48" />
-        <mark key="[" line="35" column="69" />
-        <mark key="]" line="35" column="11" />
-        <mark key="." line="35" column="11" />
-        <mark key="^" line="35" column="11" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.0.5/tomcat-coyote-8.0.5-sources.jar!/org/apache/tomcat/util/net/Nio2Endpoint.java" timestamp="1526122809601">
         <mark key="'" line="368" column="24" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1526612884228">
         <mark key="'" line="1197" column="18" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/net/SocketOptions.java" timestamp="1527218728427" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1526351541133">
         <mark key="'" line="107" column="46" />
       </file>
@@ -982,6 +965,9 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/core/StandardService.java" timestamp="1526122927077">
         <mark key="'" line="408" column="17" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/net/Socket.java" timestamp="1527218299664">
+        <mark key="'" line="1140" column="47" />
+      </file>
       <file name="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar!/java/util/ArrayList.class" timestamp="1523872277642">
         <mark key="'" line="87" column="19" />
       </file>
@@ -1048,8 +1034,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="27" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
-      <jump line="213" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
       <jump line="1196" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
       <jump line="211" column="20" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
       <jump line="1197" column="30" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
@@ -1148,6 +1132,8 @@
       <jump line="1105" column="35" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Integer.java" />
       <jump line="195" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java" />
       <jump line="448" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java" />
+      <jump line="76" column="32" filename="/u01/workspace/raytest/src/main/java/com/raycloud/test/proxy/bio/HttpProxyServer.java" />
+      <jump line="1140" column="47" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/net/Socket.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
