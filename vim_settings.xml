@@ -449,10 +449,11 @@
       <file name="/a.txt" timestamp="1523513393596">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" timestamp="1527586708725">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" timestamp="1527589106720">
+        <mark key="[" line="174" column="41" />
+        <mark key="]" line="174" column="53" />
+        <mark key="." line="174" column="53" />
+        <mark key="^" line="174" column="53" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/SettingsConfigurable.java" timestamp="1527585382493">
         <mark key="'" line="62" column="24" />
@@ -557,6 +558,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/AbstractQueue.java" timestamp="1526613287449">
         <mark key="'" line="94" column="16" />
       </file>
+      <file name="/Property.java" timestamp="1527589027184" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1526351508789">
         <mark key="'" line="143" column="42" />
       </file>
@@ -808,6 +810,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.5/tomcat-embed-core-8.0.5-sources.jar!/org/apache/catalina/core/ContainerBase.java" timestamp="1526122596911">
         <mark key="'" line="937" column="14" />
       </file>
+      <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/vo/PropertyVo.java" timestamp="1527588969513" />
       <file name="$USER_HOME$/Downloads/play-1.4.5/modules/play_base/app/models/token/BasePerson.java" timestamp="1523278873118">
         <mark key="'" line="15" column="44" />
       </file>
@@ -1099,7 +1102,6 @@
       <file name="/u01/workspace/oa/oa_common/app/models/person/Person.java" timestamp="1523278869812">
         <mark key="'" line="25" column="35" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/H5SocketClient.java" timestamp="1527588103679" />
       <file name="/u01/workspace/raytest/src/main/java/com/raycloud/test/Test.java" timestamp="1526983564111">
         <mark key="'" line="27" column="40" />
         <mark key="[" line="27" column="24" />
@@ -1658,13 +1660,13 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>property</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>property</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eHRUZXN0QnJhbmNoXD4=</text>
@@ -1673,28 +1675,28 @@
         <text encoding="base64">ICAgICAgICAgICAgYmlzTG9nLmluZm8oImluaXQgd3MgZmFpbGVkISIsZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8uemh1c2hvdS5tb2RlbC5kb21haW4uY29kZUJ1aWxkLlByb3BlcnR5Owo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Ci8vICAgICAgICAgICAgICAgIHNiLmFwcGVuZChwcm9wZXJ0eS5nZXRFbk5hbWUoKSk7Ci8vICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgiOiIpOwovLyAgICAgICAgICAgICAgICBzYi5hcHBlbmQocHJvcGVydHkuZ2V0Q25OYW1lKCkpOwovLyAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIiBbIiArIHByb3BlcnR5LmdldERhdGFUeXBlKCkgKyAiOiIgKyAoU3RyaW5nVXRpbHMuaXNOb3RFbXB0eShwcm9wZXJ0eS5nZXRMZW5ndGgoKSkgPyBwcm9wZXJ0eS5nZXRMZW5ndGgoKSA6ICIiKSArICJdIik7Ci8vICAgICAgICAgICAgICAgIG9iamVjdHMuYWRkKHNiLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8uemh1c2hvdS5tb2RlbC5kb21haW4uY29kZUJ1aWxkLlByb3BlcnR5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoY25OYW1lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8uemh1c2hvdS5tb2RlbC5kb21haW4uY29kZUJ1aWxkLlByb3BlcnR5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoY25OYW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeU1hcC5wdXQoInByb2plY3RJZCIsIFpwbHVnaW5VdGlscy5nZXRQcm9qZWN0SWQoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8uemh1c2hvdS5tb2RlbC5kb21haW4uY29kZUJ1aWxkLlByb3BlcnR5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHF1ZXJ5TWFwID0gbmV3IEhhc2hNYXAoKTsKICAgICAgICByZXF1ZXN0UmVzLnNldFBhcmFtcyhxdWVyeU1hcCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8uemh1c2hvdS5tb2RlbC5kb21haW4uY29kZUJ1aWxkLlByb3BlcnR5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeU1hcC5wdXQoInByb2plY3RJZCIsIFpwbHVnaW5VdGlscy5nZXRQcm9qZWN0SWQoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8uemh1c2hvdS5tb2RlbC5kb21haW4uY29kZUJ1aWxkLlByb3BlcnR5Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeU1hcC5wdXQoImlkcyIsIGlkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeU1hcC5wdXQoInByb2plY3RJZCIsIFpwbHVnaW5VdGlscy5nZXRQcm9qZWN0SWQoKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1850,10 +1852,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeU1hcC5wdXQoImVuTmFtZSIsIGVuTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHF1ZXJ5TWFwID0gbmV3IEhhc2hNYXAoKTsKICAgICAgICByZXF1ZXN0UmVzLnNldFBhcmFtcyhxdWVyeU1hcCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeU1hcC5wdXQoInByb2plY3RJZCIsIFpwbHVnaW5VdGlscy5nZXRQcm9qZWN0SWQoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
