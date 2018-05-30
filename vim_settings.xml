@@ -449,11 +449,12 @@
       <file name="/a.txt" timestamp="1523513393596">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" timestamp="1527589106720">
+      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" timestamp="1527648960978">
+        <mark key="'" line="166" column="26" />
         <mark key="[" line="174" column="41" />
-        <mark key="]" line="174" column="53" />
-        <mark key="." line="174" column="53" />
-        <mark key="^" line="174" column="53" />
+        <mark key="]" line="174" column="48" />
+        <mark key="." line="174" column="48" />
+        <mark key="^" line="174" column="48" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/SettingsConfigurable.java" timestamp="1527585382493">
         <mark key="'" line="62" column="24" />
@@ -621,7 +622,7 @@
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="46" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZhushouRpcUtils.java" timestamp="1527648254812">
+      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZhushouRpcUtils.java" timestamp="1527648507533">
         <mark key="'" line="28" column="60" />
         <mark key="[" line="283" column="0" />
         <mark key="]" line="283" column="0" />
@@ -1386,6 +1387,12 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/remoting/exchange/support/header/HeaderExchangeClient.class" timestamp="1524729129754">
         <mark key="'" line="72" column="24" />
       </file>
+      <file name="/u01/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/Property.java" timestamp="1527648946610">
+        <mark key="[" line="72" column="45" />
+        <mark key="]" line="72" column="47" />
+        <mark key="." line="72" column="47" />
+        <mark key="^" line="72" column="47" />
+      </file>
       <file name="/u01/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/codeBuild/new.html" timestamp="1523277152447">
         <mark key="[" line="15" column="38" />
         <mark key="]" line="16" column="25" />
@@ -1542,7 +1549,7 @@
       <file name="/u01/workspace/raytest/src/main/java/net/sourceforge/jpcap/client/CaptureTool.java" timestamp="1524724126236">
         <mark key="'" line="184" column="12" />
       </file>
-      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ActionManager.java" timestamp="1527648233424">
+      <file name="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ActionManager.java" timestamp="1527648535934">
         <mark key="'" line="46" column="62" />
         <mark key="[" line="48" column="76" />
         <mark key="]" line="50" column="33" />
@@ -1557,10 +1564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="47" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/lib/tools.jar!/com/sun/tools/internal/xjc/api/util/ApClassLoader.class" />
-      <jump line="177" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java" />
-      <jump line="121" column="47" filename="$USER_HOME$/CLionProjects/openjdk2/jdk/src/share/classes/sun/misc/Launcher.java" />
-      <jump line="71" column="2" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java" />
       <jump line="72" column="44" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java" />
       <jump line="356" column="20" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java" />
       <jump line="412" column="37" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java" />
@@ -1657,49 +1660,53 @@
       <jump line="25" column="73" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZpluginUtils.java" />
       <jump line="26" column="58" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZpluginUtils.java" />
       <jump line="28" column="60" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZhushouRpcUtils.java" />
+      <jump line="82" column="88" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
+      <jump line="164" column="51" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
+      <jump line="174" column="34" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
+      <jump line="166" column="26" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>sb.toString()</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>sb.toString()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eHRUZXN0QnJhbmNoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmlzTG9nLmluZm8oImluaXQgd3MgZmFpbGVkISIsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIiMiKTsKICAgICAgICBzYi5hcHBlbmQoZW5OYW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Ci8vICAgICAgICAgICAgICAgIHNiLmFwcGVuZChwcm9wZXJ0eS5nZXRFbk5hbWUoKSk7Ci8vICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgiOiIpOwovLyAgICAgICAgICAgICAgICBzYi5hcHBlbmQocHJvcGVydHkuZ2V0Q25OYW1lKCkpOwovLyAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIiBbIiArIHByb3BlcnR5LmdldERhdGFUeXBlKCkgKyAiOiIgKyAoU3RyaW5nVXRpbHMuaXNOb3RFbXB0eShwcm9wZXJ0eS5nZXRMZW5ndGgoKSkgPyBwcm9wZXJ0eS5nZXRMZW5ndGgoKSA6ICIiKSArICJdIik7Ci8vICAgICAgICAgICAgICAgIG9iamVjdHMuYWRkKHNiLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoY25OYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaXN0TW9kZWwuc2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoY25OYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eS50b1N0cmluZygpID0gIiI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8uemh1c2hvdS5tb2RlbC5kb21haW4uY29kZUJ1aWxkLlByb3BlcnR5Owo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Ci8vICAgICAgICAgICAgICAgIHNiLmFwcGVuZChwcm9wZXJ0eS5nZXRFbk5hbWUoKSk7Ci8vICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgiOiIpOwovLyAgICAgICAgICAgICAgICBzYi5hcHBlbmQocHJvcGVydHkuZ2V0Q25OYW1lKCkpOwovLyAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIiBbIiArIHByb3BlcnR5LmdldERhdGFUeXBlKCkgKyAiOiIgKyAoU3RyaW5nVXRpbHMuaXNOb3RFbXB0eShwcm9wZXJ0eS5nZXRMZW5ndGgoKSkgPyBwcm9wZXJ0eS5nZXRMZW5ndGgoKSA6ICIiKSArICJdIik7Ci8vICAgICAgICAgICAgICAgIG9iamVjdHMuYWRkKHNiLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8uemh1c2hvdS5tb2RlbC5kb21haW4uY29kZUJ1aWxkLlByb3BlcnR5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoY25OYW1lKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8uemh1c2hvdS5tb2RlbC5kb21haW4uY29kZUJ1aWxkLlByb3BlcnR5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoY25OYW1lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeU1hcC5wdXQoInByb2plY3RJZCIsIFpwbHVnaW5VdGlscy5nZXRQcm9qZWN0SWQoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8uemh1c2hvdS5tb2RlbC5kb21haW4uY29kZUJ1aWxkLlByb3BlcnR5Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1855,10 +1862,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHF1ZXJ5TWFwID0gbmV3IEhhc2hNYXAoKTsKICAgICAgICByZXF1ZXN0UmVzLnNldFBhcmFtcyhxdWVyeU1hcCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8uemh1c2hvdS5tb2RlbC5kb21haW4uY29kZUJ1aWxkLlByb3BlcnR5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeU1hcC5wdXQoInByb2plY3RJZCIsIFpwbHVnaW5VdGlscy5nZXRQcm9qZWN0SWQoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dW50YW8uemh1c2hvdS5tb2RlbC5kb21haW4uY29kZUJ1aWxkLlByb3BlcnR5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
