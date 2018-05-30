@@ -145,6 +145,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'EmbeddedServer2'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌘F11'</ShortCut>
+          <Description>Debug 'EmbeddedServer2'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'EmbeddedServer2.main()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -502,7 +510,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>107</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
