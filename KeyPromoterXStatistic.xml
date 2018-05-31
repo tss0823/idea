@@ -57,6 +57,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Collapse Recursively">
+        <Item>
+          <IdeaActionID>CollapseRegionRecursively</IdeaActionID>
+          <ShortCut>'⌥⌘-' or '⌥⌘-'</ShortCut>
+          <Description>Collapse Recursively</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Column Selection Mode">
         <Item>
           <IdeaActionID>EditorToggleColumnMode</IdeaActionID>
@@ -110,7 +118,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>188</Count>
+          <Count>189</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AESCoder.main()'">
@@ -870,7 +878,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'client'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'deploy'">
