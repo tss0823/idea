@@ -10,17 +10,26 @@
         <mark key="'" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-dal/src/main/java/com/meitu/meipu/itemcenter/mapper/CountryMapper.java" timestamp="1528359017368" />
+      <file name="$USER_HOME$/workspace/itemcenter/itemcenter-common/src/main/java/com/meitu/meipu/itemcenter/service/backend/CategoryReadService.java" timestamp="1528359878722" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-dal/src/main/java/com/meitu/meipu/itemcenter/dao/impl/CategoryDaoImpl.java" timestamp="1528359220150">
         <mark key="'" line="24" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-client/src/main/resources/itemcenter-redis-config.xml" timestamp="1528357154633">
         <mark key="'" line="54" column="87" />
       </file>
+      <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/service/CategoryReadServiceImpl.java" timestamp="1528359884992">
+        <mark key="'" line="27" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-dal/src/main/java/com/meitu/meipu/itemcenter/mapper/CategoryMapper.java" timestamp="1528359297899" />
       <file name="$USER_HOME$/workspace/platform/pom.xml" timestamp="1528026480668">
         <mark key="'" line="197" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/itemcenter/pom.xml" timestamp="1528360313181">
+        <mark key="[" line="9" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/itemcenter/dev.properties" timestamp="1528360580339" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-dal/src/main/resources/mybatis/CategoryMapper.xml" timestamp="1528358990681" />
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/meipu-base/1.4-SNAPSHOT/meipu-base-1.4-SNAPSHOT.pom" timestamp="1528360374604" />
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/makeup/ItemMakeupController.java" timestamp="1528342811160">
         <mark key="'" line="223" column="95" />
       </file>
@@ -33,7 +42,7 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/community/meipu-commons/1.0-RELEASE-SNAPSHOT/meipu-commons-1.0-RELEASE-20180523.133606-69-sources.jar!/com/meitu/meipu/commons/utils/mybatis/DynamicDataSource.java" timestamp="1528291580343">
         <mark key="'" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/itemcenter/itemcenter-dal/src/main/java/com/meitu/meipu/itemcenter/mapper/SkuDetailMapper.java" timestamp="1528359619975" />
+      <file name="$USER_HOME$/workspace/itemcenter/itemcenter-dal/src/main/java/com/meitu/meipu/itemcenter/mapper/SkuDetailMapper.java" timestamp="1528359627661" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/service/ItemReadServiceImpl.java" timestamp="1528357173255">
         <mark key="'" line="93" column="31" />
       </file>
@@ -42,6 +51,12 @@
       </file>
       <file name="/u01/workspace/fitness/fitness-web/member/src/main/java/com/doublefit/fitness/web/member/controller/UserController.java" timestamp="1527670074725">
         <mark key="'" line="107" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/itemcenter/itemcenter-client/src/main/java/com/meitu/meipu/itemcenter/client/backend/CategoryReadServiceClient.java" timestamp="1528360054697">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="19" />
+        <mark key="^" line="19" column="19" />
+        <mark key="." line="19" column="19" />
       </file>
       <file name="/u01/workspace/zhushou/zhushou-web/client/src/main/java/com/yuntao/zhushou/client/support/CDWebSocketMsgHandler.java" timestamp="1527746650025">
         <mark key="'" line="51" column="23" />
@@ -53,6 +68,7 @@
         <mark key="'" line="16" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-dal/src/main/resources/mybatis-config.xml" timestamp="1528359141477" />
+      <file name="$USER_HOME$/workspace/itemcenter/beta.properties" timestamp="1528360363902" />
       <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-client/src/main/java/com/meitu/meipu/darwin/client/service/ItemMakeupPropertyReadServiceClient.java" timestamp="1528091826753">
         <mark key="'" line="15" column="64" />
       </file>
@@ -62,6 +78,7 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-client/src/main/java/com/meitu/meipu/itemcenter/cache/BasicRedisReadHelper.java" timestamp="1528357219976">
         <mark key="'" line="65" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/resources/itemcenter-backend-beans.xml" timestamp="1528360400863" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-client/src/main/java/com/meitu/meipu/itemcenter/cache/local/SkuDTOLocalcache.java" timestamp="1528357097113">
         <mark key="'" line="24" column="44" />
       </file>
@@ -75,7 +92,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="8" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
       <jump line="236" column="8" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
       <jump line="237" column="8" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
       <jump line="238" column="19" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
@@ -175,6 +191,7 @@
       <jump line="90" column="29" filename="$USER_HOME$/workspace/itemcenter/itemcenter-client/src/main/java/com/meitu/meipu/itemcenter/cache/BasicRedisReadHelper.java" />
       <jump line="65" column="20" filename="$USER_HOME$/workspace/itemcenter/itemcenter-client/src/main/java/com/meitu/meipu/itemcenter/cache/BasicRedisReadHelper.java" />
       <jump line="24" column="20" filename="$USER_HOME$/workspace/itemcenter/itemcenter-dal/src/main/java/com/meitu/meipu/itemcenter/dao/impl/CategoryDaoImpl.java" />
+      <jump line="27" column="57" filename="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/service/CategoryReadServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
