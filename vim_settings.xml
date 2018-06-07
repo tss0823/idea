@@ -22,7 +22,9 @@
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" timestamp="1528340602196" />
       <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-dal/src/main/resources/darwin-mybatis-beans.xml" timestamp="1528336479454" />
       <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-web/src/main/java/com/meitu/meipu/darwin/web/controller/TestController.java" timestamp="1528337030378" />
-      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/makeup/ItemMakeupController.java" timestamp="1528341006738" />
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/makeup/ItemMakeupController.java" timestamp="1528342811160">
+        <mark key="'" line="223" column="95" />
+      </file>
       <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-dal/src/main/resources/mapper/ItemMakeupMapper.xml" timestamp="1528337037492" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-client/1.1-RELEASE-SNAPSHOT/itemcenter-client-1.1-RELEASE-20180605.080111-122.jar!/com/meitu/meipu/itemcenter/client/backend/makeup/ItemMakeupReadServiceClient.class" timestamp="1528341090464" />
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/resources/tardis/cms-tardis-consumer.xml" timestamp="1528340866071">
@@ -45,7 +47,7 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/resources/tardis/publisher/itemcenter-backend-tardis-provider.xml" timestamp="1528338167207" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/resources/itemcenter-backend-beans.xml" timestamp="1528165103845" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/community/meipu-commons/1.0-RELEASE-SNAPSHOT/meipu-commons-1.0-RELEASE-20180523.133606-69-sources.jar!/com/meitu/meipu/commons/utils/sequence/SequenceGeneratorUtils.java" timestamp="1528292169488" />
-      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/resources/applicationContext.xml" timestamp="1528340402234" />
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/resources/applicationContext.xml" timestamp="1528349744077" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/service/makeup/ItemMakeupReadServiceImpl.java" timestamp="1528341095166" />
       <file name="$USER_HOME$/workspace/cms/cms-web/WEB-INF/web.xml" timestamp="1528338375506" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/crawler-client/1.1-RELEASE-SNAPSHOT/crawler-client-1.1-RELEASE-20180528.015815-17.jar!/com/meitu/meipu/crawler/client/backend/CrawlerReadServiceClient.class" timestamp="1528340796694" />
@@ -53,7 +55,6 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/crawler-common/1.1-RELEASE-SNAPSHOT/crawler-common-1.1-RELEASE-20180528.015813-19.jar!/com/meitu/meipu/crawler/service/backend/CrawlerReadService.class" timestamp="1528340833333" />
     </filemarks>
     <jumps>
-      <jump line="174" column="34" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
       <jump line="166" column="26" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
       <jump line="47" column="22" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
       <jump line="91" column="28" filename="/u01/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
@@ -153,6 +154,7 @@
       <jump line="59" column="14" filename="$MAVEN_REPOSITORY$/com/meitu/meipu/community/meipu-commons/1.0-RELEASE-SNAPSHOT/meipu-commons-1.0-RELEASE-20180523.133606-69-sources.jar!/com/meitu/meipu/commons/utils/func/Decision.java" />
       <jump line="10" column="53" filename="$MAVEN_REPOSITORY$/com/meitu/meipu/community/meipu-commons/1.0-RELEASE-SNAPSHOT/meipu-commons-1.0-RELEASE-20180523.133606-69-sources.jar!/com/meitu/meipu/commons/utils/mybatis/DynamicDataSource.java" />
       <jump line="695" column="29" filename="$USER_HOME$/workspace/cms/cms-web/src/main/resources/tardis/cms-tardis-consumer.xml" />
+      <jump line="223" column="95" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/makeup/ItemMakeupController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
