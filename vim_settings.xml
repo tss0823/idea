@@ -11,11 +11,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.15.RELEASE/spring-core-4.3.15.RELEASE.jar!/org/springframework/cglib/beans/BeanCopier.class" timestamp="1528275745787">
         <mark key="'" line="43" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/MakeupItemCategoryService.java" timestamp="1528429495126">
-        <mark key="[" line="65" column="24" />
-        <mark key="]" line="65" column="24" />
-        <mark key="^" line="65" column="24" />
-        <mark key="." line="65" column="24" />
+      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/MakeupItemCategoryService.java" timestamp="1528432422029">
+        <mark key="'" line="33" column="67" />
+        <mark key="[" line="54" column="14" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/constants/Metric.java" timestamp="1528375541159" />
       <file name="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/WarnEventResultServiceImpl.java" timestamp="1528426169920">
@@ -28,6 +29,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="50" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupItemCategoryServiceImpl.java" timestamp="1528432536123">
+        <mark key="[" line="25" column="56" />
+        <mark key="]" line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="26" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/SkuDO.java" timestamp="1528365342351">
         <mark key="'" line="7" column="30" />
@@ -116,11 +123,12 @@
       <file name="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/inter/WarnEventResultService.java" timestamp="1528424142158">
         <mark key="'" line="31" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupItemCategoryMangerImpl.java" timestamp="1528429106929">
-        <mark key="'" line="11" column="72" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupItemCategoryMangerImpl.java" timestamp="1528432532060">
+        <mark key="'" line="12" column="72" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="55" />
       </file>
       <file name="/u01/workspace/platform/platform-common/src/main/java/com/yuntao/platform/common/interceptor/ParameterInterceptor.java" timestamp="1527670925320">
         <mark key="'" line="16" column="31" />
@@ -163,7 +171,7 @@
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/service/SkuReadServiceImpl.java" timestamp="1528357125656">
+      <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/service/SkuReadServiceImpl.java" timestamp="1528431873577">
         <mark key="'" line="85" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/mapper/ItemMakeupMapper.java" timestamp="1528425800197" />
@@ -295,7 +303,6 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-common/src/main/java/com/meitu/meipu/itemcenter/util/Pager.java" timestamp="1528370225521" />
     </filemarks>
     <jumps>
-      <jump line="141" column="90" filename="/u01/workspace/zhushou/zhushou-web/client/src/main/java/com/yuntao/zhushou/client/support/CDWebSocketMsgHandler.java" />
       <jump line="51" column="23" filename="/u01/workspace/zhushou/zhushou-web/client/src/main/java/com/yuntao/zhushou/client/support/CDWebSocketMsgHandler.java" />
       <jump line="38" column="45" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/support/YTWebSocketServer.java" />
       <jump line="91" column="27" filename="/u01/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/support/YTWebSocketServer.java" />
@@ -395,13 +402,14 @@
       <jump line="20" column="6" filename="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/ItemMakeupWriteService.java" />
       <jump line="27" column="57" filename="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/ItemMakeupWriteService.java" />
       <jump line="56" column="82" filename="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/service/VideoWriteServiceImpl.java" />
+      <jump line="33" column="67" filename="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/MakeupItemCategoryService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>makeupItemCategory</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgTWFrZXVwSXRlbUNhdGVnb3J5TWFwcGVyIG1ha2V1cEl0ZW1DYXRlZ29yeU1hcHBlcjsK</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
@@ -416,28 +424,28 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnNldE9mZnNldChvZmZzZXQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5p+l6K+i5a+56LGhCiAgICAgKgogICAgICogQHBhcmFtIHJlcXVlc3QKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgTWFrZXVwSXRlbUNhdGVnb3J5IHNlbGVjdE9uZShNYWtldXBJdGVtQ2F0ZWdvcnlSZXF1ZXN0IHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgTWFrZXVwSXRlbUNhdGVnb3J5TWFwcGVyIG1ha2V1cEl0ZW1DYXRlZ29yeU1hcHBlcjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQmFzaWNUcmFuc2FjdGlvbkhlbHBlciBiYXNpY1RyYW5zYWN0aW9uSGVscGVyOwo=</text>
+        <text encoding="base64">ICAgIERhcndpblJlc3VsdDxJbnRlZ2VyPiB1cGRhdGVCeUlkKE1ha2V1cEl0ZW1DYXRlZ29yeVJlcXVlc3QgbWFrZXVwSXRlbUNhdGVnb3J5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PE1ha2V1cEl0ZW1DYXRlZ29yeURUTz4gbmV3RGF0YUxpc3QgPSBPYmplY3RDb3B5RmFzdFV0aWxzLmNvcHlMaXN0RmFzdChkYXRhTGlzdCwgTWFrZXVwSXRlbUNhdGVnb3J5RFRPLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5p+l6K+i5a+56LGhCiAgICAgKgogICAgICogQHBhcmFtIHJlcXVlc3QKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgTWFrZXVwSXRlbUNhdGVnb3J5IHNlbGVjdE9uZShNYWtldXBJdGVtQ2F0ZWdvcnlSZXF1ZXN0IHJlcXVlc3QpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQmFzaWNUcmFuc2FjdGlvbkhlbHBlciBiYXNpY1RyYW5zYWN0aW9uSGVscGVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE1ha2V1cEl0ZW1DYXRlZ29yeURUTz4gbmV3RGF0YUxpc3QgPSBPYmplY3RDb3B5RmFzdFV0aWxzLmNvcHlMaXN0RmFzdChkYXRhTGlzdCwgTWFrZXVwSXRlbUNhdGVnb3J5RFRPLmNsYXNzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFdhcm5FdmVudFJlc3VsdCB3YXJuRXZlbnRSZXN1bHQgOiBkYXRhTGlzdCkgewogICAgICAgICAgICBXYXJuRXZlbnRSZXN1bHRWbyB3YXJuRXZlbnRSZXN1bHRWbyA9IEJlYW5VdGlscy5iZWFuQ29weSh3YXJuRXZlbnRSZXN1bHQsIFdhcm5FdmVudFJlc3VsdFZvLmNsYXNzKTsKICAgICAgICAgICAgbmV3RGF0YUxpc3QuYWRkKHdhcm5FdmVudFJlc3VsdFZvKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFdhcm5FdmVudFJlc3VsdFZvPiBuZXdEYXRhTGlzdCA9IG5ldyBBcnJheUxpc3Q8PihkYXRhTGlzdC5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -593,10 +601,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tZWl0dS5tZWlwdS5kYXJ3aW4uY29tbW9uLmRvbWFpbi5kdG8ubWFrZXVwLkl0ZW1NYWtldXBEVE87Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFdhcm5FdmVudFJlc3VsdCB3YXJuRXZlbnRSZXN1bHQgOiBkYXRhTGlzdCkgewogICAgICAgICAgICBXYXJuRXZlbnRSZXN1bHRWbyB3YXJuRXZlbnRSZXN1bHRWbyA9IEJlYW5VdGlscy5iZWFuQ29weSh3YXJuRXZlbnRSZXN1bHQsIFdhcm5FdmVudFJlc3VsdFZvLmNsYXNzKTsKICAgICAgICAgICAgbmV3RGF0YUxpc3QuYWRkKHdhcm5FdmVudFJlc3VsdFZvKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm1laXR1Lm1laXB1LmNvbW11bml0eTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWVpcHUtY29tbW9uczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+UkVMRUFTRTwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFdhcm5FdmVudFJlc3VsdFZvPiBuZXdEYXRhTGlzdCA9IG5ldyBBcnJheUxpc3Q8PihkYXRhTGlzdC5zaXplKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
