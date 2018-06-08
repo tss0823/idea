@@ -18,12 +18,18 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/constants/Metric.java" timestamp="1528375541159" />
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/WarnEventResultServiceImpl.java" timestamp="1528423822604">
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/WarnEventResultServiceImpl.java" timestamp="1528425612079">
         <mark key="'" line="26" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-dal/src/main/java/com/meitu/meipu/itemcenter/mapper/CountryMapper.java" timestamp="1528359017368" />
       <file name="/HTML4 File.txt.ft" timestamp="1528365856278">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/MakeupItemCategoryDaoImpl.java" timestamp="1528425626545">
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="35" column="18" />
+        <mark key="^" line="35" column="18" />
+        <mark key="." line="35" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/SkuDO.java" timestamp="1528365342351">
         <mark key="'" line="7" column="30" />
@@ -31,11 +37,11 @@
       <file name="/Interface.txt.ft" timestamp="1528366197409">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/MakeupItemCategoryDTO.java" timestamp="1528424333423">
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="9" column="52" />
-        <mark key="^" line="9" column="52" />
-        <mark key="." line="9" column="52" />
+      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/MakeupItemCategoryDTO.java" timestamp="1528424366589">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="43" column="24" />
+        <mark key="^" line="43" column="24" />
+        <mark key="." line="43" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-dal/src/main/resources/mapper/MakeupItemCategoryMapper.xml" timestamp="1528423564425">
         <mark key="[" line="114" column="0" />
@@ -59,12 +65,6 @@
       </file>
       <file name="$USER_HOME$/workspace/platform/pom.xml" timestamp="1528026480668">
         <mark key="'" line="197" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/bb.java" timestamp="1528369542737">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="5" column="2" />
-        <mark key="." line="5" column="2" />
-        <mark key="^" line="5" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-dal/src/main/resources/mapper/MakeupItemCategoryMapper2.xml" timestamp="1528423742374">
         <mark key="[" line="91" column="17" />
@@ -176,11 +176,14 @@
       <file name="/Groovy Class.txt.ft" timestamp="1528365827979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/community/meipu-commons/1.0-RELEASE-SNAPSHOT/meipu-commons-1.0-RELEASE-20180523.133606-69-sources.jar!/com/meitu/meipu/commons/utils/copy/ObjectCopyFastUtils.java" timestamp="1528276526985">
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/community/meipu-commons/1.0-RELEASE-SNAPSHOT/meipu-commons-1.0-RELEASE-20180523.133606-69-sources.jar!/com/meitu/meipu/commons/utils/copy/ObjectCopyFastUtils.java" timestamp="1528425682056">
         <mark key="'" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/zhushou/zhushou-dal/src/main/java/com/yuntao/zhushou/dal/mapper/AppFrontMapper.java" timestamp="1528370395008">
         <mark key="'" line="5" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/ItemMakeupPropertyManagerImpl.java" timestamp="1528425659383">
+        <mark key="'" line="84" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-common/src/main/java/com/meitu/meipu/itemcenter/domain/request/ItemParamRequest.java" timestamp="1528370197824" />
       <file name="/CSS File.txt.ft" timestamp="1528366203294">
@@ -222,14 +225,14 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-common/src/main/java/com/meitu/meipu/itemcenter/domain/request/RequestDomain.java" timestamp="1528374803101">
         <mark key="'" line="13" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/MakeupItemCategoryRequest.java" timestamp="1528424239428">
+      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/MakeupItemCategoryRequest.java" timestamp="1528424347360">
         <mark key="[" line="51" column="36" />
         <mark key="]" line="51" column="37" />
         <mark key="^" line="51" column="37" />
         <mark key="." line="51" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-common/src/main/java/com/meitu/meipu/itemcenter/domain/enums/ItemIsDisableEnum.java" timestamp="1528369081419" />
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/web/BaseQuery.java" timestamp="1528424160803" />
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/web/BaseQuery.java" timestamp="1528425434614" />
       <file name="/JavaFXApplication.txt.ft" timestamp="1528365829315">
         <mark key="[" line="0" column="0" />
       </file>
@@ -252,12 +255,13 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-common/src/main/java/com/meitu/meipu/itemcenter/domain/request/BatchBasicSaveRequest.java" timestamp="1528374791463">
         <mark key="'" line="5" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/ItemMakeupMediaHouseDaoImpl.java" timestamp="1528424558971" />
       <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/makeup/ItemGroupedParamDTO.java" timestamp="1528424276326" />
-      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/MakeupItemCategoryDao.java" timestamp="1528424247238">
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="10" column="27" />
-        <mark key="^" line="10" column="27" />
-        <mark key="." line="10" column="27" />
+      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/MakeupItemCategoryDao.java" timestamp="1528424706139">
+        <mark key="[" line="55" column="34" />
+        <mark key="]" line="55" column="39" />
+        <mark key="^" line="55" column="39" />
+        <mark key="." line="55" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-dal/src/main/java/com/meitu/meipu/itemcenter/dao/CategoryDao.java" timestamp="1528359207710" />
       <file name="$USER_HOME$/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/App.java" timestamp="1528366313625" />
@@ -285,7 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="44" filename="/u01/workspace/zhushou/zhushou-web/client/src/main/java/com/yuntao/zhushou/client/controller/DeployController.java" />
       <jump line="56" column="0" filename="/u01/workspace/zhushou/zhushou-web/client/src/main/resources/script/deploy.sh" />
       <jump line="12" column="59" filename="/u01/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/CustomizedPropertyConfigurer.java" />
       <jump line="64" column="75" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.0.3.RELEASE/spring-beans-4.0.3.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer.java" />
@@ -385,19 +388,20 @@
       <jump line="13" column="48" filename="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/makeup/ItemMakeupQueryRequest.java" />
       <jump line="31" column="43" filename="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/inter/WarnEventResultService.java" />
       <jump line="19" column="47" filename="$USER_HOME$/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/query/WarnEventResultQuery.java" />
+      <jump line="84" column="40" filename="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/ItemMakeupPropertyManagerImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>MakeupItemCategory</text>
+        <text>null</text>
       </register>
       <register name="e" type="4">
         <text>2we</text>
       </register>
       <register name="-" type="4">
-        <text>MakeupItemCategory</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJWYXJpYWJsZXNcPg==</text>
