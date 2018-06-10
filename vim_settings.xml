@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/CharlesRobertDarwin/dev.properties" timestamp="1528627689140">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1528464642003">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,6 +56,7 @@
         <mark key="." line="16" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/resources/tardis/cms-tardis-consumer.xml" timestamp="1528547847764" />
+      <file name="$USER_HOME$/workspace/CharlesRobertDarwin2/dev.properties" timestamp="1528627663876" />
       <file name="$USER_HOME$/workspace/cms/dev.properties" timestamp="1528546636785">
         <mark key="[" line="76" column="23" />
         <mark key="]" line="76" column="23" />
@@ -84,7 +88,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="20" filename="$USER_HOME$/workspace/itemcenter/itemcenter-client/src/main/java/com/meitu/meipu/itemcenter/cache/BasicRedisReadHelper.java" />
       <jump line="24" column="20" filename="$USER_HOME$/workspace/itemcenter/itemcenter-dal/src/main/java/com/meitu/meipu/itemcenter/dao/impl/CategoryDaoImpl.java" />
       <jump line="27" column="57" filename="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/service/CategoryReadServiceImpl.java" />
       <jump line="7" column="30" filename="$USER_HOME$/workspace/CharlesRobertDarwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/SkuDO.java" />
@@ -184,6 +187,7 @@
       <jump line="33" column="60" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/helper/DialogueArchiveTaskScheduler.java" />
       <jump line="38" column="22" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/helper/DialogueArchiveTaskScheduler.java" />
       <jump line="41" column="23" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/helper/DialogueArchiveTaskScheduler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/CharlesRobertDarwin/dev.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -199,7 +203,7 @@
         <text>E</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFkZWNlbnRlclJwY0NsdXN0ZXJcPg==</text>
+        <text>tardis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGFyZGlzLnByb3ZpZGVyLnVzZXJjZW50ZXI9dXNlcmNlbnRlcgo=</text>
@@ -392,9 +396,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFkZWNlbnRlclJwY0NsdXN0ZXJcPg==</last-search>
+      <last-search>tardis</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFkZWNlbnRlclJwY0NsdXN0ZXJcPg==</last-pattern>
+      <last-pattern>tardis</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaGdkaWFsb2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -402,7 +406,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJlbnRcPg==</entry>
         <entry encoding="base64">XDxjYXRhbGluYUxvYWRlclw+</entry>
         <entry encoding="base64">XDxjb250ZXh0Q2xhc3NMb2FkZXJcPg==</entry>
         <entry encoding="base64">XDxkYWVtb25cPg==</entry>
@@ -422,6 +425,7 @@
         <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
         <entry encoding="base64">XDxpdGVtY2VudGVyXD4=</entry>
         <entry encoding="base64">XDx0cmFkZWNlbnRlclJwY0NsdXN0ZXJcPg==</entry>
+        <entry>tardis</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
