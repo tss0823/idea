@@ -302,7 +302,7 @@
       </file>
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/MakeupReadydataController.java" timestamp="1531296135900" />
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1-sources.jar!/org/apache/commons/lang3/tuple/Pair.java" timestamp="1530708690438" />
-      <file name="/fragment.java" timestamp="1531646507097">
+      <file name="/fragment.java" timestamp="1531665629597">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
@@ -590,12 +590,12 @@
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerConsumeServiceImpl.java" timestamp="1531473807477" />
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/AabMapper.xml" timestamp="1531665309366" />
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" timestamp="1531665507044">
-        <mark key="'" line="38" column="50" />
-        <mark key="[" line="46" column="73" />
-        <mark key="]" line="47" column="57" />
-        <mark key="^" line="47" column="57" />
-        <mark key="." line="47" column="57" />
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" timestamp="1531666017229">
+        <mark key="'" line="42" column="50" />
+        <mark key="[" line="61" column="13" />
+        <mark key="]" line="62" column="13" />
+        <mark key="." line="62" column="13" />
+        <mark key="^" line="62" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/ServerRun.java" timestamp="1530842186610" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadyDataRpcHelper.java" timestamp="1531534386187">
@@ -813,48 +813,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbE1hcE1ldGhvZC5zZXQK</text>
       </register>
       <register name="-" type="4">
-        <text>documentElement</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFhtbEdlbkZvcm1KYXZhLnRoaXMuY2hrQWN0aW9uKGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0KCJkZWxldGUiLCJpbnQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbE1hcE1ldGhvZC5zZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3FsTWFwTWV0aG9kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnl0ZUJ1ZmZlciBieXRlQnVmZmVyID0gQnl0ZUJ1ZmZlci53cmFwKHRleHQuZ2V0Qnl0ZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3FsTWFwTWV0aG9kLnNldE5hbWUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTdHJpbmcgbm9kZU5hbWUgPSBkb2N1bWVudC5nZXROb2RlTmFtZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRleHQgPSAiIjsKICAgICAgICAgICAgQnl0ZUJ1ZmZlciBieXRlQnVmZmVyID0gQnl0ZUJ1ZmZlci53cmFwKHRleHQuZ2V0Qnl0ZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0KCJpbnNlcnQiLCJpbnQiKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>new InputStream() {
-                @Override
-                public int read() throws IOException {
-                    return 0;
-                }
-            };</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IElucHV0U3RyZWFtKCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEb2N1bWVudEJ1aWxkZXJGYWN0b3J5IGRiZiA9IERvY3VtZW50QnVpbGRlckZhY3RvcnkubmV3SW5zdGFuY2UoKTsKICAgICAgICB0cnkgewogICAgICAgICAgICBEb2N1bWVudEJ1aWxkZXIgZGIgPSBkYmYubmV3RG9jdW1lbnRCdWlsZGVyKCk7CiAgICAgICAgfSBjYXRjaCAoUGFyc2VyQ29uZmlndXJhdGlvbkV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnl0ZUJ1ZmZlciBieXRlQnVmZmVyID0gQnl0ZUJ1ZmZlci53cmFwKHRleHQuZ2V0Qnl0ZXMoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ1UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>186</text>
