@@ -10,7 +10,7 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-client/src/main/java/com/meitu/meipu/itemcenter/client/backend/ParamOptionDetailWriteServiceClient.java" timestamp="1531302549104" />
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/ReadyDataConfigMapper.xml" timestamp="1531124189816" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-common/src/main/java/com/meitu/meipu/itemcenter/domain/dto/ItemDTO.java" timestamp="1531302515611" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" timestamp="1531713645577">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" timestamp="1531716391289">
         <mark key="'" line="92" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/KafkaMessageDTO.java" timestamp="1531361645543">
@@ -73,6 +73,7 @@
       </file>
       <file name="$USER_HOME$/workspace/communitycenter/pre.properties" timestamp="1531276840910" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-common/1.1-RELEASE-SNAPSHOT/itemcenter-common-1.1-RELEASE-20180710.121916-161.jar!/com/meitu/meipu/itemcenter/domain/dto/ParamOptionDetailDTO.class" timestamp="1531316446398" />
+      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/util/Pager.java" timestamp="1531716023101" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/SimilarWordServiceImpl.java" timestamp="1531295030778" />
       <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/constants/CrawlerJobExecutePeriodEnum.java" timestamp="1530759905648" />
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/action/PopAction.java" timestamp="1531641189590" />
@@ -524,6 +525,7 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/ItemMakeupMappedServiceTest.java" timestamp="1531465754360">
         <mark key="'" line="21" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-web/src/main/java/com/meitu/meipu/darwin/web/controller/ServerRun.java" timestamp="1531716816914" />
       <file name="$USER_HOME$/workspace/communitycenter/communitycenter-message/src/main/java/com/meitu/meipu/communitycenter/kafka/community/impl/skin/AsyncOldSkinReportHandler.java" timestamp="1530856481797">
         <mark key="'" line="25" column="54" />
       </file>
@@ -744,12 +746,12 @@
       </file>
       <file name="$USER_HOME$/workspace/zhushou/conf/config.properties" timestamp="1531559879888" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-mbus/src/main/java/com/meitu/meipu/itemcenter/mbus/handler/ItemMessagePublishOnDBEvent.java" timestamp="1531368549755" />
-      <file name="$USER_HOME$/workspace/crawler/crawler-dal/src/main/resources/mybatis/mapper/CrawlerItemMapper.xml" timestamp="1531714077611">
-        <mark key="'" line="1107" column="45" />
-        <mark key="[" line="1171" column="4" />
-        <mark key="]" line="1171" column="4" />
-        <mark key="^" line="1147" column="88" />
-        <mark key="." line="1171" column="4" />
+      <file name="$USER_HOME$/workspace/crawler/crawler-dal/src/main/resources/mybatis/mapper/CrawlerItemMapper.xml" timestamp="1531716385722">
+        <mark key="'" line="1147" column="39" />
+        <mark key="[" line="1143" column="0" />
+        <mark key="]" line="1143" column="0" />
+        <mark key="^" line="1144" column="22" />
+        <mark key="." line="1143" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/request/CrawlerItemForReadyDataRequest.java" timestamp="1530866984156">
         <mark key="'" line="22" column="35" />
@@ -774,7 +776,6 @@
       <file name="/dev.properties" timestamp="1531120210506" />
     </filemarks>
     <jumps>
-      <jump line="85" column="40" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" />
       <jump line="88" column="25" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" />
       <jump line="90" column="38" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" />
       <jump line="164" column="42" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" />
@@ -874,10 +875,11 @@
       <jump line="18" column="36" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerConsumeServiceImpl.java" />
       <jump line="37" column="38" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadydataDBHelper.java" />
       <jump line="92" column="56" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" />
+      <jump line="1147" column="39" filename="$USER_HOME$/workspace/crawler/crawler-dal/src/main/resources/mybatis/mapper/CrawlerItemMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFuZCBpZCAmZ3Q7PSAoc2VsZWN0IGlkIGZyb20gY3Jhd2xlcl9pdGVtIGxpbWl0ICN7c3RhcnRSb3d9LDEpCg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -889,31 +891,31 @@
         <text encoding="base64">CiAgICBpbnQgdXBkYXRlUmVhZHlEYXRhU3RhdHVzQnlJZChAUGFyYW0oImlkcyIpIExpc3Q8TG9uZz4gaWRzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PExvbmc+IGdldElkcygpIHsKICAgICAgICByZXR1cm4gaWRzOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldElkcyhMaXN0PExvbmc+IGlkcykgewogICAgICAgIHRoaXMuaWRzID0gaWRzOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGFuZCBpZCAmZ3Q7PSAoc2VsZWN0IGlkIGZyb20gY3Jhd2xlcl9pdGVtIGxpbWl0ICN7c3RhcnRSb3d9LDEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PExvbmc+IGdldElkcygpIHsKICAgICAgICByZXR1cm4gaWRzOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldElkcyhMaXN0PExvbmc+IGlkcykgewogICAgICAgIHRoaXMuaWRzID0gaWRzOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PENyYXdsZXJJdGVtRFRPPiBjcmF3bGVySXRlbURUT1MgPSBEYXRhQ29udmVydFV0aWxzLmNvbnZlcnRMaXN0KGNyYXdsZXJJdGVtTGlzdCwgQ3Jhd2xlckl0ZW1EVE8uY2xhc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVxdWVzdC5nZXRQYWdlSW5kZXgoKSA8PSAwKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJwYWdlSW5kZXggaW52YWxpZGF0ZSIpOwogICAgICAgIH0KICAgICAgICBpZiAocmVxdWVzdC5nZXRQYWdlU2l6ZSgpIDw9IDApIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oInBhZ2VTaXplIGludmFsaWRhdGUiKTsKICAgICAgICB9CiAgICAgICAgcmVxdWVzdC5zZXRTdGFydFJvdygocmVxdWVzdC5nZXRQYWdlSW5kZXgoKSAtIDEpICogcmVxdWVzdC5nZXRQYWdlU2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENyYXdsZXJJdGVtRFRPPiBjcmF3bGVySXRlbURUT1MgPSBEYXRhQ29udmVydFV0aWxzLmNvbnZlcnRMaXN0KGNyYXdsZXJJdGVtTGlzdCwgQ3Jhd2xlckl0ZW1EVE8uY2xhc3MpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVxdWVzdC5nZXRQYWdlSW5kZXgoKSA8PSAwKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJwYWdlSW5kZXggaW52YWxpZGF0ZSIpOwogICAgICAgIH0KICAgICAgICBpZiAocmVxdWVzdC5nZXRQYWdlU2l6ZSgpIDw9IDApIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oInBhZ2VTaXplIGludmFsaWRhdGUiKTsKICAgICAgICB9CiAgICAgICAgcmVxdWVzdC5zZXRTdGFydFJvdygocmVxdWVzdC5nZXRQYWdlSW5kZXgoKSAtIDEpICogcmVxdWVzdC5nZXRQYWdlU2l6ZSgpKTsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICA8c2VsZWN0IGlkPSJzZWxlY3RCeVBhZ2VGb3JSZWFkeURhdGEiIHBhcmFtZXRlclR5cGU9Im1hcCIgcmVzdWx0TWFwPSJSZXN1bHRNYXBXaXRoQkxPQnMiPgogICAgc2VsZWN0CiAgICA8aW5jbHVkZSByZWZpZD0iQmFzZV9Db2x1bW5fTGlzdCIgLz4gLCA8aW5jbHVkZSByZWZpZD0iQmxvYl9Db2x1bW5fTGlzdCIgLz4KICAgIGZyb20gY3Jhd2xlcl9pdGVtIHdoZXJlIGlzRGVsZXRlID0gMCBhbmQgcmVhZHlEYXRhU3RhdHVzID0gMAogICAgPGlmIHRlc3Q9InNvdXJjZSAhPSBudWxsIGFuZCBzb3VyY2UgIT0nJyI+CiAgICAgIGFuZCBgc291cmNlYCA9ICN7c291cmNlfQogICAgPC9pZj4KICAgIDxpZiB0ZXN0PSJzb3VyY2VMaXN0ICE9IG51bGwiPgogICAgICBhbmQgc291cmNlIGluCiAgICAgIDxmb3JlYWNoIGl0ZW09InNvdXJjZSIgY29sbGVjdGlvbj0ic291cmNlTGlzdCIgb3Blbj0iKCIgc2VwYXJhdG9yPSIsIiBjbG9zZT0iKSI+CiAgICAgICAgI3tzb3VyY2V9CiAgICAgIDwvZm9yZWFjaD4KICAgIDwvaWY+CiAgICA8aWYgdGVzdD0iZ210TW9kaWZpZWRTdGFydCAhPSBudWxsIGFuZCBnbXRNb2RpZmllZFN0YXJ0ICE9JyciPgogICAgICBhbmQgYGdtdE1vZGlmaWVkYCAmZ3Q7PSAje2dtdE1vZGlmaWVkU3RhcnR9CiAgICA8L2lmPgogICAgPGlmIHRlc3Q9ImdtdE1vZGlmaWVkRW5kICE9IG51bGwgYW5kIGdtdE1vZGlmaWVkRW5kICE9JyciPgogICAgICBhbmQgYGdtdE1vZGlmaWVkYCAmbHQ7PSAje2dtdE1vZGlmaWVkRW5kfQogICAgPC9pZj4KICAgIGFuZCBpZCAmZ3Q7PSAoc2VsZWN0IGlkIGZyb20gY3Jhd2xlcl9pdGVtIGxpbWl0ICN7c3RhcnRSb3d9LDEpCiAgICBsaW1pdCAgI3twYWdlU2l6ZX0KICA8L3NlbGVjdD4K</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICA8c2VsZWN0IGlkPSJzZWxlY3RGb3JSZWFkeURhdGFDb3VudCIgcGFyYW1ldGVyVHlwZT0ibWFwIiByZXN1bHRUeXBlPSJqYXZhLmxhbmcuSW50ZWdlciI+CiAgICBTRUxFQ1QgY291bnQoKikgZnJvbSBjcmF3bGVyX2l0ZW0gd2hlcmUgaXNEZWxldGUgPSAwIGFuZCByZWFkeURhdGFTdGF0dXMgPSAwCiAgICA8aWYgdGVzdD0ic291cmNlICE9IG51bGwgYW5kIHNvdXJjZSAhPScnIj4KICAgICAgYW5kIGBzb3VyY2VgID0gI3tzb3VyY2V9CiAgICA8L2lmPgogICAgPGlmIHRlc3Q9InNvdXJjZUxpc3QgIT0gbnVsbCI+CiAgICAgIGFuZCBzb3VyY2UgaW4KICAgICAgPGZvcmVhY2ggaXRlbT0ic291cmNlIiBjb2xsZWN0aW9uPSJzb3VyY2VMaXN0IiBvcGVuPSIoIiBzZXBhcmF0b3I9IiwiIGNsb3NlPSIpIj4KICAgICAgICAje3NvdXJjZX0KICAgICAgPC9mb3JlYWNoPgogICAgPC9pZj4KICAgIDxpZiB0ZXN0PSJnbXRNb2RpZmllZFN0YXJ0ICE9IG51bGwgYW5kIGdtdE1vZGlmaWVkU3RhcnQgIT0nJyI+CiAgICAgIGFuZCBgZ210TW9kaWZpZWRgICZndDs9ICN7Z210TW9kaWZpZWRTdGFydH0KICAgIDwvaWY+CiAgICA8aWYgdGVzdD0iZ210TW9kaWZpZWRFbmQgIT0gbnVsbCBhbmQgZ210TW9kaWZpZWRFbmQgIT0nJyI+CiAgICAgIGFuZCBgZ210TW9kaWZpZWRgICZsdDs9ICN7Z210TW9kaWZpZWRFbmR9CiAgICA8L2lmPgogIDwvc2VsZWN0Pg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxpbmNsdWRlIHJlZmlkPSJCYXNlX0NvbHVtbl9MaXN0IiAvPiAsIDxpbmNsdWRlIHJlZmlkPSJCbG9iX0NvbHVtbl9MaXN0IiAvPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIHJlZmlkPSJCYXNlX0NvbHVtbl9MaXN0IiAvPiAsIDxpbmNsdWRlIHJlZmlkPSJCbG9iX0NvbHVtbl9MaXN0IiAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>186</text>
