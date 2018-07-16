@@ -10,7 +10,9 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-client/src/main/java/com/meitu/meipu/itemcenter/client/backend/ParamOptionDetailWriteServiceClient.java" timestamp="1531302549104" />
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/ReadyDataConfigMapper.xml" timestamp="1531124189816" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-common/src/main/java/com/meitu/meipu/itemcenter/domain/dto/ItemDTO.java" timestamp="1531302515611" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" timestamp="1531709569954" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" timestamp="1531713645577">
+        <mark key="'" line="92" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/KafkaMessageDTO.java" timestamp="1531361645543">
         <mark key="'" line="11" column="43" />
       </file>
@@ -231,7 +233,7 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/pom.xml" timestamp="1531381651649">
+      <file name="$USER_HOME$/workspace/darwin/pom.xml" timestamp="1531713467791">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="589" column="0" />
         <mark key="]" line="25" column="0" />
@@ -543,12 +545,12 @@
         <mark key="^" line="195" column="53" />
         <mark key="." line="350" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/crawler/crawler-dal/src/main/java/com/meitu/meipu/crawler/mapper/CrawlerItemMapper.java" timestamp="1531704319305">
+      <file name="$USER_HOME$/workspace/crawler/crawler-dal/src/main/java/com/meitu/meipu/crawler/mapper/CrawlerItemMapper.java" timestamp="1531714084115">
         <mark key="'" line="44" column="51" />
         <mark key="[" line="44" column="73" />
-        <mark key="]" line="44" column="72" />
-        <mark key="^" line="44" column="72" />
-        <mark key="." line="44" column="72" />
+        <mark key="]" line="42" column="32" />
+        <mark key="^" line="42" column="32" />
+        <mark key="." line="42" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/pre.properties" timestamp="1531128918704" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/ReadyDataConfigManager.java" timestamp="1530866486053">
@@ -742,7 +744,7 @@
       </file>
       <file name="$USER_HOME$/workspace/zhushou/conf/config.properties" timestamp="1531559879888" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-mbus/src/main/java/com/meitu/meipu/itemcenter/mbus/handler/ItemMessagePublishOnDBEvent.java" timestamp="1531368549755" />
-      <file name="$USER_HOME$/workspace/crawler/crawler-dal/src/main/resources/mybatis/mapper/CrawlerItemMapper.xml" timestamp="1531708651335">
+      <file name="$USER_HOME$/workspace/crawler/crawler-dal/src/main/resources/mybatis/mapper/CrawlerItemMapper.xml" timestamp="1531714077611">
         <mark key="'" line="1107" column="45" />
         <mark key="[" line="1171" column="4" />
         <mark key="]" line="1171" column="4" />
@@ -759,12 +761,7 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/ClusterClientBuilder.java" timestamp="1531120330977">
         <mark key="'" line="106" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataBuildServiceImpl.java" timestamp="1531709182769">
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="69" />
-        <mark key="^" line="10" column="69" />
-        <mark key="." line="10" column="69" />
-      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataBuildServiceImpl.java" timestamp="1531713627026" />
       <file name="$USER_HOME$/workspace/darwin/pre.properties" timestamp="1531470053694">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -786,7 +783,6 @@
       <jump line="246" column="60" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" />
       <jump line="85" column="66" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadyDataRpcHelper.java" />
       <jump line="117" column="35" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" />
-      <jump line="92" column="17" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" />
       <jump line="99" column="16" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" />
       <jump line="71" column="24" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" />
       <jump line="191" column="53" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" />
@@ -877,6 +873,7 @@
       <jump line="19" column="105" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerConsumeServiceImpl.java" />
       <jump line="18" column="36" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerConsumeServiceImpl.java" />
       <jump line="37" column="38" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadydataDBHelper.java" />
+      <jump line="92" column="56" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
