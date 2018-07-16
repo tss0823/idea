@@ -16,6 +16,7 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-client/src/main/java/com/meitu/meipu/itemcenter/client/backend/ParamOptionDetailWriteServiceClient.java" timestamp="1531302549104" />
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/ReadyDataConfigMapper.xml" timestamp="1531124189816" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-common/src/main/java/com/meitu/meipu/itemcenter/domain/dto/ItemDTO.java" timestamp="1531302515611" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" timestamp="1531706606790" />
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/KafkaMessageDTO.java" timestamp="1531361645543">
         <mark key="'" line="11" column="43" />
       </file>
@@ -45,10 +46,10 @@
         <mark key="^" line="27" column="38" />
         <mark key="." line="27" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/crawler/pom.xml" timestamp="1531276814596">
+      <file name="$USER_HOME$/workspace/crawler/pom.xml" timestamp="1531706904966">
         <mark key="[" line="24" column="30" />
-        <mark key="]" line="24" column="37" />
-        <mark key="." line="24" column="37" />
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
         <mark key="^" line="24" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadydataCrawlerServiceImpl.java" timestamp="1531361234553">
@@ -846,11 +847,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0.jar!/com/google/common/cache/LocalCache.class" timestamp="1531123226186" />
       <file name="$USER_HOME$/workspace/darwin/darwin-message/src/main/java/com/meitu/meipu/darwin/message/kafka/darwin/impl/ReayDataTansHandler.java" timestamp="1531705728629">
-        <mark key="'" line="29" column="42" />
+        <mark key="'" line="30" column="42" />
         <mark key="[" line="5" column="79" />
-        <mark key="]" line="29" column="54" />
-        <mark key="^" line="29" column="54" />
-        <mark key="." line="29" column="54" />
+        <mark key="]" line="30" column="54" />
+        <mark key="^" line="30" column="54" />
+        <mark key="." line="30" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/communitycenter/communitycenter-dao/src/main/java/com/meitu/meipu/communitycenter/adapter/SkinReportDaoAdapter.java" timestamp="1530848052725" />
       <file name="$USER_HOME$/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/CodeBuildSql.java" timestamp="1531578322373">
@@ -1020,10 +1021,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>request</text>
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRUeXBlXD4=</text>
