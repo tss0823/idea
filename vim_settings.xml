@@ -70,7 +70,7 @@
         <mark key="^" line="65" column="13" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1531807114102" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1531813258213" />
       <file name="$USER_HOME$/workspace/crawler/crawler-dal/src/main/java/com/meitu/meipu/crawler/dao/impl/CrawlerItemForReadyDataDaoImpl.java" timestamp="1531707938798">
         <mark key="'" line="21" column="66" />
         <mark key="[" line="47" column="15" />
@@ -146,12 +146,11 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/crawler-common/1.1-RELEASE-SNAPSHOT/crawler-common-1.1-RELEASE-SNAPSHOT-sources.jar!/com/meitu/meipu/crawler/domain/BaseDomain.java" timestamp="1530796611049">
         <mark key="'" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" timestamp="1531812532266">
-        <mark key="'" line="94" column="76" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="95" column="95" />
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" timestamp="1531813399711">
+        <mark key="'" line="97" column="76" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="70" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadyDataMergeServiceImpl.java" timestamp="1531107069685">
         <mark key="'" line="152" column="94" />
@@ -500,6 +499,12 @@
         <mark key="'" line="12" column="40" />
       </file>
       <file name="/MakeupReadydataConsumeServiceImpl.java" timestamp="1531793414998" />
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" timestamp="1531813594750">
+        <mark key="[" line="70" column="71" />
+        <mark key="]" line="72" column="28" />
+        <mark key="^" line="72" column="28" />
+        <mark key="." line="72" column="28" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.15.RELEASE/spring-core-4.3.15.RELEASE.jar!/org/springframework/core/convert/support/GenericConversionService.class" timestamp="1530155992148">
         <mark key="'" line="125" column="40" />
       </file>
@@ -707,8 +712,8 @@
       <jump line="210" column="57" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadydataJsonAnalyze.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BaseResultMap</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNxbE1hcE1ldGhvZCBzcWxNYXBNZXRob2QgPSBTcWxNYXBBbmF5c2UuYW5heXNlKHRleHQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>BaseResultMap</text>
@@ -720,13 +725,13 @@
         <text encoding="base64">ICAgICAgICBkYXRhTGlzdC5hZGQoImFhIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNxbE1hcE1ldGhvZCBzcWxNYXBNZXRob2QgPSBTcWxNYXBBbmF5c2UuYW5heXNlKHRleHQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWFkeURhdGFFdmFsdWF0ZURhby51cGRhdGVCeUlkKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWFkeURhdGFFdmFsdWF0ZURhby51cGRhdGVCeUlkKGRhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -734,17 +739,17 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBMaXN0PFN0cmluZz4gZGF0YUxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBkYXRhTGlzdC5hZGQoImFhIik7CiAgICAgICAgZGF0YUxpc3QuYWRkKCJiYiIpOwogICAgICAgIEl0ZXJhdG9yPFN0cmluZz4gaXRlcmF0b3IgPSBkYXRhTGlzdC5pdGVyYXRvcigpOwogICAgICAgIHdoaWxlIChpdGVyYXRvci5oYXNOZXh0KCkpewogICAgICAgICAgICBTdHJpbmcgc3RyID0gaXRlcmF0b3IubmV4dCgpOwogICAgICAgICAgICBpdGVyYXRvci5yZW1vdmUoKTsKICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludGYoInJlc3VsdD0iK2RhdGFMaXN0LnNpemUoKSk7CiAgICB9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPCg==</text>
       </register>
       <register name=":" type="4">
         <text>149</text>
