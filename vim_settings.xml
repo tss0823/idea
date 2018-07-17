@@ -3,12 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" timestamp="1531793468719">
-        <mark key="'" line="135" column="20" />
-        <mark key="[" line="135" column="62" />
-        <mark key="]" line="135" column="62" />
-        <mark key="^" line="135" column="62" />
-        <mark key="." line="135" column="62" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" timestamp="1531820833137">
+        <mark key="[" line="93" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/crawler/pom.xml" timestamp="1531792487476">
         <mark key="[" line="24" column="30" />
@@ -274,6 +270,9 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-web/WEB-INF/web.xml" timestamp="1531816525745">
         <mark key="'" line="104" column="57" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadydataDBHelper.java" timestamp="1531820838282">
+        <mark key="'" line="141" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/support/codeBuild/ApplicationBuilder.java" timestamp="1531627402106">
         <mark key="'" line="113" column="38" />
         <mark key="[" line="413" column="142" />
@@ -338,10 +337,9 @@
         <mark key="." line="22" column="34" />
         <mark key="^" line="22" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataBuildServiceImpl.java" timestamp="1531820690688" />
     </filemarks>
     <jumps>
-      <jump line="72" column="66" filename="$USER_HOME$/workspace/zhushou/zhushou-dal/src/main/resources/mapper/CodeBuildSqlMapper.xml" />
-      <jump line="81" column="57" filename="$USER_HOME$/workspace/zhushou/zhushou-dal/src/main/resources/mapper/CodeBuildSqlMapper.xml" />
       <jump line="13" column="45" filename="$USER_HOME$/workspace/zhushou/zhushou-dal/src/main/resources/mapper/CodeBuildSqlMapper.xml" />
       <jump line="19" column="83" filename="$USER_HOME$/workspace/zhushou/zhushou-dal/src/main/resources/mapper/CodeBuildSqlMapper.xml" />
       <jump line="205" column="8" filename="$USER_HOME$/workspace/zhushou/zhushou-web/deploy/src/main/webapp/_resources/scripts/module/codeBuild/buildRecord.js" />
@@ -440,34 +438,36 @@
       <jump line="126" column="35" filename="$MAVEN_REPOSITORY$/io/prometheus/simpleclient/0.1.0/simpleclient-0.1.0-sources.jar!/io/prometheus/client/CollectorRegistry.java" />
       <jump line="24" column="24" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-web/0.2.4-SNAPSHOT/tardis-web-0.2.4-20180627.091432-6.jar!/com/meitu/tardis/web/AbstractMetricsServlet.class" />
       <jump line="104" column="57" filename="$USER_HOME$/workspace/darwin/darwin-web/WEB-INF/web.xml" />
+      <jump line="93" column="16" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" />
+      <jump line="210" column="52" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataConsumeServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text>result</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9wTWFwXD4=</text>
+        <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhTGlzdC5hZGQoImFhIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiZW50cnkgdGFza0NsZWFyIik7CiAgICAgICAgbWFrZXVwUmVhZHlkYXRhQnVpbGRTZXJ2aWNlLnRha2VEYXRhVGFza0NsZWFyKCk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNxbE1hcE1ldGhvZCBzcWxNYXBNZXRob2QgPSBTcWxNYXBBbmF5c2UuYW5heXNlKHRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiZW50cnkgdGFza0NsZWFyIik7CiAgICAgICAgbWFrZXVwUmVhZHlkYXRhQnVpbGRTZXJ2aWNlLnRha2VEYXRhVGFza0NsZWFyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNxbE1hcE1ldGhvZCBzcWxNYXBNZXRob2QgPSBTcWxNYXBBbmF5c2UuYW5heXNlKHRleHQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWFkeURhdGFFdmFsdWF0ZURhby51cGRhdGVCeUlkKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWFkeURhdGFFdmFsdWF0ZURhby51cGRhdGVCeUlkKGRhdGEpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -475,20 +475,20 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBMaXN0PFN0cmluZz4gZGF0YUxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBkYXRhTGlzdC5hZGQoImFhIik7CiAgICAgICAgZGF0YUxpc3QuYWRkKCJiYiIpOwogICAgICAgIEl0ZXJhdG9yPFN0cmluZz4gaXRlcmF0b3IgPSBkYXRhTGlzdC5pdGVyYXRvcigpOwogICAgICAgIHdoaWxlIChpdGVyYXRvci5oYXNOZXh0KCkpewogICAgICAgICAgICBTdHJpbmcgc3RyID0gaXRlcmF0b3IubmV4dCgpOwogICAgICAgICAgICBpdGVyYXRvci5yZW1vdmUoKTsKICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludGYoInJlc3VsdD0iK2RhdGFMaXN0LnNpemUoKSk7CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBMaXN0PFN0cmluZz4gZGF0YUxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBkYXRhTGlzdC5hZGQoImFhIik7CiAgICAgICAgZGF0YUxpc3QuYWRkKCJiYiIpOwogICAgICAgIEl0ZXJhdG9yPFN0cmluZz4gaXRlcmF0b3IgPSBkYXRhTGlzdC5pdGVyYXRvcigpOwogICAgICAgIHdoaWxlIChpdGVyYXRvci5oYXNOZXh0KCkpewogICAgICAgICAgICBTdHJpbmcgc3RyID0gaXRlcmF0b3IubmV4dCgpOwogICAgICAgICAgICBpdGVyYXRvci5yZW1vdmUoKTsKICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludGYoInJlc3VsdD0iK2RhdGFMaXN0LnNpemUoKSk7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>149</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9wTWFwXD4=</last-search>
+      <last-search encoding="base64">XDxyZXN1bHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9wTWFwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZXN1bHRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -496,7 +496,6 @@
       <history-search>
         <entry encoding="base64">XDx0aHJlYWRGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
-        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxkYXRhTGlzdFw+</entry>
         <entry encoding="base64">XDxtZXJnZWRXYXJlaG91c2VJZHNcPg==</entry>
         <entry encoding="base64">XDxkYXRhU2VnbWVudFByb2Nlc3NcPg==</entry>
@@ -514,6 +513,7 @@
         <entry encoding="base64">XDxyZWFkeURhdGFFdmFsdWF0ZUltYWdlRGFvXD4=</entry>
         <entry encoding="base64">XDxzdWNjZXNzSXRlbUlkc1w+</entry>
         <entry encoding="base64">XDxwcm9wTWFwXD4=</entry>
+        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
