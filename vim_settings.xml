@@ -37,6 +37,9 @@
         <mark key="." line="24" column="30" />
         <mark key="^" line="24" column="37" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-web/0.2.4-SNAPSHOT/tardis-web-0.2.4-20180627.091432-6.jar!/com/meitu/tardis/web/AbstractMetricsServlet.class" timestamp="1531816439410">
+        <mark key="'" line="24" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/constants/AuditStatusEnum.java" timestamp="1531802217683" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc-spring/0.2.4-SNAPSHOT/tardis-grpc-spring-0.2.4-20180627.091430-6-sources.jar!/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" timestamp="1531119674650">
         <mark key="'" line="37" column="20" />
@@ -70,7 +73,7 @@
         <mark key="^" line="65" column="13" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1531815484259" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1531815784239" />
       <file name="$USER_HOME$/workspace/crawler/crawler-dal/src/main/java/com/meitu/meipu/crawler/dao/impl/CrawlerItemForReadyDataDaoImpl.java" timestamp="1531707938798">
         <mark key="'" line="21" column="66" />
         <mark key="[" line="47" column="15" />
@@ -309,6 +312,7 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc-spring/0.2.4-SNAPSHOT/tardis-grpc-spring-0.2.4-20180627.091430-6-sources.jar!/com/meitu/tardis/grpc/spring4/GrpcServerFactoryBean.java" timestamp="1531121201857">
         <mark key="'" line="8" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-web/src/main/resources/log4j2.xml" timestamp="1531817661294" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/TaskExecuteManager.java" timestamp="1531364690206">
         <mark key="'" line="11" column="69" />
         <mark key="[" line="14" column="42" />
@@ -347,6 +351,9 @@
         <mark key="]" line="167" column="74" />
         <mark key="." line="167" column="74" />
         <mark key="^" line="167" column="74" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-web/0.2.4-SNAPSHOT/tardis-web-0.2.4-20180627.091432-6.jar!/com/meitu/tardis/web/JvmMetricsServlet.class" timestamp="1531816239656">
+        <mark key="'" line="10" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/communitycenter/communitycenter-remote/src/main/java/com/meitu/meipu/communitycenter/http/domain/account/AccountUserResponse.java" timestamp="1530174572746">
         <mark key="'" line="26" column="19" />
@@ -482,6 +489,9 @@
       <file name="$USER_HOME$/workspace/communitycenter/communitycenter-message/src/main/resources/community-message.xml" timestamp="1530858004017">
         <mark key="'" line="12" column="52" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/prometheus/simpleclient/0.1.0/simpleclient-0.1.0-sources.jar!/io/prometheus/client/CollectorRegistry.java" timestamp="1531816428443">
+        <mark key="'" line="126" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" timestamp="1530844925294">
         <mark key="'" line="470" column="18" />
         <mark key="[" line="304" column="34" />
@@ -506,7 +516,8 @@
         <mark key="'" line="12" column="40" />
       </file>
       <file name="/MakeupReadydataConsumeServiceImpl.java" timestamp="1531793414998" />
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" timestamp="1531815570556">
+      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-web/0.2.4-SNAPSHOT/tardis-web-0.2.4-20180627.091432-6.jar!/com/meitu/tardis/web/MigrationSwitcherServlet.class" timestamp="1531816543152" />
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" timestamp="1531815757411">
         <mark key="[" line="70" column="71" />
         <mark key="]" line="72" column="28" />
         <mark key="^" line="72" column="28" />
@@ -524,6 +535,9 @@
       </file>
       <file name="$USER_HOME$/workspace/crawler/crawler-backend/src/main/resources/tardis/publisher/crawler-backend-tardis-provider.xml" timestamp="1531121313990">
         <mark key="'" line="11" column="76" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-web/WEB-INF/web.xml" timestamp="1531816525745">
+        <mark key="'" line="104" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/communitycenter/communitycenter-domain/src/main/java/com/meitu/meipu/communitycenter/domain/DomainMessageTools.java" timestamp="1530848009030">
         <mark key="'" line="62" column="18" />
@@ -561,6 +575,7 @@
         <mark key="." line="21" column="70" />
         <mark key="^" line="21" column="70" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/prometheus/simpleclient_common/0.1.0/simpleclient_common-0.1.0.jar!/io/prometheus/client/exporter/common/TextFormat.class" timestamp="1531816462503" />
       <file name="$USER_HOME$/workspace/darwin/darwin-message/src/main/java/com/meitu/meipu/darwin/message/kafka/darwin/impl/ReayDataTansHandler.java" timestamp="1531705728629">
         <mark key="'" line="30" column="42" />
         <mark key="[" line="5" column="79" />
@@ -617,11 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="50" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/H5SocketClient.java" />
-      <jump line="177" column="10" filename="$USER_HOME$/workspace/zhushou/zhushou-web/deploy/src/main/java/com/yuntao/zhushou/deploy/controller/CodeBuildController.java" />
-      <jump line="45" column="33" filename="$USER_HOME$/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/domain/CodeBuildSql.java" />
-      <jump line="32" column="60" filename="$USER_HOME$/workspace/zhushou/zhushou-dal/src/main/resources/mapper/CodeBuildSqlMapper.xml" />
-      <jump line="68" column="63" filename="$USER_HOME$/workspace/zhushou/zhushou-dal/src/main/resources/mapper/CodeBuildSqlMapper.xml" />
       <jump line="72" column="66" filename="$USER_HOME$/workspace/zhushou/zhushou-dal/src/main/resources/mapper/CodeBuildSqlMapper.xml" />
       <jump line="81" column="57" filename="$USER_HOME$/workspace/zhushou/zhushou-dal/src/main/resources/mapper/CodeBuildSqlMapper.xml" />
       <jump line="13" column="45" filename="$USER_HOME$/workspace/zhushou/zhushou-dal/src/main/resources/mapper/CodeBuildSqlMapper.xml" />
@@ -717,6 +727,11 @@
       <jump line="119" column="28" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/ReadyDataEvaluateDao.java" />
       <jump line="210" column="57" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadydataJsonAnalyze.java" />
       <jump line="19" column="35" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/bean/SqlMapMethod.java" />
+      <jump line="113" column="50" filename="$USER_HOME$/workspace/darwin/darwin-web/WEB-INF/web.xml" />
+      <jump line="10" column="46" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-web/0.2.4-SNAPSHOT/tardis-web-0.2.4-20180627.091432-6.jar!/com/meitu/tardis/web/JvmMetricsServlet.class" />
+      <jump line="126" column="35" filename="$MAVEN_REPOSITORY$/io/prometheus/simpleclient/0.1.0/simpleclient-0.1.0-sources.jar!/io/prometheus/client/CollectorRegistry.java" />
+      <jump line="24" column="24" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-web/0.2.4-SNAPSHOT/tardis-web-0.2.4-20180627.091432-6.jar!/com/meitu/tardis/web/AbstractMetricsServlet.class" />
+      <jump line="104" column="57" filename="$USER_HOME$/workspace/darwin/darwin-web/WEB-INF/web.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
