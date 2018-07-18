@@ -11,12 +11,12 @@
         <mark key="." line="367" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/apprun/src/main/java/com/meitu/meipu/apprun/server/AppRun.java" timestamp="1531880939657" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" timestamp="1531908708880">
-        <mark key="'" line="49" column="27" />
-        <mark key="[" line="94" column="17" />
-        <mark key="]" line="94" column="17" />
-        <mark key="^" line="94" column="17" />
-        <mark key="." line="94" column="17" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" timestamp="1531916852623">
+        <mark key="'" line="73" column="44" />
+        <mark key="[" line="86" column="92" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="79" column="19" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/AdsClientBaseTask.java" timestamp="1531897821458" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/bigdata/ClientChannelLongEffect.java" timestamp="1531904694988">
@@ -81,8 +81,8 @@
         <mark key="^" line="707" column="91" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/utils/MathUtils.java" timestamp="1531896986671" />
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47.jar!/com/alibaba/fastjson/JSONObject.class" timestamp="1531908692099">
-        <mark key="'" line="153" column="29" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47.jar!/com/alibaba/fastjson/JSONObject.class" timestamp="1531916407455">
+        <mark key="'" line="74" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/ReadyDataEvaluateMapper.xml" timestamp="1531812377106">
         <mark key="[" line="209" column="76" />
@@ -119,7 +119,7 @@
         <mark key="^" line="35" column="14" />
         <mark key="." line="35" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/impl/ClientChannelLongEffectDAOImpl.java" timestamp="1531908220491">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/impl/ClientChannelLongEffectDAOImpl.java" timestamp="1531916128518">
         <mark key="'" line="54" column="42" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-common/1.0-RELEASE-SNAPSHOT/datacenter-common-1.0-RELEASE-20180712.065904-73-sources.jar!/com/meitu/meipu/datacenter/common/constants/ChannelLongEnum.java" timestamp="1531895820936" />
@@ -159,12 +159,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.10/0.8.2.1/kafka_2.10-0.8.2.1.jar!/kafka/consumer/ZookeeperConsumerConnector.class" timestamp="1531832609989" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/darwin-client/1.0-RELEASE-SNAPSHOT/darwin-client-1.0-RELEASE-20180712.071536-29.jar!/com/meitu/meipu/darwin/client/service/SimilarWordClient.class" timestamp="1531895045408" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/constants/DataKeyConstants.java" timestamp="1531882828021" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongRemainTask.java" timestamp="1531908659192">
-        <mark key="'" line="107" column="65" />
-        <mark key="[" line="107" column="76" />
-        <mark key="]" line="107" column="88" />
-        <mark key="." line="107" column="88" />
-        <mark key="^" line="107" column="88" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongRemainTask.java" timestamp="1531916687790">
+        <mark key="'" line="108" column="65" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="128" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-message/src/main/resources/darwin-message-consumer.xml" timestamp="1531831595920">
         <mark key="'" line="9" column="80" />
@@ -292,11 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="28" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
-      <jump line="220" column="28" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
-      <jump line="230" column="28" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
-      <jump line="240" column="28" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
-      <jump line="248" column="28" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
       <jump line="257" column="28" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
       <jump line="264" column="28" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
       <jump line="26" column="22" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
@@ -390,15 +385,20 @@
       <jump line="234" column="71" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
       <jump line="112" column="93" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongRemainTask.java" />
       <jump line="107" column="65" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongRemainTask.java" />
-      <jump line="153" column="29" filename="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47.jar!/com/alibaba/fastjson/JSONObject.class" />
       <jump line="48" column="27" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" />
+      <jump line="68" column="79" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" />
+      <jump line="73" column="44" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" />
+      <jump line="153" column="29" filename="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47.jar!/com/alibaba/fastjson/JSONObject.class" />
+      <jump line="108" column="65" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongRemainTask.java" />
+      <jump line="152" column="29" filename="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47.jar!/com/alibaba/fastjson/JSONObject.class" />
+      <jump line="74" column="28" filename="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47.jar!/com/alibaba/fastjson/JSONObject.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFeGFtcGxlX1doZXJlX0NsYXVzZVw+</text>
@@ -407,31 +407,31 @@
         <text encoding="base64">ICAgICAgYW1vdW50UGVyQnV5ZXIgPSAje3JlY29yZC5hbW91bnRQZXJCdXllcixqZGJjVHlwZT1ET1VCTEV9LAogICAgICBhbW91bnRQZXJPcmRlciA9ICN7cmVjb3JkLmFtb3VudFBlck9yZGVyLGpkYmNUeXBlPURPVUJMRX0sCiAgICAgIGdtdENyZWF0ZSA9ICN7cmVjb3JkLmdtdENyZWF0ZSxqZGJjVHlwZT1USU1FU1RBTVB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBHcG1TZWFyY2hUYXNrIHRhc2sgPSBuZXcgR3BtU2VhcmNoVGFzayhyZWRpc0hlbHBlcik7CiAgICAgICAgdGFzay5zZXRUYXNrVXJsKGdwbVNlYXJjaFVybCkuc2V0SHR0cEFkYXB0ZXIoaHR0cEFkYXB0ZXIpLnNldFJlcG9ydEF1dGhNYW5hZ2VyKHJlcG9ydEF1dGhNYW5hZ2VyKTsKICAgICAgICB0YXNrLnJ1bigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGRhdGVMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCkgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChvdmVyd3JpdGUpIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiSU5GT0BDaGFubmVsTG9uZ1Rhc2sucnVuKCksIG92ZXJ3cml0ZSBleGlzdGluZyBkYXRhLCBzaXplOiB7fSIsIGxpc3Quc2l6ZSgpKTsKICAgICAgICAgICAgICAgICAgICBjbGllbnRDaGFubmVsTG9uZ0VmZmVjdERBTy5kZWxldGVCeUV4YW1wbGVBbmRJbnNlcnQoZXhhbXBsZSwgbG9uZ0VmZmVjdHMpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBjbGllbnRDaGFubmVsTG9uZ0VmZmVjdERBTy5pbnNlcnRCYXRjaChsb25nRWZmZWN0cyk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKCJFUlJPUkBDaGFubmVsTG9uZ1JlbWFpblRhc2sucnVuKCksIGVycm9yIHVwZGF0aW5nIENoYW5uZWxMb25nUmVtYWluVGFzayIsIGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR0by5zZXROZXdEZXZNZWFzdXJlUmF0ZShzaG9ydEVmZmVjdC5nZXROZXdEZXZNZWFzdXJlUmF0ZSgpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBJbnRlZ2VyIGludGVnZXIgPSBUeXBlVXRpbHMuY2FzdFRvSW50KCIyIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGYoImludCIgK2ludGVnZXIpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBHcG1TZWFyY2hUYXNrIHRhc2sgPSBuZXcgR3BtU2VhcmNoVGFzayhyZWRpc0hlbHBlcik7CiAgICAgICAgdGFzay5zZXRUYXNrVXJsKGdwbVNlYXJjaFVybCkuc2V0SHR0cEFkYXB0ZXIoaHR0cEFkYXB0ZXIpLnNldFJlcG9ydEF1dGhNYW5hZ2VyKHJlcG9ydEF1dGhNYW5hZ2VyKTsKICAgICAgICB0YXNrLnJ1bigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZHRvOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGRhdGVMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCkgOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vCg==</text>
       </register>
       <register name=":" type="4">
         <text>166</text>
