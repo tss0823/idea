@@ -19,12 +19,6 @@
         <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/AdsClientBaseTask.java" timestamp="1531897821458" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/bigdata/ClientChannelLongEffect.java" timestamp="1531904694988">
-        <mark key="'" line="365" column="22" />
-        <mark key="]" line="74" column="25" />
-        <mark key="^" line="74" column="25" />
-        <mark key="." line="74" column="25" />
-      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/constants/TasksEnum.java" timestamp="1531905099775" />
       <file name="$USER_HOME$/workspace/crawler/pom.xml" timestamp="1531879281489">
         <mark key="[" line="24" column="30" />
@@ -118,11 +112,10 @@
         <mark key="'" line="78" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-common/1.0-RELEASE-SNAPSHOT/datacenter-common-1.0-RELEASE-20180712.065904-73-sources.jar!/com/meitu/meipu/datacenter/common/constants/ChannelLongEnum.java" timestamp="1531895820936" />
-      <file name="$USER_HOME$/workspace/apprun/deploy.sh" timestamp="1531965704949">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="8" />
-        <mark key="." line="19" column="8" />
-        <mark key="^" line="19" column="8" />
+      <file name="$USER_HOME$/workspace/apprun/deploy.sh" timestamp="1531969229720">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="1517" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadydataJsonAnalyze.java" timestamp="1531812719895">
         <mark key="'" line="210" column="57" />
@@ -160,6 +153,9 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.10/0.8.2.1/kafka_2.10-0.8.2.1.jar!/kafka/consumer/ZookeeperConsumerConnector.class" timestamp="1531832609989" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/darwin-client/1.0-RELEASE-SNAPSHOT/darwin-client-1.0-RELEASE-20180712.071536-29.jar!/com/meitu/meipu/darwin/client/service/SimilarWordClient.class" timestamp="1531895045408" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/constants/DataKeyConstants.java" timestamp="1531882828021" />
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/community/monitor/meipu-monitor/1.0-SNAPSHOT/meipu-monitor-1.0-20170825.115316-73.jar!/com/meitu/meipu/community/controller/ServiceStatus.class" timestamp="1531967819948">
+        <mark key="'" line="22" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongRemainTask.java" timestamp="1531923144585">
         <mark key="'" line="52" column="36" />
         <mark key="[" line="110" column="89" />
@@ -208,6 +204,11 @@
         <mark key="]" line="100" column="66" />
         <mark key="." line="100" column="66" />
         <mark key="^" line="100" column="65" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/java/com/meitu/meipu/datacenter/web/controller/DataInitController.java" timestamp="1531966715384">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/ReadyDataEvaluate.java" timestamp="1531800422617">
         <mark key="'" line="18" column="45" />
@@ -286,7 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="59" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
       <jump line="99" column="23" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
       <jump line="23" column="41" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" />
       <jump line="12" column="20" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/BaseTask.java" />
@@ -386,49 +386,50 @@
       <jump line="52" column="36" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongRemainTask.java" />
       <jump line="243" column="88" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
       <jump line="246" column="23" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
+      <jump line="22" column="19" filename="$MAVEN_REPOSITORY$/com/meitu/meipu/community/monitor/meipu-monitor/1.0-SNAPSHOT/meipu-monitor-1.0-20170825.115316-73.jar!/com/meitu/meipu/community/controller/ServiceStatus.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y3VybCAtaSAtcyAtayAgLVggIlBPU1QiIC1IICJIb3N0OiBqZW5raW5zLm1laXR1LWludC5jb20iIC1IICJDYWNoZS1Db250cm9sOiBtYXgtYWdlPTAiIC1IICJPcmlnaW46IGh0dHA6Ly9qZW5raW5zLm1laXR1LWludC5jb20iIC1IICJVcGdyYWRlLUluc2VjdXJlLVJlcXVlc3RzOiAxIiAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQiIC1IICJVc2VyLUFnZW50OiBNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xM18zKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNjcuMC4zMzk2Ljk5IFNhZmFyaS81MzcuMzYiIC1IICJBY2NlcHQ6IHRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL3dlYnAsaW1hZ2UvYXBuZywqLyo7cT0wLjgiIC1IICJSZWZlcmVyOiBodHRwOi8vamVua2lucy5tZWl0dS1pbnQuY29tL2pvYi9tdG16L2pvYi8ke2FwcE5hbWV9LWs4cy9idWlsZD9kZWxheT0wc2VjIiAtSCAiQWNjZXB0LUVuY29kaW5nOiBnemlwLCBkZWZsYXRlIiAtSCAiQWNjZXB0LUxhbmd1YWdlOiB6aC1DTix6aDtxPTAuOSxlbjtxPTAuOCIgLUggIkNvb2tpZTogc2NyZWVuUmVzb2x1dGlvbj0xNDQweDkwMDsgc2NyZWVuUmVzb2x1dGlvbj0xNDQweDkwMDsgX2dhPUdBMS4yLjE5NDcxMzc3NzUuMTUyOTQxMjYxNTsgaHVkc29uX2F1dG9fcmVmcmVzaD1mYWxzZTsgQUNFR0lfU0VDVVJJVFlfSEFTSEVEX1JFTUVNQkVSX01FX0NPT0tJRT1kSE56UUcxbGFYUjFMbU52YlRveE5UTXlPVEl6TVRNd09EY3hPalpqWmpaa1lUUmlZMlJqTnpWa09EWm1aVGN3TXprNE1qQmtOak00T0RVeE5EYzNabU0yTWpRek5HRTJZekl5WWpnM1l6VXlOREptWW1VeU1XWmlObUU9OyBKU0VTU0lPTklELjM5NWM5OTM1PW1ndWd1cTh2aHVseTE0Z2Y0c3J3dHdvcmMiIC1IICJDb25uZWN0aW9uOiBjbG9zZSIgLS1kYXRhLWJpbmFyeSAibmFtZT1lbnYmdmFsdWU9JHtlbnZ9Jm5hbWU9YnJhbmNoJnZhbHVlPSR7ZW52fSZuYW1lPXZlcnNpb24mdmFsdWU9MS4wLjAmc3RhdHVzQ29kZT0zMDMmcmVkaXJlY3RUbz0uJmpzb249JTdCJTIycGFyYW1ldGVyJTIyJTNBKyU1QiU3QiUyMm5hbWUlMjIlM0ErJTIyZW52JTIyJTJDKyUyMnZhbHVlJTIyJTNBKyUyMiR7ZW52fSUyMiU3RCUyQyslN0IlMjJuYW1lJTIyJTNBKyUyMmJyYW5jaCUyMiUyQyslMjJ2YWx1ZSUyMiUzQSslMjIke2Vudn0lMjIlN0QlMkMrJTdCJTIybmFtZSUyMiUzQSslMjJ2ZXJzaW9uJTIyJTJDKyUyMnZhbHVlJTIyJTNBKyUyMjEuMC4wJTIyJTdEJTVEJTJDKyUyMnN0YXR1c0NvZGUlMjIlM0ErJTIyMzAzJTIyJTJDKyUyMnJlZGlyZWN0VG8lMjIlM0ErJTIyLiUyMiU3RCZTdWJtaXQ9JUU1JUJDJTgwJUU1JUE3JThCJUU2JTlFJTg0JUU1JUJCJUJBIiAiaHR0cDovL2plbmtpbnMubWVpdHUtaW50LmNvbS9qb2IvbXRtei9qb2IvJHthcHBOYW1lfS1rOHMvYnVpbGQ/ZGVsYXk9MHNlYyIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFeGFtcGxlX1doZXJlX0NsYXVzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXZuPSQxCg==</text>
+        <text encoding="base64">Y3VybCAtaSAtcyAtayAgLVggIlBPU1QiIC1IICJIb3N0OiBqZW5raW5zLm1laXR1LWludC5jb20iIC1IICJDYWNoZS1Db250cm9sOiBtYXgtYWdlPTAiIC1IICJPcmlnaW46IGh0dHA6Ly9qZW5raW5zLm1laXR1LWludC5jb20iIC1IICJVcGdyYWRlLUluc2VjdXJlLVJlcXVlc3RzOiAxIiAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQiIC1IICJVc2VyLUFnZW50OiBNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xM18zKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNjcuMC4zMzk2Ljk5IFNhZmFyaS81MzcuMzYiIC1IICJBY2NlcHQ6IHRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL3dlYnAsaW1hZ2UvYXBuZywqLyo7cT0wLjgiIC1IICJSZWZlcmVyOiBodHRwOi8vamVua2lucy5tZWl0dS1pbnQuY29tL2pvYi9tdG16L2pvYi8ke2FwcE5hbWV9LWs4cy9idWlsZD9kZWxheT0wc2VjIiAtSCAiQWNjZXB0LUVuY29kaW5nOiBnemlwLCBkZWZsYXRlIiAtSCAiQWNjZXB0LUxhbmd1YWdlOiB6aC1DTix6aDtxPTAuOSxlbjtxPTAuOCIgLUggIkNvb2tpZTogc2NyZWVuUmVzb2x1dGlvbj0xNDQweDkwMDsgc2NyZWVuUmVzb2x1dGlvbj0xNDQweDkwMDsgX2dhPUdBMS4yLjE5NDcxMzc3NzUuMTUyOTQxMjYxNTsgaHVkc29uX2F1dG9fcmVmcmVzaD1mYWxzZTsgQUNFR0lfU0VDVVJJVFlfSEFTSEVEX1JFTUVNQkVSX01FX0NPT0tJRT1kSE56UUcxbGFYUjFMbU52YlRveE5UTXlPVEl6TVRNd09EY3hPalpqWmpaa1lUUmlZMlJqTnpWa09EWm1aVGN3TXprNE1qQmtOak00T0RVeE5EYzNabU0yTWpRek5HRTJZekl5WWpnM1l6VXlOREptWW1VeU1XWmlObUU9OyBKU0VTU0lPTklELjM5NWM5OTM1PW1ndWd1cTh2aHVseTE0Z2Y0c3J3dHdvcmMiIC1IICJDb25uZWN0aW9uOiBjbG9zZSIgLS1kYXRhLWJpbmFyeSAibmFtZT1lbnYmdmFsdWU9JHtlbnZ9Jm5hbWU9YnJhbmNoJnZhbHVlPSR7ZW52fSZuYW1lPXZlcnNpb24mdmFsdWU9MS4wLjAmc3RhdHVzQ29kZT0zMDMmcmVkaXJlY3RUbz0uJmpzb249JTdCJTIycGFyYW1ldGVyJTIyJTNBKyU1QiU3QiUyMm5hbWUlMjIlM0ErJTIyZW52JTIyJTJDKyUyMnZhbHVlJTIyJTNBKyUyMiR7ZW52fSUyMiU3RCUyQyslN0IlMjJuYW1lJTIyJTNBKyUyMmJyYW5jaCUyMiUyQyslMjJ2YWx1ZSUyMiUzQSslMjIke2Vudn0lMjIlN0QlMkMrJTdCJTIybmFtZSUyMiUzQSslMjJ2ZXJzaW9uJTIyJTJDKyUyMnZhbHVlJTIyJTNBKyUyMjEuMC4wJTIyJTdEJTVEJTJDKyUyMnN0YXR1c0NvZGUlMjIlM0ErJTIyMzAzJTIyJTJDKyUyMnJlZGlyZWN0VG8lMjIlM0ErJTIyLiUyMiU3RCZTdWJtaXQ9JUU1JUJDJTgwJUU1JUE3JThCJUU2JTlFJTg0JUU1JUJCJUJBIiAiaHR0cDovL2plbmtpbnMubWVpdHUtaW50LmNvbS9qb2IvbXRtei9qb2IvJHthcHBOYW1lfS1rOHMvYnVpbGQ/ZGVsYXk9MHNlYyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAnY3VybCAtaSAtcyAtayAgLVggIlBPU1QiIC1IICJIb3N0OiBqZW5raW5zLm1laXR1LWludC5jb20iIC1IICJDYWNoZS1Db250cm9sOiBtYXgtYWdlPTAiIC1IICJPcmlnaW46IGh0dHA6Ly9qZW5raW5zLm1laXR1LWludC5jb20iIC1IICJVcGdyYWRlLUluc2VjdXJlLVJlcXVlc3RzOiAxIiAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQiIC1IICJVc2VyLUFnZW50OiBNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xM18zKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNjcuMC4zMzk2Ljk5IFNhZmFyaS81MzcuMzYiIC1IICJBY2NlcHQ6IHRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL3dlYnAsaW1hZ2UvYXBuZywqLyo7cT0wLjgiIC1IICJSZWZlcmVyOiBodHRwOi8vamVua2lucy5tZWl0dS1pbnQuY29tL2pvYi9tdG16L2pvYi8ke2FwcE5hbWV9LWs4cy9idWlsZD9kZWxheT0wc2VjIiAtSCAiQWNjZXB0LUVuY29kaW5nOiBnemlwLCBkZWZsYXRlIiAtSCAiQWNjZXB0LUxhbmd1YWdlOiB6aC1DTix6aDtxPTAuOSxlbjtxPTAuOCIgLUggIkNvb2tpZTogc2NyZWVuUmVzb2x1dGlvbj0xNDQweDkwMDsgc2NyZWVuUmVzb2x1dGlvbj0xNDQweDkwMDsgX2dhPUdBMS4yLjE5NDcxMzc3NzUuMTUyOTQxMjYxNTsgaHVkc29uX2F1dG9fcmVmcmVzaD1mYWxzZTsgQUNFR0lfU0VDVVJJVFlfSEFTSEVEX1JFTUVNQkVSX01FX0NPT0tJRT1kSE56UUcxbGFYUjFMbU52YlRveE5UTXlPVEl6TVRNd09EY3hPalpqWmpaa1lUUmlZMlJqTnpWa09EWm1aVGN3TXprNE1qQmtOak00T0RVeE5EYzNabU0yTWpRek5HRTJZekl5WWpnM1l6VXlOREptWW1VeU1XWmlObUU9OyBKU0VTU0lPTklELjM5NWM5OTM1PW1ndWd1cTh2aHVseTE0Z2Y0c3J3dHdvcmMiIC1IICJDb25uZWN0aW9uOiBjbG9zZSIgLS1kYXRhLWJpbmFyeSAibmFtZT1lbnYmdmFsdWU9JHtlbnZ9Jm5hbWU9YnJhbmNoJnZhbHVlPSR7ZW52fSZuYW1lPXZlcnNpb24mdmFsdWU9MS4wLjAmc3RhdHVzQ29kZT0zMDMmcmVkaXJlY3RUbz0uJmpzb249JTdCJTIycGFyYW1ldGVyJTIyJTNBKyU1QiU3QiUyMm5hbWUlMjIlM0ErJTIyZW52JTIyJTJDKyUyMnZhbHVlJTIyJTNBKyUyMiR7ZW52fSUyMiU3RCUyQyslN0IlMjJuYW1lJTIyJTNBKyUyMmJyYW5jaCUyMiUyQyslMjJ2YWx1ZSUyMiUzQSslMjIke2Vudn0lMjIlN0QlMkMrJTdCJTIybmFtZSUyMiUzQSslMjJ2ZXJzaW9uJTIyJTJDKyUyMnZhbHVlJTIyJTNBKyUyMjEuMC4wJTIyJTdEJTVEJTJDKyUyMnN0YXR1c0NvZGUlMjIlM0ErJTIyMzAzJTIyJTJDKyUyMnJlZGlyZWN0VG8lMjIlM0ErJTIyLiUyMiU3RCZTdWJtaXQ9JUU1JUJDJTgwJUU1JUE3JThCJUU2JTlFJTg0JUU1JUJCJUJBIiAiaHR0cDovL2plbmtpbnMubWVpdHUtaW50LmNvbS9qb2IvbXRtei9qb2IvJHthcHBOYW1lfS1rOHMvYnVpbGQ/ZGVsYXk9MHNlYyInCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXZuPSQxCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvZGF0YS9pbml0L2N1c3RvbWVyIixtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCwgcHJvZHVjZXMgPSAiYXBwbGljYXRpb24vanNvbjtjaGFyc2V0PVVURi04IikKICAgIEBSZXNwb25zZUJvZHkKICAgIHB1YmxpYyBPYmplY3QgY3VzdG9tZXJEYXRhSW5pdChTdHJpbmcgYmVnaW5EYXRlKSB7CiAgICAgICAgZGF0YUluaXRNYW5hZ2VyLmluaXRUcmFkZUluZm8oYmVnaW5EYXRlKTsKICAgICAgICByZXR1cm4gIlNVQ0NFU1MiOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChvdmVyd3JpdGUpIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiSU5GT0BDaGFubmVsTG9uZ1Rhc2sucnVuKCksIG92ZXJ3cml0ZSBleGlzdGluZyBkYXRhLCBzaXplOiB7fSIsIGxpc3Quc2l6ZSgpKTsKICAgICAgICAgICAgICAgICAgICBjbGllbnRDaGFubmVsTG9uZ0VmZmVjdERBTy5kZWxldGVCeUV4YW1wbGVBbmRJbnNlcnQoZXhhbXBsZSwgbG9uZ0VmZmVjdHMpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBjbGllbnRDaGFubmVsTG9uZ0VmZmVjdERBTy5pbnNlcnRCYXRjaChsb25nRWZmZWN0cyk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKCJFUlJPUkBDaGFubmVsTG9uZ1JlbWFpblRhc2sucnVuKCksIGVycm9yIHVwZGF0aW5nIENoYW5uZWxMb25nUmVtYWluVGFzayIsIGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBJbnRlZ2VyIGludGVnZXIgPSBUeXBlVXRpbHMuY2FzdFRvSW50KCIyIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGYoImludCIgK2ludGVnZXIpOwogICAgfQo=</text>
+        <text encoding="base64">ZXZuPSQxCg==</text>
       </register>
       <register name=":" type="4">
-        <text>166</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -462,7 +463,6 @@
         <entry encoding="base64">XDxFeGFtcGxlX1doZXJlX0NsYXVzZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>235</entry>
         <entry>91</entry>
         <entry>131</entry>
         <entry>93</entry>
@@ -482,6 +482,7 @@
         <entry>149</entry>
         <entry>79</entry>
         <entry>166</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
