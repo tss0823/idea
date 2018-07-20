@@ -38,11 +38,27 @@
       <file name="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/EntityServiceImpl.java" timestamp="1532066159246">
         <mark key="'" line="75" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZhushouRpcUtils.java" timestamp="1532070943408" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/MakeupReadydataRequest.java" timestamp="1532070763282">
+        <mark key="'" line="126" column="7" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="125" column="24" />
+        <mark key="." line="121" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/constants/ReadydataStatus.java" timestamp="1532056645293">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="31" />
         <mark key="." line="12" column="31" />
         <mark key="^" line="12" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/CodeSyncUtils.java" timestamp="1532070614342" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/MakeupReadydataDTO.java" timestamp="1532070774709">
+        <mark key="'" line="128" column="24" />
+        <mark key="[" line="122" column="25" />
+        <mark key="]" line="128" column="24" />
+        <mark key="^" line="128" column="24" />
+        <mark key="." line="128" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/deploy/src/main/webapp/template/codeBuild/list.html" timestamp="1532066467964">
         <mark key="[" line="81" column="23" />
@@ -72,13 +88,13 @@
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/support/codeBuild/ApplicationBuilder.java" timestamp="1532069665509">
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/support/codeBuild/ApplicationBuilder.java" timestamp="1532070175512">
         <mark key="[" line="342" column="48" />
         <mark key="]" line="342" column="69" />
         <mark key="." line="342" column="69" />
         <mark key="^" line="342" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ActionManager.java" timestamp="1532069641808">
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ActionManager.java" timestamp="1532070920284">
         <mark key="'" line="122" column="47" />
         <mark key="[" line="113" column="54" />
         <mark key="]" line="113" column="53" />
@@ -142,11 +158,20 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/MakeupReadydataMapper.xml" timestamp="1532070829958">
+        <mark key="[" line="246" column="114" />
+      </file>
       <file name="$USER_HOME$/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/query/EntityQuery.java" timestamp="1532058197454">
         <mark key="[" line="47" column="9" />
         <mark key="]" line="47" column="11" />
         <mark key="." line="47" column="11" />
         <mark key="^" line="47" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/JdbcUtils.java" timestamp="1532071227291">
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="48" />
+        <mark key="." line="27" column="48" />
+        <mark key="^" line="56" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/dev.properties" timestamp="1531983545887">
         <mark key="[" line="99" column="66" />
@@ -160,7 +185,7 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/MakeupReadydata.java" timestamp="1532069614537">
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/MakeupReadydata.java" timestamp="1532070715808">
         <mark key="'" line="179" column="35" />
         <mark key="[" line="179" column="34" />
         <mark key="]" line="179" column="35" />
@@ -204,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="11" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/utils/DataConvertUtil.java" />
       <jump line="332" column="11" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/utils/DataConvertUtil.java" />
       <jump line="292" column="8" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/utils/DataConvertUtil.java" />
       <jump line="264" column="94" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/utils/DataConvertUtil.java" />
@@ -248,7 +272,6 @@
       <jump line="287" column="20" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="285" column="24" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="22" column="24" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/MakeupReadydataManager.java" />
-      <jump line="128" column="21" filename="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/MakeupReadydataDTO.java" />
       <jump line="288" column="51" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="292" column="50" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="476" column="30" filename="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/MakeupReadydataDTO.java" />
@@ -304,13 +327,15 @@
       <jump line="164" column="45" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" />
       <jump line="45" column="42" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ActionManager.java" />
       <jump line="122" column="47" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ActionManager.java" />
+      <jump line="126" column="7" filename="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/MakeupReadydataRequest.java" />
+      <jump line="128" column="24" filename="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/MakeupReadydataDTO.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Param</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>Param</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbnRpdHlQYXJhbVw+</text>
@@ -319,31 +344,34 @@
         <text encoding="base64">ICAgIDxjb25maWd1cmF0aW9uIGRlZmF1bHQ9InRydWUiIHR5cGU9IiNvcmcuamV0YnJhaW5zLmlkZWEuZGV2a2l0LnJ1bi5QbHVnaW5Db25maWd1cmF0aW9uVHlwZSIgZmFjdG9yeU5hbWU9IlBsdWdpbiI+CiAgICAgIDxtb2R1bGUgbmFtZT0ienBsdWdpbjIiIC8+CiAgICAgIDxvcHRpb24gbmFtZT0iVk1fUEFSQU1FVEVSUyIgdmFsdWU9Ii1YbXg1MTJtIC1YbXMyNTZtIC1YWDpNYXhQZXJtU2l6ZT0yNTBtIC1lYSIgLz4KICAgICAgPG9wdGlvbiBuYW1lPSJQUk9HUkFNX1BBUkFNRVRFUlMiIC8+CiAgICAgIDxwcmVkZWZpbmVkX2xvZ19maWxlIGlkPSJpZGVhLmxvZyIgZW5hYmxlZD0idHJ1ZSIgLz4KICAgIDwvY29uZmlndXJhdGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPG1vZHVsZSBmaWxldXJsPSJmaWxlOi8vJFBST0pFQ1RfRElSJC96aHVzaG91LXdlYi96cGx1Z2luMi5pbWwiIGZpbGVwYXRoPSIkUFJPSkVDVF9ESVIkL3podXNob3Utd2ViL3pwbHVnaW4yLmltbCIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG10LmFkZEJhdGNoKHMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWw+6Iux5paH5ZCN56ew77yaPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8c3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGlkPSJlbk5hbWUiIG5hbWU9ImVuTmFtZSIgdmFsdWU9Int7ZG9tYWluLmVuTmFtZX19IiBwbGFjZWhvbGRlcj0i6K+36L6T5YWl5ZCN56ewIiBjbGFzcz0iaW5wdXQteGxhcmdlIj4KICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgJm5ic3A7Jm5ic3A7CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsPuS4reaWh+WQjeensO+8mjwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBpZD0iY25OYW1lIiBuYW1lPSJjbk5hbWUiIHZhbHVlPSJ7e2RvbWFpbi5jbk5hbWV9fSIgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpeWQjeensCIgY2xhc3M9ImlucHV0LXhsYXJnZSI+CiAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICZuYnNwOyZuYnNwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RtdC5leGVjdXRlQmF0Y2goKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmbmJzcDsmbmJzcDsKICAgICAgICAgICAgICAgICAgICA8bGFiZWw+6KGo5ZCN56ew77yaPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8c3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGlkPSJ0YWJsZU5hbWUiIG5hbWU9InRhYmxlTmFtZSIgdmFsdWU9Int7ZG9tYWluLnRhYmxlTmFtZX19IiBwbGFjZWhvbGRlcj0i6K+36L6T5YWl6KGo5ZCN56ewIiBjbGFzcz0iaW5wdXQteGxhcmdlIj4KICAgICAgICAgICAgICAgICAgICA8L3NwYW4+Cg==</text>
+      <register name="3" type="4">
+        <text>else{
+            int result = stmt.executeUpdate(sql);
+            bisLog.info(&quot;result=&quot;+result);
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmbmJzcDsmbmJzcDsK</text>
+        <text encoding="base64">ICAgIEBNb2RlbEZpZWxkQ29tbWVudCh2YWx1ZSA9ICLnrKzkuInmlrlpZCIsIG1heExlbmd0aCA9IDIwICwgcmVxdWlyZWQgPSBmYWxzZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWw+6Iux5paH5ZCN56ew77yaPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8c3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGlkPSJlbk5hbWUiIG5hbWU9ImVuTmFtZSIgdmFsdWU9Int7ZW5OYW1lfX0iIHBsYWNlaG9sZGVyPSLor7fovpPlhaXlkI3np7AiIGNsYXNzPSJpbnB1dC14bGFyZ2UiPgogICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAmbmJzcDsmbmJzcDsKICAgICAgICAgICAgICAgICAgICA8bGFiZWw+5Lit5paH5ZCN56ew77yaPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8c3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGlkPSJjbk5hbWUiIG5hbWU9ImNuTmFtZSIgdmFsdWU9Int7Y25OYW1lfX0iIHBsYWNlaG9sZGVyPSLor7fovpPlhaXlkI3np7AiIGNsYXNzPSJpbnB1dC14bGFyZ2UiPgogICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4K</text>
+        <text encoding="base64">CQkJPGlmIHRlc3Q9Im91dGVySWQgIT0gbnVsbCI+YG91dGVySWRgID0gI3tvdXRlcklkfSwgPC9pZj4KCQkJPGlmIHRlc3Q9InR5cGUgIT0gbnVsbCI+YHR5cGVgID0gI3t0eXBlfSwgPC9pZj4KCQkJPGlmIHRlc3Q9Im91dGVySWQgIT0gbnVsbCI+YG91dGVySWRgID0gI3tvdXRlcklkfSwgPC9pZj4KCQkJPGlmIHRlc3Q9InR5cGUgIT0gbnVsbCI+YHR5cGVgID0gI3t0eXBlfSwgPC9pZj4KCQkJPGlmIHRlc3Q9Im91dGVySWQgIT0gbnVsbCI+YG91dGVySWRgID0gI3tvdXRlcklkfSwgPC9pZj4KCQkJPGlmIHRlc3Q9InR5cGUgIT0gbnVsbCI+YHR5cGVgID0gI3t0eXBlfSwgPC9pZj4KCQkJPGlmIHRlc3Q9Im91dGVySWQgIT0gbnVsbCI+YG91dGVySWRgID0gI3tvdXRlcklkfSwgPC9pZj4KCQkJPGlmIHRlc3Q9InR5cGUgIT0gbnVsbCI+YHR5cGVgID0gI3t0eXBlfSwgPC9pZj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWw+6KGo5ZCN56ew77yaPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8c3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGlkPSJ0YWJsZU5hbWUiIG5hbWU9InRhYmxlTmFtZSIgdmFsdWU9Int7dGFibGVOYW1lfX0iIHBsYWNlaG9sZGVyPSLor7fovpPlhaXooajlkI3np7AiIGNsYXNzPSJpbnB1dC14bGFyZ2UiPgogICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAmbmJzcDsmbmJzcDsK</text>
+        <text encoding="base64">CQk8cmVzdWx0IGNvbHVtbj0ib3V0ZXJJZCIgcHJvcGVydHk9Im91dGVySWQiLz4KCQk8cmVzdWx0IGNvbHVtbj0idHlwZSIgcHJvcGVydHk9InR5cGUiLz4KCQk8cmVzdWx0IGNvbHVtbj0ib3V0ZXJJZCIgcHJvcGVydHk9Im91dGVySWQiLz4KCQk8cmVzdWx0IGNvbHVtbj0idHlwZSIgcHJvcGVydHk9InR5cGUiLz4KCQk8cmVzdWx0IGNvbHVtbj0ib3V0ZXJJZCIgcHJvcGVydHk9Im91dGVySWQiLz4KCQk8cmVzdWx0IGNvbHVtbj0idHlwZSIgcHJvcGVydHk9InR5cGUiLz4KCQk8cmVzdWx0IGNvbHVtbj0ib3V0ZXJJZCIgcHJvcGVydHk9Im91dGVySWQiLz4KCQk8cmVzdWx0IGNvbHVtbj0idHlwZSIgcHJvcGVydHk9InR5cGUiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8aWYgdGVzdD0ib3V0ZXJJZCAhPSBudWxsICI+IGFuZCAgYG91dGVySWRgID0gI3tvdXRlcklkfSA8L2lmPgoJCTxpZiB0ZXN0PSJ0eXBlICE9IG51bGwgIj4gYW5kICBgdHlwZWAgPSAje3R5cGV9IDwvaWY+CgkJPGlmIHRlc3Q9Im91dGVySWQgIT0gbnVsbCAiPiBhbmQgIGBvdXRlcklkYCA9ICN7b3V0ZXJJZH0gPC9pZj4KCQk8aWYgdGVzdD0idHlwZSAhPSBudWxsICI+IGFuZCAgYHR5cGVgID0gI3t0eXBlfSA8L2lmPgoJCTxpZiB0ZXN0PSJvdXRlcklkICE9IG51bGwgIj4gYW5kICBgb3V0ZXJJZGAgPSAje291dGVySWR9IDwvaWY+CgkJPGlmIHRlc3Q9InR5cGUgIT0gbnVsbCAiPiBhbmQgIGB0eXBlYCA9ICN7dHlwZX0gPC9pZj4KCQk8aWYgdGVzdD0ib3V0ZXJJZCAhPSBudWxsICI+IGFuZCAgYG91dGVySWRgID0gI3tvdXRlcklkfSA8L2lmPgoJCTxpZiB0ZXN0PSJ0eXBlICE9IG51bGwgIj4gYW5kICBgdHlwZWAgPSAje3R5cGV9IDwvaWY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgPG1vZHVsZSBmaWxldXJsPSJmaWxlOi8vJFBST0pFQ1RfRElSJC96aHVzaG91LXdlYi96cGx1Z2luMi5pbWwiIGZpbGVwYXRoPSIkUFJPSkVDVF9ESVIkL3podXNob3Utd2ViL3pwbHVnaW4yLmltbCIgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0VGFibGVOYW1lKCkgewogICAgICAgIHJldHVybiB0YWJsZU5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VGFibGVOYW1lKFN0cmluZyB0YWJsZU5hbWUpIHsKICAgICAgICB0aGlzLnRhYmxlTmFtZSA9IHRhYmxlTmFtZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWw+6Iux5paH5ZCN56ew77yaPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8c3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGlkPSJlbk5hbWUiIG5hbWU9ImVuTmFtZSIgdmFsdWU9Int7ZG9tYWluLmVuTmFtZX19IiBwbGFjZWhvbGRlcj0i6K+36L6T5YWl5ZCN56ewIiBjbGFzcz0iaW5wdXQteGxhcmdlIj4KICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgJm5ic3A7Jm5ic3A7CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsPuS4reaWh+WQjeensO+8mjwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBpZD0iY25OYW1lIiBuYW1lPSJjbk5hbWUiIHZhbHVlPSJ7e2RvbWFpbi5jbk5hbWV9fSIgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpeWQjeensCIgY2xhc3M9ImlucHV0LXhsYXJnZSI+CiAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICZuYnNwOyZuYnNwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
