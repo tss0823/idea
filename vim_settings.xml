@@ -9,18 +9,18 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-client/src/main/java/com/meitu/meipu/itemcenter/client/backend/ItemReadServiceClient.java" timestamp="1532074032409">
         <mark key="'" line="158" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MatchManagerImpl.java" timestamp="1532142316994">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MatchManagerImpl.java" timestamp="1532145900716">
         <mark key="'" line="45" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-common/src/main/java/com/meitu/meipu/itemcenter/service/backend/ItemReadService.java" timestamp="1532074187218">
         <mark key="'" line="110" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" timestamp="1532144339341">
-        <mark key="'" line="103" column="59" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="89" column="73" />
-        <mark key="." line="89" column="73" />
-        <mark key="^" line="89" column="73" />
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" timestamp="1532146124436">
+        <mark key="'" line="104" column="59" />
+        <mark key="[" line="87" column="37" />
+        <mark key="]" line="87" column="37" />
+        <mark key="." line="87" column="37" />
+        <mark key="^" line="87" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/MatchService.java" timestamp="1532141356020" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-common/src/main/java/com/meitu/meipu/itemcenter/domain/dto/SkuDTO.java" timestamp="1532073674800" />
@@ -38,6 +38,7 @@
         <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/manager/impl/ItemManagerImpl.java" timestamp="1532074117644" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mybatis-config.xml" timestamp="1532145929582" />
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/ReadyDataConsumeService.java" timestamp="1532141282157" />
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" timestamp="1532068040686">
         <mark key="'" line="164" column="45" />
@@ -90,10 +91,10 @@
         <mark key="." line="215" column="35" />
         <mark key="^" line="215" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/CrawlerReadServiceImpl.java" timestamp="1532087916152">
-        <mark key="." line="109" column="136" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Set.java" timestamp="1532141487541" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java" timestamp="1532146889855">
+        <mark key="'" line="133" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/manager/cache/impl/ItemFullDTORedisManager.java" timestamp="1532074084759" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadydataJsonAnalyze.java" timestamp="1532088882327" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1532073562205">
@@ -138,7 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="71" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="32" column="27" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataBuildServiceImpl.java" />
       <jump line="34" column="125" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataBuildServiceImpl.java" />
       <jump line="161" column="30" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerFetchServiceImpl.java" />
@@ -238,6 +238,7 @@
       <jump line="107" column="58" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" />
       <jump line="105" column="59" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" />
       <jump line="131" column="21" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
+      <jump line="133" column="29" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
