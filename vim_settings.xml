@@ -153,11 +153,12 @@
         <mark key="." line="78" column="30" />
         <mark key="^" line="78" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" timestamp="1532073665568">
-        <mark key="'" line="173" column="76" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="47" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" timestamp="1532312333673">
+        <mark key="'" line="176" column="65" />
+        <mark key="[" line="176" column="88" />
+        <mark key="]" line="122" column="89" />
+        <mark key="." line="122" column="89" />
+        <mark key="^" line="122" column="89" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/manager/impl/ItemManagerImpl.java" timestamp="1532074117644" />
       <file name="$USER_HOME$/workspace/darwin_template_single/_appEnName_-common/src/main/java/_packagePath_/common/domain/dto/_upperEntityEnName_DTO.java" timestamp="1532057359260">
@@ -204,7 +205,7 @@
         <mark key="." line="215" column="96" />
         <mark key="^" line="215" column="96" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" timestamp="1532273937953">
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" timestamp="1532311383702">
         <mark key="'" line="114" column="71" />
         <mark key="[" line="121" column="83" />
         <mark key="]" line="121" column="82" />
@@ -338,7 +339,6 @@
       <jump line="470" column="24" filename="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-common/1.1-SNAPSHOT/itemcenter-common-1.1-20180719.034844-543.jar!/com/meitu/meipu/itemcenter/domain/dto/SkuDTO.class" />
       <jump line="215" column="41" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerConsumeServiceImpl.java" />
       <jump line="380" column="19" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" />
-      <jump line="173" column="76" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
       <jump line="113" column="24" filename="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-common/1.1-SNAPSHOT/itemcenter-common-1.1-20180719.034844-543.jar!/com/meitu/meipu/itemcenter/domain/dto/ItemDetailDTO.class" />
       <jump line="155" column="28" filename="$USER_HOME$/workspace/itemcenter/itemcenter-client/src/main/java/com/meitu/meipu/itemcenter/client/backend/ItemReadServiceClient.java" />
       <jump line="158" column="45" filename="$USER_HOME$/workspace/itemcenter/itemcenter-client/src/main/java/com/meitu/meipu/itemcenter/client/backend/ItemReadServiceClient.java" />
@@ -400,13 +400,14 @@
       <jump line="25" column="21" filename="$USER_HOME$/workspace/zhushou/pom.xml" />
       <jump line="90" column="66" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" />
       <jump line="114" column="71" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
+      <jump line="173" column="65" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>resultTypeAlias</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNhbGVQYXJhbWV0ZXIgPSAoU3RyaW5nKSBzYWxlUGFyYW1MaXN0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>resultTypeAlias</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uXD4=</text>
@@ -415,31 +416,31 @@
         <text>new File(&quot;/Users/pro/workspace/darwin/darwin-dal/src/main/resources/mybatis-config.xml&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNhbGVQYXJhbWV0ZXIgPSAoU3RyaW5nKSBzYWxlUGFyYW1MaXN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/plIDllK7lsZ7mgKcKICAgICAgICAgICAgTGlzdDxMaW5rZWRIYXNoTWFwPFN0cmluZywgT2JqZWN0Pj4gc2FsZVBhcmFtTGlzdCA9IGl0ZW1EZXRhaURUTy5nZXRTYWxlUGFyYW1MaXN0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v6I635Y+W5b2T5YmN5a6e5L2TYWxpYXMKICAgICAgICAgICAgICAgIFN0cmluZyBtYXBwZXJGaWxlTmFtZSA9IHBzaUZpbGUuZ2V0TmFtZSgpOwogICAgICAgICAgICAgICAgaW50IGluZGV4ID0gbWFwcGVyRmlsZU5hbWUubGFzdEluZGV4T2YoIk1hcHBlci54bWwiKTsKICAgICAgICAgICAgICAgIFN0cmluZyBwcmVmaXggPSBtYXBwZXJGaWxlTmFtZS5zdWJzdHJpbmcoMCxpbmRleCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUgPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBzdGF0ZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v6I635Y+W5b2T5YmN5a6e5L2TYWxpYXMKICAgICAgICAgICAgICAgIFN0cmluZyBtYXBwZXJGaWxlTmFtZSA9IHBzaUZpbGUuZ2V0TmFtZSgpOwogICAgICAgICAgICAgICAgaW50IGluZGV4ID0gbWFwcGVyRmlsZU5hbWUubGFzdEluZGV4T2YoIk1hcHBlci54bWwiKTsKICAgICAgICAgICAgICAgIFN0cmluZyBwcmVmaXggPSBtYXBwZXJGaWxlTmFtZS5zdWJzdHJpbmcoMCxpbmRleCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0YXRlKSB7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUgPSBmYWxzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3BlcnR5TGlzdC5hZGQocHJvcGVydHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBzdGF0ZSA9IHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChQc2lOYW1lVmFsdWVQYWlyIGF0dHJpYnV0ZSA6IGF0dHJpYnV0ZXMpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG5hbWUgPSBhdHRyaWJ1dGUuZ2V0TmFtZSgpOwogICAgICAgICAgICAgICAgICAgIFN0cmluZyB0ZXh0ID0gYXR0cmlidXRlLmdldFZhbHVlKCkuZ2V0VGV4dCgpOwogICAgICAgICAgICAgICAgICAgIGlmIChuYW1lLmVxdWFscygidmFsdWUiKSkgewogICAgICAgICAgICAgICAgICAgICAgICB0ZXh0ID0gdGV4dC5zdWJzdHJpbmcoMSwgdGV4dC5sZW5ndGgoKSAtIDEpOwogICAgICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eS5zZXRDbk5hbWUodGV4dCk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChuYW1lLmVxdWFscygicmVxdWlyZWQiKSAmJiB0ZXh0LmVxdWFscygidHJ1ZSIpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHByb3BlcnR5LnNldElzTnVsbChmYWxzZSk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChuYW1lLmVxdWFscygibWF4TGVuZ3RoIikpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydHkuc2V0TGVuZ3RoKHRleHQpOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAobmFtZS5lcXVhbHMoImRlZmF1bHRWYWx1ZSIpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQgPSB0ZXh0LnN1YnN0cmluZygxLCB0ZXh0Lmxlbmd0aCgpIC0gMSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHByb3BlcnR5LnNldERlZmF1bHRWYWx1ZSh0ZXh0KTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBzdGF0ZSA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0YXRlKSB7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
