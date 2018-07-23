@@ -24,6 +24,9 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/ClientOptions.java" timestamp="1532336817312">
         <mark key="'" line="19" column="31" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/status/ProviderNodeStatusManagerImpl.java" timestamp="1532341340807">
+        <mark key="'" line="89" column="68" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/tree/AbstractNode.class" timestamp="1532186628987">
         <mark key="'" line="132" column="25" />
       </file>
@@ -38,6 +41,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/org/xml/sax/InputSource.java" timestamp="1532186896911">
         <mark key="'" line="118" column="11" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/GenericRegionClusters.java" timestamp="1532341362168" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/channel/MultiplexChannelPool.java" timestamp="1532339702444" />
       <file name="$MAVEN_REPOSITORY$/io/grpc/grpc-stub/1.5.0/grpc-stub-1.5.0.jar!/io/grpc/stub/ClientCalls.class" timestamp="1532333437543" />
       <file name="$USER_HOME$/workspace/darwin/dev.properties" timestamp="1532330259144" />
@@ -51,15 +55,18 @@
         <mark key="." line="122" column="89" />
         <mark key="^" line="122" column="89" />
       </file>
-      <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/manager/impl/ItemManagerImpl.java" timestamp="1532340257802" />
+      <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/manager/impl/ItemManagerImpl.java" timestamp="1532340853473" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6.jar!/com/meitu/tardis/meta/NodeBase.class" timestamp="1532336892361">
         <mark key="'" line="35" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" timestamp="1532068040686">
         <mark key="'" line="164" column="45" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/status/DefaultHealthChecker.java" timestamp="1532339922691">
-        <mark key="'" line="86" column="47" />
+      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/status/DefaultHealthChecker.java" timestamp="1532341327891">
+        <mark key="'" line="38" column="45" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/status/ProviderNodeStatusManager.java" timestamp="1532341322026">
+        <mark key="'" line="35" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-common/1.1-SNAPSHOT/itemcenter-common-1.1-20180719.034844-543.jar!/com/meitu/meipu/itemcenter/domain/dto/ItemDetailDTO.class" timestamp="1532073668007">
         <mark key="'" line="113" column="24" />
@@ -84,12 +91,12 @@
         <mark key="'" line="31" column="67" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/GenericClusterImpl.java" timestamp="1532339695198" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/tardis/darwin-tardis-consumer.xml" timestamp="1532336914139">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/tardis/darwin-tardis-consumer.xml" timestamp="1532340942434">
         <mark key="'" line="7" column="70" />
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="17" />
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1532329932467">
         <mark key="'" line="285" column="20" />
@@ -102,8 +109,8 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/GrpcClient.java" timestamp="1532333482379">
         <mark key="'" line="117" column="50" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/ClusterClientBuilder.java" timestamp="1532336852646">
-        <mark key="'" line="140" column="24" />
+      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/ClusterClientBuilder.java" timestamp="1532341436821">
+        <mark key="'" line="75" column="56" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc-spring/0.2.4-SNAPSHOT/tardis-grpc-spring-0.2.4-20180627.091430-6-sources.jar!/com/meitu/tardis/grpc/spring4/JrpcStubFactoryBean.java" timestamp="1532333471034">
         <mark key="'" line="15" column="10" />
@@ -113,11 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="59" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" />
-      <jump line="131" column="21" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
-      <jump line="133" column="29" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java" />
-      <jump line="145" column="40" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java" />
-      <jump line="40" column="22" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
       <jump line="38" column="64" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
       <jump line="224" column="9" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/xml/parsers/FactoryFinder.java" />
       <jump line="292" column="44" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/xml/parsers/FactoryFinder.java" />
@@ -197,7 +199,6 @@
       <jump line="37" column="21" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc-spring/0.2.4-SNAPSHOT/tardis-grpc-spring-0.2.4-20180627.091430-6-sources.jar!/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" />
       <jump line="61" column="26" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/JrpcClient.java" />
       <jump line="126" column="29" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/ClusterClientBuilder.java" />
-      <jump line="75" column="52" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/ClusterClientBuilder.java" />
       <jump line="128" column="76" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/ClusterClientBuilder.java" />
       <jump line="7" column="70" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/tardis/darwin-tardis-consumer.xml" />
       <jump line="32" column="19" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/ClientOptions.java" />
@@ -213,16 +214,22 @@
       <jump line="31" column="67" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/channel/GrpcChannelHolderBuilder.java" />
       <jump line="66" column="52" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/status/DefaultHealthChecker.java" />
       <jump line="86" column="47" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/status/DefaultHealthChecker.java" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/status/DefaultHealthChecker.java" />
+      <jump line="37" column="74" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/status/DefaultHealthChecker.java" />
+      <jump line="35" column="36" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/status/ProviderNodeStatusManager.java" />
+      <jump line="38" column="45" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/status/DefaultHealthChecker.java" />
+      <jump line="89" column="68" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/status/ProviderNodeStatusManagerImpl.java" />
+      <jump line="75" column="56" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/ClusterClientBuilder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEaXNjb3ZlcnlTZXJ2aWNlX01lbW9yeVw+</text>
+        <text encoding="base64">XDxnZXRNYW5hZ2VkTm9kZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxiZWFuIGlkPSJjbGllbnRPcHRpb25zIiBjbGFzcz0iY29tLm1laXR1LnRhcmRpcy5ncnBjLmNsaWVudC5DbGllbnRPcHRpb25zIj4KICAgICAgICA8Y29uc3RydWN0b3ItYXJnIG5hbWU9ImRpc2NvdmVyeVNlcnZpY2VVcmlzIj4KICAgICAgICAgICAgPHZhbHVlPiR7dGFyZGlzLmV0Y2RVcml9PC92YWx1ZT4KICAgICAgICA8L2NvbnN0cnVjdG9yLWFyZz4KICAgIDwvYmVhbj4K</text>
@@ -259,15 +266,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEaXNjb3ZlcnlTZXJ2aWNlX01lbW9yeVw+</last-search>
+      <last-search encoding="base64">XDxnZXRNYW5hZ2VkTm9kZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEaXNjb3ZlcnlTZXJ2aWNlX01lbW9yeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRNYW5hZ2VkTm9kZXNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY3R1YWxVcmxcPg==</entry>
         <entry encoding="base64">XDxyZWRpc1w+</entry>
         <entry encoding="base64">XDxleGFtcGxlXD4=</entry>
         <entry encoding="base64">XDxQYWdlclw+</entry>
@@ -287,6 +293,7 @@
         <entry encoding="base64">XDxidWlsZERpc2NvdmVyeVNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxkaXNjb3ZlcnlTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxEaXNjb3ZlcnlTZXJ2aWNlX01lbW9yeVw+</entry>
+        <entry encoding="base64">XDxnZXRNYW5hZ2VkTm9kZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>131</entry>
