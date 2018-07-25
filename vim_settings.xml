@@ -125,6 +125,7 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/commons-queue/2.0.0/commons-queue-2.0.0-sources.jar!/com/meitu/commons/queue/kafka/KafkaConsumerConnectorBuilder.java" timestamp="1532484574789" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-common/src/main/java/com/meitu/meipu/itemcenter/domain/dto/ItemDetailDTO.java" timestamp="1532423307246" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/GenericRegionClusters.java" timestamp="1532341362168" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/MakeupReadydataDTO.java" timestamp="1532486699725" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-common/1.1-SNAPSHOT/itemcenter-common-1.1-20180718.060220-539.jar!/com/meitu/meipu/itemcenter/domain/dto/ItemFullDTO.class" timestamp="1532401558558" />
       <file name="$USER_HOME$/workspace/zhushou/zhushou-model/src/main/java/com/yuntao/zhushou/model/query/EntityQuery.java" timestamp="1532058197454">
         <mark key="[" line="47" column="9" />
@@ -233,12 +234,12 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" timestamp="1532485706049">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" timestamp="1532485887890">
         <mark key="'" line="271" column="48" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-        <mark key="^" line="128" column="57" />
+        <mark key="[" line="149" column="41" />
+        <mark key="]" line="149" column="41" />
+        <mark key="." line="149" column="41" />
+        <mark key="^" line="149" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/manager/impl/ItemManagerImpl.java" timestamp="1532399917850">
         <mark key="'" line="141" column="24" />
@@ -417,12 +418,12 @@
         <mark key="^" line="183" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-web/src/main/resources/iron_confs/iron.meta" timestamp="1532414658620" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1532485669236">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1532486570308">
         <mark key="'" line="387" column="15" />
-        <mark key="[" line="389" column="0" />
-        <mark key="]" line="389" column="0" />
-        <mark key="." line="389" column="0" />
-        <mark key="^" line="388" column="53" />
+        <mark key="[" line="712" column="58" />
+        <mark key="]" line="714" column="31" />
+        <mark key="." line="714" column="31" />
+        <mark key="^" line="714" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/MakeupReadydataBuildService.java" timestamp="1531974089007">
         <mark key="[" line="25" column="14" />
@@ -595,43 +596,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBKaWViYVNlZ21lbnRlcgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RyaW5nTGlzdCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>insert</text>
+        <text>zk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0S2Fma2FTdHJlYW1Db25zdW1lclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZGVzYyA9IGpzb25PYmplY3QuZ2V0U3RyaW5nKCJpbnRyb2R1Y3Rpb24iKTsK</text>
+      <register name="0" type="4">
+        <text>brandDTO.getBrandNameZh()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBKaWViYVNlZ21lbnRlcgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RyaW5nTGlzdCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9uZyB3YXJlaG91c2VJZCA9IHJlYWR5RGF0YVdyYXBwZXIuZ2V0TWFrZXVwUmVhZHlkYXRhKCkuZ2V0V2FyZWhvdXNlSWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBKaWViYVNlZ21lbnRlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFrZXVwUmVhZHlkYXRhIG1ha2V1cFJlYWR5ZGF0YSA9IHJlYWR5RGF0YVdyYXBwZXIuZ2V0TWFrZXVwUmVhZHlkYXRhKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9uZyB3YXJlaG91c2VJZCA9IHJlYWR5RGF0YVdyYXBwZXIuZ2V0TWFrZXVwUmVhZHlkYXRhKCkuZ2V0V2FyZWhvdXNlSWQoKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTWFrZXVwUmVhZHlkYXRhIG1ha2V1cFJlYWR5ZGF0YSA9IHJlYWR5RGF0YVdyYXBwZXIuZ2V0TWFrZXVwUmVhZHlkYXRhKCk7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9uZyB3YXJlaG91c2VJZCA9IHJlYWR5RGF0YVdyYXBwZXIuZ2V0TWFrZXVwUmVhZHlkYXRhKCkuZ2V0V2FyZWhvdXNlSWQoKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFrZXVwUmVhZHlkYXRhIG1ha2V1cFJlYWR5ZGF0YSA9IHJlYWR5RGF0YVdyYXBwZXIuZ2V0TWFrZXVwUmVhZHlkYXRhKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRvclNlcnZpY2Uuc2h1dGRvd24oKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBleGVjdXRvclNlcnZpY2Uuc2h1dGRvd24oKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>350</text>
