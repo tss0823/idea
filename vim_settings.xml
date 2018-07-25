@@ -28,11 +28,12 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-common/src/main/java/com/meitu/meipu/itemcenter/service/backend/ItemReadService.java" timestamp="1532423392095">
         <mark key="'" line="69" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/apprun/merge.sh" timestamp="1532513272439">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="1" />
-        <mark key="^" line="70" column="1" />
-        <mark key="." line="70" column="1" />
+      <file name="$USER_HOME$/workspace/apprun/merge.sh" timestamp="1532517066865">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="66" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/ReadyDataConfigDaoImpl.java" timestamp="1532503438873">
         <mark key="[" line="86" column="15" />
@@ -414,10 +415,10 @@
         <mark key="'" line="37" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/grpc/grpc-core/1.5.0/grpc-core-1.5.0.jar!/io/grpc/Channel.class" timestamp="1532333881639" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/item/FetchItemQueryCondition.java" timestamp="1532503546040">
-        <mark key="[" line="62" column="49" />
-        <mark key="]" line="62" column="58" />
-        <mark key="." line="62" column="58" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/item/FetchItemQueryCondition.java" timestamp="1532517076842">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="31" />
+        <mark key="." line="63" column="0" />
         <mark key="^" line="62" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/GrpcClient.java" timestamp="1532333482379">
@@ -460,7 +461,6 @@
       <file name="$USER_HOME$/workspace/darwin/pre.properties" timestamp="1532436872131" />
     </filemarks>
     <jumps>
-      <jump line="24" column="9" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc-spring/0.2.4-SNAPSHOT/tardis-grpc-spring-0.2.4-20180627.091430-6-sources.jar!/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" />
       <jump line="30" column="37" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc-spring/0.2.4-SNAPSHOT/tardis-grpc-spring-0.2.4-20180627.091430-6-sources.jar!/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" />
       <jump line="22" column="74" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-config/0.2.4-SNAPSHOT/tardis-config-0.2.4-20180627.091417-6-sources.jar!/com/meitu/tardis/config/TardisConfigUtils.java" />
       <jump line="20" column="16" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/tardis/darwin-tardis-consumer.xml" />
@@ -560,13 +560,14 @@
       <jump line="113" column="20" filename="$MAVEN_REPOSITORY$/com/meitu/meipu/crawler-common/1.1-SNAPSHOT/crawler-common-1.1-SNAPSHOT-sources.jar!/com/meitu/meipu/crawler/domain/dto/CrawlerItemDTO.java" />
       <jump line="480" column="15" filename="$MAVEN_REPOSITORY$/com/meitu/meipu/crawler-common/1.1-SNAPSHOT/crawler-common-1.1-SNAPSHOT-sources.jar!/com/meitu/meipu/crawler/domain/dto/CrawlerItemDTO.java" />
       <jump line="27" column="47" filename="$USER_HOME$/workspace/darwin/pom.xml" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/apprun/merge.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CnNlZCAtaSAnJyAncy8vY2MvJw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzb3VyY2VMaXN0LmFkZCgiYWFhYiIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXBlbmRlbmN5XD4=</text>
@@ -574,32 +575,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzb3VyY2VMaXN0LmFkZCgiYWFhYiIpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CnNlZCAtaSAnJyAncy8vY2MvJw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">cG9tX3ZlcnNpb249Jy1TTkFQU0hPVCc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJPGlmIHRlc3Q9ImlzRGVsZXRlICE9IG51bGwiPmBpc0RlbGV0ZWAgPSAje2lzRGVsZXRlfSwgPC9pZj4K</text>
+        <text encoding="base64">ZWNobyAicG9tX3ZlcnNpb249JHtwb21fdmVyc2lvbn0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gc291cmNlTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWFuZCBgYnJhbmRJZGAgPSAje3JlcXVlc3QuYnJhbmRJZH0K</text>
+        <text encoding="base64">cG9tX3ZlcnNpb249Jy1SRUxFQVNFLVNOQVBTSE9UJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJd2FyZWhvdXNlSWQgaW4KCQkJPGZvcmVhY2ggaXRlbT0id2FyZWhvdXNlSWQiIGNvbGxlY3Rpb249IndhcmVob3VzZUlkcyIgb3Blbj0iKCIgc2VwYXJhdG9yPSIsIiBjbG9zZT0iKSI+CgkJCQkje3dhcmVob3VzZUlkfQoJCQk8L2ZvcmVhY2g+Cg==</text>
+        <text encoding="base64">c2VkIC1pICcnICdzI1w8bWF2ZW5cLmRlcGVuZGVuY3lcLmVudlw+W148XSpcPFwvbWF2ZW5cLmRlcGVuZGVuY3lcLmVudlw+JCM8bWF2ZW4uZGVwZW5kZW5jeS5lbnY+JHtwb21fdmVyc2lvbn08L21hdmVuLmRlcGVuZGVuY3kuZW52PiMnIHBvbS54bWwK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDcmF3bGVySXRlbUZvclJlYWR5RGF0YVJlcXVlc3QgcmVxdWVzdCA9IChDcmF3bGVySXRlbUZvclJlYWR5RGF0YVJlcXVlc3QpIHNvdXJjZUxpc3QK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CnNlZCAtaSAnJyAncy8vY2MvJw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5p+l6K+i5YeG5aSH5pWw5o2uIGZvciBtYXRjaAogICAgICogKi8KICAgIExpc3Q8TWFrZXVwUmVhZHlkYXRhPiBzZWxlY3RCeUdyb3VwKE1ha2V1cFJlYWR5ZGF0YVJlcXVlc3QgcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">CQkJPGlmIHRlc3Q9ImlzRGVsZXRlICE9IG51bGwiPmBpc0RlbGV0ZWAgPSAje2lzRGVsZXRlfSwgPC9pZj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSZWFkeURhdGFDb25maWdSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVhZHlEYXRhQ29uZmlnUmVxdWVzdCgpOwogICAgICAgIHJlcXVlc3Quc2V0Q29kZShjb2RlKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gc291cmNlTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQkJCWFuZCBgYnJhbmRJZGAgPSAje3JlcXVlc3QuYnJhbmRJZH0K</text>
       </register>
       <register name=":" type="4">
         <text>121</text>
