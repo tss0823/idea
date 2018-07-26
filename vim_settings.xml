@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/darwin/darwin-client/src/main/java/com/meitu/meipu/darwin/client/service/MakeupReadyDataMergeServiceClient.java" timestamp="1532593661793" />
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/deploy/src/main/resources/filtered.properties" timestamp="1532519762782">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="9" />
@@ -35,15 +36,8 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1532592072437">
-        <mark key="'" line="315" column="29" />
-        <mark key="[" line="140" column="61" />
-        <mark key="]" line="140" column="93" />
-        <mark key="." line="140" column="93" />
-        <mark key="^" line="140" column="93" />
-      </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/MakeupReadydataDTO.java" timestamp="1532583970526">
-        <mark key="'" line="136" column="28" />
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/makeup/MergeController.java" timestamp="1532593695451">
+        <mark key="'" line="74" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/deploy/target/classes/filtered.properties" timestamp="1532584648272" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/item/DataItemTransformHelper.java" timestamp="1532574806927">
@@ -107,6 +101,9 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/cms/pom.xml" timestamp="1532593124561">
+        <mark key="[" line="22" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/ItemMakeupDaoImpl.java" timestamp="1532502823305">
         <mark key="[" line="2" column="106" />
         <mark key="]" line="2" column="109" />
@@ -127,13 +124,6 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="62" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataBuildServiceImpl.java" timestamp="1532587480514">
-        <mark key="'" line="29" column="24" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="37" column="38" />
-        <mark key="." line="59" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/SimilarWordDaoImpl.java" timestamp="1532575503134">
         <mark key="[" line="62" column="12" />
         <mark key="]" line="64" column="42" />
@@ -142,7 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="51" filename="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/BaseTest.java" />
       <jump line="18" column="47" filename="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/BaseTest.java" />
       <jump line="200" column="47" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
       <jump line="129" column="74" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
@@ -242,6 +231,7 @@
       <jump line="244" column="76" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
       <jump line="319" column="37" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="315" column="29" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="74" column="46" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/makeup/MergeController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
