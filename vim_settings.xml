@@ -125,6 +125,9 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/MakeupReadydataDTO.java" timestamp="1532663602426">
         <mark key="'" line="484" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/CrawlerJobHttpManager.java" timestamp="1532681670582">
+        <mark key="'" line="73" column="34" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/org/xml/sax/helpers/XMLReaderFactory.java" timestamp="1532680343019">
         <mark key="'" line="139" column="47" />
       </file>
@@ -270,6 +273,7 @@
         <mark key="'" line="41" column="23" />
       </file>
       <file name="/DataTransformHelper.java" timestamp="1532575043892" />
+      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/util/DateUtil.java" timestamp="1532681701086" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerFetchServiceImpl.java" timestamp="1532663264005">
         <mark key="'" line="127" column="17" />
         <mark key="[" line="127" column="44" />
@@ -297,7 +301,7 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/manager/cache/impl/ItemDTORedisManager.java" timestamp="1532400076479">
         <mark key="'" line="116" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/SAXHelper.java" timestamp="1532680504464">
+      <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/SAXHelper.java" timestamp="1532680612156">
         <mark key="'" line="124" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-message/src/main/java/com/meitu/meipu/darwin/message/kafka/darwin/impl/ReayDataTansHandler.java" timestamp="1532419233988">
@@ -336,11 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="87" filename="$USER_HOME$/workspace/darwin/darwin-message/src/main/resources/darwin-message-consumer.xml" />
-      <jump line="20" column="50" filename="$MAVEN_REPOSITORY$/com/meitu/commons-queue/2.0.0/commons-queue-2.0.0-sources.jar!/com/meitu/commons/queue/kafka/KafkaQueueConsumer.java" />
-      <jump line="416" column="15" filename="$MAVEN_REPOSITORY$/com/meitu/commons-queue/2.0.0/commons-queue-2.0.0-sources.jar!/com/meitu/commons/queue/kafka/KafkaQueueConsumer.java" />
-      <jump line="254" column="54" filename="$MAVEN_REPOSITORY$/com/meitu/commons-queue/2.0.0/commons-queue-2.0.0-sources.jar!/com/meitu/commons/queue/kafka/KafkaQueueConsumer.java" />
-      <jump line="261" column="38" filename="$MAVEN_REPOSITORY$/com/meitu/commons-queue/2.0.0/commons-queue-2.0.0-sources.jar!/com/meitu/commons/queue/kafka/KafkaQueueConsumer.java" />
       <jump line="9" column="79" filename="$USER_HOME$/workspace/darwin/darwin-message/src/main/resources/darwin-message-consumer.xml" />
       <jump line="42" column="19" filename="$MAVEN_REPOSITORY$/com/meitu/commons-queue/2.0.0/commons-queue-2.0.0-sources.jar!/com/meitu/commons/queue/kafka/KafkaQueueConsumer.java" />
       <jump line="50" column="37" filename="$MAVEN_REPOSITORY$/com/meitu/commons-queue/2.0.0/commons-queue-2.0.0-sources.jar!/com/meitu/commons/queue/kafka/KafkaQueueConsumer.java" />
@@ -436,6 +435,11 @@
       <jump line="124" column="36" filename="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/SAXHelper.java" />
       <jump line="49" column="41" filename="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/JAXPHelper.java" />
       <jump line="51" column="27" filename="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/JAXPHelper.java" />
+      <jump line="56" column="14" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/CrawlerJobHttpManager.java" />
+      <jump line="57" column="51" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/CrawlerJobHttpManager.java" />
+      <jump line="76" column="44" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/CrawlerJobHttpManager.java" />
+      <jump line="70" column="46" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/CrawlerJobHttpManager.java" />
+      <jump line="73" column="34" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/CrawlerJobHttpManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
