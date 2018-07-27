@@ -122,9 +122,6 @@
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/deploy/src/main/resources/applicationContext-web.xml" timestamp="1532520600643">
         <mark key="'" line="10" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/MakeupReadydataDTO.java" timestamp="1532663602426">
-        <mark key="'" line="484" column="35" />
-      </file>
       <file name="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/CrawlerJobHttpManager.java" timestamp="1532681670582">
         <mark key="'" line="73" column="34" />
       </file>
@@ -175,26 +172,18 @@
       <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/xpath/DefaultXPath.class" timestamp="1532186641959">
         <mark key="'" line="92" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/MakeupReadydataManager.java" timestamp="1532663593188">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="43" column="72" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zhushou/run.sh" timestamp="1532660139179">
         <mark key="[" line="13" column="18" />
         <mark key="]" line="13" column="21" />
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadyDataMergeServiceImpl.java" timestamp="1532663356375">
-        <mark key="'" line="139" column="30" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-client/1.1-SNAPSHOT/itemcenter-client-1.1-20180718.060223-522.jar!/com/meitu/meipu/itemcenter/client/backend/ItemReadServiceClient.class" timestamp="1532401389885">
         <mark key="'" line="118" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/MakeupReadydataPropertyDTO.java" timestamp="1532590435467" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" timestamp="1532590364496">
-        <mark key="'" line="246" column="76" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" timestamp="1532685054562">
+        <mark key="'" line="141" column="51" />
         <mark key="[" line="270" column="49" />
         <mark key="]" line="270" column="49" />
         <mark key="^" line="270" column="51" />
@@ -225,7 +214,7 @@
       <file name="$USER_HOME$/workspace/darwin/pom.xml" timestamp="1532512246937">
         <mark key="'" line="27" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerConsumeServiceImpl.java" timestamp="1532598676842">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerConsumeServiceImpl.java" timestamp="1532684388910">
         <mark key="'" line="226" column="19" />
         <mark key="[" line="209" column="101" />
         <mark key="]" line="209" column="98" />
@@ -340,7 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="79" filename="$USER_HOME$/workspace/darwin/darwin-message/src/main/resources/darwin-message-consumer.xml" />
       <jump line="42" column="19" filename="$MAVEN_REPOSITORY$/com/meitu/commons-queue/2.0.0/commons-queue-2.0.0-sources.jar!/com/meitu/commons/queue/kafka/KafkaQueueConsumer.java" />
       <jump line="50" column="37" filename="$MAVEN_REPOSITORY$/com/meitu/commons-queue/2.0.0/commons-queue-2.0.0-sources.jar!/com/meitu/commons/queue/kafka/KafkaQueueConsumer.java" />
       <jump line="249" column="60" filename="$MAVEN_REPOSITORY$/com/meitu/commons-queue/2.0.0/commons-queue-2.0.0-sources.jar!/com/meitu/commons/queue/kafka/KafkaQueueConsumer.java" />
@@ -440,6 +428,7 @@
       <jump line="76" column="44" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/CrawlerJobHttpManager.java" />
       <jump line="70" column="46" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/CrawlerJobHttpManager.java" />
       <jump line="73" column="34" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/CrawlerJobHttpManager.java" />
+      <jump line="141" column="51" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
