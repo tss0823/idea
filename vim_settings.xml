@@ -246,6 +246,12 @@
         <mark key="^" line="18" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/deploy/target/classes/filtered.properties" timestamp="1532657301540" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/item/DataItemTransformHelper.java" timestamp="1532574806927">
+        <mark key="'" line="51" column="13" />
+        <mark key="[" line="345" column="0" />
+        <mark key="]" line="345" column="0" />
+        <mark key="." line="345" column="0" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/xml/parsers/SAXParserFactory.java" timestamp="1532750465632">
         <mark key="'" line="128" column="21" />
       </file>
@@ -290,12 +296,11 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/proto/rpc/java/DispatcherGrpc.java" timestamp="1532333869430">
         <mark key="'" line="109" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerConsumeServiceImpl.java" timestamp="1532774524650">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerConsumeServiceImpl.java" timestamp="1532775946863">
         <mark key="'" line="226" column="19" />
-        <mark key="[" line="209" column="101" />
-        <mark key="]" line="209" column="98" />
-        <mark key="." line="209" column="98" />
-        <mark key="^" line="209" column="98" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="187" column="13" />
+        <mark key="." line="184" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" timestamp="1532770895151">
         <mark key="'" line="116" column="51" />
@@ -477,7 +482,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKFN0cmluZ1V0aWxzLmVxdWFscyhjcmF3bGVySXRlbURUTy5nZXRTb3VyY2UoKSwi576O5Li95L+u6KGMIikgJiYgY3Jhd2xlckl0ZW1EVE8uZ2V0RmxhZygpICE9IG51bGwgJiYgY3Jhd2xlckl0ZW1EVE8uZ2V0RmxhZygpID09IDIgKXsgIC8v5bey6L2s5aaG5ZOBCiAgICAgICAgICAgICAgICAgICAgcmVhZHlEYXRhV3JhcHBlci5nZXRNYWtldXBSZWFkeWRhdGEoKS5zZXRTdGF0dXMoUmVhZHlkYXRhU3RhdHVzLlRSQU5TLmdldENvZGUoKSk7CiAgICAgICAgICAgICAgICAgICAgLy/lpoblk4FpZOWFiOS4jeWkhOeQhuS6huOAguWQjue7remAmui/h+aVsOaNruiuouatowogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>entityParam</text>
@@ -489,31 +494,31 @@
         <text>xml-apis</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKFN0cmluZ1V0aWxzLmVxdWFscyhjcmF3bGVySXRlbURUTy5nZXRTb3VyY2UoKSwi576O5Li95L+u6KGMIikgJiYgY3Jhd2xlckl0ZW1EVE8uZ2V0RmxhZygpICE9IG51bGwgJiYgY3Jhd2xlckl0ZW1EVE8uZ2V0RmxhZygpID09IDIgKXsgIC8v5bey6L2s5aaG5ZOBCiAgICAgICAgICAgICAgICAgICAgcmVhZHlEYXRhV3JhcHBlci5nZXRNYWtldXBSZWFkeWRhdGEoKS5zZXRTdGF0dXMoUmVhZHlkYXRhU3RhdHVzLlRSQU5TLmdldENvZGUoKSk7CiAgICAgICAgICAgICAgICAgICAgLy/lpoblk4FpZOWFiOS4jeWkhOeQhuS6huOAguWQjue7remAmui/h+aVsOaNruiuouatowogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFrZXVwUmVhZHlkYXRhLnNldFN0YXR1cygwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRW50aXR5UGFyYW0gZW50aXR5UGFyYW0gPSBhbGlhc0VudGl0eU1hcC5nZXQoY3VycmVudEFsaWFzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZXVwUmVhZHlkYXRhLnNldFN0YXR1cygwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3FsTWFwTWV0aG9kLnNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRW50aXR5UGFyYW0gZW50aXR5UGFyYW0gPSBhbGlhc0VudGl0eU1hcC5nZXQoY3VycmVudEFsaWFzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3JnLmFwYWNoZS5qYXNwZXIuY29tcGlsZXIuTm9kZS5Sb290Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3FsTWFwTWV0aG9kLnNldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IHJvb3Quc2VsZWN0Tm9kZXMoInR5cGVBbGlhc2VzL3R5cGVBbGlhcyIpOwo=</text>
+        <text encoding="base64">b3JnLmFwYWNoZS5qYXNwZXIuY29tcGlsZXIuTm9kZS5Sb290Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD54bWwtYXBpczwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">IHJvb3Quc2VsZWN0Tm9kZXMoInR5cGVBbGlhc2VzL3R5cGVBbGlhcyIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWE1MUmVhZGVyIHhtbFJlYWRlciA9IG5ldyBvcmcuYXBhY2hlLnhlcmNlcy5wYXJzZXJzLlNBWFBhcnNlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD54bWwtYXBpczwvZ3JvdXBJZD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgWE1MUmVhZGVyIHhtbFJlYWRlciA9IG5ldyBvcmcuYXBhY2hlLnhlcmNlcy5wYXJzZXJzLlNBWFBhcnNlcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
