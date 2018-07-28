@@ -45,6 +45,12 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-client/1.1-SNAPSHOT/itemcenter-client-1.1-20180723.080759-528.jar!/com/meitu/meipu/itemcenter/client/backend/ItemReadServiceClient.class" timestamp="1532423100134">
         <mark key="'" line="64" column="58" />
       </file>
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapContextMgr.java" timestamp="1532786229311">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="15" column="56" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/SAXReader.java" timestamp="1532750447698">
         <mark key="'" line="893" column="34" />
       </file>
@@ -117,11 +123,11 @@
       <file name="$USER_HOME$/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/CustomizedPropertyConfigurer.java" timestamp="1532657358844">
         <mark key="'" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapUtils.java" timestamp="1532785793516">
-        <mark key="[" line="10" column="74" />
-        <mark key="]" line="10" column="71" />
-        <mark key="^" line="10" column="71" />
-        <mark key="." line="10" column="71" />
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapUtils.java" timestamp="1532786032710">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/JrpcClient.java" timestamp="1532333945747">
         <mark key="'" line="61" column="26" />
@@ -209,6 +215,13 @@
         <mark key="]" line="13" column="21" />
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" timestamp="1532786339560">
+        <mark key="'" line="99" column="33" />
+        <mark key="[" line="90" column="74" />
+        <mark key="]" line="90" column="73" />
+        <mark key="^" line="90" column="73" />
+        <mark key="." line="90" column="73" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-client/1.1-SNAPSHOT/itemcenter-client-1.1-20180718.060223-522.jar!/com/meitu/meipu/itemcenter/client/backend/ItemReadServiceClient.class" timestamp="1532401389885">
         <mark key="'" line="118" column="28" />
@@ -364,8 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="460" column="20" filename="$USER_HOME$/workspace/zhushou/pom.xml" />
-      <jump line="656" column="0" filename="$USER_HOME$/workspace/zhushou/pom.xml" />
       <jump line="627" column="16" filename="$USER_HOME$/workspace/zhushou/pom.xml" />
       <jump line="56" column="71" filename="$USER_HOME$/workspace/zhushou/zhushou-dal/src/main/java/com/yuntao/zhushou/dal/config/ApplicationConfig.java" />
       <jump line="10" column="85" filename="$USER_HOME$/workspace/zhushou/zhushou-web/deploy/src/main/resources/applicationContext-web.xml" />
@@ -464,13 +475,15 @@
       <jump line="19" column="6" filename="$USER_HOME$/workspace/zhushou/zhushou-dal/src/main/resources/mapper/ProjectMapper.xml" />
       <jump line="70" column="49" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
       <jump line="64" column="18" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
+      <jump line="91" column="66" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" />
+      <jump line="96" column="33" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>zanshi</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEVudGl0eU5hbWVBbGlhc01hcChNYXA8U3RyaW5nLFN0cmluZz4gZW50aXR5TmFtZUFsaWFzTWFwKXsKICAgICAgICB0aGlzLmVudGl0eU5hbWVBbGlhc01hcCA9IGVudGl0eU5hbWVBbGlhc01hcDsKICAgIH0KICAgIAogICAgcHVibGljIE1hcDxTdHJpbmcsU3RyaW5nPiBnZXRFbnRpdHlOYW1lQWxpYXNNYXAoKXsKICAgICAgICByZXR1cm4gZW50aXR5TmFtZUFsaWFzTWFwOwogICAgfQoKICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBFbnRpdHlQYXJhbT4gZ2V0RW50aXR5QWxpYXNNYXAoKSB7CiAgICAgICAgcmV0dXJuIGVudGl0eUFsaWFzTWFwOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEVudGl0eUFsaWFzTWFwKE1hcDxTdHJpbmcsIEVudGl0eVBhcmFtPiBlbnRpdHlBbGlhc01hcCkgewogICAgICAgIHRoaXMuZW50aXR5QWxpYXNNYXAgPSBlbnRpdHlBbGlhc01hcDsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>zanshi</text>
+        <text encoding="base64">ID0gbmV3IEhhc2hNYXA8PigpOw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRNYXBcPg==</text>
@@ -479,31 +492,31 @@
         <text>xml-apis</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEVudGl0eU5hbWVBbGlhc01hcChNYXA8U3RyaW5nLFN0cmluZz4gZW50aXR5TmFtZUFsaWFzTWFwKXsKICAgICAgICB0aGlzLmVudGl0eU5hbWVBbGlhc01hcCA9IGVudGl0eU5hbWVBbGlhc01hcDsKICAgIH0KICAgIAogICAgcHVibGljIE1hcDxTdHJpbmcsU3RyaW5nPiBnZXRFbnRpdHlOYW1lQWxpYXNNYXAoKXsKICAgICAgICByZXR1cm4gZW50aXR5TmFtZUFsaWFzTWFwOwogICAgfQoKICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBFbnRpdHlQYXJhbT4gZ2V0RW50aXR5QWxpYXNNYXAoKSB7CiAgICAgICAgcmV0dXJuIGVudGl0eUFsaWFzTWFwOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEVudGl0eUFsaWFzTWFwKE1hcDxTdHJpbmcsIEVudGl0eVBhcmFtPiBlbnRpdHlBbGlhc01hcCkgewogICAgICAgIHRoaXMuZW50aXR5QWxpYXNNYXAgPSBlbnRpdHlBbGlhc01hcDsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKFN0cmluZ1V0aWxzLmVxdWFscyhjcmF3bGVySXRlbURUTy5nZXRTb3VyY2UoKSwi576O5Li95L+u6KGMIikgJiYgY3Jhd2xlckl0ZW1EVE8uZ2V0RmxhZygpICE9IG51bGwgJiYgY3Jhd2xlckl0ZW1EVE8uZ2V0RmxhZygpID09IDIgKXsgIC8v5bey6L2s5aaG5ZOBCiAgICAgICAgICAgICAgICAgICAgcmVhZHlEYXRhV3JhcHBlci5nZXRNYWtldXBSZWFkeWRhdGEoKS5zZXRTdGF0dXMoUmVhZHlkYXRhU3RhdHVzLlRSQU5TLmdldENvZGUoKSk7CiAgICAgICAgICAgICAgICAgICAgLy/lpoblk4FpZOWFiOS4jeWkhOeQhuS6huOAguWQjue7remAmui/h+aVsOaNruiuouatowogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKFN0cmluZ1V0aWxzLmVxdWFscyhjcmF3bGVySXRlbURUTy5nZXRTb3VyY2UoKSwi576O5Li95L+u6KGMIikgJiYgY3Jhd2xlckl0ZW1EVE8uZ2V0RmxhZygpICE9IG51bGwgJiYgY3Jhd2xlckl0ZW1EVE8uZ2V0RmxhZygpID09IDIgKXsgIC8v5bey6L2s5aaG5ZOBCiAgICAgICAgICAgICAgICAgICAgcmVhZHlEYXRhV3JhcHBlci5nZXRNYWtldXBSZWFkeWRhdGEoKS5zZXRTdGF0dXMoUmVhZHlkYXRhU3RhdHVzLlRSQU5TLmdldENvZGUoKSk7CiAgICAgICAgICAgICAgICAgICAgLy/lpoblk4FpZOWFiOS4jeWkhOeQhuS6huOAguWQjue7remAmui/h+aVsOaNruiuouatowogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFrZXVwUmVhZHlkYXRhLnNldFN0YXR1cygwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRW50aXR5UGFyYW0gZW50aXR5UGFyYW0gPSBhbGlhc0VudGl0eU1hcC5nZXQoY3VycmVudEFsaWFzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZXVwUmVhZHlkYXRhLnNldFN0YXR1cygwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3FsTWFwTWV0aG9kLnNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRW50aXR5UGFyYW0gZW50aXR5UGFyYW0gPSBhbGlhc0VudGl0eU1hcC5nZXQoY3VycmVudEFsaWFzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3JnLmFwYWNoZS5qYXNwZXIuY29tcGlsZXIuTm9kZS5Sb290Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3FsTWFwTWV0aG9kLnNldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IHJvb3Quc2VsZWN0Tm9kZXMoInR5cGVBbGlhc2VzL3R5cGVBbGlhcyIpOwo=</text>
+        <text encoding="base64">b3JnLmFwYWNoZS5qYXNwZXIuY29tcGlsZXIuTm9kZS5Sb290Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD54bWwtYXBpczwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">IHJvb3Quc2VsZWN0Tm9kZXMoInR5cGVBbGlhc2VzL3R5cGVBbGlhcyIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
