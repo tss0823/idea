@@ -98,7 +98,7 @@
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/ItemController.java" timestamp="1532401662452">
         <mark key="'" line="412" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/MakeupReadydataMapper.xml" timestamp="1532860399202">
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/MakeupReadydataMapper.xml" timestamp="1532861728063">
         <mark key="'" line="55" column="24" />
         <mark key="[" line="328" column="49" />
         <mark key="]" line="180" column="0" />
@@ -131,7 +131,7 @@
       <file name="$USER_HOME$/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/CustomizedPropertyConfigurer.java" timestamp="1532657358844">
         <mark key="'" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapUtils.java" timestamp="1532859608800">
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapUtils.java" timestamp="1532861376936">
         <mark key="'" line="27" column="55" />
         <mark key="[" line="41" column="39" />
         <mark key="]" line="41" column="193" />
@@ -193,6 +193,9 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/service/makeup/MakeUpServiceImpl.java" timestamp="1532665279784">
         <mark key="'" line="420" column="74" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/mapper/MakeupReadydataMapper.java" timestamp="1532860692110">
+        <mark key="'" line="14" column="51" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/xml/parsers/SAXParserFactory.java" timestamp="1532750465632">
         <mark key="'" line="128" column="21" />
       </file>
@@ -231,13 +234,7 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" timestamp="1532860577461">
-        <mark key="'" line="116" column="59" />
-        <mark key="[" line="116" column="76" />
-        <mark key="]" line="116" column="74" />
-        <mark key="." line="116" column="74" />
-        <mark key="^" line="116" column="74" />
-      </file>
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" timestamp="1532862061072" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-client/1.1-SNAPSHOT/itemcenter-client-1.1-20180718.060223-522.jar!/com/meitu/meipu/itemcenter/client/backend/ItemReadServiceClient.class" timestamp="1532401389885">
         <mark key="'" line="118" column="28" />
       </file>
@@ -272,11 +269,12 @@
         <mark key="]" line="187" column="13" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" timestamp="1532860480431">
-        <mark key="[" line="159" column="52" />
-        <mark key="]" line="159" column="55" />
-        <mark key="^" line="159" column="55" />
-        <mark key="." line="159" column="55" />
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" timestamp="1532861912793">
+        <mark key="'" line="176" column="40" />
+        <mark key="[" line="139" column="83" />
+        <mark key="]" line="139" column="83" />
+        <mark key="^" line="144" column="76" />
+        <mark key="." line="139" column="83" />
       </file>
       <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/io/SAXReader.class" timestamp="1532186921510">
         <mark key="'" line="139" column="23" />
@@ -389,10 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="23" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataEvaluateServiceImpl.java" />
-      <jump line="78" column="41" filename="$USER_HOME$/workspace/zhushou/zhushou-web/deploy/pom.xml" />
-      <jump line="247" column="32" filename="$USER_HOME$/workspace/zhushou/pom.xml" />
-      <jump line="248" column="28" filename="$USER_HOME$/workspace/zhushou/pom.xml" />
       <jump line="27" column="47" filename="$USER_HOME$/workspace/zhushou/pom.xml" />
       <jump line="127" column="17" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerFetchServiceImpl.java" />
       <jump line="139" column="30" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadyDataMergeServiceImpl.java" />
@@ -489,13 +483,17 @@
       <jump line="65" column="82" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
       <jump line="25" column="55" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapUtils.java" />
       <jump line="116" column="59" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" />
+      <jump line="14" column="51" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/mapper/MakeupReadydataMapper.java" />
+      <jump line="88" column="79" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" />
+      <jump line="177" column="40" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
+      <jump line="90" column="88" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lang</text>
+        <text>parameterType</text>
       </register>
       <register name="-" type="4">
-        <text>lang</text>
+        <text>parameterType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUWVBFX0FMSUFTRVNcPg==</text>
@@ -504,31 +502,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcWxNYXBNZXRob2QuYWRkU3FsTWFwUGFyYW0oc3FsTWFwUGFyYW0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIENsYXNzPD8+PiB0eXBlQWxpYXNlcyA9IHR5cGVBbGlhc1JlZ2lzdHJ5LmdldFR5cGVBbGlhc2VzKCk7CiAgICAgICAgICAgICAgICBpZih0eXBlQWxpYXNlcy5jb250YWluc0tleShwYXJhbWV0ZXJUeXBlKSl7CiAgICAgICAgICAgICAgICAgICAgQ2xhc3M8Pz4gYUNsYXNzID0gdHlwZUFsaWFzZXMuZ2V0KHBhcmFtZXRlclR5cGUpOwoKICAgICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZW50aXR5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICBNYXA8U3RyaW5nLCBDbGFzczw/Pj4gdHlwZUFsaWFzZXMgPSB0eXBlQWxpYXNSZWdpc3RyeS5nZXRUeXBlQWxpYXNlcygpOwogICAgICAgICAgICAgICAgICAgIC8v5Y6f5YC857G75Z6LCiAgICAgICAgICAgICAgICAgICAgaWYodHlwZUFsaWFzZXMuY29udGFpbnNLZXkocGFyYW1ldGVyVHlwZSkpewogICAgICAgICAgICAgICAgICAgICAgICBDbGFzczw/PiBhQ2xhc3MgPSB0eXBlQWxpYXNlcy5nZXQocGFyYW1ldGVyVHlwZSk7CgogICAgICAgICAgICAgICAgICAgICAgICAvL2VudGl0eQogICAgICAgICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgICAgICAgICBFbnRpdHlQYXJhbSBlbnRpdHlQYXJhbSA9IFNxbE1hcFV0aWxzLmdldEVudGl0eVBhcmFtQnljbGFzc1R5cGUocGFyYW1ldGVyVHlwZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHNxbE1hcE1ldGhvZC5zZXRSZXR1cm5UeXBlKGVudGl0eVBhcmFtLmdldEFsaWFzTmFtZSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgc3FsTWFwTWV0aG9kLmFkZEltcG9ydENscyhlbnRpdHlQYXJhbS5nZXRDbHNGdWxsTmFtZSgpKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFbnRpdHlQYXJhbSBlbnRpdHlQYXJhbSA9IFNxbE1hcFV0aWxzLmdldEVudGl0eVBhcmFtQnljbGFzc1R5cGUocGFyYW1ldGVyVHlwZSk7CiAgICAgICAgICAgICAgICAgICAgU3FsTWFwUGFyYW0gc3FsTWFwUGFyYW0gPSBuZXcgU3FsTWFwUGFyYW0oZW50aXR5UGFyYW0uZ2V0QWxpYXNOYW1lKCksIGVudGl0eVBhcmFtLmdldEVuTmFtZSgpKTsKICAgICAgICAgICAgICAgICAgICBzcWxNYXBNZXRob2QuYWRkU3FsTWFwUGFyYW0oc3FsTWFwUGFyYW0pOwogICAgICAgICAgICAgICAgICAgIHNxbE1hcE1ldGhvZC5hZGRJbXBvcnRDbHMoZW50aXR5UGFyYW0uZ2V0Q2xzRnVsbE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3FsTWFwTWV0aG9kLmFkZFNxbE1hcFBhcmFtKHNxbE1hcFBhcmFtKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcWxNYXBNZXRob2QuYWRkU3FsTWFwUGFyYW0oc3FsTWFwUGFyYW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3FsTWFwUGFyYW0gc3FsTWFwUGFyYW0gPSBuZXcgU3FsTWFwUGFyYW0oZW50aXR5UGFyYW0uZ2V0QWxpYXNOYW1lKCksIGVudGl0eVBhcmFtLmdldEVuTmFtZSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5Y6f5YC857G75Z6LCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2luZ2xlUGFyYW0gPSB0cnVlOyAvL+WOu+ino+aekCN7fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTcWxNYXBQYXJhbSBzcWxNYXBQYXJhbSA9IG5ldyBTcWxNYXBQYXJhbShhQ2xhc3MuZ2V0Q2Fub25pY2FsTmFtZSgpLCAidmFsdWUiKTsKICAgICAgICAgICAgICAgICAgICBzcWxNYXBNZXRob2QuYWRkU3FsTWFwUGFyYW0oc3FsTWFwUGFyYW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3FsTWFwTWV0aG9kLnNldFJldHVyblR5cGUoYUNsYXNzLmdldENhbm9uaWNhbE5hbWUoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENsYXNzPE9iamVjdD4gb2JqZWN0Q2xhc3MgPSB0eXBlQWxpYXNSZWdpc3RyeS5yZXNvbHZlQWxpYXMocGFyYW1ldGVyVHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUeXBlQWxpYXNSZWdpc3RyeSB0eXBlQWxpYXNSZWdpc3RyeSA9IG5ldyBUeXBlQWxpYXNSZWdpc3RyeSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
