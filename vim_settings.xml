@@ -131,12 +131,12 @@
       <file name="$USER_HOME$/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/CustomizedPropertyConfigurer.java" timestamp="1532657358844">
         <mark key="'" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapUtils.java" timestamp="1532872896885">
-        <mark key="'" line="57" column="51" />
-        <mark key="[" line="69" column="51" />
-        <mark key="]" line="69" column="49" />
-        <mark key="." line="69" column="49" />
-        <mark key="^" line="69" column="49" />
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapUtils.java" timestamp="1532875542425">
+        <mark key="'" line="95" column="32" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="103" column="50" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/JrpcClient.java" timestamp="1532333945747">
         <mark key="'" line="61" column="26" />
@@ -242,11 +242,11 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" timestamp="1532871660272">
-        <mark key="[" line="111" column="28" />
-        <mark key="]" line="111" column="27" />
-        <mark key="." line="111" column="27" />
-        <mark key="^" line="111" column="27" />
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" timestamp="1532874811990">
+        <mark key="[" line="103" column="72" />
+        <mark key="]" line="104" column="54" />
+        <mark key="." line="104" column="54" />
+        <mark key="^" line="104" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-client/1.1-SNAPSHOT/itemcenter-client-1.1-20180718.060223-522.jar!/com/meitu/meipu/itemcenter/client/backend/ItemReadServiceClient.class" timestamp="1532401389885">
         <mark key="'" line="118" column="28" />
@@ -257,7 +257,7 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/manager/impl/ItemManagerImpl.java" timestamp="1532399917850">
         <mark key="'" line="141" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mybatis-config.xml" timestamp="1532859901524" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mybatis-config.xml" timestamp="1532874708838" />
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" timestamp="1532068040686">
         <mark key="'" line="164" column="45" />
       </file>
@@ -399,7 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="41" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="162" column="16" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="420" column="74" filename="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/service/makeup/MakeUpServiceImpl.java" />
       <jump line="226" column="34" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
@@ -499,46 +498,47 @@
       <jump line="109" column="22" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" />
       <jump line="53" column="51" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapUtils.java" />
       <jump line="13" column="28" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/bean/SqlMapMethod.java" />
+      <jump line="94" column="32" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIigiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>append(sqlMapMethod.getName());</text>
+        <text>new File()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIigiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5ncy5hZGQoc2IudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgU2VydmljZUltcGxGaWxlID0gU3FsTWFwQ29udGV4dE1nci5nZXRQcm9qZWN0QmFzZVBhdGgoKSsgRmlsZS5zZXBhcmF0b3IrU3FsTWFwQ29udGV4dE1nci5nZXRQcm9qZWN0TmFtZSgpKyItY29yZSIrIi9zcmMvbWFpbi9qYXZhLyIrCiAgICAgICAgICAgICAgICBzcWxNYXBNZXRob2QuZ2V0UGFja2FnZU5hbWUoKS5yZXBsYWNlQWxsKCJcXC4iLCIvIikrIi9jb3JlLyIrc3FsTWFwTWV0aG9kLmdldEFsaWFzTmFtZSgpKyJTZXJ2aWNlSW1wbC5qYXZhIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWFwcGVyRmlsZSA9IFNxbE1hcENvbnRleHRNZ3IuZ2V0UHJvamVjdEJhc2VQYXRoKCkgKyAiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZpbGVDb250ZW50ID0gKFN0cmluZykgc3RyaW5ncwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyYW1lLmRpc3Bvc2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCB1cGRhdGVTdGF0dXNCeUlkKEBQYXJhbSgiaWQiKSBqYXZhLmxhbmcuTG9uZyBpZCxAUGFyYW0oIm1ha2V1cElkIikgamF2YS5sYW5nLkxvbmcgbWFrZXVwSWQsQFBhcmFtKCJzdGF0dXMiKSBqYXZhLmxhbmcuSW50ZWdlciBzdGF0dXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJhbWUuZGlzcG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbE1hcE1ldGhvZC5zZXRBbGlhc05hbWUocHJlZml4KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbE1hcE1ldGhvZC5zZXRBbGlhc05hbWUocHJlZml4KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/nlJ/miJBqYXZhIG1ldGhvZCBjb2RlCiAgICAgICAgICAgIGZpbmFsIEVkaXRvciBlZGl0b3IgPSBldmVudC5nZXRSZXF1aXJlZERhdGEoQ29tbW9uRGF0YUtleXMuRURJVE9SKTsKICAgICAgICAgICAgZmluYWwgUHJvamVjdCBwcm9qZWN0ID0gZXZlbnQuZ2V0UHJvamVjdCgpOwogICAgICAgICAgICBTcWxNYXBDb250ZXh0TWdyLnByb2plY3QgPSBwcm9qZWN0OwogICAgICAgICAgICAvL1RPRE8KICAgICAgICAgICAgLy9BY2Nlc3MgZG9jdW1lbnQsIGNhcmV0LCBhbmQgc2VsZWN0aW9uCi8vICAgICAgICAgICAgICAgIGZpbmFsIERvY3VtZW50IGRvY3VtZW50ID0gZWRpdG9yLmdldERvY3VtZW50KCk7CiAgICAgICAgICAgIGZpbmFsIFNlbGVjdGlvbk1vZGVsIHNlbGVjdGlvbk1vZGVsID0gZWRpdG9yLmdldFNlbGVjdGlvbk1vZGVsKCk7CiAgICAgICAgICAgIFN0cmluZyB0ZXh0ID0gc2VsZWN0aW9uTW9kZWwuZ2V0U2VsZWN0ZWRUZXh0KCk7CiAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5pc0JsYW5rKHRleHQpKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigi6K+36YCJ5oupc3FsTWFw5Z2X5YaN5pON5L2cIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIFBzaUZpbGUgcHNpRmlsZSA9IGV2ZW50LmdldERhdGEoTGFuZ0RhdGFLZXlzLlBTSV9GSUxFKTsKICAgICAgICAgICAgUHNpRGlyZWN0b3J5IHBhcmVudCA9IHBzaUZpbGUuZ2V0UGFyZW50KCk7CiAgICAgICAgICAgIFN0cmluZyBwYXJlbnRQYXRoID0gcGFyZW50LmdldFZpcnR1YWxGaWxlKCkuZ2V0UGFyZW50KCkuZ2V0UGF0aCgpOwovLyAgICAgICAgICAgICAgICBWaXJ0dWFsRmlsZSBteWJhdGlzQ29uZmlnRmlsZSA9IExvY2FsRmlsZVN5c3RlbS5nZXRJbnN0YW5jZSgpLmZpbmRGaWxlQnlQYXRoKCk7CiAgICAgICAgICAgIFN0cmluZyBjb25maWdGaWxlUGF0aCA9IHBhcmVudFBhdGggKyBGaWxlLnNlcGFyYXRvciArICJteWJhdGlzLWNvbmZpZy54bWwiOwogICAgICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IHN0cmluZ1N0cmluZ01hcCA9IFNxbE1hcEFuYXlzZS5hbmF5c2VNeUJhdGlzQ29uZmlnKGNvbmZpZ0ZpbGVQYXRoKTsKICAgICAgICAgICAgU3FsTWFwQ29udGV4dE1nci5lbnRpdHlOYW1lQWxpYXNNYXAgPSBzdHJpbmdTdHJpbmdNYXA7CgoKICAgICAgICAgICAgLy/ojrflj5blvZPliY3lrp7kvZNhbGlhcwogICAgICAgICAgICBTdHJpbmcgbWFwcGVyRmlsZU5hbWUgPSBwc2lGaWxlLmdldE5hbWUoKTsKICAgICAgICAgICAgaW50IGluZGV4ID0gbWFwcGVyRmlsZU5hbWUubGFzdEluZGV4T2YoIk1hcHBlci54bWwiKTsKICAgICAgICAgICAgU3RyaW5nIHByZWZpeCA9IG1hcHBlckZpbGVOYW1lLnN1YnN0cmluZygwLGluZGV4KTsKCiAgICAgICAgICAgIFNxbE1hcE1ldGhvZCBzcWxNYXBNZXRob2QgPSBTcWxNYXBBbmF5c2UuYW5heXNlKHRleHQscHJlZml4KTsKCgogICAgICAgICAgICAvL+iuvue9riDpnIDopoHnlJ/miJDpgqPkupttb2R1bGUg5pa55rOVCiAgICAgICAgICAgIGludCBzaXplID0gY2hrTGlzdC5zaXplKCk7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSBzaXplLTE7IGkgPj0gMDsgaS0tKSB7CiAgICAgICAgICAgICAgICBKQ2hlY2tCb3ggakNoZWNrQm94ID0gY2hrTGlzdC5nZXQoaSk7CiAgICAgICAgICAgICAgICBib29sZWFuIHNlbGVjdGVkID0gakNoZWNrQm94LmdldE1vZGVsKCkuaXNTZWxlY3RlZCgpOwogICAgICAgICAgICAgICAgaWYoc2VsZWN0ZWQpewogICAgICAgICAgICAgICAgICAgIHNxbE1hcE1ldGhvZC5zZXRHZW5TY29wZShqQ2hlY2tCb3guZ2V0VGV4dCgpKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBTcWxNYXBVdGlscy5nZW5TcWxNYXBKYXZhTWV0aG9kKHNxbE1hcE1ldGhvZCk7CiAgICAgICAgICAgIEpPcHRpb25QYW5lLnNob3dNZXNzYWdlRGlhbG9nKG1haW5KcGFuZWwsICLnlJ/miJDmiJDlip8iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwYWNrYWdlTmFtZSA9IGNsc0Z1bGxOYW1lLnN1YnN0cmluZygwLCBkYWxJbmRleCk7CiAgICAgICAgICAgICAgICBpbnQgc3RhcnQgPSBtYXBwZXJGaWxlTmFtZS5pbmRleE9mKHByb2plY3QuZ2V0TmFtZSgpKTsKICAgICAgICAgICAgICAgIGludCBlbmQgPSBtYXBwZXJGaWxlTmFtZS5pbmRleE9mKCk7CiAgICAgICAgICAgICAgICBtYXBwZXJGaWxlTmFtZS5zdWJzdHJpbmcoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
