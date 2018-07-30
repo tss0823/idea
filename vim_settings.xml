@@ -92,6 +92,9 @@
       <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/tree/AbstractNode.class" timestamp="1532186628987">
         <mark key="'" line="132" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/itemcenter/itemcenter-mbus/src/main/java/com/meitu/meipu/itemcenter/mbus/handler/ItemMakeupPublishOnDBEvent.java" timestamp="1532931130870">
+        <mark key="'" line="40" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/service/ItemReadServiceImpl.java" timestamp="1532420865406">
         <mark key="'" line="350" column="17" />
       </file>
@@ -218,7 +221,7 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-client/1.1-SNAPSHOT/itemcenter-client-1.1-20180718.060223-522.jar!/com/meitu/meipu/itemcenter/client/backend/ItemReadServiceClient.class" timestamp="1532401389885">
         <mark key="'" line="118" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/crawler/crawler-message/src/main/resources/kafka-consumer.xml" timestamp="1532930418276" />
+      <file name="$USER_HOME$/workspace/crawler/crawler-message/src/main/resources/kafka-consumer.xml" timestamp="1532930994054" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" timestamp="1532878193230" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6.jar!/com/meitu/tardis/meta/NodeBase.class" timestamp="1532336892361">
         <mark key="'" line="35" column="15" />
@@ -366,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="25" filename="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/SAXReader.java" />
       <jump line="49" column="39" filename="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/JAXPHelper.java" />
       <jump line="51" column="29" filename="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/JAXPHelper.java" />
       <jump line="415" column="34" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/xml/parsers/SAXParser.java" />
@@ -466,6 +468,7 @@
       <jump line="12" column="0" filename="$USER_HOME$/workspace/apprun/deploy.sh" />
       <jump line="15" column="1258" filename="$USER_HOME$/workspace/apprun/deploy.sh" />
       <jump line="723" column="42" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" />
+      <jump line="40" column="12" filename="$USER_HOME$/workspace/itemcenter/itemcenter-mbus/src/main/java/com/meitu/meipu/itemcenter/mbus/handler/ItemMakeupPublishOnDBEvent.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
