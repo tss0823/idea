@@ -203,8 +203,11 @@
       <file name="$MAVEN_REPOSITORY$/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar!/org/apache/xerces/parsers/AbstractSAXParser.class" timestamp="1532750557327">
         <mark key="'" line="53" column="109" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/NLPManager.java" timestamp="1532919899014">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/NLPManager.java" timestamp="1532919962615">
         <mark key="'" line="24" column="62" />
+        <mark key="[" line="24" column="79" />
+        <mark key="]" line="24" column="79" />
+        <mark key="." line="24" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemFetchServiceImpl.java" timestamp="1532690820834">
         <mark key="'" line="66" column="12" />
@@ -346,12 +349,18 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/manager/cache/impl/ItemFullDTORedisManager.java" timestamp="1532399571521">
         <mark key="'" line="55" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1532919842927">
-        <mark key="'" line="723" column="44" />
-        <mark key="[" line="403" column="93" />
-        <mark key="]" line="403" column="93" />
-        <mark key="." line="403" column="93" />
-        <mark key="^" line="403" column="93" />
+      <file name="$USER_HOME$/workspace/apprun/deploy.sh" timestamp="1532921210320">
+        <mark key="'" line="17" column="1258" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="44" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1532920700770">
+        <mark key="'" line="724" column="45" />
+        <mark key="[" line="489" column="0" />
+        <mark key="]" line="489" column="0" />
+        <mark key="^" line="479" column="28" />
+        <mark key="." line="489" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/manager/cache/impl/ItemDTORedisManager.java" timestamp="1532400076479">
         <mark key="'" line="116" column="30" />
@@ -397,9 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="16" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerFetchServiceImpl.java" />
-      <jump line="158" column="17" filename="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/SAXReader.java" />
-      <jump line="153" column="25" filename="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/SAXReader.java" />
       <jump line="144" column="25" filename="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/SAXReader.java" />
       <jump line="49" column="39" filename="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/JAXPHelper.java" />
       <jump line="51" column="29" filename="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/JAXPHelper.java" />
@@ -497,61 +503,63 @@
       <jump line="723" column="44" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" />
       <jump line="16" column="8" filename="$MAVEN_REPOSITORY$/com/huaban/jieba-analysis/1.0.2/jieba-analysis-1.0.2-sources.jar!/com/huaban/analysis/jieba/JiebaSegmenter.java" />
       <jump line="24" column="62" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/NLPManager.java" />
+      <jump line="724" column="45" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/apprun/deploy.sh" />
+      <jump line="15" column="1258" filename="$USER_HOME$/workspace/apprun/deploy.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyAiZGVwbG95ICR7YXBwRW52fS4ke2FwcE5hbWV9LiR7YnJhbmNofSIK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>appEnv</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOTFBNYW5hZ2VyXD4=</text>
+        <text encoding="base64">XDxicmFuY2hcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIkBPdmVycmlkZSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZWNobyAiZGVwbG95ICR7YXBwRW52fS4ke2FwcE5hbWV9LiR7YnJhbmNofSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtldXBSZWFkeWRhdGEuc2V0QnJhbmROYW1lKHRyYW5zQnJhbmROYW1lKTsKICAgICAgICBCcmFuZERUTyBicmFuZERUTyA9IGJyYW5kTWFwLmdldCh0cmFuc0JyYW5kTmFtZSk7CiAgICAgICAgaWYgKGJyYW5kRFRPICE9IG51bGwpIHsKICAgICAgICAgICAgbWFrZXVwUmVhZHlkYXRhLnNldEJyYW5kTmFtZShicmFuZERUTy5nZXRCcmFuZE5hbWVaaCgpKTsKICAgICAgICAgICAgbWFrZXVwUmVhZHlkYXRhLnNldEJyYW5kSWQoYnJhbmREVE8uZ2V0SWQoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBicmFuZE1hcC5yZW1vdmUobnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYWtldXBJdGVtQ2F0ZWdvcnkgbWFrZXVwSXRlbUNhdGVnb3J5ID0gbWFrZXVwSXRlbUNhdGVnb3J5TWFwLmdldChjYXRlZ29yeSk7CiAgICAgICAgaWYgKG1ha2V1cEl0ZW1DYXRlZ29yeSAhPSBudWxsKSB7CiAgICAgICAgICAgIG1ha2V1cFJlYWR5ZGF0YS5zZXRPbmVDYXRlZ29yeUlkKG1ha2V1cEl0ZW1DYXRlZ29yeS5nZXRNekNhdGVnb3J5SWQxKCkpOwogICAgICAgICAgICBtYWtldXBSZWFkeWRhdGEuc2V0VHdvQ2F0ZWdvcnlJZChtYWtldXBJdGVtQ2F0ZWdvcnkuZ2V0TXpDYXRlZ29yeUlkMigpKTsKICAgICAgICAgICAgbWFrZXVwUmVhZHlkYXRhLnNldFRocmVlQ2F0ZWdvcnlJZChtYWtldXBJdGVtQ2F0ZWdvcnkuZ2V0TXpDYXRlZ29yeUlkMygpKTsKICAgICAgICAgICAgbWFrZXVwUmVhZHlkYXRhLnNldE9uZUNhdGVnb3J5TmFtZShjYXRlZ29yeU1hcC5nZXQobWFrZXVwSXRlbUNhdGVnb3J5LmdldE16Q2F0ZWdvcnlJZDEoKSkpOwogICAgICAgICAgICBtYWtldXBSZWFkeWRhdGEuc2V0VHdvQ2F0ZWdvcnlOYW1lKGNhdGVnb3J5TWFwLmdldChtYWtldXBJdGVtQ2F0ZWdvcnkuZ2V0TXpDYXRlZ29yeUlkMigpKSk7CiAgICAgICAgICAgIG1ha2V1cFJlYWR5ZGF0YS5zZXRUaHJlZUNhdGVnb3J5TmFtZShjYXRlZ29yeU1hcC5nZXQobWFrZXVwSXRlbUNhdGVnb3J5LmdldE16Q2F0ZWdvcnlJZDMoKSkpOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIG1hdGNoTWFwLnB1dChlbnRyeS5nZXRLZXkoKSxlbnRyeS5nZXRWYWx1ZSgpLmdldEtleXdvcmQoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLFN0cmluZz4gbWF0Y2hNYXAgPSBuZXcgVHJlZU1hcDw+KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIikiKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTZXQ8TWFwLkVudHJ5PFN0cmluZywgU3RyaW5nPj4gZW50cmllc01hdGNoID0gbWF0Y2hNYXAuZW50cnlTZXQoKTsKICAgICAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIFN0cmluZz4gc3RyaW5nU3RyaW5nRW50cnkgOiBlbnRyaWVzTWF0Y2gpIHsKICAgICAgICAgICAgdGl0bGUgPSB0aXRsZS5yZXBsYWNlQWxsKHN0cmluZ1N0cmluZ0VudHJ5LmdldEtleSgpLHN0cmluZ1N0cmluZ0VudHJ5LmdldFZhbHVlKCkpOwogICAgICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29sbGVjdAogICAgICAgIExpc3Q8U3RyaW5nPiB3b3JkTGlzdCA9IG5scE1hbmFnZXIuY3V0KHRpdGxlKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgiICIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOTFBNYW5hZ2VyXD4=</last-search>
+      <last-search encoding="base64">XDxicmFuY2hcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOTFBNYW5hZ2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxicmFuY2hcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWtldXBSZWFkeWRhdGFQcm9wZXJ0eUxpc3RcPg==</entry>
         <entry encoding="base64">XDxtYWtldXBSZWFkeWRhdGFEYW9cPg==</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxkZXBlbmRlbmN5XD4=</entry>
@@ -571,6 +579,7 @@
         <entry encoding="base64">XDxkYXRhTGlzdFw+</entry>
         <entry encoding="base64">XDxicmFuZE5hbWVcPg==</entry>
         <entry encoding="base64">XDxOTFBNYW5hZ2VyXD4=</entry>
+        <entry encoding="base64">XDxicmFuY2hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>346</entry>
