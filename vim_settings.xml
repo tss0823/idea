@@ -111,6 +111,7 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-client/src/main/java/com/meitu/meipu/darwin/client/service/MySqlDataConvertMongoDataServiceClient.java" timestamp="1532955791380" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/commons-queue/2.0.0/commons-queue-2.0.0-sources.jar!/com/meitu/commons/queue/kafka/KafkaQueueConsumer.java" timestamp="1532485586137">
         <mark key="'" line="92" column="24" />
       </file>
@@ -130,6 +131,7 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-config/0.2.4-SNAPSHOT/tardis-config-0.2.4-20180627.091417-6-sources.jar!/com/meitu/tardis/config/TardisConfigUtils.java" timestamp="1532403508424">
         <mark key="'" line="22" column="74" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/mongodb/impl/MongoMakeupDaoImpl.java" timestamp="1532957069229" />
       <file name="$USER_HOME$/workspace/zhushou/pom.xml" timestamp="1532784142293">
         <mark key="'" line="272" column="23" />
         <mark key="[" line="578" column="0" />
@@ -224,12 +226,6 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/communitycenter-common/1.0-SNAPSHOT/communitycenter-common-1.0-20180730.124739-240-sources.jar!/com/meitu/meipu/communitycenter/common/domain/base/CommunityAppInfo.java" timestamp="1532955389326" />
       <file name="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/kafka/KafkaMessagePubFactory.java" timestamp="1532936356088">
         <mark key="'" line="28" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/CommunityService.java" timestamp="1532948675237">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="15" column="29" />
-        <mark key="." line="15" column="29" />
-        <mark key="^" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/service/makeup/MakeUpServiceImpl.java" timestamp="1532665279784">
         <mark key="'" line="420" column="74" />
@@ -359,18 +355,15 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerConsumeServiceImpl.java" timestamp="1532917741568">
         <mark key="'" line="103" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/MongoMakeupDO.java" timestamp="1532955952864">
+        <mark key="'" line="20" column="14" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/io/SAXReader.class" timestamp="1532186921510">
         <mark key="'" line="139" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventPublisher.java" timestamp="1532937669831" />
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZhushouComponent.java" timestamp="1532671931723">
         <mark key="'" line="13" column="28" />
-      </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadyDataRpcHelper.java" timestamp="1532944545205">
-        <mark key="[" line="53" column="81" />
-        <mark key="]" line="67" column="57" />
-        <mark key="^" line="67" column="57" />
-        <mark key="." line="67" column="57" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/jradar-etcdv3/1.0.4/jradar-etcdv3-1.0.4-sources.jar!/com/meitu/jradar/etcd3/EtcdV3RadarDiscovery.java" timestamp="1532347979851">
         <mark key="'" line="74" column="10" />
@@ -395,12 +388,6 @@
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataEvaluateServiceImpl.java" timestamp="1532658880583">
         <mark key="'" line="41" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/constants/YesNoEnum.java" timestamp="1532950510401">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="11" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="8" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerFetchServiceImpl.java" timestamp="1532690828025">
         <mark key="'" line="116" column="16" />
@@ -461,6 +448,9 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/xml/parsers/SAXParser.java" timestamp="1532750329886">
         <mark key="'" line="415" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/convert/MySqlDataConvertMongoData.java" timestamp="1532955983777">
+        <mark key="'" line="163" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin-query/dev.properties" timestamp="1532953959809" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-dal/src/main/java/com/meitu/meipu/itemcenter/dao/impl/ItemDaoImpl2.java" timestamp="1532400150332">
         <mark key="'" line="37" column="58" />
@@ -492,11 +482,6 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc-spring/0.2.4-SNAPSHOT/tardis-grpc-spring-0.2.4-20180627.091430-6-sources.jar!/com/meitu/tardis/grpc/spring4/JrpcStubFactoryBean.java" timestamp="1532403417843">
         <mark key="'" line="15" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1532950442816">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/OffLineDataServiceImpl.java" timestamp="1532141320159">
         <mark key="'" line="24" column="52" />
       </file>
@@ -508,10 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="33" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
-      <jump line="101" column="50" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
-      <jump line="61" column="16" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/bean/SqlMapMethod.java" />
-      <jump line="59" column="29" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
       <jump line="60" column="30" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
       <jump line="110" column="27" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/type/TypeAliasRegistry.java" />
       <jump line="149" column="75" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/type/TypeAliasRegistry.java" />
@@ -608,6 +589,10 @@
       <jump line="280" column="112" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="107" column="35" filename="$USER_HOME$/workspace/darwin-query/pom.xml" />
       <jump line="20" column="92" filename="$MAVEN_REPOSITORY$/com/meitu/meipu/communitycenter-common/1.0-SNAPSHOT/communitycenter-common-1.0-20180730.124739-240-sources.jar!/com/meitu/meipu/communitycenter/common/api/content/ProductService.java" />
+      <jump line="61" column="57" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/convert/MySqlDataConvertMongoData.java" />
+      <jump line="16" column="4" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/MongoMakeupDO.java" />
+      <jump line="163" column="26" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/convert/MySqlDataConvertMongoData.java" />
+      <jump line="20" column="14" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/MongoMakeupDO.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
