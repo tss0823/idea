@@ -29,8 +29,8 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-common/src/main/java/com/meitu/meipu/itemcenter/service/backend/ItemReadService.java" timestamp="1532423392095">
         <mark key="'" line="69" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/mbus/mbus-common/src/main/java/com/meitu/meipu/mbus/common/assist/EventCallbackManager.java" timestamp="1532935351590">
-        <mark key="'" line="28" column="46" />
+      <file name="$USER_HOME$/workspace/mbus/mbus-common/src/main/java/com/meitu/meipu/mbus/common/assist/EventCallbackManager.java" timestamp="1532937558766">
+        <mark key="'" line="27" column="62" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-client/1.1-SNAPSHOT/itemcenter-client-1.1-20180723.080759-528.jar!/com/meitu/meipu/itemcenter/client/backend/ItemReadServiceClient.class" timestamp="1532423100134">
         <mark key="'" line="64" column="58" />
@@ -102,11 +102,16 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadyDataWrapper.java" timestamp="1532485708707">
         <mark key="'" line="26" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/mbus/mbus-web/src/main/resources/iron_confs/iron.meta" timestamp="1532937956317" />
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/deploy/src/main/resources/applicationContext-web.xml" timestamp="1532520600643">
         <mark key="'" line="10" column="85" />
       </file>
+      <file name="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/receiver/CanalEntryWorker.java" timestamp="1532937707132" />
       <file name="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/CrawlerJobHttpManager.java" timestamp="1532681670582">
         <mark key="'" line="73" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventSubscriber.java" timestamp="1532937658248">
+        <mark key="'" line="21" column="10" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/org/xml/sax/helpers/XMLReaderFactory.java" timestamp="1532769446182">
         <mark key="'" line="147" column="63" />
@@ -208,14 +213,9 @@
       <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/io/SAXReader.class" timestamp="1532186921510">
         <mark key="'" line="139" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventPublisher.java" timestamp="1532937669831" />
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ZhushouComponent.java" timestamp="1532671931723">
         <mark key="'" line="13" column="28" />
-      </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadyDataRpcHelper.java" timestamp="1532917850120">
-        <mark key="[" line="53" column="81" />
-        <mark key="]" line="67" column="57" />
-        <mark key="^" line="67" column="57" />
-        <mark key="." line="67" column="57" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/jradar-etcdv3/1.0.4/jradar-etcdv3-1.0.4-sources.jar!/com/meitu/jradar/etcd3/EtcdV3RadarDiscovery.java" timestamp="1532347979851">
         <mark key="'" line="74" column="10" />
@@ -251,12 +251,6 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/manager/cache/impl/ItemFullDTORedisManager.java" timestamp="1532399571521">
         <mark key="'" line="55" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/apprun/deploy.sh" timestamp="1532921210320">
-        <mark key="'" line="17" column="1258" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="44" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1532929567501">
         <mark key="'" line="723" column="42" />
         <mark key="[" line="725" column="79" />
@@ -264,8 +258,8 @@
         <mark key="^" line="728" column="33" />
         <mark key="." line="725" column="79" />
       </file>
-      <file name="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventBeanPostProcessor.java" timestamp="1532936445400">
-        <mark key="'" line="58" column="18" />
+      <file name="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventBeanPostProcessor.java" timestamp="1532937606182">
+        <mark key="'" line="81" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/manager/cache/impl/ItemDTORedisManager.java" timestamp="1532400076479">
         <mark key="'" line="116" column="30" />
@@ -311,13 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="109" filename="$MAVEN_REPOSITORY$/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar!/org/apache/xerces/parsers/AbstractSAXParser.class" />
-      <jump line="147" column="63" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/org/xml/sax/helpers/XMLReaderFactory.java" />
-      <jump line="125" column="22" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
-      <jump line="71" column="22" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
-      <jump line="32" column="17" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
-      <jump line="84" column="40" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
-      <jump line="31" column="57" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
       <jump line="108" column="51" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
       <jump line="7" column="5" filename="$USER_HOME$/workspace/zhushou/zhushou-dal/src/main/resources/mapper/ProjectMapper.xml" />
       <jump line="19" column="6" filename="$USER_HOME$/workspace/zhushou/zhushou-dal/src/main/resources/mapper/ProjectMapper.xml" />
@@ -398,7 +385,6 @@
       <jump line="46" column="159" filename="$USER_HOME$/workspace/itemcenter/itemcenter-mbus/src/main/java/com/meitu/meipu/itemcenter/mbus/handler/ItemMakeupPublishOnDBEvent.java" />
       <jump line="41" column="42" filename="$USER_HOME$/workspace/itemcenter/itemcenter-mbus/src/main/java/com/meitu/meipu/itemcenter/mbus/handler/ItemMakeupPublishOnDBEvent.java" />
       <jump line="85" column="41" filename="$USER_HOME$/workspace/itemcenter/itemcenter-mbus/src/main/java/com/meitu/meipu/itemcenter/mbus/handler/ItemMakeupPublishOnDBEvent.java" />
-      <jump line="28" column="46" filename="$USER_HOME$/workspace/mbus/mbus-common/src/main/java/com/meitu/meipu/mbus/common/assist/EventCallbackManager.java" />
       <jump line="7" column="42" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/DefaultMBusMessageHandler.java" />
       <jump line="52" column="18" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/DefaultMBusMessageHandler.java" />
       <jump line="58" column="18" filename="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventBeanPostProcessor.java" />
@@ -411,6 +397,14 @@
       <jump line="21" column="25" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/kafka/KafkaMessagePubFactory.java" />
       <jump line="26" column="43" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/kafka/KafkaMessagePubFactory.java" />
       <jump line="28" column="19" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/kafka/KafkaMessagePubFactory.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventBeanPostProcessor.java" />
+      <jump line="22" column="58" filename="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventBeanPostProcessor.java" />
+      <jump line="79" column="38" filename="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventBeanPostProcessor.java" />
+      <jump line="28" column="48" filename="$USER_HOME$/workspace/mbus/mbus-common/src/main/java/com/meitu/meipu/mbus/common/assist/EventCallbackManager.java" />
+      <jump line="80" column="48" filename="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventBeanPostProcessor.java" />
+      <jump line="81" column="37" filename="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventBeanPostProcessor.java" />
+      <jump line="27" column="62" filename="$USER_HOME$/workspace/mbus/mbus-common/src/main/java/com/meitu/meipu/mbus/common/assist/EventCallbackManager.java" />
+      <jump line="21" column="10" filename="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventSubscriber.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
