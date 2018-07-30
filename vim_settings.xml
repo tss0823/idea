@@ -41,6 +41,7 @@
       <file name="$MAVEN_REPOSITORY$/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar!/org/apache/xerces/parsers/SAXParser.class" timestamp="1532750554428">
         <mark key="'" line="11" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/mbus/mbus-middleware/src/main/resources/kafka/es-kafka-config.xml" timestamp="1532936263181" />
       <file name="$USER_HOME$/workspace/itemcenter/pom.xml" timestamp="1532405209711">
         <mark key="'" line="8" column="25" />
       </file>
@@ -124,6 +125,9 @@
         <mark key="'" line="33" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/MakeupReadydataDaoImpl.java" timestamp="1532917521363" />
+      <file name="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/kafka/KafkaMessagePubFactory.java" timestamp="1532936356088">
+        <mark key="'" line="28" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/service/makeup/MakeUpServiceImpl.java" timestamp="1532665279784">
         <mark key="'" line="420" column="74" />
       </file>
@@ -162,6 +166,7 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-client/1.1-SNAPSHOT/itemcenter-client-1.1-20180718.060223-522.jar!/com/meitu/meipu/itemcenter/client/backend/ItemReadServiceClient.class" timestamp="1532401389885">
         <mark key="'" line="118" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/kafka/MessagePublisher.java" timestamp="1532936404192" />
       <file name="$USER_HOME$/workspace/crawler/crawler-message/src/main/resources/kafka-consumer.xml" timestamp="1532930994054" />
       <file name="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/DefaultMBusMessageHandler.java" timestamp="1532935575737">
         <mark key="'" line="28" column="71" />
@@ -239,6 +244,7 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/GenericClusterImpl.java" timestamp="1532347900385">
         <mark key="'" line="108" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/mbus/mbus-client/src/main/resources/kafka/biz-kafka-config.xml" timestamp="1532936251435" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-registry-etcd/0.2.4-SNAPSHOT/tardis-registry-etcd-0.2.4-20180627.091422-6-sources.jar!/com/meitu/tardis/registry/etcd/EtcdDiscoveryService.java" timestamp="1532347975095">
         <mark key="'" line="41" column="48" />
       </file>
@@ -258,7 +264,7 @@
         <mark key="^" line="728" column="33" />
         <mark key="." line="725" column="79" />
       </file>
-      <file name="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventBeanPostProcessor.java" timestamp="1532935507365">
+      <file name="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventBeanPostProcessor.java" timestamp="1532936445400">
         <mark key="'" line="58" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/manager/cache/impl/ItemDTORedisManager.java" timestamp="1532400076479">
@@ -305,10 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/xml/parsers/SAXParserFactory.java" />
-      <jump line="11" column="44" filename="$APPLICATION_HOME_DIR$/lib/xercesImpl.jar!/org/apache/xerces/parsers/SAXParser.class" />
-      <jump line="53" column="109" filename="$APPLICATION_HOME_DIR$/lib/xercesImpl.jar!/org/apache/xerces/parsers/AbstractSAXParser.class" />
-      <jump line="11" column="39" filename="$MAVEN_REPOSITORY$/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar!/org/apache/xerces/parsers/SAXParser.class" />
       <jump line="53" column="109" filename="$MAVEN_REPOSITORY$/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar!/org/apache/xerces/parsers/AbstractSAXParser.class" />
       <jump line="147" column="63" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/org/xml/sax/helpers/XMLReaderFactory.java" />
       <jump line="125" column="22" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
@@ -405,6 +407,10 @@
       <jump line="15" column="52" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/resources/mbus-consumer-config.xml" />
       <jump line="7" column="14" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/resources/mbus-consumer-config.xml" />
       <jump line="9" column="74" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/resources/mbus-consumer-config.xml" />
+      <jump line="16" column="41" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/kafka/KafkaMessagePubFactory.java" />
+      <jump line="21" column="25" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/kafka/KafkaMessagePubFactory.java" />
+      <jump line="26" column="43" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/kafka/KafkaMessagePubFactory.java" />
+      <jump line="28" column="19" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/kafka/KafkaMessagePubFactory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -414,7 +420,7 @@
         <text>INDEX</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZhdWx0TUJ1c01lc3NhZ2VIYW5kbGVyXD4=</text>
+        <text encoding="base64">XDxtQnVzS2Fma2FRdWV1ZVByb2R1Y2Vyc1w+</text>
       </register>
       <register name="0" type="4">
         <text>贝拉小蜜蜂婴儿草本滋润四件套---婴儿草本润肤露</text>
@@ -451,15 +457,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZhdWx0TUJ1c01lc3NhZ2VIYW5kbGVyXD4=</last-search>
+      <last-search encoding="base64">XDxtQnVzS2Fma2FRdWV1ZVByb2R1Y2Vyc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZhdWx0TUJ1c01lc3NhZ2VIYW5kbGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtQnVzS2Fma2FRdWV1ZVByb2R1Y2Vyc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWtldXBSZWFkeWRhdGFMaXN0XD4=</entry>
         <entry encoding="base64">XDxtYWtldXBSZWFkeWRhdGFEVE9MaXN0XD4=</entry>
         <entry encoding="base64">XDxtYWtldXBBbmRSZWFkeURhdGFcPg==</entry>
         <entry encoding="base64">XDx0ZW1wSXRlbU1ha2V1cERUT1w+</entry>
@@ -479,6 +484,7 @@
         <entry encoding="base64">XDxNQnVzU3Vic2NyaWJlXD4=</entry>
         <entry encoding="base64">XDxwb3N0UHJvY2Vzc0FmdGVySW5pdGlhbGl6YXRpb25cPg==</entry>
         <entry encoding="base64">XDxkZWZhdWx0TUJ1c01lc3NhZ2VIYW5kbGVyXD4=</entry>
+        <entry encoding="base64">XDxtQnVzS2Fma2FRdWV1ZVByb2R1Y2Vyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>346</entry>
