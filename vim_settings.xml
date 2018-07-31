@@ -100,8 +100,8 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-config/0.2.4-SNAPSHOT/tardis-config-0.2.4-20180627.091417-6-sources.jar!/com/meitu/tardis/config/TardisConfigUtils.java" timestamp="1532403508424">
         <mark key="'" line="22" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/mongodb/impl/MongoMakeupDaoImpl.java" timestamp="1533004235001">
-        <mark key="'" line="23" column="24" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/mongodb/impl/MongoMakeupDaoImpl.java" timestamp="1533005274424">
+        <mark key="'" line="36" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/CustomizedPropertyConfigurer.java" timestamp="1532657358844">
         <mark key="'" line="25" column="16" />
@@ -120,12 +120,6 @@
         <mark key="'" line="26" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/mbus/mbus-web/src/main/resources/iron_confs/iron.meta" timestamp="1532937956317" />
-      <file name="$USER_HOME$/workspace/darwin-query/pom.xml" timestamp="1532954957489">
-        <mark key="'" line="107" column="35" />
-        <mark key="[" line="24" column="30" />
-        <mark key="]" line="24" column="30" />
-        <mark key="." line="24" column="30" />
-      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1533002385414">
         <mark key="'" line="280" column="112" />
         <mark key="[" line="280" column="101" />
@@ -200,6 +194,7 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="13" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/ConvertMakeupMapper.xml" timestamp="1533004454120" />
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/ReadyDataEvaluateMapper.xml" timestamp="1532950356278" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-client/src/main/java/com/meitu/meipu/itemcenter/client/backend/ItemReadServiceClient.java" timestamp="1532423387621">
         <mark key="'" line="28" column="48" />
@@ -258,7 +253,7 @@
       <file name="$USER_HOME$/workspace/mbus/mbus-client/src/main/resources/mbus-consumer-config.xml" timestamp="1532935689862">
         <mark key="'" line="9" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/mongodb/darwin-mongodb-config.xml" timestamp="1533004146268">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/mongodb/darwin-mongodb-config.xml" timestamp="1533005750923">
         <mark key="'" line="25" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/mbus/mbus-biz/src/main/java/com/meitu/meipu/mbus/biz/listener/BaseDBEventListener.java" timestamp="1532932788523" />
@@ -286,8 +281,8 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerConsumeServiceImpl.java" timestamp="1532917741568">
         <mark key="'" line="103" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/MongoMakeupDO.java" timestamp="1532955952864">
-        <mark key="'" line="20" column="14" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/MongoMakeupDO.java" timestamp="1533005293211">
+        <mark key="'" line="74" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-message/src/main/java/com/meitu/meipu/darwin/message/kafka/darwin/ConsumerFactory.java" timestamp="1532962073795">
         <mark key="'" line="25" column="51" />
@@ -362,8 +357,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/xml/parsers/SAXParser.java" timestamp="1532750329886">
         <mark key="'" line="415" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/convert/MySqlDataConvertMongoData.java" timestamp="1533003974745">
-        <mark key="'" line="163" column="26" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/convert/MySqlDataConvertMongoData.java" timestamp="1533004400041">
+        <mark key="'" line="170" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/darwin-query/dev.properties" timestamp="1532953959809" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-dal/src/main/java/com/meitu/meipu/itemcenter/dao/impl/ItemDaoImpl2.java" timestamp="1532400150332">
@@ -399,12 +394,9 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/mapper/ReadyDataEvaluateMapper.java" timestamp="1532950695193">
         <mark key="'" line="17" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/pre.properties" timestamp="1533005694431" />
     </filemarks>
     <jumps>
-      <jump line="167" column="46" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/type/TypeAliasRegistry.java" />
-      <jump line="65" column="82" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
-      <jump line="25" column="55" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapUtils.java" />
-      <jump line="116" column="59" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" />
       <jump line="14" column="51" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/mapper/MakeupReadydataMapper.java" />
       <jump line="88" column="79" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/XmlGenFormJava.java" />
       <jump line="177" column="40" filename="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/sqlmap/SqlMapAnayse.java" />
@@ -486,7 +478,6 @@
       <jump line="280" column="112" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="107" column="35" filename="$USER_HOME$/workspace/darwin-query/pom.xml" />
       <jump line="20" column="92" filename="$MAVEN_REPOSITORY$/com/meitu/meipu/communitycenter-common/1.0-SNAPSHOT/communitycenter-common-1.0-20180730.124739-240-sources.jar!/com/meitu/meipu/communitycenter/common/api/content/ProductService.java" />
-      <jump line="61" column="57" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/convert/MySqlDataConvertMongoData.java" />
       <jump line="16" column="4" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/MongoMakeupDO.java" />
       <jump line="163" column="26" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/convert/MySqlDataConvertMongoData.java" />
       <jump line="20" column="14" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/MongoMakeupDO.java" />
@@ -501,6 +492,11 @@
       <jump line="26" column="35" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/mongodb/impl/MongoMakeupDaoImpl.java" />
       <jump line="23" column="24" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/mongodb/impl/MongoMakeupDaoImpl.java" />
       <jump line="25" column="73" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/mongodb/darwin-mongodb-config.xml" />
+      <jump line="61" column="58" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/convert/MySqlDataConvertMongoData.java" />
+      <jump line="170" column="73" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/convert/MySqlDataConvertMongoData.java" />
+      <jump line="36" column="46" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/mongodb/impl/MongoMakeupDaoImpl.java" />
+      <jump line="69" column="31" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/MongoMakeupDO.java" />
+      <jump line="74" column="29" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/MongoMakeupDO.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
