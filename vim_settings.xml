@@ -330,6 +330,9 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/GenericClusterImpl.java" timestamp="1532347900385">
         <mark key="'" line="108" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/resources/mongodb/darwin-query-mongodb-config.xml" timestamp="1533042200084">
+        <mark key="'" line="40" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/mbus/mbus-client/src/main/resources/kafka/biz-kafka-config.xml" timestamp="1532936251435" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-registry-etcd/0.2.4-SNAPSHOT/tardis-registry-etcd-0.2.4-20180627.091422-6-sources.jar!/com/meitu/tardis/registry/etcd/EtcdDiscoveryService.java" timestamp="1532347975095">
         <mark key="'" line="41" column="48" />
@@ -432,7 +435,6 @@
       <file name="$USER_HOME$/workspace/darwin/pre.properties" timestamp="1533005694431" />
     </filemarks>
     <jumps>
-      <jump line="15" column="52" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/resources/mbus-consumer-config.xml" />
       <jump line="7" column="14" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/resources/mbus-consumer-config.xml" />
       <jump line="9" column="74" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/resources/mbus-consumer-config.xml" />
       <jump line="16" column="41" filename="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/kafka/KafkaMessagePubFactory.java" />
@@ -532,6 +534,7 @@
       <jump line="63" column="34" filename="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MongoTest.java" />
       <jump line="1002" column="52" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
       <jump line="66" column="27" filename="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MongoTest.java" />
+      <jump line="40" column="19" filename="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/resources/mongodb/darwin-query-mongodb-config.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
