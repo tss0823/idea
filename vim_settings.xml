@@ -162,8 +162,8 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" timestamp="1533030839635">
-        <mark key="'" line="880" column="16" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" timestamp="1533034707646">
+        <mark key="'" line="1855" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/io/Resources.java" timestamp="1532854739607">
         <mark key="'" line="255" column="25" />
@@ -364,12 +364,12 @@
       <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/SAXHelper.java" timestamp="1532769512246">
         <mark key="'" line="124" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/ReadyDataEvaluateDO.java" timestamp="1533029484127">
-        <mark key="'" line="21" column="32" />
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="24" />
-        <mark key="." line="24" column="24" />
-        <mark key="^" line="24" column="24" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/ReadyDataEvaluateDO.java" timestamp="1533034158287">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="21" column="6" />
+        <mark key="." line="21" column="6" />
+        <mark key="^" line="21" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-message/src/main/java/com/meitu/meipu/darwin/message/kafka/darwin/impl/ReayDataTansHandler.java" timestamp="1532419233988">
         <mark key="'" line="26" column="39" />
@@ -403,8 +403,8 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/ClusterClientBuilder.java" timestamp="1532348562412">
         <mark key="'" line="141" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MongoTest.java" timestamp="1533030810442">
-        <mark key="'" line="22" column="24" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MongoTest.java" timestamp="1533034581429">
+        <mark key="'" line="32" column="50" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -415,10 +415,10 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MySqlDataConvertMongoDataServiceTest.java" timestamp="1533028622805">
         <mark key="'" line="21" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1533030955228">
+      <file name="/fragment.java" timestamp="1533034251769">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/OffLineDataServiceImpl.java" timestamp="1532141320159">
         <mark key="'" line="24" column="52" />
@@ -432,16 +432,6 @@
       <file name="$USER_HOME$/workspace/darwin/pre.properties" timestamp="1533005694431" />
     </filemarks>
     <jumps>
-      <jump line="103" column="29" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerConsumeServiceImpl.java" />
-      <jump line="1167" column="36" filename="$USER_HOME$/workspace/crawler/crawler-dal/src/main/resources/mybatis/mapper/CrawlerItemMapper.xml" />
-      <jump line="120" column="42" filename="$USER_HOME$/workspace/crawler/crawler-dal/src/main/resources/mybatis/mapper/CrawlerItemMapper.xml" />
-      <jump line="192" column="18" filename="$USER_HOME$/workspace/crawler/crawler-dal/src/main/resources/mybatis/mapper/CrawlerItemMapper.xml" />
-      <jump line="210" column="40" filename="$USER_HOME$/workspace/crawler/crawler-dal/src/main/resources/mybatis/mapper/CrawlerItemMapper.xml" />
-      <jump line="246" column="16" filename="$USER_HOME$/workspace/crawler/crawler-dal/src/main/resources/mybatis/mapper/CrawlerItemMapper.xml" />
-      <jump line="44" column="18" filename="$USER_HOME$/workspace/crawler/crawler-dal/src/main/java/com/meitu/meipu/crawler/mapper/CrawlerItemMapper.java" />
-      <jump line="156" column="18" filename="$USER_HOME$/workspace/crawler/crawler-dal/src/main/java/com/meitu/meipu/crawler/domain/meta/CrawlerItem.java" />
-      <jump line="482" column="46" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" />
-      <jump line="228" column="13" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" />
       <jump line="254" column="21" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" />
       <jump line="798" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
       <jump line="716" column="36" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" />
@@ -530,15 +520,25 @@
       <jump line="19" column="56" filename="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MongoTest.java" />
       <jump line="40" column="22" filename="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MongoTest.java" />
       <jump line="27" column="21" filename="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MongoTest.java" />
-      <jump line="37" column="33" filename="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MongoTest.java" />
-      <jump line="22" column="24" filename="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MongoTest.java" />
+      <jump line="37" column="18" filename="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MongoTest.java" />
+      <jump line="18" column="17" filename="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MongoTest.java" />
+      <jump line="770" column="10" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
+      <jump line="779" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
+      <jump line="876" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
+      <jump line="22" column="66" filename="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MongoTest.java" />
+      <jump line="34" column="4" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/ReadyDataEvaluateDO.java" />
+      <jump line="32" column="50" filename="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MongoTest.java" />
+      <jump line="835" column="10" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
+      <jump line="838" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
+      <jump line="840" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
+      <jump line="1855" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVyYXRpb25zLnVwCg==</text>
+      <register name="&quot;" type="4">
+        <text>operations.insert(readyDataEvaluateDO);</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>operations.insert(readyDataEvaluateDO);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
