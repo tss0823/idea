@@ -87,6 +87,13 @@
         <mark key="'" line="412" column="30" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java" timestamp="1533103216364" />
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/EvaludateManager.java" timestamp="1533181272730">
+        <mark key="'" line="15" column="38" />
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/commons-queue/2.0.0/commons-queue-2.0.0-sources.jar!/com/meitu/commons/queue/kafka/KafkaQueueConsumer.java" timestamp="1532485586137">
         <mark key="'" line="92" column="24" />
       </file>
@@ -375,6 +382,12 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/EvaludateManagerImpl.java" timestamp="1533181300845">
+        <mark key="[" line="11" column="65" />
+        <mark key="]" line="9" column="61" />
+        <mark key="^" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MySqlDataConvertMongoDataServiceImpl.java" timestamp="1533003918767" />
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/ReadyDataEvaluateImageDao.java" timestamp="1533122238859" />
       <file name="$USER_HOME$/workspace/mbus/mbus-common/src/main/java/com/meitu/meipu/mbus/common/assist/EventCallbackManager.java" timestamp="1532937558766">
@@ -524,12 +537,12 @@
         <mark key="'" line="141" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/ReadyDataEvaluateImageDaoImpl.java" timestamp="1533122183672" />
-      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/EvaluateDaoImpl.java" timestamp="1533181046783">
-        <mark key="'" line="40" column="84" />
-        <mark key="[" line="40" column="86" />
-        <mark key="]" line="40" column="86" />
-        <mark key="." line="40" column="86" />
-        <mark key="^" line="40" column="85" />
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/EvaluateDaoImpl.java" timestamp="1533181128511">
+        <mark key="'" line="42" column="84" />
+        <mark key="[" line="42" column="86" />
+        <mark key="]" line="42" column="86" />
+        <mark key="." line="42" column="86" />
+        <mark key="^" line="42" column="85" />
       </file>
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/IngredientDao.java" timestamp="1533178483253" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/status/DefaultHealthChecker.java" timestamp="1532341327891">
@@ -646,7 +659,7 @@
       <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/org/dom4j/io/SAXHelper.java" timestamp="1532769512246">
         <mark key="'" line="124" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-common/src/main/java/com/meitu/meipu/darwin/query/common/service/EvaluateService.java" timestamp="1533178653215">
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-common/src/main/java/com/meitu/meipu/darwin/query/common/service/EvaluateService.java" timestamp="1533181255487">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -666,7 +679,7 @@
         <mark key="^" line="151" column="69" />
         <mark key="." line="151" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/IngredientDaoImpl.java" timestamp="1533179544628" />
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/IngredientDaoImpl.java" timestamp="1533181056781" />
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/ReadyDataEvaluateDTO.java" timestamp="1533028109704" />
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1532676951128">
         <mark key="'" line="417" column="44" />
@@ -711,7 +724,6 @@
       <file name="$USER_HOME$/workspace/darwin/pre.properties" timestamp="1533005694431" />
     </filemarks>
     <jumps>
-      <jump line="23" column="56" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/AbsDBSysnManager.java" />
       <jump line="30" column="28" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/AbsDBSysnManager.java" />
       <jump line="32" column="74" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/AbsDBSysnManager.java" />
       <jump line="40" column="23" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/DBSyncTaskBuildManager.java" />
@@ -811,6 +823,7 @@
       <jump line="41" column="13" filename="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/EvaluateDaoImpl.java" />
       <jump line="44" column="21" filename="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/EvaluateDaoImpl.java" />
       <jump line="40" column="84" filename="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/EvaluateDaoImpl.java" />
+      <jump line="15" column="38" filename="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/EvaludateManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
