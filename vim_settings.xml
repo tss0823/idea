@@ -353,12 +353,12 @@
         <mark key="^" line="117" column="66" />
         <mark key="." line="116" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransUtils.java" timestamp="1533288487188">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransUtils.java" timestamp="1533289464342">
         <mark key="'" line="65" column="31" />
-        <mark key="[" line="65" column="28" />
-        <mark key="]" line="65" column="34" />
-        <mark key="^" line="65" column="34" />
-        <mark key="." line="65" column="34" />
+        <mark key="[" line="77" column="51" />
+        <mark key="]" line="49" column="30" />
+        <mark key="^" line="49" column="30" />
+        <mark key="." line="49" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/GenericClusterImpl.java" timestamp="1532347900385">
         <mark key="'" line="108" column="19" />
@@ -385,6 +385,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1533289544092">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="7" column="40" />
+        <mark key="." line="7" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/DBSyncTaskBuildManager.java" timestamp="1533283444409">
         <mark key="'" line="45" column="68" />
@@ -957,11 +963,11 @@
       <jump line="13" column="63" filename="$MAVEN_REPOSITORY$/com/meitu/meipu/communitycenter-common/1.0-SNAPSHOT/communitycenter-common-1.0-20180802.091244-252.jar!/com/meitu/meipu/communitycenter/common/api/content/ProductService.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8TG9uZz4gcmVzdWx0SWRMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Ci8vICAgICAgICBpbnQgcGFnZUluZGV4ID0gMTsKLy8gICAgICAgIHdoaWxlKHRydWUpewovLyAgICAgICAgICAgIHJlcXVlc3Quc2V0UGFnZXIobmV3IFBhZ2VyKHBhZ2VJbmRleCxwYWdlU2l6ZSkpOwovLyAgICAgICAgICAgIExpc3Q8TG9uZz4gaWRzID0gcmVhZHlEYXRhRXZhbHVhdGVEYW8uc2VsZWN0SWRCeUNvbmRpdGlvbihyZXF1ZXN0KTsKLy8gICAgICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoaWRzKSkgewovLyAgICAgICAgICAgICAgICBicmVhazsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgcmVzdWx0SWRMaXN0LmFkZEFsbChpZHMpOwovLyAgICAgICAgICAgIGlmIChpZHMuc2l6ZSgpIDwgcGFnZVNpemUpIHsKLy8gICAgICAgICAgICAgICAgYnJlYWs7Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgICAgIHBhZ2VJbmRleCsrOwovLyAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>.trim();</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>.trim();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGllbnRPcHRpb25zXD4=</text>
