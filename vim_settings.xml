@@ -15,6 +15,7 @@
         <mark key="'" line="24" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-client/src/main/java/com/meitu/meipu/darwin/client/service/MakeupReadyDataMergeServiceClient.java" timestamp="1532954789026" />
+      <file name="/deploy.sh" timestamp="1533269781453" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/proto/rpc/java/Request.java" timestamp="1532333917965">
         <mark key="'" line="321" column="28" />
       </file>
@@ -390,11 +391,12 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MakeupReadydataServiceTest.java" timestamp="1533028668189">
         <mark key="'" line="72" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/apprun/deploy.sh" timestamp="1533269017601">
+      <file name="$USER_HOME$/workspace/apprun/deploy.sh" timestamp="1533269948259">
         <mark key="'" line="17" column="1258" />
-        <mark key="[" line="20" column="59" />
-        <mark key="]" line="20" column="59" />
-        <mark key="." line="20" column="59" />
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadydataJsonAnalyze.java" timestamp="1533102252861" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1533089091440">
@@ -555,12 +557,6 @@
         <mark key="'" line="26" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/mbus/mbus-web/src/main/resources/iron_confs/iron.meta" timestamp="1532937956317" />
-      <file name="$USER_HOME$/workspace/darwin-query/pom.xml" timestamp="1533201945386">
-        <mark key="'" line="78" column="40" />
-        <mark key="[" line="24" column="30" />
-        <mark key="]" line="24" column="30" />
-        <mark key="." line="24" column="30" />
-      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/MakeupReadydataRequest.java" timestamp="1533003042617">
         <mark key="'" line="505" column="15" />
       </file>
@@ -991,10 +987,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-H 'Content-Length: 628'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>-H 'Content-Length: 628'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGllbnRPcHRpb25zXD4=</text>
