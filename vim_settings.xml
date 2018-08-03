@@ -207,7 +207,11 @@
         <mark key="^" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/ConvertMakeupMapper.xml" timestamp="1533004454120" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/ReadyDataEvaluateMapper.xml" timestamp="1533279668066" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/ReadyDataEvaluateMapper.xml" timestamp="1533280486944">
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="0" />
+        <mark key="." line="266" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/mbus/mbus-common/src/main/java/com/meitu/meipu/mbus/common/assist/MBusSubscribe.java" timestamp="1532935323342" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java" timestamp="1533103025700" />
       <file name="$USER_HOME$/workspace/darwin/dev.properties" timestamp="1533116901852">
@@ -785,7 +789,7 @@
         <mark key="'" line="47" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/pre.properties" timestamp="1533005694431" />
-      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/EvaluateManagerImpl.java" timestamp="1533279678952">
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/EvaluateManagerImpl.java" timestamp="1533280550324">
         <mark key="'" line="149" column="88" />
         <mark key="[" line="80" column="9" />
         <mark key="]" line="81" column="12" />
@@ -897,7 +901,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text encoding="base64">CTx1cGRhdGUgaWQ9ImF1ZGl0QmF0Y2giIHBhcmFtZXRlclR5cGU9ImNvbS5tZWl0dS5tZWlwdS5kYXJ3aW4uY29tbW9uLmRvbWFpbi5yZXF1ZXN0LlJlYWR5RGF0YUV2YWx1YXRlUmVxdWVzdCI+CgkJdXBkYXRlIDxpbmNsdWRlIHJlZmlkPSJCYXNlX1RhYmxlX05hbWUiLz4gc2V0CgkJZ210TW9kaWZpZWQgPSBub3coNiksZ210QXVkaXQgPSBub3coNiksYXVkaXRTdGF0dXMgPSAxLHBlcnNvbm5lbCA9ICN7cGVyc29ubmVsfQoJCXdoZXJlIGF1ZGl0U3RhdHVzID0gMCBhbmQgaXNEZWxldGUgPSAwIGFuZCBpZCBpbgoJCTxmb3JlYWNoIGNvbGxlY3Rpb249ImlkcyIgaXRlbT0iaWQiIGluZGV4PSJpbmRleCIgc2VwYXJhdG9yPSIsIiBvcGVuPSIoIiBjbG9zZT0iKSI+CgkJCSN7aWR9CgkJPC9mb3JlYWNoPgoJPC91cGRhdGU+</text>
       </register>
       <register name="-" type="4">
         <text>return</text>
@@ -908,32 +912,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFNVQ0NFU1MobmV3IEludGVnZXIoIjEiKSwgIuWuoeaguOmAmui/hyIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRvclNlcnZpY2Uuc3UK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CTx1cGRhdGUgaWQ9ImF1ZGl0QmF0Y2giIHBhcmFtZXRlclR5cGU9ImNvbS5tZWl0dS5tZWlwdS5kYXJ3aW4uY29tbW9uLmRvbWFpbi5yZXF1ZXN0LlJlYWR5RGF0YUV2YWx1YXRlUmVxdWVzdCI+CgkJdXBkYXRlIDxpbmNsdWRlIHJlZmlkPSJCYXNlX1RhYmxlX05hbWUiLz4gc2V0CgkJZ210TW9kaWZpZWQgPSBub3coNiksZ210QXVkaXQgPSBub3coNiksYXVkaXRTdGF0dXMgPSAxLHBlcnNvbm5lbCA9ICN7cGVyc29ubmVsfQoJCXdoZXJlIGF1ZGl0U3RhdHVzID0gMCBhbmQgaXNEZWxldGUgPSAwIGFuZCBpZCBpbgoJCTxmb3JlYWNoIGNvbGxlY3Rpb249ImlkcyIgaXRlbT0iaWQiIGluZGV4PSJpbmRleCIgc2VwYXJhdG9yPSIsIiBvcGVuPSIoIiBjbG9zZT0iKSI+CgkJCSN7aWR9CgkJPC9mb3JlYWNoPgoJPC91cGRhdGU+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZXZhbHVhdGVNYW5hZ2VyLnB1c2hFdmFsdWF0ZVRvQ29tbXVuaXR5KHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICBleGVjdXRvclNlcnZpY2Uuc3UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZXZhbHVhdGVNYW5hZ2VyLnB1c2hFdmFsdWF0ZVRvQ29tbXVuaXR5KHJlcXVlc3QpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHJlc3VsdExpbWl0ID0gcmVxdWVzdC5nZXRSZXN1bHRMaW1pdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGludCBwYWdlSW5kZXggPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHJlc3VsdExpbWl0ID0gcmVxdWVzdC5nZXRSZXN1bHRMaW1pdCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8RXZhbHVhdGU+IGV2YWx1YXRlTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGludCBwYWdlSW5kZXggPSAxOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZihpZCE9bnVsbCkgewogICAgICAgICAgICBtYWtldXBQcm9wZXJ0eVN5bmNTZXJ2aWNlLnN5bmMoQXJyYXlzLmFzTGlzdChpZCkpOwogICAgICAgIH0KICAgICAgICBlbHNlewogICAgICAgICAgICBtYWtldXBQcm9wZXJ0eVN5bmNTZXJ2aWNlLnN5bmMobnVsbCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8RXZhbHVhdGU+IGV2YWx1YXRlTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJbnRlZ2VyIGdldENvbW11bml0eVB1c2hTdGF0dXMoKSB7CiAgICAgICAgcmV0dXJuIGNvbW11bml0eVB1c2hTdGF0dXM7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q29tbXVuaXR5UHVzaFN0YXR1cyhJbnRlZ2VyIGNvbW11bml0eVB1c2hTdGF0dXMpIHsKICAgICAgICB0aGlzLmNvbW11bml0eVB1c2hTdGF0dXMgPSBjb21tdW5pdHlQdXNoU3RhdHVzOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZihpZCE9bnVsbCkgewogICAgICAgICAgICBtYWtldXBQcm9wZXJ0eVN5bmNTZXJ2aWNlLnN5bmMoQXJyYXlzLmFzTGlzdChpZCkpOwogICAgICAgIH0KICAgICAgICBlbHNlewogICAgICAgICAgICBtYWtldXBQcm9wZXJ0eVN5bmNTZXJ2aWNlLnN5bmMobnVsbCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBJbnRlZ2VyIGdldENvbW11bml0eVB1c2hTdGF0dXMoKSB7CiAgICAgICAgcmV0dXJuIGNvbW11bml0eVB1c2hTdGF0dXM7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q29tbXVuaXR5UHVzaFN0YXR1cyhJbnRlZ2VyIGNvbW11bml0eVB1c2hTdGF0dXMpIHsKICAgICAgICB0aGlzLmNvbW11bml0eVB1c2hTdGF0dXMgPSBjb21tdW5pdHlQdXNoU3RhdHVzOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
