@@ -390,12 +390,11 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MakeupReadydataServiceTest.java" timestamp="1533028668189">
         <mark key="'" line="72" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/apprun/deploy.sh" timestamp="1533268024083">
+      <file name="$USER_HOME$/workspace/apprun/deploy.sh" timestamp="1533269017601">
         <mark key="'" line="17" column="1258" />
-        <mark key="[" line="23" column="893" />
-        <mark key="]" line="23" column="893" />
-        <mark key="." line="23" column="893" />
-        <mark key="^" line="23" column="1288" />
+        <mark key="[" line="20" column="59" />
+        <mark key="]" line="20" column="59" />
+        <mark key="." line="20" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadydataJsonAnalyze.java" timestamp="1533102252861" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1533089091440">
@@ -556,6 +555,12 @@
         <mark key="'" line="26" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/mbus/mbus-web/src/main/resources/iron_confs/iron.meta" timestamp="1532937956317" />
+      <file name="$USER_HOME$/workspace/darwin-query/pom.xml" timestamp="1533201945386">
+        <mark key="'" line="78" column="40" />
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/MakeupReadydataRequest.java" timestamp="1533003042617">
         <mark key="'" line="505" column="15" />
       </file>
@@ -986,10 +991,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmFtZT1lbnYmdmFsdWU9ZGV2Jm5hbWU9YnJhbmNoJnZhbHVlPWRhaWx5Jm5hbWU9cG9ydCZ2YWx1ZT0ke2h0dHBQb3J0fSZuYW1lPWR1YmJvUG9ydCZ2YWx1ZT05MTE1JnN0YXR1c0NvZGU9MzAzJnJlZGlyZWN0VG89LiZKZW5raW5zLUNydW1iPTE1ODBlZDg5ZWE0NzEzYWY2ZTBhYTAxOTE0MWZiNjdkJmpzb249JTdCJTIycGFyYW1ldGVyJTIyJTNBKyU1QiU3QiUyMm5hbWUlMjIlM0ErJTIyZW52JTIyJTJDKyUyMnZhbHVlJTIyJTNBKyUyMmRldiUyMiU3RCUyQyslN0IlMjJuYW1lJTIyJTNBKyUyMmJyYW5jaCUyMiUyQyslMjJ2YWx1ZSUyMiUzQSslMjJkYWlseSUyMiU3RCUyQyslN0IlMjJuYW1lJTIyJTNBKyUyMnBvcnQlMjIlMkMrJTIydmFsdWUlMjIlM0ErJTIyJHtodHRwUG9ydH0lMjIlN0QlMkMrJTdCJTIybmFtZSUyMiUzQSslMjJkdWJib1BvcnQlMjIlMkMrJTIydmFsdWUlMjIlM0ErJTIyOTExNSUyMiU3RCU1RCUyQyslMjJzdGF0dXNDb2RlJTIyJTNBKyUyMjMwMyUyMiUyQyslMjJyZWRpcmVjdFRvJTIyJTNBKyUyMi4lMjIlMkMrJTIySmVua2lucy1DcnVtYiUyMiUzQSslMjIxNTgwZWQ4OWVhNDcxM2FmNmUwYWEwMTkxNDFmYjY3ZCUyMiU3RCZTdWJtaXQ9JUU1JUJDJTgwJUU1JUE3JThCJUU2JTlFJTg0JUU1JUJCJUJB</text>
+        <text>-H 'Content-Length: 628'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmFtZT1lbnYmdmFsdWU9ZGV2Jm5hbWU9YnJhbmNoJnZhbHVlPWRhaWx5Jm5hbWU9cG9ydCZ2YWx1ZT0ke2h0dHBQb3J0fSZuYW1lPWR1YmJvUG9ydCZ2YWx1ZT05MTE1JnN0YXR1c0NvZGU9MzAzJnJlZGlyZWN0VG89LiZKZW5raW5zLUNydW1iPTE1ODBlZDg5ZWE0NzEzYWY2ZTBhYTAxOTE0MWZiNjdkJmpzb249JTdCJTIycGFyYW1ldGVyJTIyJTNBKyU1QiU3QiUyMm5hbWUlMjIlM0ErJTIyZW52JTIyJTJDKyUyMnZhbHVlJTIyJTNBKyUyMmRldiUyMiU3RCUyQyslN0IlMjJuYW1lJTIyJTNBKyUyMmJyYW5jaCUyMiUyQyslMjJ2YWx1ZSUyMiUzQSslMjJkYWlseSUyMiU3RCUyQyslN0IlMjJuYW1lJTIyJTNBKyUyMnBvcnQlMjIlMkMrJTIydmFsdWUlMjIlM0ErJTIyJHtodHRwUG9ydH0lMjIlN0QlMkMrJTdCJTIybmFtZSUyMiUzQSslMjJkdWJib1BvcnQlMjIlMkMrJTIydmFsdWUlMjIlM0ErJTIyOTExNSUyMiU3RCU1RCUyQyslMjJzdGF0dXNDb2RlJTIyJTNBKyUyMjMwMyUyMiUyQyslMjJyZWRpcmVjdFRvJTIyJTNBKyUyMi4lMjIlMkMrJTIySmVua2lucy1DcnVtYiUyMiUzQSslMjIxNTgwZWQ4OWVhNDcxM2FmNmUwYWEwMTkxNDFmYjY3ZCUyMiU3RCZTdWJtaXQ9JUU1JUJDJTgwJUU1JUE3JThCJUU2JTlFJTg0JUU1JUJCJUJB</text>
+        <text>-H 'Content-Length: 628'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGllbnRPcHRpb25zXD4=</text>
