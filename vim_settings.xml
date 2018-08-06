@@ -147,11 +147,7 @@
         <mark key="^" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/ConvertMakeupMapper.xml" timestamp="1533004454120" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/ReadyDataEvaluateMapper.xml" timestamp="1533280486944">
-        <mark key="[" line="266" column="0" />
-        <mark key="]" line="266" column="0" />
-        <mark key="." line="266" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/ReadyDataEvaluateMapper.xml" timestamp="1533523432300" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/adapter/HttpAdapter.java" timestamp="1533264826907">
         <mark key="'" line="12" column="26" />
       </file>
@@ -255,11 +251,11 @@
         <mark key="'" line="52" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventPublisher.java" timestamp="1532937669831" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/AbstDBSyncManager.java" timestamp="1533283421899">
-        <mark key="[" line="94" column="43" />
-        <mark key="]" line="101" column="29" />
-        <mark key="^" line="101" column="29" />
-        <mark key="." line="101" column="29" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/AbstDBSyncManager.java" timestamp="1533524229177">
+        <mark key="'" line="47" column="15" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.3.2.RELEASE/spring-tx-4.3.2.RELEASE.jar!/org/springframework/transaction/support/TransactionTemplate.class" timestamp="1533200041280">
         <mark key="'" line="47" column="38" />
@@ -319,7 +315,7 @@
         <mark key="^" line="11" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/ForbiddenWordRequest.java" timestamp="1533104130604" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/ReadyDataEvaluateDO.java" timestamp="1533520533389">
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/ReadyDataEvaluateDO.java" timestamp="1533524531580">
         <mark key="'" line="17" column="5" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -491,11 +487,12 @@
       </file>
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-client/src/main/java/com/meitu/meipu/darwin/query/client/service/MakeupDetailServiceClient.java" timestamp="1532952613632" />
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/ReadyDataEvaluateImageDaoImpl.java" timestamp="1533122183672" />
-      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/EvaluateDaoImpl.java" timestamp="1533520635542">
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/EvaluateDaoImpl.java" timestamp="1533523664801">
         <mark key="'" line="51" column="18" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="55" column="42" />
+        <mark key="]" line="55" column="41" />
+        <mark key="." line="55" column="41" />
+        <mark key="^" line="55" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/zhushou/zhushou-service/src/test/java/com/yuntao/zhushou/service/BaseServiceTest.java" timestamp="1533285613557">
         <mark key="'" line="19" column="39" />
@@ -615,7 +612,7 @@
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataBuildServiceImpl.java" timestamp="1533213397133" />
       <file name="$USER_HOME$/workspace/darwin/pre.properties" timestamp="1533005694431" />
-      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/EvaluateManagerImpl.java" timestamp="1533305589828">
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/EvaluateManagerImpl.java" timestamp="1533523694321">
         <mark key="'" line="163" column="87" />
         <mark key="[" line="54" column="67" />
         <mark key="]" line="55" column="42" />
@@ -624,7 +621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="40" filename="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/utils/FetchDataUtils.java" />
       <jump line="55" column="61" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/EvaluateDBSyncManagerImpl.java" />
       <jump line="78" column="40" filename="$USER_HOME$/workspace/darwin-query/pom.xml" />
       <jump line="56" column="62" filename="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/EvaluateManagerImpl.java" />
@@ -724,61 +720,61 @@
       <jump line="1150" column="50" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
       <jump line="1154" column="48" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
       <jump line="1156" column="88" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
+      <jump line="47" column="15" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/AbstDBSyncManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWVyeU9ialw+</text>
+        <text encoding="base64">XDxkYXRhSWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFNVQ0NFU1MobmV3IEludGVnZXIoIjEiKSwgIuWuoeaguOmAmui/hyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBCYXNpY0RCT2JqZWN0IGRiT2JqZWN0ID0gbmV3IEJhc2ljREJPYmplY3QoKTsKICAgICAgICBkYk9iamVjdC5wdXQoImNvbW11bml0eVB1c2hTdGF0dXMiLHN0YXR1cyk7CiAgICAgICAgVXBkYXRlIHVwZGF0ZSA9IFVwZGF0ZS5mcm9tREJPYmplY3QoZGJPYmplY3QsICJfaWQiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYk9iamVjdC5wdXQoImV2YWx1YXRlQ29udGVudCIsIjIzNCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVwZGF0ZSB1cGRhdGUgPSBuZXcgVXBkYXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSZWFkeURhdGFFdmFsdWF0ZURPIHJlYWR5RGF0YUV2YWx1YXRlRE8gPSBuZXcgUmVhZHlEYXRhRXZhbHVhdGVETygpOwogICAgICAgIHJlYWR5RGF0YUV2YWx1YXRlRE8uc2V0SWQoMjMzMTI1N0wpOwogICAgICAgIHJlYWR5RGF0YUV2YWx1YXRlRE8uc2V0Q29udGVudElkKDExMjQ0NTdMKTsKICAgICAgICByZWFkeURhdGFFdmFsdWF0ZURPLnNldEV2YWx1YXRlQ29udGVudCgiYWFhYWFhYWFiYmJiYmIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIExpc3Q8TG9uZz4gc2VsZWN0SWRCeUNvbmRpdGlvbihSZWFkeURhdGFFdmFsdWF0ZVJlcXVlc3QgcmVxdWVzdCkgewogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcXVlcnlNYXAgPSBCZWFuVXRpbHMuYmVhblRvUXVlcnlNYXAocmVxdWVzdCk7CgkJcmV0dXJuIHJlYWR5RGF0YUV2YWx1YXRlTWFwcGVyLnNlbGVjdElkQnlDb25kaXRpb24ocXVlcnlNYXApOwoJfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8UmVhZHlEYXRhRXZhbHVhdGU+IHNlbGVjdEJ5SWRzKExpc3Q8TG9uZz4gaWRzKSB7CiAgICAgICAgcmV0dXJuIHJlYWR5RGF0YUV2YWx1YXRlTWFwcGVyLnNlbGVjdEJ5SWRzKGlkcyk7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TW9uZ29JZCgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBJZAo=</text>
+        <text encoding="base64">ICAgICAgICBkYk9iamVjdC5wdXQoImV2YWx1YXRlQ29udGVudCIsIjIzNCIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZWFkeURhdGFFdmFsdWF0ZURPIHJlYWR5RGF0YUV2YWx1YXRlRE8gPSBuZXcgUmVhZHlEYXRhRXZhbHVhdGVETygpOwogICAgICAgIHJlYWR5RGF0YUV2YWx1YXRlRE8uc2V0SWQoMjMzMTI1N0wpOwogICAgICAgIHJlYWR5RGF0YUV2YWx1YXRlRE8uc2V0Q29udGVudElkKDExMjQ0NTdMKTsKICAgICAgICByZWFkeURhdGFFdmFsdWF0ZURPLnNldEV2YWx1YXRlQ29udGVudCgiYWFhYWFhYWFiYmJiYmIiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdWVyeU9ialw+</last-search>
+      <last-search encoding="base64">XDxkYXRhSWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWVyeU9ialw+</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhSWRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOTFBNYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxicmFuY2hcPg==</entry>
         <entry encoding="base64">XDxNQnVzU3Vic2NyaWJlXD4=</entry>
         <entry encoding="base64">XDxwb3N0UHJvY2Vzc0FmdGVySW5pdGlhbGl6YXRpb25cPg==</entry>
@@ -798,6 +794,7 @@
         <entry encoding="base64">XDxPYmplY3RJZFw+</entry>
         <entry encoding="base64">XDxxdWVyeVw+</entry>
         <entry encoding="base64">XDxxdWVyeU9ialw+</entry>
+        <entry encoding="base64">XDxkYXRhSWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>352</entry>
