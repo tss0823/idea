@@ -161,6 +161,11 @@
                       <option name="grepExpression" value=".*NettyServerHandler.*" />
                       <option name="inputFilter" value="true" />
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="action" value="REMOVE" />
+                      <option name="grepExpression" value=".*grpc-default-worker.*" />
+                      <option name="inputFilter" value="true" />
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="default" />
