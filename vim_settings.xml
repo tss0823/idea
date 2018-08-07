@@ -332,12 +332,12 @@
         <mark key="'" line="28" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/mapper/BaseMapper.java" timestamp="1532950681928" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" timestamp="1533642703944">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" timestamp="1533645718888">
         <mark key="'" line="1343" column="47" />
-        <mark key="[" line="1339" column="0" />
-        <mark key="]" line="1339" column="0" />
-        <mark key="." line="1339" column="0" />
-        <mark key="^" line="1343" column="50" />
+        <mark key="[" line="1418" column="99" />
+        <mark key="]" line="1418" column="99" />
+        <mark key="." line="1418" column="99" />
+        <mark key="^" line="1418" column="99" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6.jar!/com/meitu/tardis/meta/NodeBase.class" timestamp="1532336892361">
         <mark key="'" line="35" column="15" />
@@ -580,8 +580,12 @@
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MySqlDataConvertMongoDataServiceImpl.java" timestamp="1533003918767" />
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/ReadyDataEvaluateImageDao.java" timestamp="1533122238859" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/resources/mysql/mapper/AdsTradeOverviewSummaryDMapper.xml" timestamp="1533644701705">
-        <mark key="'" line="126" column="29" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/resources/mysql/mapper/AdsTradeOverviewSummaryDMapper.xml" timestamp="1533645378753">
+        <mark key="'" line="2" column="78" />
+        <mark key="[" line="895" column="4" />
+        <mark key="]" line="895" column="5" />
+        <mark key="." line="895" column="5" />
+        <mark key="^" line="895" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/mbus/mbus-common/src/main/java/com/meitu/meipu/mbus/common/assist/EventCallbackManager.java" timestamp="1533199767012">
         <mark key="'" line="27" column="62" />
@@ -941,8 +945,8 @@
       <file name="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/EntityServiceImpl.java" timestamp="1532066159246">
         <mark key="'" line="75" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/AdsTradeOverviewSummaryD.java" timestamp="1533644079358">
-        <mark key="'" line="484" column="25" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/AdsTradeOverviewSummaryD.java" timestamp="1533645510941">
+        <mark key="'" line="94" column="23" />
         <mark key="[" line="102" column="35" />
         <mark key="]" line="104" column="22" />
         <mark key="." line="104" column="22" />
@@ -1095,8 +1099,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="25" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/EvaluateDBSyncManagerImpl.java" />
-      <jump line="305" column="27" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" />
       <jump line="342" column="30" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" />
       <jump line="66" column="31" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/PageFlowReadServiceImpl.java" />
       <jump line="299" column="50" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" />
@@ -1195,55 +1197,57 @@
       <jump line="78" column="49" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/TradeOverviewSummaryDTask.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/TradeOverviewSummaryDTask.java" />
       <jump line="69" column="40" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/TradeOverviewSummaryDTask.java" />
+      <jump line="2" column="78" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/resources/mysql/mapper/AdsTradeOverviewSummaryDMapper.xml" />
+      <jump line="94" column="23" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/AdsTradeOverviewSummaryD.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBjb21wb25lbnQuc2V0UmF0ZSh0cnVlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>summaryD</text>
       </register>
       <register name="-" type="4">
-        <text>DAU_BARGAIN_CONVERSE_RATE</text>
+        <text>summaryD</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRWYWx1ZVw+</text>
+        <text encoding="base64">XDx3ZWlnaHRlZFBvUHJpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2by5zZXROZXdCdXllckZyb21OZXdEZXYodG9TdHJpbmcodHJhZGVEYXRhSW5mb0RUTy5nZXROZXdCdXllckZyb21OZXdEZXYoKSkpOwo=</text>
+        <text encoding="base64">ICAgIG5ld0J1eWVyRnJvbU5ld0RldiA9ICN7bmV3QnV5ZXJGcm9tTmV3RGV2fSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBjb21wb25lbnQuc2V0UmF0ZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICN7bmV3QnV5ZXJGcm9tTmV3RGV2fSwje3JlZFBhY2tQYWlkfSwje2RhdX0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERBVV9CQVJHQUlOX0NPTlZFUlNFX1JBVEUoImRhdV9iYXJnYWluX2NvbnZlcnNlX3JhdGUiLCAiREFVLeaUr+S7mOi9rOWMlueOhyIpLAo=</text>
+        <text encoding="base64">ICAgICAgd2VpZ2h0ZWRQb1ByaWNlID0gI3t3ZWlnaHRlZFBvUHJpY2UsamRiY1R5cGU9REVDSU1BTH0sCiAgICAgIHdlaWdodGVkUG9QcmljZSA9ICN7d2VpZ2h0ZWRQb1ByaWNlLGpkYmNUeXBlPURFQ0lNQUx9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGFyZWFDbGlja1V2Q291bnQgPSBzdW1tYXJpZXMuc3RyZWFtKCkuZmlsdGVyKGRhdGEgLT4gZGF0YS5nZXRDbGlja1V2KCkgIT0gbnVsbCkubWFwKEFkc0NsaWVudEdwbVN1bW1hcnk6OmdldENsaWNrVXYpLnJlZHVjZSgwLCBJbnRlZ2VyOjpzdW0pOwo=</text>
+        <text encoding="base64">ICAgICAgI3tuZXdCdXllckZyb21OZXdEZXZ9LCN7cmVkUGFja1BhaWR9LCN7ZGF1fSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGZvciAoREJTeW5jTWFuYWdlciBkYlN5bmNNYW5hZ2VyIDogZGJTeW5jTWFuYWdlcnMpIHsKICAgICAgICAgICAgTGlzdDxMb25nPiBpZHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgaWRzLmFkZCgyNjA0TCk7CiAgICAgICAgICAgIGlkcy5hZGQoMjYwNUwpOwogICAgICAgICAgICBpZHMuYWRkKDI2MDZMKTsKICAgICAgICAgICAgTGlzdDxNb25nb0RvbWFpbj4gZGF0YUxpc3QgPSBkYlN5bmNNYW5hZ2VyLmZldGNoRGF0YUxpc3QoaWRzKTsKICAgICAgICAgICAgZGJTeW5jTWFuYWdlci5zeW5jKGRhdGFMaXN0KTsKICAgICAgICB9</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZS51bnNldCgiaWQiKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICN7bmV3QnV5ZXJGcm9tTmV3RGV2fSwje3JlZFBhY2tQYWlkfSwje2RhdX0pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgI3tuZXdCdXllckZyb21OZXdEZXZ9LCN7cmVkUGFja1BhaWR9LCN7ZGF1fSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgI3tuZXdCdXllckZyb21OZXdEZXZ9LCN7cmVkUGFja1BhaWR9LCN7ZGF1fSkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBpZDsK</text>
+        <text encoding="base64">ICAgICAgI3tuZXdCdXllckZyb21OZXdEZXZ9LCN7cmVkUGFja1BhaWR9LCN7ZGF1fSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2llbnQK</text>
+        <text encoding="base64">ICAgICAgI3tuZXdCdXllckZyb21OZXdEZXZ9LCN7cmVkUGFja1BhaWR9LCN7ZGF1fSkK</text>
       </register>
       <register name=":" type="4">
         <text>265</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRWYWx1ZVw+</last-search>
+      <last-search encoding="base64">XDx3ZWlnaHRlZFBvUHJpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRWYWx1ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx3ZWlnaHRlZFBvUHJpY2VcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1261,7 +1265,6 @@
         <entry encoding="base64">XDxjbGlja1B2UmF0ZVw+</entry>
         <entry encoding="base64">XDxzZXRDbGlja1B2UmF0ZVw+</entry>
         <entry encoding="base64">XDxjb21wb25lbnRcPg==</entry>
-        <entry encoding="base64">XDx3ZWlnaHRlZFBvUHJpY2VcPg==</entry>
         <entry encoding="base64">XDxyZWZ1bmRBbW91bnRcPg==</entry>
         <entry encoding="base64">XDxFeGFtcGxlX1doZXJlX0NsYXVzZVw+</entry>
         <entry encoding="base64">XDxwdXJjaGFzZUdyb3VwXD4=</entry>
@@ -1269,6 +1272,7 @@
         <entry encoding="base64">XDxzdW1tYXJ5RFNcPg==</entry>
         <entry encoding="base64">XDxCYXNlUmVzdWx0TWFwXD4=</entry>
         <entry encoding="base64">XDxzZXRWYWx1ZVw+</entry>
+        <entry encoding="base64">XDx3ZWlnaHRlZFBvUHJpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>248</entry>
