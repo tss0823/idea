@@ -45,6 +45,9 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/StringCoding.java" timestamp="1533536770074">
         <mark key="'" line="369" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/bigdata/PageGpmDTO.java" timestamp="1533623979324">
+        <mark key="'" line="24" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/domain/ReadyDataEvaluate.java" timestamp="1533178286929">
         <mark key="'" line="98" column="32" />
         <mark key="[" line="17" column="12" />
@@ -438,6 +441,7 @@
         <mark key="'" line="578" column="27" />
       </file>
       <file name="/CommunityEvaluateRequest.java" timestamp="1533188531067" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" timestamp="1533624646634" />
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/ReadyDataConfig.java" timestamp="1533102529770" />
       <file name="$USER_HOME$/workspace/darwin-query/dev.properties" timestamp="1533275559980" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-dal/src/main/java/com/meitu/meipu/itemcenter/dao/impl/ItemDaoImpl2.java" timestamp="1532400150332">
@@ -680,7 +684,7 @@
       <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/xpath/DefaultXPath.class" timestamp="1532186641959">
         <mark key="'" line="92" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/release.properties" timestamp="1533613015604" />
+      <file name="$USER_HOME$/workspace/darwin/release.properties" timestamp="1533624275431" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/MakeupReadydataManager.java" timestamp="1533105319627" />
       <file name="$USER_HOME$/workspace/zhushou/run.sh" timestamp="1532660139179">
         <mark key="[" line="13" column="18" />
@@ -697,7 +701,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/cs/UTF_8.class" timestamp="1533536806768">
         <mark key="'" line="181" column="104" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-common/1.0-RELEASE-SNAPSHOT/datacenter-common-1.0-RELEASE-20180802.055903-77.jar!/com/meitu/meipu/datacenter/common/domain/bigdata/PageGpmDTO.class" timestamp="1533623781135">
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-common/1.0-RELEASE-SNAPSHOT/datacenter-common-1.0-RELEASE-20180802.055903-77.jar!/com/meitu/meipu/datacenter/common/domain/bigdata/PageGpmDTO.class" timestamp="1533623828794">
         <mark key="'" line="73" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/kafka/MessagePublisher.java" timestamp="1532936404192" />
@@ -738,8 +742,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.52/tomcat-embed-core-8.0.52-sources.jar!/org/apache/tomcat/util/threads/TaskQueue.java" timestamp="1533103212532">
         <mark key="'" line="84" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/EvaluateDBSyncManagerImpl.java" timestamp="1533610462248">
-        <mark key="'" line="61" column="26" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/EvaluateDBSyncManagerImpl.java" timestamp="1533624321687">
+        <mark key="'" line="61" column="25" />
         <mark key="[" line="67" column="129" />
         <mark key="]" line="68" column="66" />
         <mark key="." line="68" column="66" />
@@ -820,6 +824,7 @@
         <mark key="." line="37" column="44" />
         <mark key="^" line="37" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/bigdata/PageGpmDetailDTO.java" timestamp="1533623896446" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-dal/src/main/java/com/meitu/meipu/itemcenter/dao/transaction/BasicTransactionHelper.java" timestamp="1533199967359">
         <mark key="'" line="20" column="38" />
       </file>
@@ -886,7 +891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="11" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
       <jump line="158" column="21" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
       <jump line="159" column="79" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
       <jump line="162" column="7" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
@@ -978,7 +982,6 @@
       <jump line="160" column="72" filename="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/EvaluateManagerImpl.java" />
       <jump line="116" column="45" filename="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/EvaluateManagerImpl.java" />
       <jump line="114" column="17" filename="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/EvaluateManagerImpl.java" />
-      <jump line="61" column="26" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/EvaluateDBSyncManagerImpl.java" />
       <jump line="18" column="74" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/ReadyDataEvaluateDO.java" />
       <jump line="38" column="50" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/DBSyncTaskConsumeManager.java" />
       <jump line="72" column="46" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/AbstDBSyncManager.java" />
@@ -986,6 +989,8 @@
       <jump line="44" column="17" filename="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/EvaluateDaoImpl.java" />
       <jump line="205" column="41" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/PageFlowAction.java" />
       <jump line="73" column="25" filename="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-common/1.0-RELEASE-SNAPSHOT/datacenter-common-1.0-RELEASE-20180802.055903-77.jar!/com/meitu/meipu/datacenter/common/domain/bigdata/PageGpmDTO.class" />
+      <jump line="24" column="19" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/bigdata/PageGpmDTO.java" />
+      <jump line="61" column="25" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/EvaluateDBSyncManagerImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -995,7 +1000,7 @@
         <text>在线人数-支付转化率</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGlja1V2UmF0ZVw+</text>
+        <text encoding="base64">XDxjbGlja1B2UmF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWRzLmFkZCgyNjA0TCk7Cg==</text>
@@ -1032,15 +1037,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGlja1V2UmF0ZVw+</last-search>
+      <last-search encoding="base64">XDxjbGlja1B2UmF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGlja1V2UmF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjbGlja1B2UmF0ZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb3N0UHJvY2Vzc0FmdGVySW5pdGlhbGl6YXRpb25cPg==</entry>
         <entry encoding="base64">XDxkZWZhdWx0TUJ1c01lc3NhZ2VIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxtQnVzS2Fma2FRdWV1ZVByb2R1Y2Vyc1w+</entry>
         <entry encoding="base64">XDxzb3VyY2VMaXN0XD4=</entry>
@@ -1060,6 +1064,7 @@
         <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDxib3VuZFNxbFw+</entry>
         <entry encoding="base64">XDxjbGlja1V2UmF0ZVw+</entry>
+        <entry encoding="base64">XDxjbGlja1B2UmF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>248</entry>
