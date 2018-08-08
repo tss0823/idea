@@ -808,7 +808,9 @@
         <mark key="." line="3" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-client/src/main/java/com/meitu/meipu/darwin/client/service/MySqlDataConvertMongoDataServiceClient.java" timestamp="1532955791380" />
-      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" timestamp="1533707261657" />
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" timestamp="1533709315049">
+        <mark key="'" line="93" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/domain/transform/AdsTradeOverviewSummaryDTrans.java" timestamp="1533631761062">
         <mark key="'" line="106" column="23" />
         <mark key="[" line="100" column="39" />
@@ -1004,13 +1006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="45" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/resources/mysql/mapper/TradeStatisticsMapper.xml" />
-      <jump line="1259" column="50" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
-      <jump line="28" column="44" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/service/tradeDataReadService/QueryTradeCoreDataTest.java" />
-      <jump line="25" column="30" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/TradeOverviewSummaryDTask.java" />
-      <jump line="73" column="44" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/TradeDataReadManagerImpl.java" />
-      <jump line="1337" column="39" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
-      <jump line="1340" column="47" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
       <jump line="1343" column="132" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
       <jump line="1346" column="93" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
       <jump line="1344" column="47" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
@@ -1104,6 +1099,13 @@
       <jump line="44" column="40" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ComponentManagerImpl.java" />
       <jump line="169" column="74" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/TradeDataController.java" />
       <jump line="1229" column="71" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
+      <jump line="72" column="93" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="166" column="21" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="74" column="42" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="75" column="12" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="76" column="12" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="150" column="29" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="93" column="18" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1113,7 +1115,7 @@
         <text>targetDate.intValue()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3ZWlnaHRlZFBvUHJpY2VcPg==</text>
+        <text encoding="base64">XDxjbXNSZXN1bHRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2by5zZXRSZWRQYWNrQW1vdW50KHRvU3RyaW5nKHRyYWRlRGF0YUluZm9EVE8uZ2V0UmVkUGFja1BhaWQoKSkpOwo=</text>
@@ -1150,16 +1152,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3ZWlnaHRlZFBvUHJpY2VcPg==</last-search>
+      <last-search encoding="base64">XDxjbXNSZXN1bHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3ZWlnaHRlZFBvUHJpY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjbXNSZXN1bHRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWVyeVw+</entry>
-        <entry encoding="base64">XDxxdWVyeU9ialw+</entry>
         <entry encoding="base64">XDxkYXRhSWRcPg==</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDxib3VuZFNxbFw+</entry>
@@ -1178,6 +1178,8 @@
         <entry encoding="base64">XDxzb3VyY2VWYWx1ZVw+</entry>
         <entry encoding="base64">XDxpc1JhdGVcPg==</entry>
         <entry encoding="base64">XDx3ZWlnaHRlZFBvUHJpY2VcPg==</entry>
+        <entry encoding="base64">XDxza3VTZWFyY2hIdHRwUmVxdWVzdFw+</entry>
+        <entry encoding="base64">XDxjbXNSZXN1bHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>248</entry>
