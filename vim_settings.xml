@@ -242,10 +242,6 @@
       <file name="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventBeanPostProcessor.java" timestamp="1532937606182">
         <mark key="'" line="81" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/TradeOverviewSummaryDTask.java" timestamp="1533697914191">
-        <mark key="'" line="69" column="40" />
-        <mark key="[" line="47" column="104" />
-      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/ReadyDataConfig.java" timestamp="1533102529770" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-client/1.0-RELEASE-SNAPSHOT/datacenter-client-1.0-RELEASE-SNAPSHOT-sources.jar!/com/meitu/meipu/datacenter/common/service/read/ComponentReadServiceClient.java" timestamp="1533699825139">
         <mark key="'" line="21" column="34" />
@@ -337,7 +333,7 @@
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/mapper/ConvertMakeupMapper.java" timestamp="1533554547115" />
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/aop/Trace.java" timestamp="1533555825205" />
-      <file name="$USER_HOME$/workspace/crawler/dev.properties" timestamp="1533707371410" />
+      <file name="$USER_HOME$/workspace/crawler/dev.properties" timestamp="1533712821023" />
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/MakeupReadydataRequest.java" timestamp="1533003042617">
         <mark key="'" line="505" column="15" />
       </file>
@@ -570,6 +566,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc-spring/0.2.4-SNAPSHOT/tardis-grpc-spring-0.2.4-20180627.091430-6-sources.jar!/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" timestamp="1532403502976">
         <mark key="'" line="30" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuSubDTO.java" timestamp="1533713062862">
+        <mark key="'" line="348" column="24" />
+        <mark key="[" line="91" column="11" />
+        <mark key="]" line="91" column="52" />
+        <mark key="^" line="91" column="52" />
+        <mark key="." line="91" column="52" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java" timestamp="1533103216364" />
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-mbus/src/main/java/com/meitu/meipu/itemcenter/mbus/handler/base/DBRowEventHandler.java" timestamp="1533199808741">
@@ -808,7 +811,7 @@
         <mark key="." line="3" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-client/src/main/java/com/meitu/meipu/darwin/client/service/MySqlDataConvertMongoDataServiceClient.java" timestamp="1532955791380" />
-      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" timestamp="1533709315049">
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" timestamp="1533712535512">
         <mark key="'" line="93" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/domain/transform/AdsTradeOverviewSummaryDTrans.java" timestamp="1533631761062">
@@ -940,6 +943,9 @@
         <mark key="^" line="100" column="23" />
         <mark key="." line="100" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" timestamp="1533713350208">
+        <mark key="'" line="224" column="44" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/io/SAXReader.class" timestamp="1532186921510">
         <mark key="'" line="139" column="23" />
       </file>
@@ -953,7 +959,9 @@
         <mark key="." line="104" column="22" />
         <mark key="^" line="104" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" timestamp="1533707265866" />
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" timestamp="1533712780141">
+        <mark key="'" line="117" column="44" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java" timestamp="1533697183179">
         <mark key="'" line="871" column="10" />
       </file>
@@ -1006,14 +1014,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1343" column="132" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
-      <jump line="1346" column="93" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
-      <jump line="1344" column="47" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
-      <jump line="115" column="26" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/TradeDataReadManagerImpl.java" />
-      <jump line="246" column="21" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/TradeDataReadManagerImpl.java" />
-      <jump line="249" column="26" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/TradeDataReadManagerImpl.java" />
-      <jump line="251" column="26" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/TradeDataReadManagerImpl.java" />
-      <jump line="254" column="26" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/TradeDataReadManagerImpl.java" />
       <jump line="258" column="26" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/TradeDataReadManagerImpl.java" />
       <jump line="266" column="26" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/TradeDataReadManagerImpl.java" />
       <jump line="270" column="26" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/TradeDataReadManagerImpl.java" />
@@ -1106,6 +1106,14 @@
       <jump line="76" column="12" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
       <jump line="150" column="29" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
       <jump line="93" column="18" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="130" column="48" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" />
+      <jump line="117" column="44" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" />
+      <jump line="83" column="40" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
+      <jump line="93" column="34" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuSubDTO.java" />
+      <jump line="348" column="24" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuSubDTO.java" />
+      <jump line="375" column="56" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
+      <jump line="240" column="44" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
+      <jump line="224" column="44" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
