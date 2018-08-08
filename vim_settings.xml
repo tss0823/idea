@@ -113,12 +113,8 @@
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.25/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class" timestamp="1532676961842">
         <mark key="'" line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuSubDTO.java" timestamp="1533721060789">
-        <mark key="'" line="46" column="19" />
-        <mark key="[" line="91" column="11" />
-        <mark key="]" line="91" column="52" />
-        <mark key="^" line="91" column="52" />
-        <mark key="." line="91" column="52" />
+      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuSubDTO.java" timestamp="1533733898340">
+        <mark key="'" line="352" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/ItemController.java" timestamp="1532401662452">
         <mark key="'" line="412" column="30" />
@@ -490,7 +486,7 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc-spring/0.2.4-SNAPSHOT/tardis-grpc-spring-0.2.4-20180627.091430-6-sources.jar!/com/meitu/tardis/grpc/spring4/JrpcStubFactoryBean.java" timestamp="1532403417843">
         <mark key="'" line="15" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1533699857583">
+      <file name="/fragment.java" timestamp="1533734916074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -586,7 +582,7 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" timestamp="1533722525554">
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" timestamp="1533734921344">
         <mark key="'" line="89" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/domain/transform/AdsTradeOverviewSummaryDTrans.java" timestamp="1533631761062">
@@ -812,12 +808,12 @@
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" timestamp="1533731070742">
-        <mark key="'" line="472" column="66" />
-        <mark key="[" line="470" column="44" />
-        <mark key="]" line="470" column="43" />
-        <mark key="." line="470" column="43" />
-        <mark key="^" line="470" column="43" />
+      <file name="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" timestamp="1533736010518">
+        <mark key="'" line="410" column="118" />
+        <mark key="[" line="332" column="0" />
+        <mark key="]" line="332" column="0" />
+        <mark key="." line="332" column="0" />
+        <mark key="^" line="383" column="49" />
       </file>
       <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/io/SAXReader.class" timestamp="1532186921510">
         <mark key="'" line="139" column="23" />
@@ -950,12 +946,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="24" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuSubDTO.java" />
-      <jump line="224" column="44" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
-      <jump line="117" column="40" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" />
-      <jump line="28" column="20" filename="$MAVEN_REPOSITORY$/com/meitu/meipu/crawler-common/1.1-RELEASE-SNAPSHOT/crawler-common-1.1-RELEASE-SNAPSHOT-sources.jar!/com/meitu/meipu/crawler/domain/dto/CrawlerSkuSubDTO.java" />
-      <jump line="38" column="26" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/request/CrawlerSkuItemSearchRequest.java" />
-      <jump line="68" column="13" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/request/CrawlerSkuItemSearchRequest.java" />
       <jump line="145" column="32" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="56" column="18" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/request/CrawlerSkuItemSearchRequest.java" />
       <jump line="173" column="20" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
@@ -1050,46 +1040,52 @@
       <jump line="107" column="19" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuParDTO.java" />
       <jump line="472" column="66" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="61" column="25" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/request/CrawlerSkuItemSearchRequest.java" />
+      <jump line="85" column="33" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
+      <jump line="28" column="40" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuSubDTO.java" />
+      <jump line="240" column="15" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuSubDTO.java" />
+      <jump line="352" column="13" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuSubDTO.java" />
+      <jump line="409" column="112" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
+      <jump line="410" column="118" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IFRPRE8=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJJTkZPQEl0ZW1Ta3VSZWFkU2VydmljZSwgc2t1IG51bGwgb3IgaXRlbSBudWxsIGZvcnt9IiwgcCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFRPRE8=</text>
+        <text>searchSkuLis</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3Jhd2xlclNrdVBhckRUTy5zZXRQcmljZVBhcml0eShjb21wYXJlU2FsZVByaXZlKGNyYXdsZXJTa3UuZ2V0U2FsZVByaWNlKCksIGNyYXdsZXJTa3VTdWJEVE8uZ2V0U2FsZVByaWNlKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdHVhbFByaWNlID0gQmlnRGVjaW1hbC52YWx1ZU9mKHBvc3RhZ2VQcmljZSkuYWRkKEJpZ0RlY2ltYWwudmFsdWVPZih0YXhQcmljZSkpLmFkZChwcm9tb1ByaWNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJJTkZPQEl0ZW1Ta3VSZWFkU2VydmljZSwgc2t1IG51bGwgb3IgaXRlbSBudWxsIGZvcnt9IiwgcCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnRlZ2VyIHByaWNlUGFyaXR5ID0gZGF0YS5nZXRQcmljZVBhcml0eSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmlnRGVjaW1hbCBjb21wYXJlUHJpY2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCaWdEZWNpbWFsIGNvbXBhcmVBY3R1YWxQcmljZTsKICAgICAgICAgICAgICAgICAgICBpZihwcm9tb1ByaWNlICE9IG51bGwpewogICAgICAgICAgICAgICAgICAgICAgICBjb21wYXJlQWN0dWFsUHJpY2UgPSBCaWdEZWNpbWFsLnZhbHVlT2YocG9zdGFnZVByaWNlKS5hZGQoQmlnRGVjaW1hbC52YWx1ZU9mKHRheFByaWNlKSkuYWRkKGNyYXdsZXJTa3UuZ2V0UHJvbW9QcmljZSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy8KICAgICAgICAgICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICAgICAgICAgY29tcGFyZUFjdHVhbFByaWNlID0gQmlnRGVjaW1hbC52YWx1ZU9mKHBvc3RhZ2VQcmljZSkuYWRkKEJpZ0RlY2ltYWwudmFsdWVPZih0YXhQcmljZSkpLmFkZChjcmF3bGVyU2t1LmdldFNhbGVQcmljZSgpKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29sZWFuIGZsYWcgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihwcm9tb1ByaWNlID09IG51bGwpewogICAgICAgICAgICAgICAgICAgICAgICBiYXNlUHJpY2UgPSBCaWdEZWNpbWFsLnZhbHVlT2YocG9zdGFnZVByaWNlKS5hZGQoQmlnRGVjaW1hbC52YWx1ZU9mKHRheFByaWNlKSkuYWRkKGNyYXdsZXJTa3UuZ2V0U2FsZVByaWNlKCkpOwogICAgICAgICAgICAgICAgICAgICAgICBjb21wYXJlUHJpY2UgPSBCaWdEZWNpbWFsLnZhbHVlT2YocG9zdGFnZVByaWNlKS5hZGQoQmlnRGVjaW1hbC52YWx1ZU9mKHRheFByaWNlKSkuYWRkKGNyYXdsZXJTa3VTdWJEVE8uZ2V0U2FsZVByaWNlKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAvLwogICAgICAgICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgICAgICAgICBiYXNlUHJpY2UgPSBCaWdEZWNpbWFsLnZhbHVlT2YocG9zdGFnZVByaWNlKS5hZGQoQmlnRGVjaW1hbC52YWx1ZU9mKHRheFByaWNlKSkuYWRkKHByb21vUHJpY2UpOwogICAgICAgICAgICAgICAgICAgICAgICBjb21wYXJlUHJpY2UgPSBCaWdEZWNpbWFsLnZhbHVlT2YocG9zdGFnZVByaWNlKS5hZGQoQmlnRGVjaW1hbC52YWx1ZU9mKHRheFByaWNlKSkuYWRkKGNyYXdsZXJTa3VTdWJEVE8uZ2V0UHJvbW90aW9uUHJpY2UoKSk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCaWdEZWNpbWFsIHByb21vUHJpY2UgPSBjcmF3bGVyU2t1LmdldFByb21vUHJpY2UoKTsKICAgICAgICAgICAgICAgICAgICBCaWdEZWNpbWFsIGNvbXBhcmVQcmljZTsKICAgICAgICAgICAgICAgICAgICBkb3VibGUgcG9zdGFnZVByaWNlID0gMDsKICAgICAgICAgICAgICAgICAgICBkb3VibGUgdGF4UHJpY2UgPSAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2VQcmljZSA9IEJpZ0RlY2ltYWwudmFsdWVPZihwb3N0YWdlUHJpY2UpLmFkZChCaWdEZWNpbWFsLnZhbHVlT2YodGF4UHJpY2UpKS5hZGQocHJvbW9QcmljZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXBhcmVQcmljZSA9IEJpZ0RlY2ltYWwudmFsdWVPZihwb3N0YWdlUHJpY2UpLmFkZChCaWdEZWNpbWFsLnZhbHVlT2YodGF4UHJpY2UpKS5hZGQoY3Jhd2xlclNrdVN1YkRUTy5nZXRQcm9tb3Rpb25QcmljZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3Jhd2xlclNrdVBhckRUTy5zZXRQcmljZVBhcml0eShjb21wYXJlU2FsZVByaXZlKGNyYXdsZXJTa3UuZ2V0U2FsZVByaWNlKCksIGNyYXdsZXJTa3VTdWJEVE8uZ2V0U2FsZVByaWNlKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXBhcmVQcmljZSA9IEJpZ0RlY2ltYWwudmFsdWVPZihwb3N0YWdlUHJpY2UpLmFkZChCaWdEZWNpbWFsLnZhbHVlT2YodGF4UHJpY2UpKS5hZGQoY3Jhd2xlclNrdVN1YkRUTy5nZXRTYWxlUHJpY2UoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>265</text>
