@@ -179,8 +179,8 @@
         <mark key="^" line="280" column="115" />
         <mark key="." line="280" column="115" />
       </file>
-      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuParDTO.java" timestamp="1533719522749">
-        <mark key="'" line="44" column="19" />
+      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuParDTO.java" timestamp="1533730961537">
+        <mark key="'" line="107" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/deploy/src/main/resources/applicationContext-web.xml" timestamp="1532520600643">
         <mark key="'" line="10" column="85" />
@@ -708,8 +708,8 @@
         <mark key="." line="96" column="34" />
         <mark key="^" line="96" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/request/CrawlerSkuItemSearchRequest.java" timestamp="1533722021310">
-        <mark key="'" line="48" column="29" />
+      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/request/CrawlerSkuItemSearchRequest.java" timestamp="1533730981728">
+        <mark key="'" line="61" column="25" />
         <mark key="[" line="46" column="4" />
         <mark key="]" line="48" column="29" />
         <mark key="^" line="48" column="29" />
@@ -812,12 +812,12 @@
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" timestamp="1533722680644">
-        <mark key="'" line="391" column="63" />
-        <mark key="[" line="401" column="138" />
-        <mark key="]" line="401" column="137" />
-        <mark key="." line="401" column="137" />
-        <mark key="^" line="401" column="137" />
+      <file name="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" timestamp="1533731070742">
+        <mark key="'" line="472" column="66" />
+        <mark key="[" line="470" column="44" />
+        <mark key="]" line="470" column="43" />
+        <mark key="." line="470" column="43" />
+        <mark key="^" line="470" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/io/SAXReader.class" timestamp="1532186921510">
         <mark key="'" line="139" column="23" />
@@ -950,13 +950,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="21" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
-      <jump line="74" column="42" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
-      <jump line="75" column="12" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
-      <jump line="76" column="12" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
-      <jump line="150" column="29" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
-      <jump line="93" column="18" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
-      <jump line="93" column="34" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuSubDTO.java" />
       <jump line="348" column="24" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuSubDTO.java" />
       <jump line="224" column="44" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="117" column="40" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" />
@@ -1050,65 +1043,67 @@
       <jump line="48" column="29" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/request/CrawlerSkuItemSearchRequest.java" />
       <jump line="388" column="104" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="391" column="63" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
+      <jump line="408" column="69" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
+      <jump line="463" column="0" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
+      <jump line="470" column="45" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
+      <jump line="474" column="60" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
+      <jump line="107" column="19" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuParDTO.java" />
+      <jump line="472" column="66" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
+      <jump line="61" column="25" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/request/CrawlerSkuItemSearchRequest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IFRPRE8=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IFRPRE8=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb252ZXJ0XD4=</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG91YmxlIHBvc3RhZ2UgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3Jhd2xlclNrdVBhckRUTy5zZXRQcmljZVBhcml0eShjb21wYXJlU2FsZVByaXZlKGNyYXdsZXJTa3UuZ2V0U2FsZVByaWNlKCksIGNyYXdsZXJTa3VTdWJEVE8uZ2V0U2FsZVByaWNlKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnRlZ2VyIHByaWNlUGFyaXR5ID0gZGF0YS5nZXRQcmljZVBhcml0eSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjcmF3bGVyU2t1UGFyRFRPLnNldFByaWNlUGFyaXR5KGNvbXBhcmVTYWxlUHJpdmUoY3Jhd2xlclNrdS5nZXRTYWxlUHJpY2UoKSwgY3Jhd2xlclNrdVN1YkRUTy5nZXRTYWxlUHJpY2UoKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>switch (priceComparedType){
-                        case  PriceComparedTypeEnum.SALE.getCode(),
-                            
-                            
-                    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29sZWFuIGZsYWcgPSB0cnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2ggKGluKXsKICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBpOgogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBQcmljZUNvbXBhcmVkVHlwZUVudW0uU0FMRS5nZXRDb2RlKCk6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRydWU7ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL+S4u+S9k+iusOW9lQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3Jhd2xlclNrdVBhckRUTy5zZXRQcmljZVBhcml0eShjb21wYXJlU2FsZVByaXZlKGNyYXdsZXJTa3UuZ2V0U2FsZVByaWNlKCksIGNyYXdsZXJTa3VTdWJEVE8uZ2V0U2FsZVByaWNlKCkpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>265</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb252ZXJ0XD4=</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb252ZXJ0XD4=</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzb3VyY2VWYWx1ZVw+</entry>
         <entry encoding="base64">XDxpc1JhdGVcPg==</entry>
         <entry encoding="base64">XDx3ZWlnaHRlZFBvUHJpY2VcPg==</entry>
         <entry encoding="base64">XDxza3VTZWFyY2hIdHRwUmVxdWVzdFw+</entry>
@@ -1128,6 +1123,7 @@
         <entry encoding="base64">XDxwb3N0YWdlU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxjcmF3bGVyUmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxjb252ZXJ0XD4=</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry>248</entry>
