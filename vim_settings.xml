@@ -193,18 +193,21 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-client/1.1-SNAPSHOT/itemcenter-client-1.1-20180718.060223-522.jar!/com/meitu/meipu/itemcenter/client/backend/ItemReadServiceClient.class" timestamp="1532401389885">
         <mark key="'" line="118" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/RealTimeDataServiceImpl.java" timestamp="1533822085577">
+        <mark key="'" line="72" column="96" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" timestamp="1533554114925">
         <mark key="'" line="198" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/DefaultMBusMessageHandler.java" timestamp="1532935575737">
         <mark key="'" line="28" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" timestamp="1533821049049">
-        <mark key="'" line="1229" column="70" />
-        <mark key="[" line="1396" column="53" />
-        <mark key="]" line="1396" column="53" />
-        <mark key="." line="1396" column="53" />
-        <mark key="^" line="108" column="56" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" timestamp="1533822350478">
+        <mark key="'" line="1378" column="38" />
+        <mark key="[" line="1380" column="53" />
+        <mark key="]" line="1380" column="56" />
+        <mark key="." line="1380" column="56" />
+        <mark key="^" line="1380" column="56" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6.jar!/com/meitu/tardis/meta/NodeBase.class" timestamp="1532336892361">
         <mark key="'" line="35" column="15" />
@@ -384,8 +387,12 @@
         <mark key="'" line="61" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/beta.properties" timestamp="1533803555897" />
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/utils/DataConvertUtil.java" timestamp="1533820791129">
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/utils/DataConvertUtil.java" timestamp="1533822669068">
         <mark key="'" line="232" column="44" />
+        <mark key="[" line="232" column="41" />
+        <mark key="]" line="232" column="44" />
+        <mark key="^" line="232" column="44" />
+        <mark key="." line="232" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadyDataWrapper.java" timestamp="1532485708707">
         <mark key="'" line="26" column="20" />
@@ -524,6 +531,13 @@
       <file name="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/EntityServiceImpl.java" timestamp="1532066159246">
         <mark key="'" line="75" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/AdsTradeOverviewSummaryD.java" timestamp="1533822176491">
+        <mark key="'" line="484" column="29" />
+        <mark key="[" line="102" column="35" />
+        <mark key="]" line="104" column="22" />
+        <mark key="." line="104" column="22" />
+        <mark key="^" line="104" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" timestamp="1533786283090">
         <mark key="'" line="121" column="45" />
       </file>
@@ -604,12 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="21" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" />
-      <jump line="123" column="29" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" />
-      <jump line="49" column="19" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/domain/response/CrawlerSkuSubVO.java" />
-      <jump line="90" column="53" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
-      <jump line="89" column="62" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
-      <jump line="437" column="55" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="384" column="32" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="383" column="64" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="381" column="23" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
@@ -704,61 +712,72 @@
       <jump line="232" column="44" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/utils/DataConvertUtil.java" />
       <jump line="1396" column="58" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
       <jump line="1229" column="70" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
+      <jump line="72" column="96" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/RealTimeDataServiceImpl.java" />
+      <jump line="1232" column="68" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
+      <jump line="1395" column="100" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
+      <jump line="1454" column="50" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
+      <jump line="1217" column="53" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
+      <jump line="1378" column="38" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>else if(metric.equals(AdsTradeMetricEnum.RED_PACK_AMOUNT.getCode())){
+                    sourceValue = MathUtils.divideRateCanBeNull(sourceSummary.getPayUv(),sourceSummary.getDau());
+                    compareValue = MathUtils.divideRateCanBeNull(p.getPayUv(),p.getDau());
+                }</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdCdXllckZyb21OZXdEZXZcPg==</text>
+        <text encoding="base64">XDxEQVVfQkFSR0FJTl9DT05WRVJTRV9SQVRFXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByYXRlRGVjaXNpb25NYXAucHV0KEFkc1RyYWRlTWV0cmljRW51bS5JVEVNX0JST1dTRV9SQVRFLmdldENvZGUoKSx0cnVlKTsKCiAgICAgICAgcmF0ZURlY2lzaW9uTWFwLnB1dChBZHNUcmFkZU1ldHJpY0VudW0uSVRFTV9TRUxMX1JBVEUuZ2V0Q29kZSgpLHRydWUpOwoKICAgICAgICByYXRlRGVjaXNpb25NYXAucHV0KEFkc1RyYWRlTWV0cmljRW51bS5JVEVNX0FCU0VOQ0VfUkFURS5nZXRDb2RlKCksdHJ1ZSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYXRlRGVjaXNpb25NYXAucHV0KEFkc1RyYWRlTWV0cmljRW51bS5ORVdfQlVZRVJfRlJPTV9ORVdfREVWLmdldENvZGUoKSx0cnVlKTsK</text>
+      <register name="1" type="4">
+        <text>else if(metric.equals(AdsTradeMetricEnum.RED_PACK_AMOUNT.getCode())){
+                    sourceValue = MathUtils.divideRateCanBeNull(sourceSummary.getPayUv(),sourceSummary.getDau());
+                    compareValue = MathUtils.divideRateCanBeNull(p.getPayUv(),p.getDau());
+                }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYXRlRGVjaXNpb25NYXAucHV0KEFkc1RyYWRlTWV0cmljRW51bS5SRURfUEFDS19BTU9VTlQuZ2V0Q29kZSgpLHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eSA9ICJyZWRQYWNrUGFpZCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYXRlRGVjaXNpb25NYXAucHV0KEFkc1RyYWRlTWV0cmljRW51bS5ORVdfQlVZRVJfRlJPTV9ORVdfREVWLmdldENvZGUoKSx0cnVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjcmF3bGVyQWxsSW5mb0xpc3QgPSBjcmF3bGVyQWxsSW5mb0pvaW5DcmF3bGVyU2t1TWFwcGVyLnNlbGVjdEJ5RXhhbXBsZVdpdGhvdXRQYWlyKGV4YW1wbGUpOwogICAgICAgIHRvdGFsID0gY3Jhd2xlckFsbEluZm9Kb2luQ3Jhd2xlclNrdU1hcHBlci5jb3VudEJ5RXhhbXBsZVdpdGhvdXRQYWlyKGV4YW1wbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICByYXRlRGVjaXNpb25NYXAucHV0KEFkc1RyYWRlTWV0cmljRW51bS5SRURfUEFDS19BTU9VTlQuZ2V0Q29kZSgpLHRydWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJJTkZPQEl0ZW1Ta3VSZWFkU2VydmljZSwgc2t1IG51bGwgb3IgaXRlbSBudWxsIGZvcnt9IiwgcCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmlnRGVjaW1hbCBjb21wYXJlUHJpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmF3bGVyQWxsSW5mb0xpc3QgPSBjcmF3bGVyQWxsSW5mb0pvaW5DcmF3bGVyU2t1TWFwcGVyLnNlbGVjdEJ5RXhhbXBsZVdpdGhvdXRQYWlyKGV4YW1wbGUpOwogICAgICAgIHRvdGFsID0gY3Jhd2xlckFsbEluZm9Kb2luQ3Jhd2xlclNrdU1hcHBlci5jb3VudEJ5RXhhbXBsZVdpdGhvdXRQYWlyKGV4YW1wbGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCaWdEZWNpbWFsIGNvbXBhcmVBY3R1YWxQcmljZTsKICAgICAgICAgICAgICAgICAgICBpZihwcm9tb1ByaWNlICE9IG51bGwpewogICAgICAgICAgICAgICAgICAgICAgICBjb21wYXJlQWN0dWFsUHJpY2UgPSBCaWdEZWNpbWFsLnZhbHVlT2YocG9zdGFnZVByaWNlKS5hZGQoQmlnRGVjaW1hbC52YWx1ZU9mKHRheFByaWNlKSkuYWRkKGNyYXdsZXJTa3UuZ2V0UHJvbW9QcmljZSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy8KICAgICAgICAgICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICAgICAgICAgY29tcGFyZUFjdHVhbFByaWNlID0gQmlnRGVjaW1hbC52YWx1ZU9mKHBvc3RhZ2VQcmljZSkuYWRkKEJpZ0RlY2ltYWwudmFsdWVPZih0YXhQcmljZSkpLmFkZChjcmF3bGVyU2t1LmdldFNhbGVQcmljZSgpKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJJTkZPQEl0ZW1Ta3VSZWFkU2VydmljZSwgc2t1IG51bGwgb3IgaXRlbSBudWxsIGZvcnt9IiwgcCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>265</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdCdXllckZyb21OZXdEZXZcPg==</last-search>
+      <last-search encoding="base64">XDxEQVVfQkFSR0FJTl9DT05WRVJTRV9SQVRFXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdCdXllckZyb21OZXdEZXZcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxEQVVfQkFSR0FJTl9DT05WRVJTRV9SQVRFXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmF3bGVyU2t1TGlzdFw+</entry>
         <entry encoding="base64">XDxjcmF3bGVyU2t1U3ViRFRPTGlzdFw+</entry>
         <entry encoding="base64">XDxza3VEVE9NYXBcPg==</entry>
         <entry encoding="base64">XDxpdGVtSXRlbVJlc3VsdFw+</entry>
@@ -778,6 +797,7 @@
         <entry encoding="base64">XDxQQVlfQU1PVU5UXD4=</entry>
         <entry encoding="base64">XDxtZXRyaWNzRFRPU1w+</entry>
         <entry encoding="base64">XDxuZXdCdXllckZyb21OZXdEZXZcPg==</entry>
+        <entry encoding="base64">XDxEQVVfQkFSR0FJTl9DT05WRVJTRV9SQVRFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>248</entry>
