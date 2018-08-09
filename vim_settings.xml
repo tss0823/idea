@@ -113,7 +113,7 @@
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.25/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class" timestamp="1532676961842">
         <mark key="'" line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuSubDTO.java" timestamp="1533733898340">
+      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuSubDTO.java" timestamp="1533784479671">
         <mark key="'" line="352" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/ItemController.java" timestamp="1532401662452">
@@ -175,7 +175,7 @@
         <mark key="^" line="280" column="115" />
         <mark key="." line="280" column="115" />
       </file>
-      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuParDTO.java" timestamp="1533730961537">
+      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuParDTO.java" timestamp="1533784334333">
         <mark key="'" line="107" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/deploy/src/main/resources/applicationContext-web.xml" timestamp="1532520600643">
@@ -455,8 +455,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/nio/charset/CharsetEncoder.java" timestamp="1533536791652">
         <mark key="'" line="578" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/domain/response/CrawlerSkuSubVO.java" timestamp="1533720600712">
-        <mark key="'" line="49" column="19" />
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/domain/response/CrawlerSkuSubVO.java" timestamp="1533784380054">
+        <mark key="'" line="89" column="34" />
+        <mark key="[" line="87" column="50" />
+        <mark key="]" line="89" column="34" />
+        <mark key="^" line="89" column="34" />
+        <mark key="." line="89" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" timestamp="1533695237008">
         <mark key="'" line="115" column="42" />
@@ -582,8 +586,8 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" timestamp="1533736182021">
-        <mark key="'" line="74" column="32" />
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" timestamp="1533784370345">
+        <mark key="'" line="72" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/domain/transform/AdsTradeOverviewSummaryDTrans.java" timestamp="1533631761062">
         <mark key="'" line="106" column="23" />
@@ -831,8 +835,8 @@
         <mark key="." line="104" column="22" />
         <mark key="^" line="104" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" timestamp="1533720595500">
-        <mark key="'" line="123" column="29" />
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" timestamp="1533784395835">
+        <mark key="'" line="132" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-common/src/main/java/com/meitu/meipu/itemcenter/domain/dto/ItemFullDTO.java" timestamp="1532423317325">
         <mark key="'" line="34" column="18" />
@@ -946,15 +950,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="20" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
-      <jump line="211" column="12" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
-      <jump line="374" column="47" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
-      <jump line="318" column="11" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/crawler/crawler-dal/src/main/java/com/meitu/meipu/crawler/domain/CrawlerAllInfo.java" />
-      <jump line="149" column="12" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
-      <jump line="153" column="16" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
-      <jump line="174" column="20" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
-      <jump line="212" column="12" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="215" column="36" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="219" column="35" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="220" column="36" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
@@ -1010,7 +1005,6 @@
       <jump line="380" column="37" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="454" column="38" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="131" column="35" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" />
-      <jump line="132" column="48" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" />
       <jump line="130" column="21" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" />
       <jump line="123" column="29" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" />
       <jump line="49" column="19" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/domain/response/CrawlerSkuSubVO.java" />
@@ -1035,7 +1029,6 @@
       <jump line="463" column="0" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="470" column="45" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="474" column="60" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
-      <jump line="107" column="19" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuParDTO.java" />
       <jump line="472" column="66" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="61" column="25" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/request/CrawlerSkuItemSearchRequest.java" />
       <jump line="85" column="33" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
@@ -1044,8 +1037,19 @@
       <jump line="352" column="13" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuSubDTO.java" />
       <jump line="409" column="112" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="410" column="118" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
-      <jump line="165" column="20" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
-      <jump line="74" column="32" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="74" column="42" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="75" column="12" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="76" column="12" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="78" column="36" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="79" column="12" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="81" column="43" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="165" column="15" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="117" column="38" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" />
+      <jump line="103" column="36" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" />
+      <jump line="107" column="19" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuParDTO.java" />
+      <jump line="72" column="33" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" />
+      <jump line="89" column="34" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/domain/response/CrawlerSkuSubVO.java" />
+      <jump line="132" column="43" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/item/helper/CrawlerHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1055,7 +1059,7 @@
         <text>searchSkuLis</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text encoding="base64">XDxjbXNSZXN1bHRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdHVhbFByaWNlID0gQmlnRGVjaW1hbC52YWx1ZU9mKHBvc3RhZ2VQcmljZSkuYWRkKEJpZ0RlY2ltYWwudmFsdWVPZih0YXhQcmljZSkpLmFkZChwcm9tb1ByaWNlKTsK</text>
@@ -1092,9 +1096,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search encoding="base64">XDxjbXNSZXN1bHRcPg==</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern encoding="base64">XDxjbXNSZXN1bHRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1103,7 +1107,6 @@
         <entry encoding="base64">XDxpc1JhdGVcPg==</entry>
         <entry encoding="base64">XDx3ZWlnaHRlZFBvUHJpY2VcPg==</entry>
         <entry encoding="base64">XDxza3VTZWFyY2hIdHRwUmVxdWVzdFw+</entry>
-        <entry encoding="base64">XDxjbXNSZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxwcmljZVBhcml0eVw+</entry>
         <entry encoding="base64">XDxwcmljZUNvbXBhcmVkXD4=</entry>
         <entry encoding="base64">XDxnZXRQcmljZUNvbXBhcmVkXD4=</entry>
@@ -1120,6 +1123,7 @@
         <entry encoding="base64">XDxjcmF3bGVyUmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxjb252ZXJ0XD4=</entry>
         <entry>TODO</entry>
+        <entry encoding="base64">XDxjbXNSZXN1bHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>248</entry>
