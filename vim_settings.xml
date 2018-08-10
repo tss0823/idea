@@ -318,12 +318,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.2.RELEASE/spring-core-4.3.2.RELEASE.jar!/org/springframework/util/ReflectionUtils.class" timestamp="1533200021714">
         <mark key="'" line="508" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/DarwinScheduledController.java" timestamp="1533869018992">
-        <mark key="'" line="32" column="43" />
-        <mark key="[" line="33" column="15" />
-        <mark key="]" line="33" column="17" />
-        <mark key="^" line="33" column="17" />
-        <mark key="." line="33" column="17" />
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/DarwinScheduledController.java" timestamp="1533869770100">
+        <mark key="'" line="37" column="25" />
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="30" column="20" />
+        <mark key="." line="30" column="20" />
+        <mark key="^" line="30" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/resources/mysql/mapper/TradeStatisticsMapper.xml" timestamp="1533636166120">
         <mark key="'" line="96" column="45" />
@@ -431,6 +431,7 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MongoMakeupManagerImpl.java" timestamp="1533090459251">
         <mark key="'" line="20" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/darwin-common/1.0-RELEASE-SNAPSHOT/darwin-common-1.0-RELEASE-20180809.074402-53.jar!/com/meitu/meipu/darwin/common/service/DBSyncService.class" timestamp="1533869586415" />
       <file name="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/CrawlerJobHttpManager.java" timestamp="1532681670582">
         <mark key="'" line="73" column="34" />
       </file>
@@ -643,10 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="393" column="29" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
-      <jump line="458" column="41" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
-      <jump line="338" column="40" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
-      <jump line="327" column="16" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="144" column="64" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="83" column="73" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="48" column="29" filename="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/request/CrawlerSkuItemSearchRequest.java" />
@@ -743,13 +740,17 @@
       <jump line="1707" column="109" filename="$USER_HOME$/workspace/cms/cms-web/src/main/resources/tardis/cms-tardis-consumer.xml" />
       <jump line="30" column="75" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/DarwinScheduledController.java" />
       <jump line="32" column="43" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/DarwinScheduledController.java" />
+      <jump line="33" column="27" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/DarwinScheduledController.java" />
+      <jump line="36" column="25" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/DarwinScheduledController.java" />
+      <jump line="35" column="23" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/DarwinScheduledController.java" />
+      <jump line="37" column="25" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/DarwinScheduledController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>result</text>
+        <text>推送评测消息到社区</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>推送评测消息到社区</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVVfQkFSR0FJTl9DT05WRVJTRV9SQVRFXD4=</text>
@@ -757,35 +758,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxiZWFuIGlkPSJkQlN5bmNTZXJ2aWNlIiBjbGFzcz0iY29tLm1laXR1LnRhcmRpcy5ncnBjLnNwcmluZzQuSnJwY1N0dWJGYWN0b3J5QmVhbiI+CiAgICAgICAgPGNvbnN0cnVjdG9yLWFyZyBuYW1lPSJvcHRpb25zIiByZWY9ImNsaWVudE9wdGlvbnMiIC8+CiAgICAgICAgPGNvbnN0cnVjdG9yLWFyZyBuYW1lPSJpbnRlcmZhY2VDbHMiIHZhbHVlPSJjb20ubWVpdHUubWVpcHUuZGFyd2luLmNvbW1vbi5zZXJ2aWNlLkRCU3luY1NlcnZpY2UiIC8+CiAgICA8L2JlYW4+Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBEQlN5bmNUYXNrUmVxdWVzdCgpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBDb21tdW5pdHlFdmFsdWF0ZVJlcXVlc3QgY29tbXVuaXR5RXZhbHVhdGVSZXF1ZXN0ID0gbmV3IENvbW11bml0eUV2YWx1YXRlUmVxdWVzdCgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIm9rIjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgUmVxdWVzdCB0aW1lb3V0IGZvciBpY21wX3NlcSA2Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgcHVzaEV2YWx1YXRlVG9Db21tdW5pdHkoKXsK</text>
+      </register>
+      <register name="7" type="4">
         <text>else if(metric.equals(AdsTradeMetricEnum.RED_PACK_AMOUNT.getCode())){
                     sourceValue = MathUtils.divideRateCanBeNull(sourceSummary.getPayUv(),sourceSummary.getDau());
                     compareValue = MathUtils.divideRateCanBeNull(p.getPayUv(),p.getDau());
                 }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eSA9ICJyZWRQYWNrUGFpZCI7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYXRlRGVjaXNpb25NYXAucHV0KEFkc1RyYWRlTWV0cmljRW51bS5ORVdfQlVZRVJfRlJPTV9ORVdfREVWLmdldENvZGUoKSx0cnVlKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYXRlRGVjaXNpb25NYXAucHV0KEFkc1RyYWRlTWV0cmljRW51bS5SRURfUEFDS19BTU9VTlQuZ2V0Q29kZSgpLHRydWUpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjcmF3bGVyQWxsSW5mb0xpc3QgPSBjcmF3bGVyQWxsSW5mb0pvaW5DcmF3bGVyU2t1TWFwcGVyLnNlbGVjdEJ5RXhhbXBsZVdpdGhvdXRQYWlyKGV4YW1wbGUpOwogICAgICAgIHRvdGFsID0gY3Jhd2xlckFsbEluZm9Kb2luQ3Jhd2xlclNrdU1hcHBlci5jb3VudEJ5RXhhbXBsZVdpdGhvdXRQYWlyKGV4YW1wbGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJJTkZPQEl0ZW1Ta3VSZWFkU2VydmljZSwgc2t1IG51bGwgb3IgaXRlbSBudWxsIGZvcnt9IiwgcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eSA9ICJyZWRQYWNrUGFpZCI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>265</text>
