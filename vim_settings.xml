@@ -132,7 +132,7 @@
         <mark key="'" line="1156" column="88" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/concurrent/ScheduledService.java" timestamp="1533867924002" />
-      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/MakeupIemCategoryController.java" timestamp="1533868135987" />
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/MakeupIemCategoryController.java" timestamp="1533869027911" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/io/Resources.java" timestamp="1532854739607">
         <mark key="'" line="255" column="25" />
       </file>
@@ -229,6 +229,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Double.java" timestamp="1533647026777">
         <mark key="'" line="48" column="54" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/darwin-query-common/1.0-RELEASE-SNAPSHOT/darwin-query-common-1.0-RELEASE-20180807.060829-32.jar!/com/meitu/meipu/darwin/query/common/service/EvaluateService.class" timestamp="1533868596145" />
       <file name="$USER_HOME$/workspace/zhushou/zhushou-web/zplugin/src/com/yuntao/zhushou/zplugin/ui/FieldSelForm.java" timestamp="1532068040686">
         <mark key="'" line="164" column="45" />
       </file>
@@ -262,12 +263,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.3.2.RELEASE/spring-tx-4.3.2.RELEASE.jar!/org/springframework/transaction/support/TransactionTemplate.class" timestamp="1533200041280">
         <mark key="'" line="47" column="38" />
-      </file>
-      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/enums/PriceComparedTypeEnum.java" timestamp="1533722099838">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="3" column="6" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/lib/xercesImpl.jar!/org/apache/xerces/parsers/AbstractSAXParser.class" timestamp="1532750520549">
         <mark key="'" line="53" column="109" />
@@ -323,11 +318,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.2.RELEASE/spring-core-4.3.2.RELEASE.jar!/org/springframework/util/ReflectionUtils.class" timestamp="1533200021714">
         <mark key="'" line="508" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/DarwinScheduledController.java" timestamp="1533868426113">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="23" column="13" />
-        <mark key="^" line="23" column="13" />
-        <mark key="." line="23" column="13" />
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/DarwinScheduledController.java" timestamp="1533869018992">
+        <mark key="'" line="32" column="43" />
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="17" />
+        <mark key="^" line="33" column="17" />
+        <mark key="." line="33" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/resources/mysql/mapper/TradeStatisticsMapper.xml" timestamp="1533636166120">
         <mark key="'" line="96" column="45" />
@@ -647,8 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="385" column="37" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
-      <jump line="397" column="47" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="393" column="29" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="458" column="41" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
       <jump line="338" column="40" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/ItemSkuReadServiceImpl.java" />
@@ -747,13 +741,15 @@
       <jump line="1688" column="14" filename="$USER_HOME$/workspace/cms/cms-web/src/main/resources/tardis/cms-tardis-consumer.xml" />
       <jump line="1703" column="99" filename="$USER_HOME$/workspace/cms/cms-web/src/main/resources/tardis/cms-tardis-consumer.xml" />
       <jump line="1707" column="109" filename="$USER_HOME$/workspace/cms/cms-web/src/main/resources/tardis/cms-tardis-consumer.xml" />
+      <jump line="30" column="75" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/DarwinScheduledController.java" />
+      <jump line="32" column="43" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/DarwinScheduledController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text>result</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVVfQkFSR0FJTl9DT05WRVJTRV9SQVRFXD4=</text>
