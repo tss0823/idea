@@ -475,7 +475,11 @@
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1532676951128">
         <mark key="'" line="417" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/conf/config.properties" timestamp="1534080656350" />
+      <file name="$USER_HOME$/workspace/zhushou/conf/config.properties" timestamp="1534082677024">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-web/src/main/java/com/meitu/meipu/itemcenter/listener/SystemStartupListener.java" timestamp="1532415084658">
         <mark key="'" line="18" column="33" />
       </file>
@@ -1073,10 +1077,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXRjaFRvU2F2ZVw+</text>
