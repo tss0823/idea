@@ -8,6 +8,7 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-common/1.1-SNAPSHOT/itemcenter-common-1.1-20180719.034844-543.jar!/com/meitu/meipu/itemcenter/domain/dto/SkuDTO.class" timestamp="1532073055923">
         <mark key="'" line="470" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisPort.java" timestamp="1534086332724" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6.jar!/com/meitu/tardis/meta/ProviderNode.class" timestamp="1532336875358">
         <mark key="'" line="24" column="11" />
       </file>
@@ -52,6 +53,9 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" timestamp="1533697706526">
         <mark key="'" line="44" column="57" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" timestamp="1534084242840">
+        <mark key="'" line="180" column="23" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.25/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class" timestamp="1532676961842">
         <mark key="'" line="13" column="39" />
       </file>
@@ -80,11 +84,6 @@
       </file>
       <file name="$USER_HOME$/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/CustomizedPropertyConfigurer.java" timestamp="1532657358844">
         <mark key="'" line="25" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-common/src/main/java/com/meitu/meipu/darwin/query/common/domain/dto/ReadyDataEvaluateDTO.java" timestamp="1533179121664">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/pre.properties" timestamp="1533795123350" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/org/xml/sax/InputSource.java" timestamp="1532186896911">
@@ -144,7 +143,7 @@
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/adapter/HttpAdapter.java" timestamp="1533554886231">
         <mark key="'" line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/dev.properties" timestamp="1533116901852">
+      <file name="$USER_HOME$/workspace/darwin/dev.properties" timestamp="1534085801481">
         <mark key="[" line="83" column="46" />
         <mark key="]" line="83" column="46" />
         <mark key="." line="83" column="46" />
@@ -230,12 +229,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533954218254">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1533819536393" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1534085860595" />
       <file name="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventBeanPostProcessor.java" timestamp="1532937606182">
         <mark key="'" line="81" column="37" />
       </file>
@@ -328,6 +322,9 @@
       <file name="$USER_HOME$/workspace/pay/src/main/java/com/pay/controller/MoneyController.java" timestamp="1533953895602" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/JrpcClient.java" timestamp="1532333945747">
         <mark key="'" line="61" column="26" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/CustomJedisPool.java" timestamp="1534086022322">
+        <mark key="'" line="14" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/MakeupReadydataRequest.java" timestamp="1533003042617">
         <mark key="'" line="505" column="15" />
@@ -444,6 +441,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="15" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/deploy/src/main/resources/logback.xml" timestamp="1534085512125" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-registry-etcd/0.2.4-SNAPSHOT/tardis-registry-etcd-0.2.4-20180627.091422-6-sources.jar!/com/meitu/tardis/registry/etcd/EtcdDiscoveryService.java" timestamp="1532347975095">
         <mark key="'" line="41" column="48" />
       </file>
@@ -475,7 +473,7 @@
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1532676951128">
         <mark key="'" line="417" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/conf/config.properties" timestamp="1534083493770">
+      <file name="$USER_HOME$/workspace/zhushou/conf/config.properties" timestamp="1534084072983">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="34" />
         <mark key="." line="3" column="34" />
@@ -486,10 +484,13 @@
       <file name="$USER_HOME$/workspace/crawler/crawler-dal/src/main/resources/mybatis/mapper/CrawlerItemMapper.xml" timestamp="1532917778768">
         <mark key="'" line="246" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/JedisPoolFactory.java" timestamp="1534086014184">
+        <mark key="'" line="10" column="49" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/ClusterClientBuilder.java" timestamp="1532348562412">
         <mark key="'" line="141" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/UserServiceImpl.java" timestamp="1534084013487">
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/UserServiceImpl.java" timestamp="1534084025891">
         <mark key="'" line="71" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/OffLineDataServiceImpl.java" timestamp="1532141320159">
@@ -642,9 +643,13 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/redis/darwin-redis-config.xml" timestamp="1534085904499">
+        <mark key="'" line="26" column="64" />
+      </file>
       <file name="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/DefaultMBusMessageHandler.java" timestamp="1532935575737">
         <mark key="'" line="28" column="71" />
       </file>
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/deploy/target/deploy/WEB-INF/classes/logback.xml" timestamp="1534085579110" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/TradeDataController.java" timestamp="1533820643010">
         <mark key="'" line="114" column="25" />
       </file>
@@ -681,6 +686,9 @@
       </file>
       <file name="$USER_HOME$/workspace/itemcenter/itemcenter-backend/src/main/java/com/meitu/meipu/itemcenter/proc/components/base/TransactionComponent.java" timestamp="1533199856853">
         <mark key="'" line="39" column="43" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/DomainResolvingJedisFactory.java" timestamp="1534086146682">
+        <mark key="'" line="39" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/MongoMakeupDO.java" timestamp="1533540784696">
         <mark key="'" line="19" column="6" />
@@ -736,11 +744,6 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1533734916074">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pay/src/main/java/com/pay/entity/UserRole.java" timestamp="1533955375960" />
       <file name="$MAVEN_REPOSITORY$/io/grpc/grpc-stub/1.5.0/grpc-stub-1.5.0.jar!/io/grpc/stub/AbstractStub.class" timestamp="1532333759199">
@@ -851,7 +854,7 @@
         <mark key="'" line="6788" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/pay/src/main/java/com/pay/service/UserService.java" timestamp="1533954021697" />
-      <file name="$USER_HOME$/workspace/datacenter/dev.properties" timestamp="1534071169127">
+      <file name="$USER_HOME$/workspace/datacenter/dev.properties" timestamp="1534085493772">
         <mark key="[" line="104" column="48" />
         <mark key="]" line="104" column="48" />
         <mark key="." line="104" column="48" />
@@ -977,21 +980,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="115" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="116" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="117" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="129" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="130" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="133" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="134" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="137" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="138" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="139" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="141" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="142" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="143" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="144" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="145" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="146" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="147" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
@@ -1077,6 +1065,21 @@
       <jump line="1961" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
       <jump line="2118" column="81" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
       <jump line="71" column="16" filename="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/UserServiceImpl.java" />
+      <jump line="24" column="13" filename="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" />
+      <jump line="96" column="18" filename="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" />
+      <jump line="60" column="22" filename="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" />
+      <jump line="70" column="15" filename="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" />
+      <jump line="77" column="36" filename="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" />
+      <jump line="78" column="22" filename="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" />
+      <jump line="31" column="69" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/redis/darwin-redis-config.xml" />
+      <jump line="184" column="19" filename="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" />
+      <jump line="32" column="28" filename="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" />
+      <jump line="180" column="23" filename="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" />
+      <jump line="19" column="61" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/redis/darwin-redis-config.xml" />
+      <jump line="26" column="64" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/redis/darwin-redis-config.xml" />
+      <jump line="10" column="49" filename="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/JedisPoolFactory.java" />
+      <jump line="14" column="44" filename="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/CustomJedisPool.java" />
+      <jump line="39" column="45" filename="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/DomainResolvingJedisFactory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1086,7 +1089,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXRjaFRvU2F2ZVw+</text>
+        <text encoding="base64">XDxtYXN0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBub3RMb2dpblNlcnZsZXRQYXRoLmFkZCgiL2Rhcndpbi9zY2hlZHVsZWQvc3luY015U1FMVG9Nb25nb0RCIik7Cg==</text>
@@ -1126,16 +1129,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYXRjaFRvU2F2ZVw+</last-search>
+      <last-search encoding="base64">XDxtYXN0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXRjaFRvU2F2ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxtYXN0ZXJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb3N0YWdlU3RhdHVzXD4=</entry>
-        <entry encoding="base64">XDxjb252ZXJ0XD4=</entry>
         <entry>TODO</entry>
         <entry encoding="base64">XDxjbXNSZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxjcmF3bGVyUmVzdWx0XD4=</entry>
@@ -1154,6 +1155,8 @@
         <entry encoding="base64">XDxsb2dpbkxvZ1NlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxiYXRjaFRvU2F2ZVw+</entry>
+        <entry encoding="base64">XDxSZWRpc01TU2VydmVyXD4=</entry>
+        <entry encoding="base64">XDxtYXN0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>248</entry>
