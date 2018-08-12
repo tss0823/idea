@@ -475,7 +475,7 @@
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1532676951128">
         <mark key="'" line="417" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/conf/config.properties" timestamp="1534082677024">
+      <file name="$USER_HOME$/workspace/zhushou/conf/config.properties" timestamp="1534083493770">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="34" />
         <mark key="." line="3" column="34" />
@@ -488,6 +488,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/ClusterClientBuilder.java" timestamp="1532348562412">
         <mark key="'" line="141" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/UserServiceImpl.java" timestamp="1534084013487">
+        <mark key="'" line="71" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/OffLineDataServiceImpl.java" timestamp="1532141320159">
         <mark key="'" line="24" column="52" />
@@ -974,7 +977,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="114" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="115" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="116" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
@@ -1074,6 +1076,7 @@
       <jump line="1939" column="54" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
       <jump line="1961" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
       <jump line="2118" column="81" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
+      <jump line="71" column="16" filename="$USER_HOME$/workspace/zhushou/zhushou-service/src/main/java/com/yuntao/zhushou/service/impl/UserServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
