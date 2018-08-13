@@ -303,7 +303,13 @@
       <file name="$USER_HOME$/workspace/mbus/mbus-client/src/main/java/com/meitu/meipu/mbus/client/DefaultMBusMessageHandler.java" timestamp="1532935575737">
         <mark key="'" line="28" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" timestamp="1534126625750" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" timestamp="1534158890505">
+        <mark key="'" line="1264" column="21" />
+        <mark key="[" line="1258" column="47" />
+        <mark key="]" line="1258" column="66" />
+        <mark key="^" line="1258" column="66" />
+        <mark key="." line="1258" column="66" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6.jar!/com/meitu/tardis/meta/NodeBase.class" timestamp="1532336892361">
         <mark key="'" line="35" column="15" />
       </file>
@@ -433,12 +439,12 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MakeupReadydataServiceTest.java" timestamp="1533028668189">
         <mark key="'" line="72" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/apprun/deploy.sh" timestamp="1534154822856">
+      <file name="$USER_HOME$/workspace/apprun/deploy.sh" timestamp="1534158327758">
         <mark key="'" line="17" column="1258" />
         <mark key="[" line="18" column="628" />
-        <mark key="]" line="18" column="626" />
-        <mark key="." line="18" column="626" />
-        <mark key="^" line="18" column="626" />
+        <mark key="]" line="18" column="628" />
+        <mark key="." line="18" column="628" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/DBSyncTaskBuildManager.java" timestamp="1533609475527">
         <mark key="'" line="45" column="68" />
@@ -449,12 +455,6 @@
       </file>
       <file name="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventBeanPostProcessor.java" timestamp="1532937606182">
         <mark key="'" line="81" column="37" />
-      </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/resources/log4j2.xml" timestamp="1534154484769">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="16" column="17" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="16" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/cache/impl/JedisCacheServiceImpl.java" timestamp="1534127001047">
         <mark key="'" line="34" column="19" />
@@ -493,6 +493,9 @@
         <mark key="]" line="73" column="141" />
         <mark key="^" line="73" column="141" />
         <mark key="." line="73" column="141" />
+      </file>
+      <file name="/fragment.java" timestamp="1534158782152">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/grpc/grpc-stub/1.5.0/grpc-stub-1.5.0.jar!/io/grpc/stub/AbstractStub.class" timestamp="1532333759199">
         <mark key="'" line="34" column="23" />
@@ -847,7 +850,7 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ItemMakeupMediaHouseReadServiceImpl.java" timestamp="1533555900838">
         <mark key="'" line="31" column="7" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java" timestamp="1533697183179">
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java" timestamp="1534158735737">
         <mark key="'" line="871" column="10" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-entitymanager/4.3.11.Final/hibernate-entitymanager-4.3.11.Final.jar!/org/hibernate/jpa/spi/AbstractEntityManagerImpl.class" timestamp="1533953576865">
@@ -977,9 +980,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="154" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="155" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="156" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="157" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="158" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
@@ -1077,13 +1077,16 @@
       <jump line="41" column="30" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/LogAspector.java" />
       <jump line="32" column="36" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/LogAspector.java" />
       <jump line="83" column="19" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/LogAspector.java" />
+      <jump line="1261" column="27" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
+      <jump line="1254" column="51" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
+      <jump line="1264" column="21" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Cookie: screenResolution=1440x900; _ga=GA1.2.1947137775.1529412615; hudson_auto_refresh=false; ACEGI_SECURITY_HASHED_REMEMBER_ME_COOKIE=dHNzQG1laXR1LmNvbToxNTM0MTM4NDU5Mzc3OjU1MTBkZTdmYWY0NmI1Y2UwNzNiNjE2ZWRhYzE2Mzg4MzA4NmYwZWYxNDdkZWUwMmU1MjFmNTUwNmM3NTczOTI=; JSESSIONID.395c9935=10vkfs6rblj5zmis7dekbvlq2</text>
+        <text>intValue</text>
       </register>
       <register name="-" type="4">
-        <text>Cookie: screenResolution=1440x900; _ga=GA1.2.1947137775.1529412615; hudson_auto_refresh=false; ACEGI_SECURITY_HASHED_REMEMBER_ME_COOKIE=dHNzQG1laXR1LmNvbToxNTM0MTM4NDU5Mzc3OjU1MTBkZTdmYWY0NmI1Y2UwNzNiNjE2ZWRhYzE2Mzg4MzA4NmYwZWYxNDdkZWUwMmU1MjFmNTUwNmM3NTczOTI=; JSESSIONID.395c9935=10vkfs6rblj5zmis7dekbvlq2</text>
+        <text>intValue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRBcmdQcmVmaXhcPg==</text>
