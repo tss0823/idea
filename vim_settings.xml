@@ -117,7 +117,7 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc-spring/0.2.4-SNAPSHOT/tardis-grpc-spring-0.2.4-20180627.091430-6-sources.jar!/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" timestamp="1532403502976">
         <mark key="'" line="30" column="37" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" timestamp="1534084242840">
+      <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" timestamp="1534147077147">
         <mark key="'" line="180" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.25/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class" timestamp="1532676961842">
@@ -400,6 +400,9 @@
       </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/PageFlowAction.java" timestamp="1533623776023">
         <mark key="'" line="205" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/redis/RedisHelper.java" timestamp="1534146422222">
+        <mark key="'" line="12" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransUtils.java" timestamp="1533546441812">
         <mark key="'" line="69" column="23" />
@@ -962,7 +965,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="149" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="150" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="151" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
@@ -1062,6 +1064,7 @@
       <jump line="33" column="19" filename="$USER_HOME$/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/cache/impl/JedisCacheServiceImpl.java" />
       <jump line="60" column="93" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/RealTimeDataServiceImpl.java" />
       <jump line="59" column="50" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/RealTimeDataServiceImpl.java" />
+      <jump line="12" column="13" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/redis/RedisHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
