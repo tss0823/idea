@@ -160,7 +160,7 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-config/0.2.4-SNAPSHOT/tardis-config-0.2.4-20180627.091417-6-sources.jar!/com/meitu/tardis/config/TardisConfigUtils.java" timestamp="1532403508424">
         <mark key="'" line="22" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/pom.xml" timestamp="1532784142293">
+      <file name="$USER_HOME$/workspace/zhushou/pom.xml" timestamp="1534138534932">
         <mark key="'" line="272" column="23" />
         <mark key="[" line="578" column="0" />
         <mark key="]" line="578" column="0" />
@@ -736,6 +736,7 @@
       <file name="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/xpath/DefaultXPath.class" timestamp="1532186641959">
         <mark key="'" line="92" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/zhushou/run.sh" timestamp="1534138462204" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/cs/UTF_8.class" timestamp="1533536806768">
         <mark key="'" line="181" column="104" />
       </file>
@@ -757,6 +758,12 @@
       </file>
       <file name="$USER_HOME$/workspace/zhushou/zhushou-service/src/test/java/com/yuntao/zhushou/service/BaseServiceTest.java" timestamp="1533285613557">
         <mark key="'" line="19" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/zhushou/compile.sh" timestamp="1534138551491">
+        <mark key="[" line="2" column="109" />
+        <mark key="]" line="2" column="108" />
+        <mark key="^" line="2" column="108" />
+        <mark key="." line="2" column="108" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.4-SNAPSHOT/tardis-core-0.2.4-20180627.091421-6-sources.jar!/com/meitu/tardis/cluster/status/DefaultHealthChecker.java" timestamp="1532341327891">
         <mark key="'" line="38" column="45" />
@@ -857,6 +864,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="15" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/zhushou/zhushou-web/deploy/src/main/resources/logback.xml" timestamp="1534138579046">
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="4" column="51" />
+        <mark key="." line="4" column="51" />
+        <mark key="^" line="4" column="51" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-registry-etcd/0.2.4-SNAPSHOT/tardis-registry-etcd-0.2.4-20180627.091422-6-sources.jar!/com/meitu/tardis/registry/etcd/EtcdDiscoveryService.java" timestamp="1532347975095">
         <mark key="'" line="41" column="48" />
       </file>
@@ -894,7 +907,7 @@
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1532676951128">
         <mark key="'" line="417" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/zhushou/conf/config.properties" timestamp="1534132555291">
+      <file name="$USER_HOME$/workspace/zhushou/conf/config.properties" timestamp="1534138401574">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="14" />
         <mark key="." line="8" column="14" />
@@ -1052,10 +1065,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>31900</text>
+        <text>deploy</text>
       </register>
       <register name="-" type="4">
-        <text>31900</text>
+        <text>deploy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwd2RcPg==</text>
