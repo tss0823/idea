@@ -77,12 +77,12 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc-spring/0.2.4-SNAPSHOT/tardis-grpc-spring-0.2.4-20180627.091430-6-sources.jar!/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" timestamp="1532403502976">
         <mark key="'" line="30" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" timestamp="1534240076232">
-        <mark key="'" line="282" column="49" />
-        <mark key="[" line="282" column="57" />
-        <mark key="]" line="282" column="56" />
-        <mark key="." line="282" column="56" />
-        <mark key="^" line="282" column="56" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" timestamp="1534240293898">
+        <mark key="'" line="282" column="35" />
+        <mark key="[" line="283" column="0" />
+        <mark key="]" line="283" column="0" />
+        <mark key="." line="283" column="0" />
+        <mark key="^" line="282" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" timestamp="1534219795777">
         <mark key="'" line="180" column="23" />
@@ -491,8 +491,11 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MongoMakeupManagerImpl.java" timestamp="1533090459251">
         <mark key="'" line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/utils/BeanUtils.java" timestamp="1534240110357">
-        <mark key="[" line="48" column="5" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/utils/BeanUtils.java" timestamp="1534240254049">
+        <mark key="[" line="56" column="21" />
+        <mark key="]" line="56" column="21" />
+        <mark key="^" line="56" column="21" />
+        <mark key="." line="56" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/CrawlerJobHttpManager.java" timestamp="1532681670582">
         <mark key="'" line="73" column="34" />
@@ -829,14 +832,14 @@
       <jump line="29" column="78" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/CronController.java" />
       <jump line="57" column="12" filename="$MAVEN_REPOSITORY$/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar!/javax/servlet/http/HttpServletRequest.class" />
       <jump line="42" column="26" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/CronController.java" />
-      <jump line="282" column="49" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" />
+      <jump line="282" column="35" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>beanToQueryMap</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBNYWtldXBSZWFkeWRhdGFVcGRhdGVSZXF1ZXN0IHJlcXVlc3QgPSBvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>beanToQueryMap</text>
+        <text>final Object o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
@@ -845,22 +848,22 @@
         <text>MakeupReadydataUpdateRequest request</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYWtldXBSZWFkeWRhdGFVcGRhdGVSZXF1ZXN0IHJlcXVlc3QgPSBvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBEYXJ3aW5SZXN1bHQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBEYXJ3aW5SZXN1bHQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJmYWlsZWQhIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERhcndpblJlc3VsdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJmYWlsZWQhIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERhcndpblJlc3VsdCgpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -869,7 +872,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kIG1ldGhvZCA9IE1ldGhvZFV0aWxzLmdldE1hdGNoaW5nQWNjZXNzaWJsZU1ldGhvZChiZWFuLmdldENsYXNzKCksIG1ldGhvZE5hbWUsIE1hcC5jbGFzcyk7CgovLyAgICAgICAgICAgIE9iamVjdFtdIG9iamVjdHMgPSBuZXcgT2JqZWN0W2FyZ1R5cGVzLnNpemUoKV07Ci8vICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90RW1wdHkocmVxRGF0YSkpIHsKLy8gICAgICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBzdHJpbmdPYmplY3RNYXAgPSBKc29uVXRpbC5zdHJKc29uMk1hcChyZXFEYXRhKTsKLy8gICAgICAgICAgICAgICAgUGFyYW1ldGVyW10gcGFyYW1ldGVycyA9IG1ldGhvZC5nZXRQYXJhbWV0ZXJzKCk7Ci8vICAgICAgICAgICAgICAgIGludCBpbmRleCA9IDA7Ci8vICAgICAgICAgICAgICAgIGZvciAoUGFyYW1ldGVyIHBhcmFtZXRlciA6IHBhcmFtZXRlcnMpIHsKLy8gICAgICAgICAgICAgICAgICAgIFN0cmluZyBuYW1lID0gcGFyYW1ldGVyLmdldE5hbWUoKTsKLy8gICAgICAgICAgICAgICAgICAgIE9iamVjdCB2YWx1ZSA9IHN0cmluZ09iamVjdE1hcC5nZXQobmFtZSk7Ci8vICAgICAgICAgICAgICAgICAgICBDbGFzczw/PiB0eXBlID0gcGFyYW1ldGVyLmdldFR5cGUoKTsKLy8gICAgICAgICAgICAgICAgICAgIHZhbHVlID0gQ29udmVydFV0aWxzLmNvbnZlcnQodmFsdWUsIHR5cGUpOyAgLy/mlbDmja7nsbvlnovovazmjaIKLy8gICAgICAgICAgICAgICAgICAgIG9iamVjdHNbaW5kZXhdID0gdmFsdWU7Ci8vICAgICAgICAgICAgICAgICAgICBpbmRleCsrOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>265</text>
