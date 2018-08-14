@@ -139,12 +139,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/org/xml/sax/InputSource.java" timestamp="1532186896911">
         <mark key="'" line="118" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1534232742805">
-        <mark key="'" line="349" column="41" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1534234198570">
+        <mark key="'" line="346" column="66" />
         <mark key="[" line="358" column="9" />
-        <mark key="]" line="361" column="37" />
-        <mark key="^" line="361" column="37" />
-        <mark key="." line="361" column="37" />
+        <mark key="]" line="346" column="66" />
+        <mark key="^" line="346" column="66" />
+        <mark key="." line="346" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/domain/dto/CrawlerSkuParDTO.java" timestamp="1533784334333">
         <mark key="'" line="107" column="19" />
@@ -329,7 +329,12 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/MakeupReadydataServiceTest.java" timestamp="1533028668189">
         <mark key="'" line="72" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1534232648286" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1534233939199">
+        <mark key="[" line="561" column="13" />
+        <mark key="]" line="562" column="58" />
+        <mark key="^" line="562" column="58" />
+        <mark key="." line="562" column="58" />
+      </file>
       <file name="$USER_HOME$/workspace/mbus/mbus-canal/src/main/java/com/meitu/meipu/mbus/canal/event/MBusDBEventBeanPostProcessor.java" timestamp="1532937606182">
         <mark key="'" line="81" column="37" />
       </file>
@@ -413,11 +418,12 @@
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0-sources.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.java" timestamp="1533554586420">
         <mark key="'" line="103" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/MakeupReadydataMapper.xml" timestamp="1534232009125">
-        <mark key="[" line="3" column="60" />
-        <mark key="]" line="3" column="59" />
-        <mark key="^" line="3" column="59" />
-        <mark key="." line="3" column="59" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/MakeupReadydataMapper.xml" timestamp="1534234386332">
+        <mark key="'" line="450" column="28" />
+        <mark key="[" line="139" column="43" />
+        <mark key="]" line="139" column="38" />
+        <mark key="." line="139" column="38" />
+        <mark key="^" line="139" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" timestamp="1533868009638">
         <mark key="'" line="72" column="33" />
@@ -459,8 +465,12 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" timestamp="1534213327552">
         <mark key="'" line="273" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/MakeupReadydataRequest.java" timestamp="1533003042617">
-        <mark key="'" line="505" column="15" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/MakeupReadydataRequest.java" timestamp="1534234311172">
+        <mark key="'" line="134" column="41" />
+        <mark key="[" line="134" column="12" />
+        <mark key="]" line="134" column="18" />
+        <mark key="^" line="134" column="18" />
+        <mark key="." line="134" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/utils/fetchdata/MethodHandler.java" timestamp="1534232418223" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MongoMakeupManagerImpl.java" timestamp="1533090459251">
@@ -700,10 +710,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="10" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="183" column="10" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="185" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="186" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="187" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="188" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="189" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
@@ -800,61 +806,64 @@
       <jump line="274" column="51" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/PageFlowReadServiceImpl.java" />
       <jump line="345" column="28" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="347" column="41" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="447" column="28" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/MakeupReadydataMapper.xml" />
+      <jump line="346" column="66" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="20" column="46" filename="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/MakeupReadydataRequest.java" />
+      <jump line="134" column="41" filename="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/MakeupReadydataRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmVxdWVzdC5zZXRTb3VyY2UoIue+juS4veS/ruihjCIpOyAvL+ixhuWltuivtOWPquimgeaJk+W6lee+juS4veS/ruihjOeahOadpea6kAovLyAgICAgICAgICAgICAgICByZXF1ZXN0LnNldFN0YXR1cyhSZWFkeWRhdGFTdGF0dXMuSU5JVC5nZXRDb2RlKCkpOyAgLy/mnKrovazmjaLnmoTov5vooYzovazmjaIK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>readydataRequest</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFeGFtcGxlX1doZXJlX0NsYXVzZVw+</text>
+        <text encoding="base64">XDxCYXNlX1doZXJlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZihTdHJpbmdVdGlscy5pc0VtcHR5KG9zVHlwZSkpewogICAgICAgICAgICBvc1R5cGUgPSJhbGwiOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmVxdWVzdC5zZXRTb3VyY2UoIue+juS4veS/ruihjCIpOyAvL+ixhuWltuivtOWPquimgeaJk+W6lee+juS4veS/ruihjOeahOadpea6kAovLyAgICAgICAgICAgICAgICByZXF1ZXN0LnNldFN0YXR1cyhSZWFkeWRhdGFTdGF0dXMuSU5JVC5nZXRDb2RlKCkpOyAgLy/mnKrovazmjaLnmoTov5vooYzovazmjaIK</text>
+        <text encoding="base64">CQk8aWYgdGVzdD0nY2F0ZWdvcnlJc051bGwgPT0gIjAiJz4KCQkJYW5kIHRocmVlQ2F0ZWdvcnlJZCBpcyBub3QgbnVsbCBhbmQgdGhyZWVDYXRlZ29yeUlkICE9IDAKCQk8L2lmPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmVxdWVzdC5zZXRTb3VyY2UoIue+juS4veS/ruihjCIpOyAvL+ixhuWltuivtOWPquimgeaJk+W6lee+juS4veS/ruihjOeahOadpea6kAovLyAgICAgICAgICAgICAgICByZXF1ZXN0LnNldFN0YXR1cyhSZWFkeWRhdGFTdGF0dXMuSU5JVC5nZXRDb2RlKCkpOyAgLy/mnKrovazmjaLnmoTov5vooYzovazmjaIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ha2V1cFJlYWR5ZGF0YURhby5zZWxlY3RMaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZihTdHJpbmdVdGlscy5pc0VtcHR5KG9zVHlwZSkpewogICAgICAgICAgICBvc1R5cGUgPSAiYWxsIjsKICAgICAgICB9CiAgICAgICAgaWYoU3RyaW5nVXRpbHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ha2V1cFJlYWR5ZGF0YURhby5zZWxlY3RMaXN0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZihTdHJpbmdVdGlscy5pc0VtcHR5KG9zVHlwZSkpewogICAgICAgICAgICBvc1R5cGUgPSAiYWxsIjsKICAgICAgICB9CiAgICAgICAgaWYoU3RyaW5nVXRpbHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqZWRpc1NoYXJkSW5mby5zZXRQYXNzd29yZChwd2QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJ0YXNrU3RhcnQiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCwgcHJvZHVjZXMgPSAiYXBwbGljYXRpb24vanNvbjtjaGFyc2V0PVVURi04IikK</text>
+        <text encoding="base64">ICAgICAgICBqZWRpc1NoYXJkSW5mby5zZXRQYXNzd29yZChwd2QpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJ0YXNrU3RhcnQiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCwgcHJvZHVjZXMgPSAiYXBwbGljYXRpb24vanNvbjtjaGFyc2V0PVVURi04IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEQlN5bmNUYXNrUmVxdWVzdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>265</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFeGFtcGxlX1doZXJlX0NsYXVzZVw+</last-search>
+      <last-search encoding="base64">XDxCYXNlX1doZXJlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFeGFtcGxlX1doZXJlX0NsYXVzZVw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxCYXNlX1doZXJlXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYWdlU2l6ZVw+</entry>
         <entry encoding="base64">XDxncG1DdXN0b21pemVkUGFyYW1VcmxcPg==</entry>
         <entry encoding="base64">XDxyZWZ1bmRBbW91bnRcPg==</entry>
         <entry encoding="base64">XDxJUFZfVVZcPg==</entry>
@@ -874,6 +883,7 @@
         <entry encoding="base64">XDxHcG1Tb3VyY2VUYXJnZXREdG9cPg==</entry>
         <entry encoding="base64">XDxncG1Tb3VyY2VUYXJnZXREdG9cPg==</entry>
         <entry encoding="base64">XDxFeGFtcGxlX1doZXJlX0NsYXVzZVw+</entry>
+        <entry encoding="base64">XDxCYXNlX1doZXJlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>248</entry>
