@@ -77,13 +77,7 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc-spring/0.2.4-SNAPSHOT/tardis-grpc-spring-0.2.4-20180627.091430-6-sources.jar!/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" timestamp="1532403502976">
         <mark key="'" line="30" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" timestamp="1534240293898">
-        <mark key="'" line="282" column="35" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
-        <mark key="^" line="282" column="43" />
-      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" timestamp="1534246711457" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" timestamp="1534219795777">
         <mark key="'" line="180" column="23" />
       </file>
@@ -432,13 +426,7 @@
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0-sources.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.java" timestamp="1533554586420">
         <mark key="'" line="103" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/MakeupReadydataMapper.xml" timestamp="1534236125488">
-        <mark key="'" line="140" column="36" />
-        <mark key="[" line="448" column="15" />
-        <mark key="]" line="448" column="17" />
-        <mark key="." line="448" column="17" />
-        <mark key="^" line="448" column="17" />
-      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/MakeupReadydataMapper.xml" timestamp="1534236125488" />
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/crawler/CrawlerSkuController.java" timestamp="1533868009638">
         <mark key="'" line="72" column="33" />
       </file>
@@ -526,11 +514,6 @@
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/mapper/MakeupReadydataMapper.java" timestamp="1532878250224">
         <mark key="'" line="14" column="51" />
-      </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/MakeupReadydataService.java" timestamp="1534237160624">
-        <mark key="]" line="124" column="40" />
-        <mark key="^" line="124" column="40" />
-        <mark key="." line="124" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/communitycenter/communitycenter-facade/src/main/java/com/meitu/meipu/communitycenter/service/facade/activity/FreeOrderServiceFacade.java" timestamp="1533297725374">
         <mark key="'" line="29" column="7" />
@@ -733,9 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="213" column="8" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="171" column="82" filename="$USER_HOME$/workspace/pay/src/main/java/com/pay/payment/YiShi_payment.java" />
       <jump line="66" column="26" filename="$USER_HOME$/workspace/pay/src/main/java/com/pay/payment/JinHaiZhe_payment.java" />
       <jump line="21" column="28" filename="$USER_HOME$/workspace/pay/src/main/java/com/pay/controller/AgentDealDetailController.java" />
       <jump line="65" column="28" filename="$USER_HOME$/workspace/pay/src/main/java/com/pay/controller/UserController.java" />
@@ -833,13 +813,16 @@
       <jump line="57" column="12" filename="$MAVEN_REPOSITORY$/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar!/javax/servlet/http/HttpServletRequest.class" />
       <jump line="42" column="26" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/CronController.java" />
       <jump line="282" column="35" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" />
+      <jump line="17" column="17" filename="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/MakeupReadydataService.java" />
+      <jump line="53" column="76" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" />
+      <jump line="315" column="83" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNYWtldXBSZWFkeWRhdGFVcGRhdGVSZXF1ZXN0IHJlcXVlc3QgPSBvCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>final Object o</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
@@ -848,25 +831,25 @@
         <text>MakeupReadydataUpdateRequest request</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNYWtldXBSZWFkeWRhdGFVcGRhdGVSZXF1ZXN0IHJlcXVlc3QgPSBvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYWtldXBSZWFkeWRhdGFVcGRhdGVSZXF1ZXN0IHJlcXVlc3QgPSBvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBEYXJ3aW5SZXN1bHQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBEYXJ3aW5SZXN1bHQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJmYWlsZWQhIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERhcndpblJlc3VsdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJmYWlsZWQhIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERhcndpblJlc3VsdCgpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
