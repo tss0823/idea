@@ -338,7 +338,7 @@
       <file name="$APPLICATION_HOME_DIR$/lib/xercesImpl.jar!/org/apache/xerces/parsers/AbstractSAXParser.class" timestamp="1532750520549">
         <mark key="'" line="53" column="109" />
       </file>
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/PageFlowAction.java" timestamp="1533623776023">
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/PageFlowAction.java" timestamp="1534337885934">
         <mark key="'" line="205" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/redis/RedisHelper.java" timestamp="1534146422222">
@@ -384,12 +384,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/nio/charset/CharsetEncoder.java" timestamp="1533536791652">
         <mark key="'" line="578" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" timestamp="1534336987088">
-        <mark key="'" line="184" column="23" />
-        <mark key="[" line="276" column="34" />
-        <mark key="]" line="276" column="37" />
-        <mark key="." line="276" column="37" />
-        <mark key="^" line="276" column="37" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" timestamp="1534340089037">
+        <mark key="'" line="196" column="44" />
+        <mark key="[" line="220" column="106" />
+        <mark key="]" line="219" column="8" />
+        <mark key="." line="219" column="8" />
+        <mark key="^" line="219" column="94" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-client/1.0-RELEASE-SNAPSHOT/datacenter-client-1.0-RELEASE-SNAPSHOT-sources.jar!/com/meitu/meipu/datacenter/common/service/read/ComponentReadServiceClient.java" timestamp="1533699825139">
         <mark key="'" line="21" column="34" />
@@ -460,11 +460,16 @@
       </file>
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/domain/request/LoginHttpRequest.java" timestamp="1534249487845" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-client/1.0-RELEASE-SNAPSHOT/datacenter-client-1.0-RELEASE-20180809.090658-72.jar!/com/meitu/meipu/datacenter/common/service/read/PageFlowReadServiceClient.class" timestamp="1534160759195" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1534315904729">
-        <mark key="'" line="143" column="41" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1534339870343">
+        <mark key="'" line="580" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/pay/src/main/java/com/pay/service/OrderService.java" timestamp="1533953589696">
         <mark key="'" line="161" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/zhushou/conf/config2.properties" timestamp="1534071094676">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/mbus/mbus-common/src/main/java/com/meitu/meipu/mbus/common/assist/EventCallbackManager.java" timestamp="1533199767012">
         <mark key="'" line="27" column="62" />
@@ -693,6 +698,11 @@
         <mark key="'" line="84" column="35" />
       </file>
       <file name="/PageFlowReadServiceImpl.java" timestamp="1534230778146" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/PageFlowManager.java" timestamp="1534338920210">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/proto/rpc/java/DispatcherGrpc.java" timestamp="1532333869430">
         <mark key="'" line="109" column="46" />
       </file>
@@ -829,11 +839,6 @@
       <file name="$USER_HOME$/workspace/darwin/pre.properties" timestamp="1534325819545" />
     </filemarks>
     <jumps>
-      <jump line="29" column="78" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/CronController.java" />
-      <jump line="57" column="12" filename="$MAVEN_REPOSITORY$/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar!/javax/servlet/http/HttpServletRequest.class" />
-      <jump line="42" column="26" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/CronController.java" />
-      <jump line="282" column="35" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" />
-      <jump line="17" column="17" filename="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/MakeupReadydataService.java" />
       <jump line="315" column="83" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" />
       <jump line="95" column="26" filename="$USER_HOME$/workspace/darwin/darwin-client/src/main/java/com/meitu/meipu/darwin/client/service/MakeupReadydataClient.java" />
       <jump line="24" column="25" filename="$USER_HOME$/workspace/darwin/darwin-client/src/main/java/com/meitu/meipu/darwin/client/service/MakeupReadydataClient.java" />
@@ -927,63 +932,67 @@
       <jump line="274" column="16" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" />
       <jump line="310" column="48" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" />
       <jump line="312" column="43" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" />
-      <jump line="217" column="21" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" />
-      <jump line="184" column="23" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" />
+      <jump line="217" column="22" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" />
+      <jump line="207" column="18" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" />
+      <jump line="184" column="25" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" />
+      <jump line="195" column="45" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" />
+      <jump line="270" column="34" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" />
+      <jump line="196" column="44" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" />
+      <jump line="580" column="32" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text encoding="base64">TWFwPFN0cmluZyxMaXN0PEFkc0NsaWVudEdwbVN1bW1hcnk+PiA=</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text encoding="base64">TWFwPFN0cmluZyxMaXN0PEFkc0NsaWVudEdwbVN1bW1hcnk+PiA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcmVhQ2xpY2tQdkNvdW50XD4=</text>
+        <text encoding="base64">XDxiaXRzU3VtbWFyaWVzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlbW92ZUNhY2hlKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>a</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEFkc0NsaWVudEdwbVN1bW1hcnk+IHBhcmVudFN1bW1hcmllcyA9IHBhZ2VNYXAuZ2V0KCJwYXJlbnRTdW1tYXJpZXMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb1F1ZXJ5UGFnZUdwbShncG0scGxhdGZvcm0scXVlcnlEYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICBwYWdlTWFwID0gZG9RdWVyeVBhZ2VHcG0oZ3BtLHBsYXRmb3JtLHF1ZXJ5RGF0ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hCaXRzU3VtbWFyaWVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCByZW1vdmVDYWNoZSgpewogICAgICAgIFN0cmluZyBtYWtldXBJdGVtQ2F0ZWdvcnlNYXBLZXkgPSBDYWNoZUNvbnN0YW50cy5SZWFkeWRhdGEuUkVBRFlEQVRBX1RBS0VfTUFLRVVQX0lURU1fQ0FURUdPUllfTUFQOwogICAgICAgIHJlZGlzTVNTZXJ2ZXIuZGVsKG1ha2V1cEl0ZW1DYXRlZ29yeU1hcEtleSk7CiAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbWFrZXVwUmVhZHlkYXRhTWFwcGVyLnNlbGVjdExpbWl0Q29sdW1uTGlzdCgpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiYmF0Y2hVcGRhdGVCcmFuZEFuZENhdGVnb3J5QnlSdWxlIGNhdGVnb3J5PXt9IixyZWFkeWRhdGFCcmFuZE1hcCk7Cg==</text>
-      </register>
-      <register name="8" type="4">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PEFkc0NsaWVudEdwbVN1bW1hcnk+IGFsbEJpdHNTdW1tYXJpZXMgPSBwYWdlTWFwLmdldCgiYml0c1N1bW1hcmllcyIpOwogICAgICAgIExpc3Q8QWRzQ2xpZW50R3BtU3VtbWFyeT4gYWxsU3VtbWFyaWVzID0gcGFnZU1hcC5nZXQoInN1bW1hcmllcyIpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLExpc3Q8QWRzQ2xpZW50R3BtU3VtbWFyeT4+IHBhZ2VNYXAgPSBkb1F1ZXJ5UGFnZUdwbShudWxsLHBsYXRmb3JtLHF1ZXJ5RGF0ZSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PEFkc0NsaWVudEdwbVN1bW1hcnk+IHBhcmVudFN1bW1hcmllcyA9IHBhZ2VNYXAuZ2V0KCJwYXJlbnRTdW1tYXJpZXMiKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkb1F1ZXJ5UGFnZUdwbShncG0scGxhdGZvcm0scXVlcnlEYXRlKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL0xpc3Q8TG9uZz4gaWRzID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7CiAgICAgICAgLy9pZHMuYWRkKDAsMTBsKTsKICAgICAgICAvL0RhcndpblJlc3VsdDxJbnRlZ2VyPiByZXN1bHQgPSBtYWtldXBSZWFkeWRhdGFTZXJ2aWNlLmJhdGNoRGVsZXRlKGlkcyk7CiAgICAgICAgTWFrZXVwUmVhZHlkYXRhUmVxdWVzdCByZXF1ZXN0ID0gbmV3IE1ha2V1cFJlYWR5ZGF0YVJlcXVlc3QoKTsKICAgICAgICByZXF1ZXN0LnNldEJyYW5kSXNOdWxsKCIwIik7CiAgICAgICAgcmVxdWVzdC5zZXRDYXRlZ29yeUlzTnVsbCgiMCIpOwogICAgICAgIHJlcXVlc3Quc2V0UGFnZVNpemUoMjAwKTsKICAgICAgICByZXF1ZXN0LnNldFBhZ2VJbmRleCgxKTsKICAgICAgICByZXR1cm4gbWFrZXVwUmVhZHlkYXRhU2VydmljZS5zZWxlY3RQYWdlKHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name=":" type="4">
         <text>265</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcmVhQ2xpY2tQdkNvdW50XD4=</last-search>
+      <last-search encoding="base64">XDxiaXRzU3VtbWFyaWVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcmVhQ2xpY2tQdkNvdW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiaXRzU3VtbWFyaWVzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFeGFtcGxlX1doZXJlX0NsYXVzZVw+</entry>
         <entry encoding="base64">XDxCYXNlX1doZXJlXD4=</entry>
         <entry encoding="base64">XDxvbmVDYXRlZ29yeUlkXD4=</entry>
         <entry encoding="base64">XDxNYXBVdGlsc1w+</entry>
@@ -1003,6 +1012,7 @@
         <entry encoding="base64">XDxicmFuZERUT0xpc3RcPg==</entry>
         <entry encoding="base64">XDxwYWdlclw+</entry>
         <entry encoding="base64">XDxhcmVhQ2xpY2tQdkNvdW50XD4=</entry>
+        <entry encoding="base64">XDxiaXRzU3VtbWFyaWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>248</entry>
