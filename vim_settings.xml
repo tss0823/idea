@@ -40,10 +40,6 @@
         <mark key="." line="578" column="0" />
         <mark key="^" line="577" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/pre.properties" timestamp="1534753333836">
-        <mark key="'" line="102" column="77" />
-        <mark key="[" line="129" column="232" />
-      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1534326907690">
         <mark key="'" line="347" column="66" />
         <mark key="[" line="355" column="47" />
@@ -72,8 +68,8 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/resources/tardis/datacenter-tardis-proxy-consumer.xml" timestamp="1534746942587" />
       <file name="$USER_HOME$/workspace/darwin-query/beta.properties" timestamp="1534753345061" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/RealTimeDataFetchManager.java" timestamp="1534731748747" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/FetcEntityDaoImpl.java" timestamp="1534763771810">
-        <mark key="'" line="24" column="20" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/FetcEntityDaoImpl.java" timestamp="1534765148517">
+        <mark key="'" line="20" column="22" />
         <mark key="[" line="32" column="15" />
         <mark key="]" line="32" column="22" />
         <mark key="." line="32" column="22" />
@@ -225,6 +221,9 @@
         <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/pre.properties" timestamp="1534325819545" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoOperations.java" timestamp="1534765214035">
+        <mark key="'" line="640" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/TradeDataReadManagerImpl.java" timestamp="1534129393978">
         <mark key="'" line="135" column="29" />
       </file>
@@ -336,7 +335,7 @@
         <mark key="^" line="202" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/darwin-query/dev.properties" timestamp="1534753282843" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/dao/MongoTest.java" timestamp="1534764384903">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/dao/MongoTest.java" timestamp="1534765139443">
         <mark key="'" line="21" column="22" />
         <mark key="[" line="35" column="87" />
         <mark key="]" line="36" column="45" />
@@ -377,10 +376,6 @@
       </file>
       <file name="$USER_HOME$/workspace/datacenter/release.properties" timestamp="1534753401873">
         <mark key="'" line="3" column="27" />
-        <mark key="[" line="123" column="232" />
-      </file>
-      <file name="$USER_HOME$/workspace/datacenter/beta.properties" timestamp="1534753352540">
-        <mark key="'" line="0" column="0" />
         <mark key="[" line="123" column="232" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-client/src/main/java/com/meitu/meipu/datacenter/common/service/read/ActiveMonitorServiceClient.java" timestamp="1534127516330" />
@@ -479,8 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="41" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
-      <jump line="386" column="77" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="395" column="53" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="375" column="77" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="392" column="65" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
@@ -579,6 +572,8 @@
       <jump line="19" column="22" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/dao/MongoTest.java" />
       <jump line="40" column="14" filename="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/EvaluateManagerImpl.java" />
       <jump line="23" column="20" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/FetcEntityDaoImpl.java" />
+      <jump line="24" column="14" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/FetcEntityDaoImpl.java" />
+      <jump line="20" column="22" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/FetcEntityDaoImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
