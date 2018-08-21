@@ -5,9 +5,6 @@
       <mark key="I" line="309" column="50" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="/a.dummy" timestamp="1534842187605">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-common/src/main/java/com/meitu/meipu/darwin/query/common/service/CronService.java" timestamp="1534311518358">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="5" column="8" />
@@ -54,9 +51,6 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/CfgEntityRequest.java" timestamp="1534844570378">
-        <mark key="[" line="6" column="51" />
-      </file>
       <file name="$USER_HOME$/workspace/apprun/pom.xml" timestamp="1534840097275" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.15.RELEASE/spring-context-4.3.15.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ThreadPoolTaskExecutor.java" timestamp="1534840783809">
         <mark key="'" line="249" column="30" />
@@ -90,6 +84,9 @@
         <mark key="]" line="9" column="28" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/BaseRequest.java" timestamp="1534842039464">
+        <mark key="[" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/crawler/crawler-dal/src/main/resources/mybatis/mapper/CrawlerAllInfoMapper.xml" timestamp="1534819677637">
         <mark key="'" line="159" column="8" />
@@ -158,9 +155,6 @@
         <mark key="]" line="8" column="27" />
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1534750425333">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1534763008509">
         <mark key="'" line="302" column="28" />
@@ -251,6 +245,9 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/BaseTask.java" timestamp="1534844687979">
         <mark key="'" line="15" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/MongoDaoImpl.java" timestamp="1534842143841">
+        <mark key="[" line="16" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/utils/DataConvertUtil.java" timestamp="1534405839822">
         <mark key="'" line="343" column="82" />
         <mark key="[" line="362" column="62" />
@@ -270,6 +267,9 @@
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/utils/fetchdata/MethodHandler.java" timestamp="1534232418223" />
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/utils/BeanUtils.java" timestamp="1534843996815" />
+      <file name="$USER_HOME$/workspace/datarealtime/datarealtime-dal/src/main/java/com/meitu/meipu/datarealtime/dal/dao/mongo/impl/EvaluateDaoImpl.java" timestamp="1534837005159">
+        <mark key="[" line="38" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-web/src/main/java/com/meitu/meipu/darwin/web/controller/DBSyncController.java" timestamp="1534303895340">
         <mark key="[" line="45" column="20" />
         <mark key="]" line="45" column="32" />
@@ -304,9 +304,6 @@
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelShortTask.java" timestamp="1534752128034" />
       <file name="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/service/CrawlerWriteServiceImpl.java" timestamp="1534850847655" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/v2/FetchDataManager.java" timestamp="1534835658693">
-        <mark key="[" line="2" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/v2/FetchEntity.java" timestamp="1534767201150">
         <mark key="'" line="16" column="23" />
         <mark key="[" line="13" column="45" />
@@ -375,7 +372,7 @@
         <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/pre.properties" timestamp="1534325819545" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/pom.xml" timestamp="1534856568518">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/pom.xml" timestamp="1534857232257">
         <mark key="[" line="66" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoOperations.java" timestamp="1534843811087">
@@ -493,6 +490,9 @@
         <mark key="^" line="26" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/crawler/crawler-message/src/main/resources/kafka-consumer.xml" timestamp="1534852926743" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/FetchDataRequest.java" timestamp="1534844533964">
+        <mark key="[" line="8" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/CronController.java" timestamp="1534487388733">
         <mark key="'" line="37" column="32" />
         <mark key="[" line="31" column="0" />
@@ -506,10 +506,10 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/OffLineDataService.java" timestamp="1534299917885" />
-      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/meipu-base/1.4-SNAPSHOT/meipu-base-1.4-SNAPSHOT.pom" timestamp="1534856550836">
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/meipu-base/1.4-SNAPSHOT/meipu-base-1.4-SNAPSHOT.pom" timestamp="1534857109809">
         <mark key="'" line="406" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/resources/applicationContext-test.xml" timestamp="1534855765631">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/resources/applicationContext-test.xml" timestamp="1534856722080">
         <mark key="[" line="207" column="11" />
         <mark key="]" line="31" column="57" />
         <mark key="." line="31" column="57" />
@@ -585,6 +585,9 @@
         <mark key="'" line="37" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/crawler/crawler-message/src/main/java/com/meitu/meipu/crawler/merge/MeituSkuKafkaHandler.java" timestamp="1534850919006" />
+      <file name="/fragment.java" timestamp="1534844538944">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/CronServiceImpl.java" timestamp="1534315347457">
         <mark key="'" line="23" column="64" />
         <mark key="[" line="21" column="10" />
@@ -664,7 +667,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoDbUtils.java" timestamp="1534821693146">
         <mark key="'" line="104" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/target/test-classes/applicationContext-test.xml" timestamp="1534856603708" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/target/test-classes/applicationContext-test.xml" timestamp="1534856682333" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/PageFlowReadServiceImpl.java" timestamp="1534751462129">
         <mark key="'" line="182" column="61" />
         <mark key="[" line="276" column="88" />
