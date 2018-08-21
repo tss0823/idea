@@ -5,7 +5,7 @@
       <mark key="I" line="309" column="50" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="/a.dummy" timestamp="1534835677141">
+      <file name="/a.dummy" timestamp="1534839027630">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-common/src/main/java/com/meitu/meipu/darwin/query/common/service/CronService.java" timestamp="1534311518358">
@@ -23,8 +23,8 @@
         <mark key="." line="35" column="14" />
         <mark key="^" line="14" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" timestamp="1534838351309">
-        <mark key="'" line="58" column="62" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" timestamp="1534838875043">
+        <mark key="'" line="51" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadyDataAnayzeResult.java" timestamp="1534759189655" />
       <file name="$USER_HOME$/workspace/darwin-query/release.properties" timestamp="1534753368651" />
@@ -179,6 +179,9 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/convert/MappingMongoConverter.java" timestamp="1534831493267">
         <mark key="'" line="392" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongRemainTask.java" timestamp="1534838556318">
+        <mark key="'" line="66" column="50" />
+      </file>
       <file name="$USER_HOME$/workspace/datarealtime/datarealtime-common/src/main/java/com/meitu/meipu/datarealtime/common/utils/ResultUtils.java" timestamp="1534409022580" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/resources/datacenter-core-beans.xml" timestamp="1534753257975">
         <mark key="[" line="31" column="51" />
@@ -190,11 +193,6 @@
       <file name="$USER_HOME$/workspace/zhushou/zhushou-common/src/main/java/com/yuntao/zhushou/common/utils/BeanUtils.java" timestamp="1534333015654" />
       <file name="$USER_HOME$/workspace/datarealtime/datarealtime-web/src/main/resources/applicationContext.xml" timestamp="1534409828738" />
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/constants/readydata/CacheConstants.java" timestamp="1534325759637" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/BuilderDataRequest.java" timestamp="1534835902252">
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/utils/DataConvertUtil.java" timestamp="1534405839822">
         <mark key="'" line="343" column="82" />
         <mark key="[" line="362" column="62" />
@@ -550,8 +548,8 @@
         <mark key="[" line="123" column="232" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-client/src/main/java/com/meitu/meipu/datacenter/common/service/read/ActiveMonitorServiceClient.java" timestamp="1534127516330" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" timestamp="1534837369187">
-        <mark key="'" line="273" column="41" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" timestamp="1534838980372">
+        <mark key="'" line="110" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/mtmz/mybatis-chaining-core/1.0-SNAPSHOT/mybatis-chaining-core-1.0-20180808.091517-20.jar!/com/meitu/mtmz/mybatischaining/core/ChainingDaoSupport.class" timestamp="1534819961793" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/resources/mongodb/darwin-query-mongodb-config.xml" timestamp="1534752490758" />
@@ -575,6 +573,12 @@
         <mark key="." line="276" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/resources/applicationContext.xml" timestamp="1534753205669" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/v2/helper/FetchDataUtils.java" timestamp="1534838856265">
+        <mark key="[" line="12" column="82" />
+        <mark key="]" line="12" column="82" />
+        <mark key="^" line="12" column="81" />
+        <mark key="." line="12" column="82" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/EvaluateManager.java" timestamp="1534301381109">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="12" column="21" />
@@ -652,9 +656,13 @@
         <mark key="." line="187" column="101" />
         <mark key="^" line="187" column="101" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/v2/helper/FetchDataHelper.java" timestamp="1534839039428">
+        <mark key="[" line="8" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/SimilarController.java" timestamp="1534249275987" />
       <file name="/PageFlowManagerImpl.java" timestamp="1534336522670" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/AbstReadyDataConsumeService.java" timestamp="1534388068451" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/gateway/HttpAdapter.java" timestamp="1534838993778" />
       <file name="$USER_HOME$/workspace/datarealtime/datarealtime-core/src/main/java/com/meitu/meipu/datarealtime/core/service/CronServiceImpl.java" timestamp="1534408959361">
         <mark key="'" line="30" column="65" />
       </file>
@@ -663,12 +671,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/convert/MappingMongoConverter.java" />
-      <jump line="1757" column="46" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
-      <jump line="625" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
-      <jump line="1882" column="64" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
-      <jump line="10" column="39" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoClient.java" />
-      <jump line="614" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
       <jump line="43" column="15" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/ItemSkuChangeManager.java" />
       <jump line="35" column="35" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/ItemSkuChangeManager.java" />
       <jump line="34" column="37" filename="$USER_HOME$/workspace/crawler/crawler-backend/src/main/java/com/meitu/meipu/crawler/manager/ItemSkuChangeManager.java" />
@@ -763,13 +765,19 @@
       <jump line="69" column="38" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" />
       <jump line="68" column="37" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" />
       <jump line="58" column="62" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" />
+      <jump line="66" column="50" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongRemainTask.java" />
+      <jump line="57" column="53" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" />
+      <jump line="56" column="57" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" />
+      <jump line="50" column="16" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" />
+      <jump line="51" column="35" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/ChannelLongTask.java" />
+      <jump line="110" column="38" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>ORDER_HUANGNIU_FLAG_EVENT</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrYWZrYVJlY2VpdmVySGFuZGxlclw+</text>
