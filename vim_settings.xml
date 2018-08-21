@@ -822,7 +822,7 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ComponentManagerImpl.java" timestamp="1533799416633">
         <mark key="'" line="47" column="55" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" timestamp="1534831438159">
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" timestamp="1534832598207">
         <mark key="'" line="853" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/fitness/fitness-web/h5/src/main/java/com/doublefit/fitness/web/h5/controller/ShareController.java" timestamp="1534731726880" />
@@ -877,7 +877,7 @@
       </file>
       <file name="$USER_HOME$/workspace/crawler/crawler-dal/src/main/resources/mybatis/CrawlerSkuMapper.xml" timestamp="1534819972046" />
       <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/ExceptionControllerAdvice.java" timestamp="1534250189239" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/SaveEventListener.java" timestamp="1534821935041">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/SaveEventListener.java" timestamp="1534833411446">
         <mark key="'" line="14" column="53" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -940,7 +940,12 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" timestamp="1534831887226" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" timestamp="1534833483353">
+        <mark key="[" line="94" column="17" />
+        <mark key="]" line="94" column="17" />
+        <mark key="^" line="65" column="57" />
+        <mark key="." line="94" column="17" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/DomainResolvingJedisFactory.java" timestamp="1534086146682">
         <mark key="'" line="39" column="45" />
       </file>
@@ -983,8 +988,8 @@
       <file name="$MAVEN_REPOSITORY$/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar!/javax/servlet/http/HttpServletRequest.class" timestamp="1534239579842">
         <mark key="'" line="57" column="12" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCollection.java" timestamp="1534821450904">
-        <mark key="'" line="961" column="24" />
+      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCollection.java" timestamp="1534832508103">
+        <mark key="'" line="321" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/DBSyncTaskBuildManager.java" timestamp="1534746361713">
         <mark key="'" line="55" column="21" />
@@ -1015,12 +1020,12 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.4-SNAPSHOT/tardis-grpc-0.2.4-20180627.091426-6-sources.jar!/com/meitu/tardis/grpc/client/GrpcClient.java" timestamp="1532333482379">
         <mark key="'" line="117" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/dao/MongoTest.java" timestamp="1534832360894">
-        <mark key="'" line="19" column="10" />
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="22" column="13" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/dao/MongoTest.java" timestamp="1534833490875">
+        <mark key="'" line="17" column="34" />
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+        <mark key="^" line="41" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.2.RELEASE/spring-core-4.3.2.RELEASE.jar!/org/springframework/util/ReflectionUtils.class" timestamp="1534767647583">
         <mark key="'" line="450" column="30" />
@@ -1349,10 +1354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="35" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/SaveEventListener.java" />
-      <jump line="435" column="14" filename="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.2.RELEASE/spring-core-4.3.2.RELEASE.jar!/org/springframework/util/ReflectionUtils.class" />
-      <jump line="450" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.2.RELEASE/spring-core-4.3.2.RELEASE.jar!/org/springframework/util/ReflectionUtils.class" />
-      <jump line="24" column="36" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/SaveEventListener.java" />
       <jump line="27" column="28" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/v2/CfgProperty.java" />
       <jump line="24" column="28" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/v2/CfgEntity.java" />
       <jump line="1948" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
@@ -1449,47 +1450,50 @@
       <jump line="20" column="10" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/dao/MongoTest.java" />
       <jump line="36" column="52" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/resources/mongodb/datacenter-mongodb-config.xml" />
       <jump line="35" column="79" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/resources/mongodb/datacenter-mongodb-config.xml" />
+      <jump line="321" column="18" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCollection.java" />
+      <jump line="18" column="44" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" />
+      <jump line="78" column="34" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" />
+      <jump line="17" column="34" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/dao/MongoTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mongoClient</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>mongoClient</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb0RiRmFjdG9yeVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEQk9iamVjdCBkYkRvYyA9IHRvRGJPYmplY3Qob2JqZWN0VG9TYXZlLCB3cml0ZXIpOwo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0SW5zZXJ0KCkgewogICAgICAgIERhdGFNYXAgZGF0YU1hcCA9IG5ldyBEYXRhTWFwKCk7CiAgICAgICAgZGF0YU1hcC5wdXQoImRhdGFJZCIsMUwpOwogICAgICAgIGRhdGFNYXAucHV0KCJuYW1lIiwi5byg5LiJIik7CiAgICAgICAgZGF0YU1hcC5wdXQoImFnZSIsMjEpOwogICAgICAgIGludCByZXN1bHQgPSBtb25nb0V4dFRlbXBsYXRlLmluc2VydChkYXRhTWFwLCAicGVyc29uIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGYoInJlc3VsdD0iK3Jlc3VsdCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIERCT2JqZWN0IGRiRG9jID0gdG9EYk9iamVjdChvYmplY3RUb1NhdmUsIHdyaXRlcik7Ci8vICAgICAgICBEQk9iamVjdCBkYkRvYyA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0IHNldCA9IGRhdGFNYXAuZW50cnlTZXQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB3cml0ZXIud3JpdGUob2JqZWN0VG9TYXZlLCBkYkRvYyk7CiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlIHVwZGF0ZSA9IG5ldyBVcGRhdGUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGJEb2MucHV0QWxsKGRhdGFNYXApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgREJPYmplY3QgZGJEb2MgPSBuZXcgQmFzaWNEQk9iamVjdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgREIgZGIgPSBnZXREYigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBjb2xsZWN0aW9uLmluc2VydChkYkRvYyk7CgovLyAgICAgICAgbWF5YmVFbWl0RXZlbnQobmV3IEJlZm9yZVNhdmVFdmVudDxUPihvYmplY3RUb1NhdmUsIGRiRG9jLCBjb2xsZWN0aW9uTmFtZSkpOwogICAgICAgIE9iamVjdCBpZCA9IGluc2VydERCT2JqZWN0KGNvbGxlY3Rpb25OYW1lLCBkYkRvYywgb2JqZWN0VG9TYXZlLmdldENsYXNzKCkpOwoKLy8gICAgICAgIHBvcHVsYXRlSWRJZk5lY2Vzc2FyeShvYmplY3RUb1NhdmUsIGlkKTsKLy8gICAgICAgIG1heWJlRW1pdEV2ZW50KG5ldyBBZnRlclNhdmVFdmVudDxUPihvYmplY3RUb1NhdmUsIGRiRG9jLCBjb2xsZWN0aW9uTmFtZSkpOwogICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>finally {
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICB1cGRhdGVGaXJzdChxdWVyeSwpCiAgICAgICAgICAgIERCQ29sbGVjdGlvbiBjb2xsZWN0aW9uID0gZGIuZ2V0Q29sbGVjdGlvbihjb2xsZWN0aW9uTmFtZSk7CiAgICAgICAgICAgIFdyaXRlUmVzdWx0IHdyaXRlUmVzdWx0ID0gY29sbGVjdGlvbi51cGRhdGUoZGJEb2MpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoY3Vyc29yICE9IG51bGwpewogICAgICAgICAgICAgICAgY3Vyc29yLmNsb3NlKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0LmZvckVhY2goKTsgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIERCT2JqZWN0IGRiRG9jID0gdG9EYk9iamVjdChvYmplY3RUb1NhdmUsIHdyaXRlcik7Ci8vICAgICAgICBEQk9iamVjdCBkYkRvYyA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>265</text>
