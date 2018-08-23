@@ -216,7 +216,7 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/resources/tardis/datacenter-tardis-proxy-consumer.xml" timestamp="1534746942587" />
       <file name="$USER_HOME$/workspace/darwin-query/beta.properties" timestamp="1534753345061" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/RealTimeDataFetchManager.java" timestamp="1534731748747" />
-      <file name="$USER_HOME$/workspace/crawler/crawler-client/src/main/java/com/meitu/meipu/crawler/client/backend/CrawlerJobServiceClient.java" timestamp="1534927329091" />
+      <file name="$USER_HOME$/workspace/crawler/crawler-client/src/main/java/com/meitu/meipu/crawler/client/backend/CrawlerJobServiceClient.java" timestamp="1534990220226" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/service/read/TradeDataReadService.java" timestamp="1534941462116" />
       <file name="$USER_HOME$/workspace/crawler/crawler-dal/src/main/java/com/meitu/meipu/crawler/mapper/CrawlerAllInfoMapper.java" timestamp="1534820157151" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/FetcEntityDaoImpl.java" timestamp="1534767029572">
@@ -1355,12 +1355,12 @@
       <file name="$USER_HOME$/workspace/datarealtime/datarealtime-core/src/main/java/com/meitu/meipu/datarealtime/core/service/CronServiceImpl.java" timestamp="1534408959361">
         <mark key="'" line="30" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1534944818222">
-        <mark key="'" line="48" column="34" />
-        <mark key="[" line="47" column="103" />
-        <mark key="]" line="47" column="101" />
-        <mark key="^" line="47" column="101" />
-        <mark key="." line="47" column="101" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1534990400822">
+        <mark key="'" line="49" column="57" />
+        <mark key="[" line="50" column="86" />
+        <mark key="]" line="48" column="41" />
+        <mark key="^" line="48" column="41" />
+        <mark key="." line="48" column="41" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/itemcenter-common/1.1-SNAPSHOT/itemcenter-common-1.1-20180723.080755-545.jar!/com/meitu/meipu/itemcenter/service/backend/ItemReadService.class" timestamp="1532423108947">
         <mark key="'" line="47" column="23" />
@@ -1370,7 +1370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="25" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/dao/MongoTest.java" />
       <jump line="73" column="55" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/dao/MongoTest.java" />
       <jump line="74" column="47" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/dao/MongoTest.java" />
       <jump line="38" column="21" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/AbstMongoDao.java" />
@@ -1470,13 +1469,14 @@
       <jump line="39" column="34" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" />
       <jump line="11" column="40" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/CfgEntityDao.java" />
       <jump line="11" column="48" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/CfgPropertyDaoImpl.java" />
+      <jump line="49" column="57" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+      <register name="&quot;" type="4">
+        <text>findOne</text>
       </register>
       <register name="-" type="4">
-        <text>findByReferDataId</text>
+        <text>findOne</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbnRpdHlJZFw+</text>
