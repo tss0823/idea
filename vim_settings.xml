@@ -83,12 +83,12 @@
         <mark key="^" line="20" column="9" />
         <mark key="." line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/v2/CfgEntity.java" timestamp="1535078472593">
-        <mark key="'" line="36" column="15" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-        <mark key="^" line="36" column="15" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/v2/CfgEntity.java" timestamp="1535354282307">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="6" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="20" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/CfgEntityRequest.java" timestamp="1535026483018">
         <mark key="'" line="15" column="3" />
@@ -497,12 +497,12 @@
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/v2/CfgProperty.java" timestamp="1535024223118">
-        <mark key="'" line="52" column="8" />
-        <mark key="[" line="50" column="4" />
-        <mark key="]" line="52" column="8" />
-        <mark key="^" line="52" column="8" />
-        <mark key="." line="52" column="8" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/v2/CfgProperty.java" timestamp="1535354479753">
+        <mark key="'" line="43" column="8" />
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="43" column="8" />
+        <mark key="^" line="43" column="8" />
+        <mark key="." line="43" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/utils/DataConvertUtil.java" timestamp="1534405839822">
         <mark key="'" line="343" column="82" />
@@ -663,6 +663,7 @@
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/DataCommonRequest.java" timestamp="1535354496343" />
       <file name="$USER_HOME$/workspace/darwin/darwin-web/src/main/java/com/meitu/meipu/darwin/web/controller/ReadyDataController.java" timestamp="1534319273191">
         <mark key="'" line="190" column="59" />
         <mark key="[" line="187" column="99" />
@@ -733,7 +734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="20" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/AdsTradeOverviewSummaryD.java" />
       <jump line="330" column="93" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" />
       <jump line="50" column="23" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" />
       <jump line="52" column="32" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" />
@@ -833,6 +833,7 @@
       <jump line="25" column="17" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/ReadyDataEvaluateDO.java" />
       <jump line="19" column="75" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/ReadyDataEvaluateDO.java" />
       <jump line="76" column="118" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/AbstDBSyncManager.java" />
+      <jump line="22" column="6" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/v2/CfgEntity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
