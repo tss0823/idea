@@ -84,11 +84,11 @@
         <mark key="." line="14" column="12" />
         <mark key="^" line="20" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/domain/CollectorEntity.java" timestamp="1535435896939">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="33" column="10" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/domain/CollectorEntity.java" timestamp="1535439246947">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="24" column="10" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/CfgEntityRequest.java" timestamp="1535026483018">
         <mark key="'" line="15" column="3" />
@@ -258,11 +258,11 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/domain/PuckTemplate.java" timestamp="1535436599064">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="24" />
-        <mark key="^" line="12" column="23" />
-        <mark key="." line="12" column="24" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/domain/PuckTemplate.java" timestamp="1535439283244">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/FetcEntityDaoImpl.java" timestamp="1534767029572">
         <mark key="'" line="20" column="22" />
@@ -380,7 +380,7 @@
         <mark key="^" line="73" column="141" />
         <mark key="." line="73" column="141" />
       </file>
-      <file name="/fragment.java" timestamp="1535436930467">
+      <file name="/fragment.java" timestamp="1535439154496">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/domain/request/FetchDataRequest.java" timestamp="1535436416419">
@@ -659,6 +659,12 @@
         <mark key="." line="16" column="7" />
         <mark key="^" line="16" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/DasJob.java" timestamp="1535438996126">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="26" column="12" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-common/src/main/java/com/meitu/meipu/darwin/query/common/service/EvaluateService.java" timestamp="1534311501934">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="15" column="21" />
@@ -699,8 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="48" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/CfgPropertyDaoImpl.java" />
-      <jump line="37" column="24" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/AbstMongoDao.java" />
       <jump line="61" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/BasicQuery.java" />
       <jump line="65" column="32" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/AbstMongoDao.java" />
       <jump line="69" column="14" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/AbstMongoDao.java" />
@@ -799,46 +803,48 @@
       <jump line="29" column="7" filename="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/domain/DalRoute.java" />
       <jump line="29" column="42" filename="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/domain/DalEntity.java" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/DasProperty.java" />
+      <jump line="34" column="12" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/DasJob.java" />
+      <jump line="31" column="10" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/domain/CollectorEntity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldERhdGFJZCgpIHsKICAgICAgICByZXR1cm4gZGF0YUlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldERhdGFJZChMb25nIGRhdGFJZCkgewogICAgICAgIHRoaXMuZGF0YUlkID0gZGF0YUlkOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>puck_template</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhSWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyB0b0RhdGFJZDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxMb25nPiBjb2xsZWN0b3JJZHM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldERhdGFJZCgpIHsKICAgICAgICByZXR1cm4gZGF0YUlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldERhdGFJZChMb25nIGRhdGFJZCkgewogICAgICAgIHRoaXMuZGF0YUlkID0gZGF0YUlkOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJbnRlZ2VyIGdldFNvcnRJbmRleCgpIHsKICAgICAgICByZXR1cm4gc29ydEluZGV4OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNvcnRJbmRleChJbnRlZ2VyIHNvcnRJbmRleCkgewogICAgICAgIHRoaXMuc29ydEluZGV4ID0gc29ydEluZGV4Owo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldERhdGFJZCgpIHsKICAgICAgICByZXR1cm4gZGF0YUlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldERhdGFJZChMb25nIGRhdGFJZCkgewogICAgICAgIHRoaXMuZGF0YUlkID0gZGF0YUlkOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgICByZXR1cm4gbmFtZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXROYW1lKFN0cmluZyBuYW1lKSB7CiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEVuTmFtZSgpIHsKICAgICAgICByZXR1cm4gZW5OYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEVuTmFtZShTdHJpbmcgZW5OYW1lKSB7CiAgICAgICAgdGhpcy5lbk5hbWUgPSBlbk5hbWU7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRGZXRjaERhdGFVcmwoKSB7CiAgICAgICAgcmV0dXJuIGZldGNoRGF0YVVybDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRGZXRjaERhdGFVcmwoU3RyaW5nIGZldGNoRGF0YVVybCkgewogICAgICAgIHRoaXMuZmV0Y2hEYXRhVXJsID0gZmV0Y2hEYXRhVXJsOwogICAgfQoKICAgIHB1YmxpYyBJbnRlZ2VyIGdldFN0YXR1cygpIHsKICAgICAgICByZXR1cm4gc3RhdHVzOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFN0YXR1cyhJbnRlZ2VyIHN0YXR1cykgewogICAgICAgIHRoaXMuc3RhdHVzID0gc3RhdHVzOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0TXZhbHVlcygpIHsKICAgICAgICByZXR1cm4gbXZhbHVlczsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRNdmFsdWVzKFN0cmluZyBtdmFsdWVzKSB7CiAgICAgICAgdGhpcy5tdmFsdWVzID0gbXZhbHVlczsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldE1ldHJpY3MoKSB7CiAgICAgICAgcmV0dXJuIG1ldHJpY3M7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TWV0cmljcyhTdHJpbmcgbWV0cmljcykgewogICAgICAgIHRoaXMubWV0cmljcyA9IG1ldHJpY3M7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKiAqIOaOkuW6jyAqLwogICAgcHJpdmF0ZSBJbnRlZ2VyIHNvcnRJbmRleDsK</text>
+        <text encoding="base64">ICAgIC8qKiAqIGZldGNoIGRhdGEg5p2h5Lu2ICovCiAgICBwcml2YXRlIFN0cmluZyBtdmFsdWVzOwoKICAgIC8qKiDmjIfmoIcgKiovCiAgICBwcml2YXRlIFN0cmluZyBtZXRyaWNzOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZXRFbnRpdHlJZChMb25nIGVudGl0eUlkKSB7CiAgICAgICAgdGhpcy5lbnRpdHlJZCA9IGVudGl0eUlkOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIC8qKiAqIOa6kOaVsOaNruaOpeWPoyAqLwogICAgcHJpdmF0ZSBTdHJpbmcgZmV0Y2hEYXRhVXJsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldERhdGFJZCgpIHsKICAgICAgICByZXR1cm4gZGF0YUlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldERhdGFJZChMb25nIGRhdGFJZCkgewogICAgICAgIHRoaXMuZGF0YUlkID0gZGF0YUlkOwogICAgfQoKICAgIHB1YmxpYyBMb25nIGdldEVudGl0eUlkKCkgewogICAgICAgIHJldHVybiBlbnRpdHlJZDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKiAqIOiLseaWh+WQjeensCAqLwogICAgcHJpdmF0ZSBTdHJpbmcgZW5OYW1lOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldERhdGFJZCgpIHsKICAgICAgICByZXR1cm4gZGF0YUlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldERhdGFJZChMb25nIGRhdGFJZCkgewogICAgICAgIHRoaXMuZGF0YUlkID0gZGF0YUlkOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgICByZXR1cm4gbmFtZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXROYW1lKFN0cmluZyBuYW1lKSB7CiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEVuTmFtZSgpIHsKICAgICAgICByZXR1cm4gZW5OYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEVuTmFtZShTdHJpbmcgZW5OYW1lKSB7CiAgICAgICAgdGhpcy5lbk5hbWUgPSBlbk5hbWU7CiAgICB9CgogICAgcHVibGljIEludGVnZXIgZ2V0U3RhdHVzKCkgewogICAgICAgIHJldHVybiBzdGF0dXM7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0U3RhdHVzKEludGVnZXIgc3RhdHVzKSB7CiAgICAgICAgdGhpcy5zdGF0dXMgPSBzdGF0dXM7CiAgICB9CgogICAgcHVibGljIExpc3Q8RGFzUHJvcGVydHk+IGdldFByb3BlcnR5TGlzdCgpIHsKICAgICAgICByZXR1cm4gcHJvcGVydHlMaXN0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFByb3BlcnR5TGlzdChMaXN0PERhc1Byb3BlcnR5PiBwcm9wZXJ0eUxpc3QpIHsKICAgICAgICB0aGlzLnByb3BlcnR5TGlzdCA9IHByb3BlcnR5TGlzdDsK</text>
       </register>
       <register name=":" type="4">
         <text>265</text>
