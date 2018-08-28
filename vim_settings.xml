@@ -35,14 +35,21 @@
         <mark key="^" line="20" column="29" />
         <mark key="." line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ProviderDataRequest.java" timestamp="1535450621633">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="20" column="33" />
+        <mark key="^" line="20" column="33" />
+        <mark key="." line="20" column="33" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" timestamp="1534219795777">
         <mark key="'" line="180" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" timestamp="1535435515166">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="86" />
-        <mark key="^" line="9" column="86" />
-        <mark key="." line="9" column="86" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" timestamp="1535450737952">
+        <mark key="'" line="28" column="50" />
+        <mark key="[" line="40" column="105" />
+        <mark key="]" line="41" column="26" />
+        <mark key="." line="42" column="51" />
+        <mark key="^" line="41" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/utils/DataReportUtils.java" timestamp="1535445226004" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/TimeTypeConverter.java" timestamp="1534766344567">
@@ -60,6 +67,12 @@
         <mark key="]" line="20" column="4" />
         <mark key="^" line="20" column="9" />
         <mark key="." line="20" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/ProviderDataService.java" timestamp="1535450342499">
+        <mark key="[" line="11" column="38" />
+        <mark key="]" line="13" column="50" />
+        <mark key="^" line="13" column="50" />
+        <mark key="." line="13" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/v2/CfgEntity.java" timestamp="1535363064004">
         <mark key="'" line="20" column="6" />
@@ -97,8 +110,8 @@
         <mark key="." line="15" column="21" />
         <mark key="^" line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/v2/impl/DataNativeManager.java" timestamp="1535425338308">
-        <mark key="'" line="122" column="73" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/v2/impl/DataNativeManager.java" timestamp="1535450695308">
+        <mark key="'" line="113" column="55" />
         <mark key="[" line="127" column="71" />
         <mark key="]" line="127" column="86" />
         <mark key="." line="127" column="86" />
@@ -288,6 +301,7 @@
       <file name="$USER_HOME$/workspace/crawler/crawler-dal/src/main/java/com/meitu/meipu/crawler/dao/impl/CrawlerSkuDaoImpl2.java" timestamp="1534819980398">
         <mark key="'" line="38" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/resources/kafka/data-kafka-consumer.xml" timestamp="1535450825454" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/PageFlowAction.java" timestamp="1534474193036">
         <mark key="'" line="205" column="41" />
       </file>
@@ -413,11 +427,11 @@
         <mark key="'" line="78" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/service/v2/DataCommonServiceTest.java" timestamp="1535427590139" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/v2/DataCommonManager.java" timestamp="1535026083120">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="15" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/v2/DataCommonManager.java" timestamp="1535450481144">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="25" />
         <mark key="^" line="14" column="15" />
-        <mark key="." line="14" column="15" />
+        <mark key="." line="14" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/v2/CfgProperty.java" timestamp="1535435754638">
         <mark key="'" line="43" column="8" />
@@ -458,7 +472,7 @@
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/domain/Evaluate.java" timestamp="1534753675133">
         <mark key="'" line="22" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/CollectorService.java" timestamp="1535447411503">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/CollectorService.java" timestamp="1535450315552">
         <mark key="'" line="13" column="40" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -580,19 +594,13 @@
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/DataCommonRequest.java" timestamp="1535427574517" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/DataCommonRequest.java" timestamp="1535450579175" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/AbstService.java" timestamp="1535424933273" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/DasJob.java" timestamp="1535438996126">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="^" line="26" column="12" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/pom.xml" timestamp="1535448621717">
-        <mark key="'" line="15" column="51" />
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="13" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-common/src/main/java/com/meitu/meipu/darwin/query/common/service/EvaluateService.java" timestamp="1534311501934">
         <mark key="[" line="15" column="14" />
@@ -635,10 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="21" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/CfgPropertyDaoImpl.java" />
-      <jump line="122" column="25" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
-      <jump line="9" column="46" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/CfgPropertyDao.java" />
-      <jump line="87" column="24" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/AbstMongoDao.java" />
       <jump line="72" column="30" filename="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/AbstMongoDao.java" />
       <jump line="100" column="43" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/dao/MongoTest.java" />
       <jump line="43" column="26" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" />
@@ -735,13 +739,17 @@
       <jump line="15" column="51" filename="$USER_HOME$/workspace/datacenter/datacenter-config/pom.xml" />
       <jump line="64" column="49" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/v2/impl/ConsumeDataManagerImpl.java" />
       <jump line="28" column="54" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/dao/impl/AbstMongoDao.java" />
+      <jump line="9" column="74" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" />
+      <jump line="15" column="50" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" />
+      <jump line="132" column="40" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/v2/impl/DataNativeManager.java" />
+      <jump line="113" column="55" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/v2/impl/DataNativeManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CfgPropertyRequest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CfgPropertyRequest</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
@@ -750,31 +758,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20ubWVpdHUubWVpcHU8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5kYXRhY2VudGVyLXFhdGVzdDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7ZGF0YWNlbnRlci52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENmZ0VudGl0eSBmaW5kQnlSZWZlckRhdGFJZChMb25nIHJlZmVyRGF0YUlkKTsKCiAgICBDZmdFbnRpdHkgZmluZEJ5RW5OYW1lQW5kVHlwZShTdHJpbmcgZW5OYW1lLCBJbnRlZ2VyIHR5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm1laXR1Lm1laXB1PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5kYXRhY2VudGVyLWNvbmZpZzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4wLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+Y29tcGlsZTwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm1laXR1Lm1laXB1PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5kYXRhY2VudGVyLWNvbmZpZzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4wLVJFTEVBU0UtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgICAgIDxzY29wZT5jb21waWxlPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4wLVJFTEVBU0UtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog5a+55bqUZW50aXR5IGVuTmFtZQogICAgICovCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIENmZ0VudGl0eSBmaW5kQnlSZWZlckRhdGFJZChMb25nIHJlZmVyRGF0YUlkKTsKCiAgICBDZmdFbnRpdHkgZmluZEJ5RW5OYW1lQW5kVHlwZShTdHJpbmcgZW5OYW1lLCBJbnRlZ2VyIHR5cGUpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm1laXR1Lm1laXB1PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5kYXRhY2VudGVyLWNvbmZpZzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4wLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+Y29tcGlsZTwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IGNvbmRpdGlvbkxpc3QgPSAoTGlzdDxTdHJpbmc+KSBvYmplY3RzCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm1laXR1Lm1laXB1PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5kYXRhY2VudGVyLWNvbmZpZzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4wLVJFTEVBU0UtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgICAgIDxzY29wZT5jb21waWxlPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcuZm9ybWF0KG12YWx1ZXNGcm0sIHJlcXVlc3QuZ2V0TXZhbHVlcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4wLVJFTEVBU0UtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TXZhbHVlcygpIHsKICAgICAgICByZXR1cm4gbXZhbHVlczsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRNdmFsdWVzKFN0cmluZyBtdmFsdWVzKSB7CiAgICAgICAgdGhpcy5tdmFsdWVzID0gbXZhbHVlczsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>265</text>
