@@ -393,11 +393,11 @@
         <mark key="." line="43" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/resources/mongodb/datacenter-mongodb-config.xml" timestamp="1535448147222" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/DataShowService.java" timestamp="1535521591272">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="14" column="65" />
-        <mark key="^" line="14" column="65" />
-        <mark key="." line="14" column="65" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/DataShowService.java" timestamp="1535522089702">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/beta.properties" timestamp="1535424249578" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorServiceImpl.java" timestamp="1535436412136">
@@ -449,6 +449,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="13" column="23" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" timestamp="1535522161658">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ConsumeJobRequest.java" timestamp="1535513494547">
         <mark key="[" line="8" column="52" />
@@ -505,7 +511,7 @@
         <mark key="^" line="2" column="108" />
         <mark key="." line="2" column="108" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/service/v2/DataCommonService.java" timestamp="1535521752743">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/service/v2/DataCommonService.java" timestamp="1535522054907">
         <mark key="[" line="20" column="22" />
         <mark key="]" line="20" column="21" />
         <mark key="^" line="20" column="21" />
@@ -611,8 +617,8 @@
         <mark key="^" line="107" column="26" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1535521920162">
-        <mark key="'" line="28" column="50" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1535522051027">
+        <mark key="'" line="28" column="52" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="^" line="52" column="105" />
@@ -629,8 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="16" filename="$USER_HOME$/workspace/darwin/darwin-message/src/main/java/com/meitu/meipu/darwin/message/kafka/darwin/ConsumerFactory.java" />
-      <jump line="38" column="28" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/DBSyncTaskConsumeManager.java" />
       <jump line="61" column="29" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/EvaluateDBSyncManagerImpl.java" />
       <jump line="28" column="55" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/EvaluateDBSyncManagerImpl.java" />
       <jump line="38" column="38" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/AbstDBSyncManager.java" />
@@ -729,13 +733,15 @@
       <jump line="25" column="3" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasEntity.java" />
       <jump line="27" column="31" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasJob.java" />
       <jump line="27" column="50" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" />
+      <jump line="62" column="68" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" />
+      <jump line="28" column="52" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>consumePuckDataRequest</text>
+        <text>DataResult</text>
       </register>
       <register name="-" type="4">
-        <text>consumePuckDataRequest</text>
+        <text>DataResult</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrYWZrYUhhbmRsZXJGYWN0b3J5XD4=</text>
