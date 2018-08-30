@@ -1081,12 +1081,12 @@
         <mark key="^" line="26" column="12" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" timestamp="1535623279765">
-        <mark key="'" line="44" column="12" />
-        <mark key="[" line="37" column="46" />
-        <mark key="]" line="37" column="44" />
-        <mark key="." line="37" column="44" />
-        <mark key="^" line="37" column="44" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" timestamp="1535623654679">
+        <mark key="'" line="48" column="55" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="50" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-common/src/main/java/com/meitu/meipu/darwin/query/common/service/EvaluateService.java" timestamp="1534311501934">
         <mark key="[" line="15" column="14" />
@@ -1151,7 +1151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="14" filename="$USER_HOME$/workspace/darwin/darwin-message/src/main/resources/darwin-message-consumer.xml" />
       <jump line="76" column="52" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/resources/kafka/mdata-kafka-consumer.xml" />
       <jump line="32" column="52" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/resources/kafka/mdata-kafka-consumer.xml" />
       <jump line="48" column="52" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/resources/kafka/mdata-kafka-consumer.xml" />
@@ -1251,46 +1250,47 @@
       <jump line="52" column="17" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorWrapperServiceImpl.java" />
       <jump line="15" column="39" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/CollectorService.java" />
       <jump line="34" column="12" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
+      <jump line="48" column="55" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>condition</text>
+        <text>&quot;;&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhY2VudGVyQ29uc3VtZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYXNKb2Iuc2V0TmFtZSgi5Lqk5piT5L2c5LiaIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCI7Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgCgoKICAgICAgICAvL2NvbmRpdGlvbkxpc3QK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhQ29tbW9uUmVxdWVzdC5nZXRPc1R5cGUoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBMaXN0PFN0cmluZz4gY29uZGl0aW9uTGlzdDsKLy8KLy8gICAgcHJpdmF0ZSBTdHJpbmcgbGltaXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q29uZGl0aW9uKCkgewogICAgICAgIHJldHVybiBjb25kaXRpb247CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q29uZGl0aW9uKFN0cmluZyBjb25kaXRpb24pIHsKICAgICAgICB0aGlzLmNvbmRpdGlvbiA9IGNvbmRpdGlvbjsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CiAgICAgICAgCgoKICAgICAgICAvL2NvbmRpdGlvbkxpc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TGltaXQoKSB7CiAgICAgICAgcmV0dXJuIGxpbWl0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldExpbWl0KFN0cmluZyBsaW1pdCkgewogICAgICAgIHRoaXMubGltaXQgPSBsaW1pdDsKICAgIH0KCiAgICBwdWJsaWMgTGlzdDxTdHJpbmc+IGdldENvbmRpdGlvbkxpc3QoKSB7CiAgICAgICAgcmV0dXJuIGNvbmRpdGlvbkxpc3Q7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q29uZGl0aW9uTGlzdChMaXN0PFN0cmluZz4gY29uZGl0aW9uTGlzdCkgewogICAgICAgIHRoaXMuY29uZGl0aW9uTGlzdCA9IGNvbmRpdGlvbkxpc3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaERhdGFSZXF1ZXN0LnNldENvbmRpdGlvbkxpc3QoKTsK</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBMaXN0PFN0cmluZz4gY29uZGl0aW9uTGlzdDsKLy8KLy8gICAgcHJpdmF0ZSBTdHJpbmcgbGltaXQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zdW1lRGF0YVJlcXVlc3QgY29uc3VtZURhdGFSZXF1ZXN0ID0gbmV3IENvbnN1bWVEYXRhUmVxdWVzdCgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q29uZGl0aW9uKCkgewogICAgICAgIHJldHVybiBjb25kaXRpb247CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q29uZGl0aW9uKFN0cmluZyBjb25kaXRpb24pIHsKICAgICAgICB0aGlzLmNvbmRpdGlvbiA9IGNvbmRpdGlvbjsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>265</text>
