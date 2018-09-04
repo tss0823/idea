@@ -284,11 +284,11 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/MongoRepository.java" timestamp="1535543662404">
         <mark key="'" line="36" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/resources/tardis.properties" timestamp="1536062727110">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/resources/tardis.properties" timestamp="1536064427400">
         <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="14" />
+        <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/DasEntityDaoTest.java" timestamp="1535621189833">
         <mark key="[" line="32" column="59" />
@@ -640,7 +640,7 @@
         <mark key="'" line="38" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/resources/kafka/data-kafka-consumer.xml" timestamp="1535450825454" />
-      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/util/DateUtil.java" timestamp="1536048558313" />
+      <file name="$USER_HOME$/workspace/crawler/crawler-common/src/main/java/com/meitu/meipu/crawler/util/DateUtil.java" timestamp="1536063736021" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerFetchServiceImpl.java" timestamp="1535963404708">
         <mark key="'" line="90" column="29" />
         <mark key="[" line="116" column="34" />
@@ -648,8 +648,8 @@
         <mark key="^" line="117" column="66" />
         <mark key="." line="116" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/HttpControllerAspector.java" timestamp="1536047362273">
-        <mark key="'" line="61" column="53" />
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/HttpControllerAspector.java" timestamp="1536063988893">
+        <mark key="'" line="62" column="53" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCollection.java" timestamp="1534833741157">
         <mark key="'" line="321" column="18" />
@@ -805,8 +805,8 @@
         <mark key="." line="44" column="45" />
         <mark key="^" line="44" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/helper/FetchDataHelper.java" timestamp="1536052884861">
-        <mark key="'" line="77" column="23" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/helper/FetchDataHelper.java" timestamp="1536064925938">
+        <mark key="'" line="89" column="30" />
         <mark key="[" line="110" column="33" />
         <mark key="]" line="110" column="33" />
         <mark key="." line="110" column="33" />
@@ -828,7 +828,7 @@
         <mark key="^" line="16" column="43" />
         <mark key="." line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" timestamp="1536053239510">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" timestamp="1536064418732">
         <mark key="'" line="164" column="53" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -890,20 +890,18 @@
       <file name="$USER_HOME$/workspace/datarealtime/datarealtime-core/src/main/java/com/meitu/meipu/datarealtime/core/service/CronServiceImpl.java" timestamp="1534408959361">
         <mark key="'" line="30" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1536053673605">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1536064867973">
         <mark key="'" line="21" column="54" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="56" column="99" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="48" />
+        <mark key="^" line="39" column="44" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/EvaluateManagerImpl.java" timestamp="1536053619131">
         <mark key="'" line="40" column="14" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1308" column="35" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
-      <jump line="46" column="22" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataBuildServiceImpl.java" />
       <jump line="45" column="52" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataBuildServiceImpl.java" />
       <jump line="149" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.15.RELEASE/spring-context-4.3.15.RELEASE-sources.jar!/org/springframework/context/annotation/AnnotationBeanNameGenerator.java" />
       <jump line="148" column="47" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.15.RELEASE/spring-context-4.3.15.RELEASE-sources.jar!/org/springframework/context/annotation/AnnotationBeanNameGenerator.java" />
@@ -1002,19 +1000,21 @@
       <jump line="45" column="135" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/CommonIndexController.java" />
       <jump line="78" column="53" filename="$USER_HOME$/workspace/datareport/pom.xml" />
       <jump line="494" column="28" filename="$USER_HOME$/workspace/datareport/pom.xml" />
+      <jump line="62" column="53" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/HttpControllerAspector.java" />
+      <jump line="89" column="30" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/helper/FetchDataHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygic2VsZWN0Q29yZURhdGFMaXN0IGVudHJ5Iik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>datacenter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGRhdGVTdGFydCA9IERhdGVVdGlscy5wYXJzZShzdGFydERhdGUsICJ5eXl5LU1NLWRkIiwgInl5eXlNTWRkIik7CiAgICAgICAgICAgIHJlcXVlc3Quc2V0RGF0ZVN0YXJ0KGRhdGVTdGFydCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygic2VsZWN0Q29yZURhdGFMaXN0IGVudHJ5Iik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
