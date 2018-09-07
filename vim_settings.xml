@@ -24,6 +24,12 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/CollectorPuckService.java" timestamp="1535535704598">
         <mark key="'" line="13" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/DataCondition.java" timestamp="1536285847499">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="16" column="62" />
+        <mark key="^" line="16" column="62" />
+        <mark key="." line="16" column="62" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/domain/enums/CollectorType.java" timestamp="1535536476939">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="15" />
@@ -223,8 +229,8 @@
       </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/ChannelController.java" timestamp="1536214665550" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/TradeDataAction.java" timestamp="1536215780554" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Query.java" timestamp="1536220275821">
-        <mark key="'" line="161" column="17" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Query.java" timestamp="1536286543844">
+        <mark key="'" line="65" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/service/overviewService/OverviewServiceTest.java" timestamp="1536214044033">
         <mark key="'" line="54" column="33" />
@@ -347,7 +353,7 @@
         <mark key="." line="645" column="24" />
         <mark key="^" line="645" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/resources/applicationContext-test.xml" timestamp="1536212802288">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/resources/applicationContext-test.xml" timestamp="1536285687061">
         <mark key="[" line="44" column="29" />
         <mark key="]" line="44" column="34" />
         <mark key="." line="44" column="34" />
@@ -370,8 +376,8 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" timestamp="1536220713881">
-        <mark key="'" line="76" column="40" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" timestamp="1536286541110">
+        <mark key="'" line="61" column="34" />
         <mark key="[" line="68" column="14" />
         <mark key="]" line="68" column="24" />
         <mark key="." line="68" column="24" />
@@ -479,11 +485,12 @@
         <mark key="'" line="71" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/DataCenterAction.java" timestamp="1536214621537" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/dao/DasEntityDaoTest.java" timestamp="1536227421769">
-        <mark key="[" line="52" column="43" />
-        <mark key="]" line="52" column="42" />
-        <mark key="." line="52" column="42" />
-        <mark key="^" line="52" column="42" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/dao/DasEntityDaoTest.java" timestamp="1536286513550">
+        <mark key="'" line="65" column="11" />
+        <mark key="[" line="40" column="59" />
+        <mark key="]" line="40" column="64" />
+        <mark key="." line="40" column="64" />
+        <mark key="^" line="40" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" timestamp="1536215511696" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/impl/AbstMongoDao.java" timestamp="1535350533238">
@@ -506,8 +513,8 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/manager/FetchTest.java" timestamp="1536216202806">
-        <mark key="'" line="171" column="43" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/manager/FetchTest.java" timestamp="1536285680963">
+        <mark key="'" line="173" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/dao/DalEntityDaoTest.java" timestamp="1536032360780">
         <mark key="'" line="114" column="18" />
@@ -666,6 +673,11 @@
         <mark key="]" line="14" column="10" />
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/beta.properties" timestamp="1536285701415">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorServiceImpl.java" timestamp="1535436412136">
         <mark key="'" line="15" column="44" />
@@ -934,6 +946,12 @@
         <mark key="." line="27" column="37" />
         <mark key="^" line="27" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/DataCondtion.java" timestamp="1536285772876">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/v2/impl/AbstManager.java" timestamp="1535081466911">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="14" />
@@ -1079,10 +1097,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
-      <jump line="206" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
-      <jump line="222" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
-      <jump line="234" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
       <jump line="257" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
       <jump line="273" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
       <jump line="296" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
@@ -1179,46 +1193,50 @@
       <jump line="38" column="9" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" />
       <jump line="32" column="12" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasEntity.java" />
       <jump line="33" column="24" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasEntity.java" />
+      <jump line="173" column="40" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/manager/FetchTest.java" />
+      <jump line="52" column="11" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/dao/DasEntityDaoTest.java" />
+      <jump line="61" column="34" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" />
+      <jump line="65" column="37" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Query.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>criteriaChain,&quot;&quot;</text>
+        <text>dateEnd</text>
       </register>
       <register name="-" type="4">
-        <text>criteriaChain,&quot;&quot;</text>
+        <text>dateEnd</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcml0ZXJpYVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYXNFbnRpdHkuc2V0U3RhdHVzKDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhQ29uZGl0aW9uID0gbmV3IERhdGFDb25kaXRpb24oImRhdGVFbmQiLCJsdGUiLCIke2RhdGVFbmR9Iik7CiAgICAgICAgZGF0YUxpc3QuYWRkKGRhdGFDb25kaXRpb24pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0UXVlcnlGb3JtYXJ0KCkgewogICAgICAgIHJldHVybiBxdWVyeUZvcm1hcnQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UXVlcnlGb3JtYXJ0KFN0cmluZyBxdWVyeUZvcm1hcnQpIHsKICAgICAgICB0aGlzLnF1ZXJ5Rm9ybWFydCA9IHF1ZXJ5Rm9ybWFydDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkYXNFbnRpdHkuc2V0UXVlcnlGb3JtYXQoIm9zVHlwZTp7aXM6JHtvc1R5cGV9fSMiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihjcml0ZXJpYUNoYWluLCBrZXkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGV4dCA9ICJvc1R5cGU6e2lzOiR7b3NUeXBlfX0jb3NWZXJzaW9uOntpczoke29zVmVyc2lvbn19IjsKICAgICAgICBTdHJpbmdbXSBzcGxpdCA9IHRleHQuc3BsaXQoIlxcIyIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoKEpTT05PYmplY3QpIGpzb24pLnB1dEFsbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC4K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0UXVlcnlGb3JtYXJ0KCkgewogICAgICAgIHJldHVybiBxdWVyeUZvcm1hcnQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UXVlcnlGb3JtYXJ0KFN0cmluZyBxdWVyeUZvcm1hcnQpIHsKICAgICAgICB0aGlzLnF1ZXJ5Rm9ybWFydCA9IHF1ZXJ5Rm9ybWFydDsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihjcml0ZXJpYUNoYWluLCBrZXkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjcml0ZXJpYU9iamVjdC5wdQo=</text>
+        <text encoding="base64">ICAgICAgICAoKEpTT05PYmplY3QpIGpzb24pLnB1dEFsbCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY3JpdGVyaWFPYmplY3QK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIERCT2JqZWN0IGdldFNpbmdsZUNyaXRlcmlhT2JqZWN0KCkgewogICAgICAgIHJldHVybiBzdXBlci5nZXRTaW5nbGVDcml0ZXJpYU9iamVjdCgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjcml0ZXJpYU9iamVjdC5wdQo=</text>
       </register>
       <register name=":" type="4">
         <text>59</text>
