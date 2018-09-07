@@ -91,6 +91,7 @@
         <mark key="." line="14" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/BSONObject.java" timestamp="1536225108587" />
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/constants/TaskIdEnum.java" timestamp="1536289118363" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/v2/CfgEntity.java" timestamp="1535363064004">
         <mark key="'" line="20" column="6" />
         <mark key="[" line="19" column="0" />
@@ -695,6 +696,9 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataFetchController.java" timestamp="1536289078003">
+        <mark key="'" line="157" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ConsumeDataRequest.java" timestamp="1535510438615">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="29" />
@@ -1097,7 +1101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
       <jump line="273" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
       <jump line="296" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
       <jump line="308" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
@@ -1197,6 +1200,7 @@
       <jump line="52" column="11" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/dao/DasEntityDaoTest.java" />
       <jump line="61" column="34" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" />
       <jump line="65" column="37" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Query.java" />
+      <jump line="157" column="38" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataFetchController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
