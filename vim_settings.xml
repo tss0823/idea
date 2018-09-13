@@ -30,7 +30,7 @@
         <mark key="^" line="20" column="29" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/constants/TasksEnum.java" timestamp="1536811153883">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/constants/TasksEnum.java" timestamp="1536825452737">
         <mark key="'" line="33" column="18" />
         <mark key="[" line="21" column="35" />
         <mark key="]" line="21" column="35" />
@@ -400,7 +400,7 @@
         <mark key="'" line="124" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/KafkaHandlerFactory.java" timestamp="1536754709796" />
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/PageFlowController.java" timestamp="1536823991435">
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/PageFlowController.java" timestamp="1536824935179">
         <mark key="'" line="341" column="39" />
         <mark key="[" line="298" column="0" />
         <mark key="]" line="301" column="31" />
@@ -655,8 +655,8 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataFetchController.java" timestamp="1536817825618">
-        <mark key="'" line="157" column="12" />
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataFetchController.java" timestamp="1536825135511">
+        <mark key="'" line="95" column="110" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ConsumeDataRequest.java" timestamp="1535510438615">
         <mark key="[" line="15" column="0" />
@@ -1049,10 +1049,6 @@
       <file name="/dev.properties" timestamp="1536821381375" />
     </filemarks>
     <jumps>
-      <jump line="11" column="62" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/AbstReadyDataFetchService.java" />
-      <jump line="11" column="45" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/AbstService.java" />
-      <jump line="94" column="29" filename="$USER_HOME$/workspace/datacenter/pom.xml" />
-      <jump line="99" column="29" filename="$USER_HOME$/workspace/datacenter/pom.xml" />
       <jump line="104" column="29" filename="$USER_HOME$/workspace/datacenter/pom.xml" />
       <jump line="109" column="29" filename="$USER_HOME$/workspace/datacenter/pom.xml" />
       <jump line="114" column="29" filename="$USER_HOME$/workspace/datacenter/pom.xml" />
@@ -1149,6 +1145,10 @@
       <jump line="55" column="73" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/GpmSourceTargetTask.java" />
       <jump line="73" column="75" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/GpmSourceTargetTask.java" />
       <jump line="78" column="70" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/GpmSourceTargetTask.java" />
+      <jump line="97" column="111" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataFetchController.java" />
+      <jump line="98" column="120" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataFetchController.java" />
+      <jump line="102" column="32" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataFetchController.java" />
+      <jump line="95" column="110" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataFetchController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1158,7 +1158,7 @@
         <text>是否核心指标（1 是，0 否）</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXJlY3Rpb25cPg==</text>
+        <text encoding="base64">XDx0b2tlblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKiDmmK/lkKbmoLjlv4PmjIfmoIfvvIgxIOaYr++8jDAg5ZCm77yJKiovCg==</text>
@@ -1195,19 +1195,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXJlY3Rpb25cPg==</last-search>
+      <last-search encoding="base64">XDx0b2tlblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXJlY3Rpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0b2tlblw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEQlRDUENvbm5lY3Rvclw+</entry>
-        <entry encoding="base64">XDxhcmVhQ2xpY2tQdkNvdW50XD4=</entry>
         <entry encoding="base64">XDxiaXRzQ2xpY2tQdkNvdW50XD4=</entry>
         <entry encoding="base64">XDxzZXRDb2RlXD4=</entry>
-        <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxvcmRlcnNcPg==</entry>
         <entry encoding="base64">XDxtZWl0dVw+</entry>
         <entry encoding="base64">XDxzaGVuZ3NoYW5cPg==</entry>
@@ -1223,6 +1220,9 @@
         <entry encoding="base64">XDxzb3VyY2VUYXJnZXRzXD4=</entry>
         <entry encoding="base64">XDxncG1Tb3VyY2VUYXJnZXRUYXNrXD4=</entry>
         <entry encoding="base64">XDxkaXJlY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDx0eXBlXD4=</entry>
+        <entry encoding="base64">XDxvdmVyd3JpdGVcPg==</entry>
+        <entry encoding="base64">XDx0b2tlblw+</entry>
       </history-search>
       <history-cmd>
         <entry>157</entry>
