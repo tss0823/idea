@@ -167,11 +167,12 @@
       <file name="$MAVEN_REPOSITORY$/org/jxls/jxls/2.4.6/jxls-2.4.6.jar!/org/jxls/util/JxlsHelper.class" timestamp="1536324730979">
         <mark key="'" line="255" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableInterceptor.java" timestamp="1536910593169">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="101" column="49" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableInterceptor.java" timestamp="1536911155485">
+        <mark key="'" line="70" column="36" />
+        <mark key="[" line="107" column="9" />
+        <mark key="]" line="36" column="24" />
+        <mark key="^" line="36" column="24" />
+        <mark key="." line="36" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/AbstReadyDataFetchService.java" timestamp="1536734925226">
         <mark key="'" line="11" column="62" />
@@ -333,7 +334,7 @@
         <mark key="." line="139" column="0" />
         <mark key="^" line="136" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" timestamp="1536904545445">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" timestamp="1536910699208">
         <mark key="'" line="278" column="16" />
         <mark key="[" line="89" column="67" />
         <mark key="]" line="81" column="54" />
@@ -520,6 +521,13 @@
         <mark key="^" line="25" column="78" />
         <mark key="." line="25" column="78" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" timestamp="1536911194108">
+        <mark key="'" line="227" column="56" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
+        <mark key="^" line="222" column="126" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemFetchServiceImpl.java" timestamp="1536634579328">
         <mark key="'" line="33" column="64" />
         <mark key="[" line="130" column="0" />
@@ -701,10 +709,6 @@
       <file name="/dev.properties" timestamp="1536821381375" />
     </filemarks>
     <jumps>
-      <jump line="39" column="20" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
-      <jump line="27" column="44" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/DataCommonRequest.java" />
-      <jump line="76" column="35" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
-      <jump line="54" column="13" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/DasTest.java" />
       <jump line="150" column="80" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
       <jump line="68" column="74" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" />
       <jump line="49" column="21" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" />
@@ -801,13 +805,17 @@
       <jump line="133" column="87" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/CommonIndexController.java" />
       <jump line="47" column="48" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" />
       <jump line="8" column="45" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/DataCommonRequest.java" />
+      <jump line="108" column="65" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableInterceptor.java" />
+      <jump line="70" column="36" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableInterceptor.java" />
+      <jump line="247" column="26" filename="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" />
+      <jump line="241" column="56" filename="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL3B1dCBjaGlsZHJlbgogICAgICAgIC8v5qC55o2u5p+l6K+i5p2h5Lu277yM5oqK5omA5pyJ55qE5Z2R5L2N5p+l5Ye65p2lCgogICAgICAgIGZvciAoRGFsUHJvcGVydHkgZGFsUHJvcGVydHkgOiBwcm9wZXJ0eUxpc3QpIHsKLy8gICAgICAgICAgICBpZihkYWxQcm9wZXJ0eS5nZXRFbk5hbWUoKS5lcXVhbHMoIiIpKQogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>asc</text>
+        <text>dalDataInterceptor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmVhQ2xpY2tQdkNvdW50XD4=</text>
@@ -816,31 +824,31 @@
         <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldFNvcnREZXNjT3JBc2MoImFzYyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL3B1dCBjaGlsZHJlbgogICAgICAgIC8v5qC55o2u5p+l6K+i5p2h5Lu277yM5oqK5omA5pyJ55qE5Z2R5L2N5p+l5Ye65p2lCgogICAgICAgIGZvciAoRGFsUHJvcGVydHkgZGFsUHJvcGVydHkgOiBwcm9wZXJ0eUxpc3QpIHsKLy8gICAgICAgICAgICBpZihkYWxQcm9wZXJ0eS5nZXRFbk5hbWUoKS5lcXVhbHMoIiIpKQogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBRdWVyeSBxdWVyeSA9IG5ldyBRdWVyeSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVnZXIgZ2VuVHlwZSA9IGRhbFByb3BlcnR5LmdldEdlblR5cGUoKTsKICAgICAgICAgICAgICAgIFN0cmluZyBwcm9wZXJ0eU5hbWUgPSBkYWxQcm9wZXJ0eS5nZXRFbk5hbWUoKTsKICAgICAgICAgICAgICAgIFN0cmluZyBjYWxjU2NyaXB0ID0gZGFsUHJvcGVydHkuZ2V0Q2FsY1NjcmlwdCgpOwogICAgICAgICAgICAgICAgaWYgKGdlblR5cGUuZXF1YWxzKFByb3BlcnR5R2VuVHlwZUVudW0uQ09QWS5nZXRDb2RlKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0RGF0YU1hcC5wdXQocHJvcGVydHlOYW1lLCBkYXRhTWFwLmdldChwcm9wZXJ0eU5hbWUpKTsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoZ2VuVHlwZS5lcXVhbHMoUHJvcGVydHlHZW5UeXBlRW51bS5DQUxDLmdldENvZGUoKSkpIHsKICAgICAgICAgICAgICAgICAgICBPYmplY3QgZXZhbFJlc3VsdCA9IFNjcmlwdFV0aWxzLmV2YWwoY2FsY1NjcmlwdCwgZGF0YU1hcCk7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0RGF0YU1hcC5wdXQocHJvcGVydHlOYW1lLCBldmFsUmVzdWx0KTsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoZ2VuVHlwZS5lcXVhbHMoUHJvcGVydHlHZW5UeXBlRW51bS5DQUxDX1JFU1VMVC5nZXRDb2RlKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgT2JqZWN0IGV2YWxSZXN1bHQgPSBTY3JpcHRVdGlscy5nZXRDYWxjUmVzdWx0KGNhbGNTY3JpcHQsIGRhdGFNYXApOwogICAgICAgICAgICAgICAgICAgIHJlc3VsdERhdGFNYXAucHV0KHByb3BlcnR5TmFtZSwgZXZhbFJlc3VsdCk7CiAgICAgICAgICAgICAgICB9ZWxzZSBpZiAoZ2VuVHlwZS5lcXVhbHMoUHJvcGVydHlHZW5UeXBlRW51bS5DQUxDX0ZVTl9SRVNVTFQuZ2V0Q29kZSgpKSkgewogICAgICAgICAgICAgICAgICAgIE9iamVjdCBldmFsUmVzdWx0ID0gU2NyaXB0VXRpbHMuZ2V0Q2FsY0Z1bmN0aW9uUmVzdWx0KGNhbGNTY3JpcHQsIGRhdGFNYXApOwogICAgICAgICAgICAgICAgICAgIHJlc3VsdERhdGFNYXAucHV0KHByb3BlcnR5TmFtZSwgZXZhbFJlc3VsdCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBEYWxCZWZvcmVJbnRlcmNlcHRvciBkYWxEYXRhSW50ZXJjZXB0b3IgPSAoRGFsQmVmb3JlSW50ZXJjZXB0b3IpIGRhbEFmdGVySW50ZXJjZXB0b3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YU1hcC5nZXQoImNsaWNrIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAvL2NsaWNrUHZSYXRlLGNsaWNrVXZSYXRlCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAoKCiAgICAgICAgICAgICAgICAvL3B1dCBjaGlsZHJlbgogICAgICAgICAgICAgICAgLy/moLnmja7mn6Xor6LmnaHku7bvvIzmiormiYDmnInnmoTlnZHkvY3mn6Xlh7rmnaUK</text>
+        <text encoding="base64">ICAgIC8vICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgaW50ZXJjZXB0b3IoRGFzSW50ZXJjZXB0b3JDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBEYXRhTWFwIGN1cnJlbnREYXRhTWFwID0gY29udGV4dC5nZXRDdXJyZW50RGF0YU1hcCgpOwogICAgICAgIERhc0VudGl0eSBkYXNFbnRpdHkgPSBjb250ZXh0LmdldERhc0VudGl0eSgpOwogICAgICAgIExpc3Q8RGFzUHJvcGVydHk+IHByb3BlcnR5TGlzdCA9IGRhc0VudGl0eS5nZXRQcm9wZXJ0eUxpc3QoKTsKICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkocHJvcGVydHlMaXN0KSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIGZvciAoRGFzUHJvcGVydHkgZGFzUHJvcGVydHkgOiBwcm9wZXJ0eUxpc3QpIHsKICAgICAgICAgICAgSW50ZWdlciBnZW5UeXBlID0gZGFzUHJvcGVydHkuZ2V0R2VuVHlwZSgpOwogICAgICAgICAgICBTdHJpbmcgcHJvcGVydHlOYW1lID0gZGFzUHJvcGVydHkuZ2V0RW5OYW1lKCk7CiAgICAgICAgICAgIFN0cmluZyBjYWxjU2NyaXB0ID0gZGFzUHJvcGVydHkuZ2V0Q2FsY1NjcmlwdCgpOwogICAgICAgICAgICBpZiAoZ2VuVHlwZS5lcXVhbHMoUHJvcGVydHlHZW5UeXBlRW51bS5DT1BZLmdldENvZGUoKSkpIHsKICAgICAgICAgICAgICAgIGN1cnJlbnREYXRhTWFwLnB1dChwcm9wZXJ0eU5hbWUsIGN1cnJlbnREYXRhTWFwLmdldChwcm9wZXJ0eU5hbWUpKTsKICAgICAgICAgICAgfSBlbHNlIGlmIChnZW5UeXBlLmVxdWFscyhQcm9wZXJ0eUdlblR5cGVFbnVtLkNBTEMuZ2V0Q29kZSgpKSkgewogICAgICAgICAgICAgICAgT2JqZWN0IGV2YWxSZXN1bHQgPSBTY3JpcHRVdGlscy5ldmFsKGNhbGNTY3JpcHQsIGN1cnJlbnREYXRhTWFwKTsKICAgICAgICAgICAgICAgIGN1cnJlbnREYXRhTWFwLnB1dChwcm9wZXJ0eU5hbWUsIGV2YWxSZXN1bHQpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGdlblR5cGUuZXF1YWxzKFByb3BlcnR5R2VuVHlwZUVudW0uQ0FMQ19SRVNVTFQuZ2V0Q29kZSgpKSkgewogICAgICAgICAgICAgICAgT2JqZWN0IGV2YWxSZXN1bHQgPSBTY3JpcHRVdGlscy5nZXRDYWxjUmVzdWx0KGNhbGNTY3JpcHQsIGN1cnJlbnREYXRhTWFwKTsKICAgICAgICAgICAgICAgIGN1cnJlbnREYXRhTWFwLnB1dChwcm9wZXJ0eU5hbWUsIGV2YWxSZXN1bHQpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGdlblR5cGUuZXF1YWxzKFByb3BlcnR5R2VuVHlwZUVudW0uQ0FMQ19GVU5fUkVTVUxULmdldENvZGUoKSkpIHsKICAgICAgICAgICAgICAgIE9iamVjdCBldmFsUmVzdWx0ID0gU2NyaXB0VXRpbHMuZ2V0Q2FsY0Z1bmN0aW9uUmVzdWx0KGNhbGNTY3JpcHQsIGN1cnJlbnREYXRhTWFwKTsKICAgICAgICAgICAgICAgIGN1cnJlbnREYXRhTWFwLnB1dChwcm9wZXJ0eU5hbWUsIGV2YWxSZXN1bHQpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGJpdHNDbGlja1B2Q291bnQgPSBiaXRzRGF0YUxpc3Quc3RyZWFtKCkuZmlsdGVyKGRhdGEgLT4gZGF0YS5nZXRDbGlja1B2KCkgIT0gbnVsbCkubWFwKEFkc0NsaWVudEdwbVN1bW1hcnk6OmdldENsaWNrUHYpLnJlZHVjZSgwLCBJbnRlZ2VyOjpzdW0pOwogICAgICAgIEludGVnZXIgYml0c0NsaWNrVXZDb3VudCA9IGJpdHNEYXRhTGlzdC5zdHJlYW0oKS5maWx0ZXIoZGF0YSAtPiBkYXRhLmdldENsaWNrVXYoKSAhPSBudWxsKS5tYXAoQWRzQ2xpZW50R3BtU3VtbWFyeTo6Z2V0Q2xpY2tVdikucmVkdWNlKDAsIEludGVnZXI6OnN1bSk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGFyZWFDbGlja1V2Q291bnQgPSBhcmVhRGF0YUxpc3Quc3RyZWFtKCkuZmlsdGVyKGRhdGEgLT4gZGF0YS5nZXQoImNsaWNrUHYiKSE9IG51bGwpLm1hcChkYXRhLT5kYXRhLmdldCgiY2xpY2tQdiIpKS5yZWR1Y2UoMCwgSW50ZWdlcjo6c3VtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgaWYgKGdjcENvdW50ID4gMCkgewogICAgICAgICAgICAgICAgICAgIHN1YkdwbS5zZXRIYXNDdXN0b21pemVkUGFyYW0odHJ1ZSk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHN1YkdwbS5zZXRIYXNDdXN0b21pemVkUGFyYW0oZmFsc2UpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZihkYWxQcm9wZXJ0eS5nZXRFbk5hbWUoKS5lcXVhbHMoIiIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAvL3B1dCBjaGlsZHJlbgogICAgICAgIC8v5qC55o2u5p+l6K+i5p2h5Lu277yM5oqK5omA5pyJ55qE5Z2R5L2N5p+l5Ye65p2lCgogICAgICAgIGZvciAoRGFsUHJvcGVydHkgZGFsUHJvcGVydHkgOiBwcm9wZXJ0eUxpc3QpIHsKLy8gICAgICAgICAgICBpZihkYWxQcm9wZXJ0eS5nZXRFbk5hbWUoKS5lcXVhbHMoIiIpKQogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>484</text>
