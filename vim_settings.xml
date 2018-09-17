@@ -69,8 +69,8 @@
         <mark key="'" line="396" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/ReadyDataConsumeService.java" timestamp="1536634971504" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/GpmSourceTargetTask.java" timestamp="1537151927179">
-        <mark key="'" line="42" column="32" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/GpmSourceTargetTask.java" timestamp="1537154320179">
+        <mark key="'" line="40" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/utils/fetchdata/FetchDataUtils.java" timestamp="1536992938291" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-common/1.0-SNAPSHOT/datacenter-common-1.0-SNAPSHOT-sources.jar!/com/meitu/meipu/datacenter/common/domain/request/v2/DataCommonRequest.java" timestamp="1536062059647">
@@ -84,7 +84,7 @@
         <mark key="." line="14" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/BSONObject.java" timestamp="1536225108587" />
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/constants/TaskIdEnum.java" timestamp="1537151586772">
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/constants/TaskIdEnum.java" timestamp="1537153834057">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
@@ -736,7 +736,7 @@
         <mark key="^" line="11" column="61" />
         <mark key="." line="11" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/beta.properties" timestamp="1537151479541">
+      <file name="$USER_HOME$/workspace/datacenter/beta.properties" timestamp="1537154958298">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -869,6 +869,7 @@
         <mark key="^" line="25" column="78" />
         <mark key="." line="25" column="78" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/ReportAuthManager.java" timestamp="1537154335772" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ConsumeJobRequest.java" timestamp="1536748803696">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -907,11 +908,11 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/GpmSearchTask.java" timestamp="1536827105745">
         <mark key="'" line="68" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/CalcUtils.java" timestamp="1537008481449">
-        <mark key="[" line="35" column="38" />
-        <mark key="]" line="35" column="42" />
-        <mark key="." line="35" column="42" />
-        <mark key="^" line="35" column="42" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/CalcUtils.java" timestamp="1537155374395">
+        <mark key="[" line="104" column="9" />
+        <mark key="]" line="88" column="28" />
+        <mark key="." line="88" column="28" />
+        <mark key="^" line="88" column="28" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/PooledConnectionProvider.java" timestamp="1536671207994">
         <mark key="'" line="92" column="16" />
@@ -1106,7 +1107,6 @@
       <file name="/dev.properties" timestamp="1536821381375" />
     </filemarks>
     <jumps>
-      <jump line="43" column="64" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableInterceptor.java" />
       <jump line="121" column="23" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/DataCommonRequest.java" />
       <jump line="69" column="19" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" />
       <jump line="388" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
@@ -1206,13 +1206,14 @@
       <jump line="41" column="12" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/GpmSourceTargetTask.java" />
       <jump line="42" column="32" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/GpmSourceTargetTask.java" />
       <jump line="172" column="29" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
+      <jump line="40" column="56" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/GpmSourceTargetTask.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>。。保留property,去掉多余</text>
+        <text>void</text>
       </register>
       <register name="-" type="4">
-        <text>。。保留property,去掉多余</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaEFuZFBhcnNlXD4=</text>
