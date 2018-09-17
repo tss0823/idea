@@ -414,12 +414,12 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/PageFlowController.java" timestamp="1536824935179">
-        <mark key="'" line="341" column="39" />
-        <mark key="[" line="298" column="0" />
-        <mark key="]" line="301" column="31" />
-        <mark key="." line="298" column="0" />
-        <mark key="^" line="312" column="8" />
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/PageFlowController.java" timestamp="1537173324508">
+        <mark key="'" line="415" column="37" />
+        <mark key="[" line="429" column="35" />
+        <mark key="]" line="429" column="47" />
+        <mark key="." line="429" column="47" />
+        <mark key="^" line="429" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/DataMap.java" timestamp="1535695905065">
         <mark key="'" line="12" column="33" />
@@ -967,6 +967,7 @@
         <mark key="^" line="11" column="81" />
         <mark key="." line="11" column="81" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-client/1.0-RELEASE-SNAPSHOT/datacenter-client-1.0-RELEASE-SNAPSHOT-sources.jar!/com/meitu/meipu/datacenter/common/service/read/PageFlowReadServiceClient.java" timestamp="1537172581738" />
       <file name="$USER_HOME$/workspace/darwin/darwin-web/src/main/java/com/meitu/meipu/darwin/web/controller/ReadyDataController.java" timestamp="1535956161585">
         <mark key="'" line="126" column="72" />
         <mark key="[" line="187" column="99" />
@@ -1032,7 +1033,6 @@
       <file name="/dev.properties" timestamp="1536821381375" />
     </filemarks>
     <jumps>
-      <jump line="8" column="45" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/DataCommonRequest.java" />
       <jump line="108" column="65" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableInterceptor.java" />
       <jump line="70" column="36" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableInterceptor.java" />
       <jump line="247" column="26" filename="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" />
@@ -1132,63 +1132,61 @@
       <jump line="288" column="54" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/PageFlowReadServiceImpl.java" />
       <jump line="137" column="33" filename="$USER_HOME$/workspace/darwin-query/pom.xml" />
       <jump line="80" column="88" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" />
+      <jump line="412" column="37" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/PageFlowController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dataMap.get(&quot;pv&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dataMap.get(&quot;pv&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncG1Tb3VyY2VUYXJnZXREdG9cPg==</text>
+        <text encoding="base64">XDxncG1cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldERhdGVTdGFydCgiMjAxODA1MjkiKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0KCJwdiIsZGF0YU1hcC5nZXQoInB2IikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBEYXRhUmVzdWx0PExpc3Q8RGF0YU1hcD4+IGxpc3REYXRhUmVzdWx0ID0gc291cmNlR3BtTGlzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtTWFwLnB1dChrZXksanNvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRhUmVzdWx0PERhbENvbmZpZ0RUTz4gZ3BtMSA9IChEYXRhUmVzdWx0PERhbENvbmZpZ0RUTz4pIGxpc3REYXRhUmVzdWx0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldERldmljZUtpbmQoIjIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBzdGFydERhdGUgPSBjb20ubWVpdHUubWVpcHUuZGF0YWNlbnRlci5jb21tb24udXRpbHMuRGF0ZVV0aWxzLnBhcnNlKHN0YXJ0RGF0ZVN0ciwgInl5eXktTU0tZGQiLCAieXl5eU1NZGQiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1ha2V1cFJlYWR5ZGF0YVNrdS5nZXRUcmlhbElkKCkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgaWYgKHNiUHJvcC5sZW5ndGgoKSA+IDApIHsKICAgICAgICAgICAgICAgICAgICBzYlByb3AuYXBwZW5kKCImJiIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgc2JQcm9wLmFwcGVuZCgidHJpYWxJZCIpOwogICAgICAgICAgICAgICAgc2JWYWx1ZS5hcHBlbmQobWFrZXVwUmVhZHlkYXRhU2t1LmdldFRyaWFsSWQoKSk7CiAgICAgICAgICAgIH0KLy8gICAgICAgICAgICBpZiAobWFrZXVwUmVhZHlkYXRhU2t1LmdldFNrdUlkKCkgIT0gbnVsbCkgewovLyAgICAgICAgICAgICAgICBpZiAoc2JQcm9wLmxlbmd0aCgpID4gMCkgewovLyAgICAgICAgICAgICAgICAgICAgc2JQcm9wLmFwcGVuZCgiJiYiKTsKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBzYlByb3AuYXBwZW5kKCJza3VJZCIpOwovLyAgICAgICAgICAgICAgICBzYlZhbHVlLmFwcGVuZChtYWtldXBSZWFkeWRhdGFTa3UuZ2V0U2t1SWQoKSk7Ci8vICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzYlByb3AubGVuZ3RoKCkgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgc2JQcm9wLmFwcGVuZCgiJiYiKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHNiUHJvcC5hcHBlbmQoInRyaWFsSWQiKTsKICAgICAgICAgICAgICAgIHNiVmFsdWUuYXBwZW5kKG1ha2V1cFJlYWR5ZGF0YVNrdS5nZXRUcmlhbElkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtTWFwLnB1dChrZXksanNvbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoRGFsUHJvcGVydHkgZGFsUHJvcGVydHkgOiBwcm9wZXJ0eUxpc3QpIHvjgILjgILkv53nlZlwcm9wZXJ0eSzljrvmjonlpJrkvZkK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldERldmljZUtpbmQoIjIiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1ha2V1cFJlYWR5ZGF0YVNrdS5nZXRUcmlhbElkKCkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgaWYgKHNiUHJvcC5sZW5ndGgoKSA+IDApIHsKICAgICAgICAgICAgICAgICAgICBzYlByb3AuYXBwZW5kKCImJiIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgc2JQcm9wLmFwcGVuZCgidHJpYWxJZCIpOwogICAgICAgICAgICAgICAgc2JWYWx1ZS5hcHBlbmQobWFrZXVwUmVhZHlkYXRhU2t1LmdldFRyaWFsSWQoKSk7CiAgICAgICAgICAgIH0KLy8gICAgICAgICAgICBpZiAobWFrZXVwUmVhZHlkYXRhU2t1LmdldFNrdUlkKCkgIT0gbnVsbCkgewovLyAgICAgICAgICAgICAgICBpZiAoc2JQcm9wLmxlbmd0aCgpID4gMCkgewovLyAgICAgICAgICAgICAgICAgICAgc2JQcm9wLmFwcGVuZCgiJiYiKTsKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBzYlByb3AuYXBwZW5kKCJza3VJZCIpOwovLyAgICAgICAgICAgICAgICBzYlZhbHVlLmFwcGVuZChtYWtldXBSZWFkeWRhdGFTa3UuZ2V0U2t1SWQoKSk7Ci8vICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>else {
-            return &quot;Math.round(&quot; + num1 + &quot;/&quot; + num2 + &quot; * 100) / 100&quot;;
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzYlByb3AubGVuZ3RoKCkgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgc2JQcm9wLmFwcGVuZCgiJiYiKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHNiUHJvcC5hcHBlbmQoInRyaWFsSWQiKTsKICAgICAgICAgICAgICAgIHNiVmFsdWUuYXBwZW5kKG1ha2V1cFJlYWR5ZGF0YVNrdS5nZXRUcmlhbElkKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2NyaXB0ID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoRGFsUHJvcGVydHkgZGFsUHJvcGVydHkgOiBwcm9wZXJ0eUxpc3QpIHvjgILjgILkv53nlZlwcm9wZXJ0eSzljrvmjonlpJrkvZkK</text>
       </register>
       <register name=":" type="4">
         <text>67</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncG1Tb3VyY2VUYXJnZXREdG9cPg==</last-search>
+      <last-search encoding="base64">XDxncG1cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncG1Tb3VyY2VUYXJnZXREdG9cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxncG1cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrYWZrYVJlY2VpdmVySGFuZGxlclw+</entry>
         <entry encoding="base64">XDxzb3VyY2VMaXN0XD4=</entry>
         <entry encoding="base64">XDxzb3VyY2VUYXJnZXRzXD4=</entry>
         <entry encoding="base64">XDxncG1Tb3VyY2VUYXJnZXRUYXNrXD4=</entry>
@@ -1208,6 +1206,7 @@
         <entry encoding="base64">XDxmZXRjaEFuZFBhcnNlXD4=</entry>
         <entry encoding="base64">XDxzZXRQdlw+</entry>
         <entry encoding="base64">XDxncG1Tb3VyY2VUYXJnZXREdG9cPg==</entry>
+        <entry encoding="base64">XDxncG1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>
