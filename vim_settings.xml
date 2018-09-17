@@ -245,12 +245,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.12.8.RELEASE/spring-data-commons-1.12.8.RELEASE-sources.jar!/org/springframework/data/mapping/context/AbstractMappingContext.java" timestamp="1536667153554">
         <mark key="'" line="139" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableInterceptor.java" timestamp="1537150024597">
-        <mark key="'" line="73" column="31" />
-        <mark key="[" line="89" column="62" />
-        <mark key="]" line="89" column="62" />
-        <mark key="." line="89" column="62" />
-        <mark key="^" line="88" column="15" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableInterceptor.java" timestamp="1537163336384">
+        <mark key="'" line="84" column="15" />
+        <mark key="[" line="100" column="76" />
+        <mark key="]" line="100" column="76" />
+        <mark key="." line="100" column="76" />
+        <mark key="^" line="100" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/AbstReadyDataFetchService.java" timestamp="1536734925226">
         <mark key="'" line="11" column="62" />
@@ -870,6 +870,12 @@
         <mark key="." line="25" column="78" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/ReportAuthManager.java" timestamp="1537154335772" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" timestamp="1537163527863">
+        <mark key="[" line="224" column="70" />
+        <mark key="]" line="224" column="68" />
+        <mark key="^" line="224" column="68" />
+        <mark key="." line="224" column="68" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ConsumeJobRequest.java" timestamp="1536748803696">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -950,7 +956,7 @@
       </file>
       <file name="$USER_HOME$/workspace/datareport/pom.xml" timestamp="1536564412629" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/OverviewServiceImpl.java" timestamp="1536213402766" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/DalTest.java" timestamp="1537006833553">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/DalTest.java" timestamp="1537163549959">
         <mark key="'" line="118" column="91" />
         <mark key="[" line="114" column="345" />
         <mark key="]" line="116" column="30" />
@@ -1107,7 +1113,6 @@
       <file name="/dev.properties" timestamp="1536821381375" />
     </filemarks>
     <jumps>
-      <jump line="121" column="23" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/DataCommonRequest.java" />
       <jump line="69" column="19" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" />
       <jump line="388" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
       <jump line="226" column="75" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/MongoTest.java" />
@@ -1207,19 +1212,20 @@
       <jump line="42" column="32" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/GpmSourceTargetTask.java" />
       <jump line="172" column="29" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
       <jump line="40" column="56" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/GpmSourceTargetTask.java" />
+      <jump line="79" column="15" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableInterceptor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaEFuZFBhcnNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2NyaXB0ID0gIk1hdGgucm91bmQoIiArIG51bTEgKyAiLyIgKyBudW0yICsgIiAqIDEwMCkgLyAxMDAiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld0RhdGFNYXAucHV0KGRhbFByb3BlcnR5LmdldEVuTmFtZSgpLHJlc3VsdFZhbHVlKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoRGFsUHJvcGVydHkgZGFsUHJvcGVydHkgOiBwcm9wZXJ0eUxpc3QpIHvjgILjgILkv53nlZlwcm9wZXJ0eSzljrvmjonlpJrkvZkK</text>
