@@ -78,7 +78,7 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1537164081339">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1537258579761">
         <mark key="'" line="80" column="22" />
         <mark key="[" line="104" column="62" />
         <mark key="]" line="104" column="71" />
@@ -94,12 +94,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" timestamp="1537256622609">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" timestamp="1537258417640">
         <mark key="'" line="126" column="82" />
-        <mark key="[" line="79" column="132" />
-        <mark key="]" line="144" column="70" />
-        <mark key="." line="144" column="70" />
-        <mark key="^" line="151" column="73" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-client/1.0-SNAPSHOT/datacenter-client-1.0-SNAPSHOT-sources.jar!/com/meitu/meipu/datacenter/common/service/read/PageFlowReadServiceClient.java" timestamp="1536724549709" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.12.8.RELEASE/spring-data-commons-1.12.8.RELEASE-sources.jar!/org/springframework/data/domain/PageImpl.java" timestamp="1536995453709" />
@@ -593,6 +592,12 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/dao/CollectorDaoTest.java" timestamp="1536565453015">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/SeqInfo.java" timestamp="1534831684257">
         <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="22" />
@@ -613,12 +618,12 @@
         <mark key="'" line="562" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/domain/response/DataReportDetailVO.java" timestamp="1536648709476" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" timestamp="1536748707506">
-        <mark key="'" line="39" column="20" />
-        <mark key="[" line="71" column="110" />
-        <mark key="]" line="71" column="133" />
-        <mark key="." line="71" column="133" />
-        <mark key="^" line="71" column="133" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" timestamp="1537258827569">
+        <mark key="'" line="40" column="20" />
+        <mark key="[" line="68" column="23" />
+        <mark key="]" line="68" column="25" />
+        <mark key="." line="68" column="25" />
+        <mark key="^" line="68" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-common/src/main/java/com/meitu/meipu/darwin/query/common/service/EvaluateService.java" timestamp="1534311501934">
         <mark key="[" line="15" column="14" />
@@ -1594,10 +1599,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>50</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQQUdFX0ZMT1dcPg==</text>
@@ -1606,31 +1611,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjZXJEYXRhU2VydmljZS5wcm9kdWNlU2luZ2xlKENPUkVfSU5ERVguZ2V0VGFza05hbWUoKSxkYXRlUC50b1N0cmluZygpLGRhdGVQLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENPUkVfSU5ERVgoImNvcmVfaW5kZXgiLCLmoLjlv4Plip/og70iKSwK</text>
+        <text encoding="base64">CiAgICAgICAgLy9lbmQKICAgICAgICBJbnRlZ2VyIHBhZ2VObyA9IGRhdGFDb21tb25SZXF1ZXN0LmdldFBhZ2VObygpOwogICAgICAgIEludGVnZXIgcGFnZVNpemUgPSBkYXRhQ29tbW9uUmVxdWVzdC5nZXRQYWdlU2l6ZSgpOwogICAgICAgIFN0cmluZyBsaW1pdCA9IG51bGw7CiAgICAgICAgaWYocGFnZU5vICE9IG51bGwgJiYgcGFnZVNpemUgIT0gbnVsbCl7CiAgICAgICAgICAgIGxpbWl0ID0gKHBhZ2VOby0xKSsiLCIrcGFnZVNpemU7CiAgICAgICAgfQogICAgICAgIFN0cmluZyByZXNwb25zZURhdGEgPSBmZXRjaERhdGFIZWxwZXIuZ2V0UmVzcG9uc2VEYXRhKHB1Y2tUZW1wbGF0ZS5nZXRGZXRjaERhdGFVcmwoKSxtZXRyaWNzLCBtdmFsdWVzLHB1Y2tUZW1wbGF0ZS5nZXRPcmRlcnMoKSxsaW1pdCk7CiAgICAgICAgTGlzdDxEYXRhTWFwPiBmZXRjaERhdGFMaXN0ID0gSnNvblV0aWwuZm9ybUFycmF5U3RyVG9MaXN0KHJlc3BvbnNlRGF0YSxEYXRhTWFwLmNsYXNzKTsKICAgICAgICByZXR1cm4gZmV0Y2hEYXRhTGlzdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGluY3JTdGFydERhdGUgPSBEYXRlVXRpbHMubWludXNEYXlzWW1kKGRhdGVTdGFydCwgLTEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICBQYWdlciBwYWdlciA9IG5ldyBQYWdlcihwYWdlSW5kZXgsIHBhZ2VTaXplKTsKICAgICAgICAgICAgcmVxdWVzdC5zZXRQYWdlcihwYWdlcik7CiAgICAgICAgICAgIExpc3Q8TWFrZXVwUmVhZHlkYXRhPiBkYXRhTGlzdCA9IG1ha2V1cFJlYWR5ZGF0YURhby5zZWxlY3RMaW1pdENvbHVtbkxpc3QocmVxdWVzdCk7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJiYXRjaFVwZGF0ZUJyYW5kQW5kQ2F0ZWdvcnlCeVJ1bGUgZmV0Y2ggZGF0YSxwYWdlSW5kZXg9e30scmVzdWx0PXt9IixwYWdlSW5kZXgsZGF0YUxpc3QpOwogICAgICAgICAgICAvLwogICAgICAgICAgICBiYXRjaFVwZGF0ZUJyYW5kQW5kQ2F0ZWdvcnlCeVJ1bGVTZWdtZW50KGRhdGFMaXN0LG1ha2V1cEl0ZW1DYXRlZ29yeU1hcCxjYXRlZ29yeU1hcCxicmFuZE1hcCk7CgogICAgICAgICAgICByZXR1cm4gZGF0YUxpc3Q7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW5jclN0YXJ0RGF0ZSA9IERhdGVVdGlscy5taW51c0RheXNZbWQoZGF0ZVN0YXJ0LCAtMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYocGFnZU5vICE9IG51bGwgJiYgcGFnZVNpemUgIT0gbnVsbCl7CiAgICAgICAgICAgICAgICBsaW1pdCA9IChwYWdlTm8tMSkrIiwiK3BhZ2VTaXplOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb20ubWVpdHUubWVpcHUuZGF0YWNlbnRlci5jb21tb24udXRpbHMuRGF0ZVV0aWxzLgo=</text>
+        <text encoding="base64">ICAgIENPUkVfSU5ERVgoImNvcmVfaW5kZXgiLCLmoLjlv4Plip/og70iKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRhVXRpbHMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGluY3JTdGFydERhdGUgPSBEYXRlVXRpbHMubWludXNEYXlzWW1kKGRhdGVTdGFydCwgLTEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW5jclN0YXJ0RGF0ZSA9IERhdGVVdGlscy5taW51c0RheXNZbWQoZGF0ZVN0YXJ0LCAtMSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>67</text>
