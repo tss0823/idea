@@ -17,12 +17,12 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="34" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/ScriptUtils.java" timestamp="1536905395833">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/ScriptUtils.java" timestamp="1537331791054">
         <mark key="'" line="67" column="25" />
-        <mark key="[" line="88" column="43" />
-        <mark key="]" line="88" column="51" />
-        <mark key="." line="88" column="51" />
-        <mark key="^" line="88" column="51" />
+        <mark key="[" line="91" column="77" />
+        <mark key="]" line="91" column="78" />
+        <mark key="." line="91" column="78" />
+        <mark key="^" line="91" column="78" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/impl/AdsTradeOverviewSummaryDAOImpl.java" timestamp="1535686655505">
         <mark key="'" line="17" column="61" />
@@ -372,7 +372,7 @@
         <mark key="'" line="16" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/PageFlowManager.java" timestamp="1537235294727" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/service/v2/AbstService.java" timestamp="1536738277124">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/service/v2/AbstService.java" timestamp="1537331187622">
         <mark key="'" line="12" column="51" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -780,7 +780,7 @@
         <mark key="]" line="121" column="38" />
         <mark key="." line="121" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/CalcUtils.java" timestamp="1537329797664">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/CalcUtils.java" timestamp="1537331466188">
         <mark key="'" line="35" column="28" />
         <mark key="[" line="104" column="9" />
         <mark key="]" line="88" column="28" />
@@ -819,11 +819,12 @@
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/domain/request/TaskAutoSubmitTaskRequest.java" timestamp="1536843570428">
         <mark key="'" line="52" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableHelper.java" timestamp="1537329826907">
-        <mark key="[" line="48" column="59" />
-        <mark key="]" line="49" column="54" />
-        <mark key="." line="49" column="54" />
-        <mark key="^" line="49" column="54" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableHelper.java" timestamp="1537331463611">
+        <mark key="'" line="86" column="46" />
+        <mark key="[" line="56" column="28" />
+        <mark key="]" line="80" column="49" />
+        <mark key="." line="80" column="49" />
+        <mark key="^" line="80" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/dao/impl/DasJobDaoImpl.java" timestamp="1536756911226">
         <mark key="'" line="18" column="35" />
@@ -886,9 +887,6 @@
       <file name="/dev.properties" timestamp="1536821381375" />
     </filemarks>
     <jumps>
-      <jump line="27" column="18" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/TrialDaoImpl.java" />
-      <jump line="34" column="48" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/TrialDaoImpl.java" />
-      <jump line="171" column="58" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataTrialConsumeService.java" />
       <jump line="103" column="64" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="202" column="88" filename="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" />
       <jump line="48" column="28" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableInterceptor.java" />
@@ -985,20 +983,23 @@
       <jump line="20" column="67" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/darwin-core-beans.xml" />
       <jump line="20" column="9" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/aop/TraceIdAspector.java" />
       <jump line="17" column="55" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/aop/TraceIdAspector.java" />
+      <jump line="109" column="42" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/CalcUtils.java" />
+      <jump line="102" column="55" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableHelper.java" />
+      <jump line="86" column="46" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableHelper.java" />
       <jump line="35" column="28" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/CalcUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">V3JpdGVSZXN1bHQgd3JpdGVSZXN1bHQgPSA=</text>
+        <text>abc</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">V3JpdGVSZXN1bHQgd3JpdGVSZXN1bHQgPSA=</text>
+        <text>abc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWFkZXJMaXN0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>childDataMap</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiYWJjPSIrYWJjKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHdyaXRlUmVzdWx0LmdldE4oKTsK</text>
