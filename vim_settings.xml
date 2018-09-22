@@ -105,7 +105,7 @@
         <mark key="^" line="13" column="88" />
       </file>
       <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/Category.java" timestamp="1536737448771" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/java/com/meitu/meipu/datacenter/web/controller/tools/bigdata/FetchController.java" timestamp="1536747390682" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/java/com/meitu/meipu/datacenter/web/controller/tools/bigdata/FetchController.java" timestamp="1537579057822" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/ChannelController.java" timestamp="1536214665550" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/utils/ExportUtils.java" timestamp="1536834890009">
         <mark key="'" line="24" column="29" />
@@ -351,7 +351,7 @@
         <mark key="." line="20" column="42" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/BSONObject.java" timestamp="1536225108587" />
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/constants/TaskIdEnum.java" timestamp="1537255621647">
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/constants/TaskIdEnum.java" timestamp="1537578622025">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
@@ -546,8 +546,8 @@
         <mark key="^" line="141" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-common/1.0-RELEASE-SNAPSHOT/datacenter-common-1.0-RELEASE-20180913.062702-80.jar!/com/meitu/meipu/datacenter/common/service/v2/DataCommonService.class" timestamp="1537520430650" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" timestamp="1537517535589">
-        <mark key="'" line="291" column="39" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" timestamp="1537578603553">
+        <mark key="'" line="192" column="46" />
         <mark key="[" line="318" column="65" />
         <mark key="]" line="318" column="95" />
         <mark key="." line="318" column="95" />
@@ -708,14 +708,9 @@
       <file name="/dev.properties" timestamp="1536821381375" />
     </filemarks>
     <jumps>
-      <jump line="34" column="39" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/DateUtils.java" />
-      <jump line="157" column="37" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataFetchController.java" />
-      <jump line="234" column="56" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
-      <jump line="190" column="46" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
       <jump line="304" column="36" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
       <jump line="296" column="63" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
       <jump line="193" column="47" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
-      <jump line="192" column="47" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
       <jump line="297" column="63" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
       <jump line="92" column="55" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/CalcUtils.java" />
       <jump line="96" column="55" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/CalcUtils.java" />
@@ -808,6 +803,11 @@
       <jump line="108" column="46" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/CalcUtils.java" />
       <jump line="33" column="23" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/ScriptUtils.java" />
       <jump line="90" column="40" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" />
+      <jump line="146" column="52" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
+      <jump line="307" column="29" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
+      <jump line="308" column="62" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
+      <jump line="25" column="68" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
+      <jump line="192" column="46" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -817,7 +817,7 @@
         <text>eval</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdEYXRhTGlzdFw+</text>
+        <text encoding="base64">XDxDT1JFX0lOREVYXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIE1hcDxTdHJpbmcsT2JqZWN0PiBkYXRhTWFwID0gbmV3IEhhc2hNYXA8PigpOwovLyAgICAgICAgZGF0YU1hcC5wdXQoImFiYyIsImFhLmJiLmNjIik7Ci8vICAgICAgICBPYmplY3QgYWJjID0gZ2V0Q2FsY1Jlc3VsdCgiYWJjIixkYXRhTWFwICk7Ci8vICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiYWJjPSIrYWJjKTsK</text>
@@ -854,15 +854,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdEYXRhTGlzdFw+</last-search>
+      <last-search encoding="base64">XDxDT1JFX0lOREVYXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdEYXRhTGlzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxDT1JFX0lOREVYXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRQdlw+</entry>
         <entry encoding="base64">XDxncG1Tb3VyY2VUYXJnZXREdG9cPg==</entry>
         <entry encoding="base64">XDxncG1cPg==</entry>
         <entry encoding="base64">XDxhbGxEYXRhTWFwTGlzdFw+</entry>
@@ -873,7 +872,6 @@
         <entry encoding="base64">XDxncG1fdGFyZ2V0XD4=</entry>
         <entry encoding="base64">XDxtdmFsdWVzRnJtXD4=</entry>
         <entry encoding="base64">XDxtdmFsdWVzXD4=</entry>
-        <entry encoding="base64">XDxDT1JFX0lOREVYXD4=</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxuZXdEYXRhTWFwXD4=</entry>
         <entry encoding="base64">XDxoZWFkZXJMaXN0XD4=</entry>
@@ -882,6 +880,8 @@
         <entry encoding="base64">XDxuZXdBcmVhRGF0YUxpc3RcPg==</entry>
         <entry encoding="base64">XDxUcmFkZU92ZXJ2aWV3U3VtbWFyeURUYXNrXD4=</entry>
         <entry encoding="base64">XDxuZXdEYXRhTGlzdFw+</entry>
+        <entry encoding="base64">XDxBZHNDbGllbnRHcG1UYXNrXD4=</entry>
+        <entry encoding="base64">XDxDT1JFX0lOREVYXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>
