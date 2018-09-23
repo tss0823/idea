@@ -69,7 +69,7 @@
         <mark key="." line="104" column="71" />
         <mark key="^" line="104" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" timestamp="1537604832677">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" timestamp="1537670418098">
         <mark key="'" line="94" column="42" />
         <mark key="[" line="121" column="53" />
         <mark key="]" line="121" column="64" />
@@ -320,12 +320,12 @@
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/ReportAuthManager.java" timestamp="1537154335772" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/script/ScriptEngineManager.java" timestamp="1537591451518" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/GpmCollectorToDasInterceptor.java" timestamp="1536739781380">
-        <mark key="'" line="46" column="56" />
-        <mark key="[" line="42" column="62" />
-        <mark key="]" line="42" column="68" />
-        <mark key="^" line="42" column="68" />
-        <mark key="." line="42" column="68" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/GpmCollectorToDasInterceptor.java" timestamp="1537670566639">
+        <mark key="'" line="49" column="56" />
+        <mark key="[" line="39" column="45" />
+        <mark key="]" line="39" column="55" />
+        <mark key="^" line="39" column="55" />
+        <mark key="." line="39" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/DetailDataListService.java" timestamp="1536892020420">
         <mark key="[" line="11" column="40" />
@@ -968,10 +968,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3.356</text>
+        <text>currentDataMap.get(propertyName)</text>
       </register>
       <register name="-" type="4">
-        <text>3.356</text>
+        <text>currentDataMap.get(propertyName)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250ZXh0XD4=</text>
@@ -980,31 +980,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJpZ0RlY2ltYWwxLmRpdmlkZShiaWdEZWNpbWFsMiwgMTYsIEJpZ0RlY2ltYWwuUk9VTkRfSEFMRl9VUCkubXVsdGlwbHkoQmlnRGVjaW1hbC52YWx1ZU9mKDEwMCkpLnNldFNjYWxlKDIsIEJpZ0RlY2ltYWwuUk9VTkRfSEFMRl9VUCkuZG91YmxlVmFsdWUoKSsiIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIHJlc3VsdCA9IGJpZ0RlY2ltYWwxLmRpdmlkZShiaWdEZWNpbWFsMiwgMTYsIEJpZ0RlY2ltYWwuUk9VTkRfSEFMRl9VUCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnREYXRhTWFwLnB1dChwcm9wZXJ0eU5hbWUsIGN1cnJlbnREYXRhTWFwLmdldChwcm9wZXJ0eU5hbWUpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIHJlc3VsdCA9IGJpZ0RlY2ltYWwxLmRpdmlkZShiaWdEZWNpbWFsMiwgMTYsIEJpZ0RlY2ltYWwuUk9VTkRfSEFMRl9VUCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiIrZGl2aWRlLnNldFNjYWxlKDIsIEJpZ0RlY2ltYWwuUk9VTkRfSEFMRl9VUCkuZG91YmxlVmFsdWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGl2aWRlID0gZGl2aWRlLm11bHRpcGx5KEJpZ0RlY2ltYWwudmFsdWVPZigxMDApKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiIrZGl2aWRlLnNldFNjYWxlKDIsIEJpZ0RlY2ltYWwuUk9VTkRfSEFMRl9VUCkuZG91YmxlVmFsdWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGl2aWRlID0gZGl2aWRlLm11bHRpcGx5KEJpZ0RlY2ltYWwudmFsdWVPZigxMDApKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTY3JpcHRFbmdpbmUgZW5naW5lID0gZmFjdG9yeS5nZXRFbmdpbmVCeU5hbWUoIkphdmFTY3JpcHQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBTY3JpcHRFbmdpbmUgZW5naW5lID0gZmFjdG9yeS5nZXRFbmdpbmVCeU5hbWUoIkphdmFTY3JpcHQiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTY3JpcHRFbmdpbmUgZW5naW5lID0gZmFjdG9yeS5nZXRFbmdpbmVCeU5hbWUoIkphdmFTY3JpcHQiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihzY3JpcHRFbmdpbmVUaHJlYWRMb2NhbC5nZXQoKSA9PSBudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>67</text>
