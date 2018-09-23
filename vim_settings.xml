@@ -5,13 +5,13 @@
       <mark key="I" line="310" column="50" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.3/joda-time-2.9.3.jar!/org/joda/time/LocalDate.class" timestamp="1536029015789">
-        <mark key="'" line="62" column="46" />
-      </file>
       <file name="/a.dummy" timestamp="1537669327455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/ReportAppAnalysisManager.java" timestamp="1536214268125">
+        <mark key="'" line="236" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/DataConditionValue.java" timestamp="1537171513877">
         <mark key="[" line="34" column="25" />
@@ -26,8 +26,11 @@
         <mark key="." line="39" column="17" />
         <mark key="^" line="39" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/impl/AdsTradeOverviewSummaryDAOImpl.java" timestamp="1535686655505">
-        <mark key="'" line="17" column="61" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/readydata/ReadyDataTrialRequest.java" timestamp="1536994264591">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="16" column="30" />
+        <mark key="." line="16" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" timestamp="1537520475009">
         <mark key="'" line="104" column="19" />
@@ -36,10 +39,19 @@
         <mark key="^" line="107" column="109" />
         <mark key="." line="107" column="109" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/handler/TradeHuangniuFlagKafkaHandler.java" timestamp="1536754426121">
-        <mark key="'" line="13" column="58" />
-      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/domain/response/DataReportComponentVO.java" timestamp="1536648565368" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/utils/DataReportUtils.java" timestamp="1536214313231">
+        <mark key="'" line="396" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/GpmSourceTargetTask.java" timestamp="1537154320179">
+        <mark key="'" line="40" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/util/MapUtils.java" timestamp="1534236008762">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="49" column="33" />
+        <mark key="^" line="49" column="33" />
+        <mark key="." line="49" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/ComponentController.java" timestamp="1537322468927">
         <mark key="'" line="40" column="31" />
         <mark key="[" line="43" column="0" />
@@ -47,8 +59,17 @@
         <mark key="^" line="42" column="61" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-common/1.0-SNAPSHOT/datacenter-common-1.0-SNAPSHOT-sources.jar!/com/meitu/meipu/datacenter/common/domain/request/v2/DataCommonRequest.java" timestamp="1536062059647">
-        <mark key="'" line="6" column="46" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongo/MongoDao.java" timestamp="1535027213583">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="20" column="9" />
+        <mark key="." line="20" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/interceptor/Context.java" timestamp="1536655669688">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="43" />
+        <mark key="^" line="8" column="43" />
+        <mark key="." line="8" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/MakeupReadydataSku.java" timestamp="1537164135368">
         <mark key="'" line="84" column="17" />
@@ -69,8 +90,17 @@
         <mark key="." line="104" column="71" />
         <mark key="^" line="104" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" timestamp="1537675998442">
-        <mark key="'" line="102" column="22" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/KafkaReceiverHandler.java" timestamp="1536754363694">
+        <mark key="'" line="85" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/dao/mongodb/FetchEntityDao.java" timestamp="1534752989616">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="14" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" timestamp="1537678600726">
+        <mark key="'" line="206" column="54" />
         <mark key="[" line="121" column="53" />
         <mark key="]" line="121" column="64" />
         <mark key="^" line="121" column="64" />
@@ -78,9 +108,15 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-client/1.0-SNAPSHOT/datacenter-client-1.0-SNAPSHOT-sources.jar!/com/meitu/meipu/datacenter/common/service/read/PageFlowReadServiceClient.java" timestamp="1536724549709" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.12.8.RELEASE/spring-data-commons-1.12.8.RELEASE-sources.jar!/org/springframework/data/domain/PageImpl.java" timestamp="1536995453709" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/aop/TraceIdAspector.java" timestamp="1537414448280">
+        <mark key="'" line="17" column="55" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/message/MsgHandler.java" timestamp="1536754551477" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/LogManager.java" timestamp="1536738211602">
-        <mark key="'" line="580" column="18" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/BuilderDataRequeset.java" timestamp="1534835891290">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/CommonIndexController.java" timestamp="1537504754108">
         <mark key="'" line="135" column="87" />
@@ -94,6 +130,9 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="^" line="34" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCollectionImpl.java" timestamp="1536671240965">
+        <mark key="'" line="337" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/BaseRequest.java" timestamp="1536906874394">
         <mark key="'" line="10" column="28" />
@@ -109,14 +148,29 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/service/v2/DataService.java" timestamp="1534940996585">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="30" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/trial/TrialSpuDo.java" timestamp="1536995618349">
+        <mark key="'" line="56" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/enums/RouteChannel.java" timestamp="1535530821184">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/enums/YesNoStatus.java" timestamp="1536307659893">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="5" />
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.12.8.RELEASE/spring-data-commons-1.12.8.RELEASE-sources.jar!/org/springframework/data/mapping/context/AbstractMappingContext.java" timestamp="1536667153554">
-        <mark key="'" line="139" column="27" />
+      <file name="$MAVEN_REPOSITORY$/org/jxls/jxls/2.4.6/jxls-2.4.6.jar!/org/jxls/util/JxlsHelper.class" timestamp="1536324730979">
+        <mark key="'" line="255" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableInterceptor.java" timestamp="1537163336384">
         <mark key="'" line="84" column="15" />
@@ -126,6 +180,12 @@
         <mark key="^" line="100" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/dev.properties" timestamp="1537435530102" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/dao/impl/DasEntityDaoImpl.java" timestamp="1535608805301">
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="12" column="101" />
+        <mark key="^" line="12" column="101" />
+        <mark key="." line="12" column="101" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/RouteQueryDataService.java" timestamp="1536892287935">
         <mark key="[" line="13" column="87" />
         <mark key="]" line="13" column="88" />
@@ -135,15 +195,18 @@
       <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/Category.java" timestamp="1536737448771" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/java/com/meitu/meipu/datacenter/web/controller/tools/bigdata/FetchController.java" timestamp="1537579057822" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/ChannelController.java" timestamp="1536214665550" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/constants/v2/EntityTypeEnum.java" timestamp="1535350302930">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/utils/ExportUtils.java" timestamp="1536834890009">
         <mark key="'" line="24" column="29" />
         <mark key="[" line="52" column="135" />
         <mark key="]" line="35" column="98" />
         <mark key="." line="35" column="98" />
         <mark key="^" line="35" column="98" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/community/meipu-excel/1.2-ym-SNAPSHOT/meipu-excel-1.2-ym-20171201.120827-1.jar!/com/meitu/meipu/community/excel/ExcelExport.class" timestamp="1536551343316">
-        <mark key="'" line="67" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableBeforeInterceptor.java" timestamp="1537328848177">
         <mark key="[" line="39" column="0" />
@@ -157,14 +220,23 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/TradeDataReadManagerHelper.java" timestamp="1536041570093">
-        <mark key="'" line="133" column="60" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/dao/DalEntityDao.java" timestamp="1535598936112">
+        <mark key="[" line="11" column="60" />
+        <mark key="]" line="11" column="60" />
+        <mark key="." line="11" column="60" />
+        <mark key="^" line="11" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/service/CollectorWrapperServiceTest.java" timestamp="1536305153113">
         <mark key="[" line="21" column="4" />
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
         <mark key="^" line="20" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/request/CollectorEntityRequest.java" timestamp="1536307634694">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/pom.xml" timestamp="1537337315737">
         <mark key="'" line="26" column="38" />
@@ -176,14 +248,11 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/RealTimeDataFetchManager.java" timestamp="1536215973071" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/write/impl/ReportDataFetchServiceImpl.java" timestamp="1537259366481" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-client/1.0-SNAPSHOT/datacenter-client-1.0-20180904.115257-133.jar!/com/meitu/meipu/datacenter/common/service/read/RealTimeDataServiceClient.class" timestamp="1536215938429" />
-      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/QueryResultIterator.java" timestamp="1536219901744">
-        <mark key="'" line="183" column="10" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/ConcurrentPool.java" timestamp="1536671213148">
-        <mark key="'" line="220" column="25" />
-      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/constants/PageFlowKindEnum.java" timestamp="1536903419157" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/fetchdata/FetchDataUtils.java" timestamp="1537264058241" />
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/PageFlowAction.java" timestamp="1536724744119">
+        <mark key="'" line="124" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/KafkaHandlerFactory.java" timestamp="1536754709796" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/PageFlowController.java" timestamp="1537583249703">
         <mark key="'" line="486" column="27" />
@@ -193,8 +262,11 @@
         <mark key="." line="411" column="89" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/resources/mongodb/datacenter-mongodb-config.xml" timestamp="1537450039103" />
-      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBObject.java" timestamp="1536225085628">
-        <mark key="'" line="25" column="38" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ConsumePuckDataRequest.java" timestamp="1535508543767">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="54" />
+        <mark key="^" line="8" column="54" />
+        <mark key="." line="8" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/DataTransformHelper.java" timestamp="1537422173794">
         <mark key="'" line="566" column="47" />
@@ -210,9 +282,6 @@
         <mark key="^" line="39" column="12" />
         <mark key="." line="39" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/TradeOverviewSummaryDTask.java" timestamp="1535686128653">
-        <mark key="'" line="71" column="45" />
-      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/resources/kafka/data-kafka-publish.xml" timestamp="1536754990405" />
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/TrialMapper.xml" timestamp="1536997808684" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/dao/DasEntityDaoTest.java" timestamp="1536913500613">
@@ -223,9 +292,6 @@
         <mark key="^" line="164" column="86" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-client/1.0-RELEASE-SNAPSHOT/datacenter-client-1.0-RELEASE-SNAPSHOT-sources.jar!/com/meitu/meipu/datacenter/common/service/read/ComponentReadServiceClient.java" timestamp="1537274416627" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-message/src/main/java/com/meitu/meipu/darwin/message/kafka/darwin/ProducerFactory.java" timestamp="1536656360307">
-        <mark key="'" line="24" column="44" />
-      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/resources/log4j2.xml" timestamp="1536736945311" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataTrialFetchServiceImpl.java" timestamp="1537423475560">
         <mark key="'" line="22" column="62" />
@@ -234,6 +300,15 @@
         <mark key="." line="21" column="7" />
         <mark key="^" line="21" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/v2/DataRemoteManager.java" timestamp="1534991469962">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/manager/FetchTest.java" timestamp="1536285680963">
+        <mark key="'" line="173" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/dao/DalEntityDaoTest.java" timestamp="1536905462336">
         <mark key="'" line="189" column="68" />
         <mark key="[" line="196" column="43" />
@@ -241,7 +316,25 @@
         <mark key="^" line="196" column="42" />
         <mark key="." line="196" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoMapOperations.java" timestamp="1534820885651">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="13" />
+        <mark key="^" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/Test.java" timestamp="1535447113080">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.25/slf4j-log4j12-1.7.25-sources.jar!/org/slf4j/impl/Log4jLoggerAdapter.java" timestamp="1536736640195" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/CronService.java" timestamp="1535090736535">
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/PageFlowManagerHelper.java" timestamp="1536578747755" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasEntity.java" timestamp="1536227237762">
         <mark key="'" line="33" column="24" />
@@ -249,9 +342,6 @@
         <mark key="]" line="86" column="35" />
         <mark key="." line="86" column="35" />
         <mark key="^" line="86" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/bigdata/DataReportDetailKeyDTO.java" timestamp="1536213450875">
-        <mark key="'" line="13" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/interceptor/impl/GpmCollectorToDasInterceptor.java" timestamp="1536657035613">
         <mark key="'" line="15" column="68" />
@@ -261,9 +351,6 @@
         <mark key="." line="27" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-common/src/main/java/com/meitu/meipu/darwin/query/common/service/MakeupRpcService.java" timestamp="1537166523006" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-message/src/main/resources/darwin-message-consumer.xml" timestamp="1535455083332">
-        <mark key="'" line="8" column="14" />
-      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/resources/datacenter-core-beans.xml" timestamp="1537151709405">
         <mark key="'" line="31" column="45" />
         <mark key="[" line="43" column="29" />
@@ -280,13 +367,28 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-client/1.0-RELEASE-SNAPSHOT/datacenter-client-1.0-RELEASE-SNAPSHOT-sources.jar!/com/meitu/meipu/datacenter/common/service/write/ReportDataFetchServiceClient.java" timestamp="1537256347384" />
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/WriteResult.java" timestamp="1537449004748" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/MathUtils.java" timestamp="1537338820103" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/utils/fetchdata/MethodHandler.java" timestamp="1536891681112" />
-      <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.0/javax.servlet-api-4.0.0-sources.jar!/javax/servlet/ServletResponse.java" timestamp="1536548018758">
-        <mark key="'" line="177" column="28" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/GpmSourceTarget.java" timestamp="1536811248707">
+        <mark key="'" line="144" column="18" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Formatter.java" timestamp="1535447487141">
-        <mark key="'" line="2492" column="64" />
+      <file name="$USER_HOME$/workspace/darwin-query/pom.xml" timestamp="1537166645049">
+        <mark key="'" line="137" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/MathUtils.java" timestamp="1537338820103" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/resources/tardis.properties" timestamp="1536064427400">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/utils/fetchdata/MethodHandler.java" timestamp="1536891681112" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/DasEntityDaoTest.java" timestamp="1535621189833">
+        <mark key="[" line="32" column="59" />
+        <mark key="]" line="33" column="45" />
+        <mark key="." line="33" column="45" />
+        <mark key="^" line="33" column="45" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/BasicDBObject.java" timestamp="1536225081860">
+        <mark key="'" line="32" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmSourceAfterInterceptor.java" timestamp="1537441121322">
         <mark key="'" line="45" column="41" />
@@ -295,7 +397,16 @@
         <mark key="." line="27" column="51" />
         <mark key="^" line="27" column="51" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/scireum/parsii/1.5/parsii-1.5.jar!/parsii/eval/BinaryOperation.class" timestamp="1537335637413">
+        <mark key="'" line="7" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/dao/impl/DalRouteDaoImpl.java" timestamp="1536756452370" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/request/DalRouteRequest.java" timestamp="1535600002176">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/handler/v2/ConsumeDataHandler.java" timestamp="1536756077403">
         <mark key="'" line="43" column="40" />
         <mark key="[" line="39" column="9" />
@@ -304,12 +415,21 @@
         <mark key="^" line="40" column="149" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/java/com/meitu/meipu/datacenter/web/controller/tools/riskcontrol/RiskControlController.java" timestamp="1537441602771" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/dao/DasEntityDao.java" timestamp="1535598814844">
+        <mark key="[" line="11" column="58" />
+        <mark key="]" line="11" column="58" />
+        <mark key="^" line="11" column="56" />
+        <mark key="." line="11" column="58" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataTrialConsumeService.java" timestamp="1537424419058">
         <mark key="'" line="144" column="67" />
         <mark key="[" line="181" column="0" />
         <mark key="]" line="181" column="0" />
         <mark key="." line="181" column="0" />
         <mark key="^" line="144" column="64" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/AdsClientGpmTask.java" timestamp="1536668176328">
+        <mark key="'" line="110" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/interceptor/DalInterceptorContext.java" timestamp="1536892320335">
         <mark key="'" line="17" column="47" />
@@ -327,14 +447,23 @@
         <mark key="^" line="39" column="55" />
         <mark key="." line="39" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/helper/HttpAdapter.java" timestamp="1535440316113">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="15" column="9" />
+        <mark key="^" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/DetailDataListService.java" timestamp="1536892020420">
         <mark key="[" line="11" column="40" />
         <mark key="]" line="13" column="65" />
         <mark key="^" line="13" column="65" />
         <mark key="." line="13" column="65" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/PooledConnectionProvider.java" timestamp="1536671207994">
-        <mark key="'" line="92" column="16" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/dao/DalRouteDao.java" timestamp="1535598888023">
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="11" column="56" />
+        <mark key="." line="11" column="56" />
+        <mark key="^" line="11" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/OverviewAction.java" timestamp="1536214499486" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/interceptor/DalAfterInterceptor.java" timestamp="1537174198124">
@@ -352,23 +481,32 @@
         <mark key="^" line="120" column="25" />
         <mark key="." line="120" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/pom.xml" timestamp="1535597397763">
+        <mark key="[" line="35" column="35" />
+        <mark key="]" line="35" column="37" />
+        <mark key="." line="35" column="37" />
+        <mark key="^" line="35" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/resources/datacenter-dal-beans.xml" timestamp="1536065802999">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCursor.java" timestamp="1536219862557">
-        <mark key="'" line="625" column="19" />
-      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/ChannelLongServiceImpl.java" timestamp="1536214617068" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/common/BaseTest.java" timestamp="1534859023955">
+        <mark key="[" line="42" column="62" />
+        <mark key="]" line="42" column="66" />
+        <mark key="." line="42" column="66" />
+        <mark key="^" line="42" column="66" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/pom.xml" timestamp="1535706576812">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/trial/TrialSpuLangDataDo.java" timestamp="1536995237297" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/resources/kafka/data-kafka-publish.xml" timestamp="1535454361785">
-        <mark key="'" line="16" column="67" />
+      <file name="$MAVEN_REPOSITORY$/org/jxls/jxls/2.4.6/jxls-2.4.6.jar!/org/jxls/template/SimpleExporter.class" timestamp="1536324780994">
+        <mark key="'" line="61" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/PageFlowManager.java" timestamp="1537235294727" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/service/v2/AbstService.java" timestamp="1537673899146">
@@ -379,7 +517,16 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/convert/QueryMapper.java" timestamp="1536219937505" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerConsumeServiceImpl.java" timestamp="1537421731665">
+        <mark key="'" line="77" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/resources/mysql/mapper/GpmSourceTargetMapper.xml" timestamp="1537177100289" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/request/DalEntityRequest.java" timestamp="1535599798447">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="63" column="5" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/SeqInfo.java" timestamp="1537675658262">
         <mark key="'" line="17" column="8" />
         <mark key="[" line="17" column="10" />
@@ -394,16 +541,38 @@
         <mark key="^" line="37" column="64" />
         <mark key="." line="37" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/domain/response/DataReportDetailVO.java" timestamp="1536648709476" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" timestamp="1537673843829">
-        <mark key="'" line="87" column="76" />
-        <mark key="[" line="80" column="20" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="89" column="51" />
-        <mark key="." line="90" column="0" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" timestamp="1537174342279">
+        <mark key="'" line="1211" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/bigdata/DataReportDetailDTO.java" timestamp="1536213452007">
-        <mark key="'" line="11" column="46" />
+      <file name="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar!/org/apache/commons/lang/text/StrSubstitutor.java" timestamp="1536668386437">
+        <mark key="'" line="562" column="21" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/BasicBSONEncoder.java" timestamp="1537677964048" />
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/domain/response/DataReportDetailVO.java" timestamp="1536648709476" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" timestamp="1537678625793">
+        <mark key="'" line="88" column="76" />
+        <mark key="[" line="88" column="55" />
+        <mark key="]" line="88" column="61" />
+        <mark key="^" line="88" column="61" />
+        <mark key="." line="88" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-common/src/main/java/com/meitu/meipu/darwin/query/common/service/EvaluateService.java" timestamp="1534311501934">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/zhushou/conf/config.properties" timestamp="1534138401574">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/DataShowServiceTest.java" timestamp="1535532482007">
+        <mark key="[" line="21" column="60" />
+        <mark key="]" line="24" column="51" />
+        <mark key="^" line="24" column="51" />
+        <mark key="." line="24" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/DataCriteria.java" timestamp="1536750114434">
         <mark key="'" line="28" column="42" />
@@ -411,6 +580,12 @@
         <mark key="]" line="19" column="13" />
         <mark key="." line="19" column="13" />
         <mark key="^" line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/MongoDomain.java" timestamp="1535338345163">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="24" column="15" />
+        <mark key="^" line="24" column="15" />
+        <mark key="." line="24" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/resources/tardis/datareport-tardis-consumer.xml" timestamp="1536733335467">
         <mark key="'" line="77" column="14" />
@@ -426,21 +601,45 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="71" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/SimilarWordDaoImpl.java" timestamp="1534318912708">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="27" />
+        <mark key="^" line="107" column="26" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/request/DasEntityRequest.java" timestamp="1535599789555">
         <mark key="[" line="10" column="3" />
         <mark key="]" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/CollectorWrapperService.java" timestamp="1535957609611">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="47" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/pom.xml" timestamp="1535532246786">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="25" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/mongodb/TrialMakeupDao.java" timestamp="1536995333299" />
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/utils/http/HttpNewUtils.java" timestamp="1536993046889" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/resources/redis/datacenter-redis-config.xml" timestamp="1535684846329">
-        <mark key="'" line="39" column="70" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/bigdata/PageGpmDTO.java" timestamp="1536654933360">
+        <mark key="'" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/CollectorPuckService.java" timestamp="1535535704598">
-        <mark key="'" line="13" column="39" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/ConsumeDataManagerTest.java" timestamp="1537678727170">
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="29" column="52" />
+        <mark key="." line="29" column="52" />
+        <mark key="^" line="29" column="52" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/script/AbstractScriptEngine.java" timestamp="1537591426637">
-        <mark key="'" line="55" column="28" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/domain/enums/CollectorType.java" timestamp="1535536476939">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="20" column="29" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/constants/TasksEnum.java" timestamp="1537517538237">
         <mark key="'" line="34" column="18" />
@@ -448,14 +647,24 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/darwin-core-beans.xml" timestamp="1537324902854">
-        <mark key="'" line="20" column="67" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/ReadyDataFetchService.java" timestamp="1536118416292">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+      </file>
+      <file name="/CollectorPuckServiceImpl.java" timestamp="1537678677804" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ProviderDataRequest.java" timestamp="1535529587346">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="20" column="33" />
+        <mark key="^" line="20" column="33" />
+        <mark key="." line="20" column="33" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-common/1.0-SNAPSHOT/datacenter-common-1.0-20180904.115254-150.jar!/com/meitu/meipu/datacenter/common/service/v2/DataCommonService.class" timestamp="1536562962835">
+        <mark key="'" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/ReadyDataConsumeService.java" timestamp="1536634971504" />
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/utils/fetchdata/FetchDataUtils.java" timestamp="1536992938291" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1537183508027">
-        <mark key="'" line="872" column="20" />
-      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/java/com/meitu/meipu/datacenter/web/controller/v2/DataController.java" timestamp="1537441712084">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="20" column="42" />
@@ -469,12 +678,39 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/TrialDaoImpl.java" timestamp="1536997835302">
+        <mark key="'" line="34" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/constants/ErrorConstants.java" timestamp="1536550690971">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoJsonOperations.java" timestamp="1534817009556">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/DBSyncService.java" timestamp="1534303562623">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/resources/mysql/mapper/AdsClientBaseSummaryMapper.xml" timestamp="1536214236787" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/service/CollectorConfigService.java" timestamp="1536308582166">
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="34" />
         <mark key="." line="18" column="34" />
         <mark key="^" line="18" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/service/CronServiceImpl.java" timestamp="1534336768325">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="20" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="18" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/enums/MessageType.java" timestamp="1536754805847">
         <mark key="[" line="8" column="0" />
@@ -488,6 +724,15 @@
         <mark key="]" line="36" column="13" />
         <mark key="." line="36" column="13" />
         <mark key="^" line="36" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/dao/DalDaoTest.java" timestamp="1535694505500">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="45" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" timestamp="1536671027019">
+        <mark key="'" line="798" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/enums/ConsumeType.java" timestamp="1536307279767">
         <mark key="[" line="8" column="17" />
@@ -522,17 +767,11 @@
         <mark key="." line="25" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/TradeDataAction.java" timestamp="1536215780554" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1536656965937">
-        <mark key="'" line="784" column="16" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.6.1/jackson-databind-2.6.1-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1537006391327">
-        <mark key="'" line="2729" column="52" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Query.java" timestamp="1536286543844">
-        <mark key="'" line="65" column="37" />
-      </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/service/overviewService/OverviewServiceTest.java" timestamp="1536214044033">
-        <mark key="'" line="54" column="33" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/pom.xml" timestamp="1536737276252">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="33" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/makeup/ItemMakeupPropertyDTO.java" timestamp="1537164108699">
         <mark key="'" line="86" column="21" />
@@ -541,15 +780,18 @@
         <mark key="^" line="86" column="21" />
         <mark key="." line="86" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/ReadydataEvaluateController.java" timestamp="1536048373654">
-        <mark key="'" line="40" column="40" />
-      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/resources/mysql/mapper/AdsClientGpmSummaryMapper.xml" timestamp="1536215162931" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/message/ConsumerFactory.java" timestamp="1536754695948">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="33" column="17" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/dao/DasJobDao.java" timestamp="1535598800230">
+        <mark key="[" line="9" column="52" />
+        <mark key="]" line="9" column="52" />
+        <mark key="." line="9" column="52" />
+        <mark key="^" line="9" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/utils/JsonUtils.java" timestamp="1537163908738" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/resources/kafka/mdata-kafka-publish.xml" timestamp="1536755053589">
@@ -583,6 +825,27 @@
         <mark key="^" line="44" column="72" />
         <mark key="." line="44" column="72" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/a" timestamp="1535707839595">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/TradeDataController.java" timestamp="1536551399281">
+        <mark key="'" line="48" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/TestBasic.java" timestamp="1536227366697">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="13" column="52" />
+        <mark key="." line="13" column="52" />
+        <mark key="^" line="13" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/service/ReadyDataTrialFetchServiceTest.java" timestamp="1537423141777">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="42" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/resources/applicationContext-test.xml" timestamp="1536285687061">
         <mark key="[" line="44" column="29" />
         <mark key="]" line="44" column="34" />
@@ -590,21 +853,30 @@
         <mark key="^" line="44" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/Cluster.java" timestamp="1536992887226" />
-      <file name="$MAVEN_REPOSITORY$/com/scireum/parsii/1.5/parsii-1.5.jar!/parsii/eval/Variable.class" timestamp="1537337667496">
-        <mark key="'" line="20" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/darwin/pom.xml" timestamp="1536735355225">
         <mark key="[" line="27" column="31" />
         <mark key="]" line="27" column="30" />
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" timestamp="1537676067713">
+      <file name="$USER_HOME$/workspace/apprun/darwin_seq.puml" timestamp="1534390938006">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" timestamp="1537678421483">
         <mark key="'" line="237" column="22" />
         <mark key="[" line="177" column="66" />
         <mark key="]" line="177" column="103" />
         <mark key="." line="177" column="103" />
         <mark key="^" line="177" column="103" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.14/log4j-1.2.14-sources.jar!/org/apache/log4j/Category.java" timestamp="1536737471659">
+        <mark key="'" line="852" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-message/src/main/java/com/meitu/meipu/darwin/message/kafka/darwin/ConsumerFactory.java" timestamp="1536656389171">
+        <mark key="'" line="106" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataCrawlerFetchServiceImpl.java" timestamp="1536994448810">
         <mark key="'" line="85" column="16" />
@@ -619,11 +891,17 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/HttpControllerAspector.java" timestamp="1536550758412">
+        <mark key="'" line="62" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/ExpressionUtils.java" timestamp="1537673169650">
         <mark key="'" line="77" column="42" />
         <mark key="[" line="70" column="32" />
         <mark key="]" line="70" column="32" />
         <mark key="." line="70" column="32" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCollection.java" timestamp="1536670525181">
+        <mark key="'" line="506" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/DateUtils.java" timestamp="1537249127043">
         <mark key="'" line="34" column="39" />
@@ -638,12 +916,24 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/DataCenterAction.java" timestamp="1536737977639">
+        <mark key="'" line="31" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/PageFlowManagerImpl.java" timestamp="1537235464827">
         <mark key="'" line="180" column="66" />
         <mark key="[" line="89" column="67" />
         <mark key="]" line="81" column="54" />
         <mark key="^" line="81" column="54" />
         <mark key="." line="81" column="54" />
+      </file>
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/OverviewController.java" timestamp="1536733698638">
+        <mark key="'" line="38" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/utils/AuthUtils.java" timestamp="1535534398003">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="25" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/handler/ItemCartKafkaHandler.java" timestamp="1536754509772" />
       <file name="/fragment.java" timestamp="1537423093947">
@@ -664,9 +954,24 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBTCPConnector.java" timestamp="1536671178351">
+        <mark key="'" line="484" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-client/src/main/resources/kafka/datacenter-kafka-publish-template.xml" timestamp="1536754970117" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1536636218695">
-        <mark key="'" line="1448" column="19" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/resources/mysql/mapper/AdsTradeOverviewSummaryDMapper.xml" timestamp="1536212828926">
+        <mark key="'" line="914" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/apprun/merge.sh" timestamp="1534406340593">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/dao/DasJobDaoTest.java" timestamp="1535683176646">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="26" column="30" />
+        <mark key="^" line="26" column="30" />
+        <mark key="." line="26" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/interceptor/CollectorToDasInterceptor.java" timestamp="1536656999630">
         <mark key="'" line="12" column="26" />
@@ -675,6 +980,12 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/ForbiddenWordDaoImpl.java" timestamp="1534319204711">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="27" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="86" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/resources/kafka/mdata-kafka-consumer.xml" timestamp="1536754172374">
         <mark key="'" line="8" column="83" />
         <mark key="[" line="6" column="0" />
@@ -682,8 +993,27 @@
         <mark key="^" line="7" column="91" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Class.java" timestamp="1535943932583">
-        <mark key="'" line="1308" column="35" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/MongoTest.java" timestamp="1537678589326">
+        <mark key="'" line="233" column="54" />
+        <mark key="[" line="233" column="45" />
+        <mark key="]" line="233" column="55" />
+        <mark key="^" line="233" column="55" />
+        <mark key="." line="233" column="55" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmSourceTargetAfterInterceptor.java" timestamp="1537173692326">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" timestamp="1536893652264">
+        <mark key="'" line="388" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/v2/DataCommonManager.java" timestamp="1535521561171">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="25" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/DataShowService.java" timestamp="1536892012626">
         <mark key="[" line="11" column="32" />
@@ -712,12 +1042,21 @@
         <mark key="]" line="127" column="68" />
         <mark key="." line="127" column="68" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ConsumeDataRequest.java" timestamp="1535510438615">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/CollectorEntity.java" timestamp="1536306039518">
         <mark key="'" line="31" column="17" />
         <mark key="[" line="30" column="14" />
         <mark key="]" line="30" column="17" />
         <mark key="^" line="30" column="17" />
         <mark key="." line="30" column="17" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/scireum/parsii/1.5/parsii-1.5.jar!/parsii/eval/Parser.class" timestamp="1537335649040">
+        <mark key="'" line="40" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/interceptor/DasInterceptorContext.java" timestamp="1536656760043">
         <mark key="[" line="20" column="4" />
@@ -746,19 +1085,31 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/community/meipu-commons/1.0-RELEASE-SNAPSHOT/meipu-commons-1.0-RELEASE-20180802.033559-74-sources.jar!/com/meitu/meipu/commons/utils/copy/WrappedBeanCopier.java" timestamp="1535425964002">
-        <mark key="'" line="62" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/bigdata/AdsClientGpmDetailDTO.java" timestamp="1536579497345">
-        <mark key="'" line="16" column="19" />
-      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/pom.xml" timestamp="1536835249380">
         <mark key="[" line="281" column="60" />
         <mark key="]" line="281" column="60" />
         <mark key="^" line="281" column="60" />
         <mark key="." line="281" column="60" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/domain/PuckCondition.java" timestamp="1535622810748">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="16" column="43" />
+        <mark key="^" line="16" column="43" />
+        <mark key="." line="16" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/domain/request/PuckConditionRequest.java" timestamp="1535622744421">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/java/com/meitu/meipu/datacenter/web/controller/tools/bigdata/FlexDataReader.java" timestamp="1537441639715" />
+      <file name="$USER_HOME$/workspace/datacenter/dev.properties" timestamp="1537434142716">
+        <mark key="'" line="7" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/domain/bigdata/AdsClientGpmSummary.java" timestamp="1536653994846">
+        <mark key="'" line="86" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" timestamp="1537604385108">
         <mark key="'" line="283" column="18" />
         <mark key="[" line="175" column="37" />
@@ -773,6 +1124,24 @@
         <mark key="." line="130" column="0" />
         <mark key="^" line="50" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/v2/helper/FetchDataUtils.java" timestamp="1534838856265">
+        <mark key="[" line="12" column="82" />
+        <mark key="]" line="12" column="82" />
+        <mark key="^" line="12" column="81" />
+        <mark key="." line="12" column="82" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/PageFlowReadServiceImpl.java" timestamp="1537241463894">
+        <mark key="'" line="288" column="54" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/DataValueCondition.java" timestamp="1536912661159">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="54" />
+        <mark key="^" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/GpmSearchTask.java" timestamp="1536827105745">
+        <mark key="'" line="68" column="77" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/MakeupReadydataSkuMapper.xml" timestamp="1536997332398">
         <mark key="'" line="25" column="24" />
         <mark key="[" line="121" column="38" />
@@ -785,6 +1154,21 @@
         <mark key="]" line="125" column="31" />
         <mark key="." line="125" column="31" />
         <mark key="^" line="49" column="79" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/EvaluateManager.java" timestamp="1534301381109">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/datarealtime/datarealtime-core/src/main/java/com/meitu/meipu/datarealtime/core/manager/impl/EvaluateManagerImpl.java" timestamp="1534410108355">
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="33" column="79" />
+        <mark key="." line="33" column="79" />
+        <mark key="^" line="33" column="79" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/trial/TrialSkuDo.java" timestamp="1536997161454">
+        <mark key="'" line="123" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/MakeupReadydataManager.java" timestamp="1537163968312">
         <mark key="'" line="24" column="25" />
@@ -800,14 +1184,38 @@
         <mark key="." line="561" column="0" />
         <mark key="^" line="561" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/JsonUtil.java" timestamp="1537678436532">
+        <mark key="'" line="56" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/OverviewServiceImpl.java" timestamp="1536213402766" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/dao/CollectorEntityDao.java" timestamp="1535449119944">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="9" column="78" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/EvaluateDaoImpl.java" timestamp="1536219439431" />
+      <file name="$USER_HOME$/workspace/zhushou/compile.sh" timestamp="1534138551491">
+        <mark key="[" line="2" column="109" />
+        <mark key="]" line="2" column="108" />
+        <mark key="^" line="2" column="108" />
+        <mark key="." line="2" column="108" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/service/v2/DataCommonService.java" timestamp="1537271829981">
         <mark key="'" line="34" column="15" />
         <mark key="[" line="34" column="30" />
         <mark key="]" line="34" column="35" />
         <mark key="^" line="34" column="35" />
         <mark key="." line="34" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/domain/request/TaskAutoSubmitTaskRequest.java" timestamp="1536843570428">
+        <mark key="'" line="52" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/java/com/meitu/meipu/datacenter/mapper/GpmSourceTargetMapper.java" timestamp="1534161355632">
+        <mark key="[" line="9" column="109" />
+        <mark key="]" line="9" column="109" />
+        <mark key="." line="9" column="109" />
+        <mark key="^" line="9" column="133" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableHelper.java" timestamp="1537429537528">
         <mark key="'" line="78" column="12" />
@@ -841,7 +1249,31 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/v2/impl/AbstManager.java" timestamp="1535081466911">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="10" column="73" />
+        <mark key="." line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/interceptor/DalDataInterceptorContext.java" timestamp="1536809664617">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java" timestamp="1536905280338" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/domain/DalRoute.java" timestamp="1535438179681">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="25" column="29" />
+        <mark key="." line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/exception/DataException.java" timestamp="1535440952981">
+        <mark key="[" line="83" column="5" />
+        <mark key="]" line="85" column="47" />
+        <mark key="^" line="85" column="47" />
+        <mark key="." line="85" column="47" />
+      </file>
       <file name="/release.properties" timestamp="1536821136095" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/interceptor/CollectorToDasFilter.java" timestamp="1536655557004">
         <mark key="[" line="6" column="39" />
@@ -857,10 +1289,22 @@
         <mark key="." line="11" column="81" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-client/1.0-RELEASE-SNAPSHOT/datacenter-client-1.0-RELEASE-SNAPSHOT-sources.jar!/com/meitu/meipu/datacenter/common/service/read/PageFlowReadServiceClient.java" timestamp="1537172581738" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/DasJob.java" timestamp="1535438996126">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="26" column="12" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-config/pom.xml" timestamp="1536737207955">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/dao/impl/AbstMongoDao.java" timestamp="1536907080361">
+        <mark key="'" line="76" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/mongodb/impl/TrialMakeupDaoImpl.java" timestamp="1537005713532">
+        <mark key="'" line="103" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1537273331956">
         <mark key="'" line="77" column="12" />
@@ -869,11 +1313,12 @@
         <mark key="^" line="83" column="98" />
         <mark key="." line="83" column="98" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/EvaluateManagerImpl.java" timestamp="1536219431393">
+        <mark key="'" line="40" column="14" />
+      </file>
       <file name="/dev.properties" timestamp="1536821381375" />
     </filemarks>
     <jumps>
-      <jump line="40" column="31" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/ComponentController.java" />
-      <jump line="20" column="67" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/darwin-core-beans.xml" />
       <jump line="20" column="9" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/aop/TraceIdAspector.java" />
       <jump line="17" column="55" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/aop/TraceIdAspector.java" />
       <jump line="109" column="42" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/CalcUtils.java" />
@@ -964,21 +1409,23 @@
       <jump line="108" column="45" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/CalcUtils.java" />
       <jump line="75" column="25" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/ExpressionUtils.java" />
       <jump line="77" column="42" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/ExpressionUtils.java" />
-      <jump line="207" column="67" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
-      <jump line="206" column="55" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
       <jump line="102" column="22" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
       <jump line="87" column="76" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
       <jump line="22" column="65" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" />
       <jump line="166" column="44" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" />
       <jump line="236" column="22" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" />
       <jump line="17" column="8" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/SeqInfo.java" />
+      <jump line="232" column="54" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/MongoTest.java" />
+      <jump line="56" column="40" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/JsonUtil.java" />
+      <jump line="207" column="62" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
+      <jump line="206" column="54" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ExceptionUtils.getStackTrace(e)</text>
+        <text>formArrayStrToList</text>
       </register>
       <register name="-" type="4">
-        <text>ExceptionUtils.getStackTrace(e)</text>
+        <text>formArrayStrToList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhTWFwTGlzdFw+</text>
