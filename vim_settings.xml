@@ -1046,11 +1046,11 @@
         <mark key="^" line="233" column="55" />
         <mark key="." line="233" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/release.properties" timestamp="1537949796177">
+      <file name="$USER_HOME$/workspace/datacenter/release.properties" timestamp="1537953948470">
         <mark key="'" line="0" column="18" />
-        <mark key="[" line="126" column="47" />
-        <mark key="]" line="127" column="72" />
-        <mark key="." line="127" column="72" />
+        <mark key="[" line="141" column="20" />
+        <mark key="]" line="141" column="20" />
+        <mark key="." line="141" column="20" />
         <mark key="^" line="127" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmSourceTargetAfterInterceptor.java" timestamp="1537173692326">
@@ -1078,12 +1078,12 @@
         <mark key="^" line="43" column="8" />
         <mark key="." line="43" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/beta.properties" timestamp="1537949782248">
+      <file name="$USER_HOME$/workspace/datacenter/beta.properties" timestamp="1537953932006">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="128" column="65" />
-        <mark key="]" line="128" column="33" />
-        <mark key="." line="128" column="33" />
-        <mark key="^" line="128" column="33" />
+        <mark key="[" line="139" column="18" />
+        <mark key="]" line="139" column="18" />
+        <mark key="." line="139" column="18" />
+        <mark key="^" line="139" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-common/1.0-RELEASE-SNAPSHOT/datacenter-common-1.0-RELEASE-20180913.062702-80.jar!/com/meitu/meipu/datacenter/common/service/v2/DataCommonService.class" timestamp="1537520430650" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorServiceImpl.java" timestamp="1535436412136">
@@ -1453,10 +1453,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>host=&quot;${mongo.host}&quot; port=&quot;${mongo.port}&quot;</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>host=&quot;${mongo.host}&quot; port=&quot;${mongo.port}&quot;</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb0NsaWVudFw+</text>
