@@ -820,12 +820,12 @@
         <mark key="." line="44" column="45" />
         <mark key="^" line="44" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/helper/FetchDataHelper.java" timestamp="1538015494879">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/helper/FetchDataHelper.java" timestamp="1538050092472">
         <mark key="'" line="28" column="41" />
-        <mark key="[" line="118" column="53" />
-        <mark key="]" line="118" column="80" />
-        <mark key="." line="118" column="80" />
-        <mark key="^" line="118" column="80" />
+        <mark key="[" line="127" column="83" />
+        <mark key="]" line="127" column="1143" />
+        <mark key="." line="127" column="1143" />
+        <mark key="^" line="127" column="1143" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/message/impl/ConsumeDataHandler.java" timestamp="1536754783370">
         <mark key="'" line="35" column="21" />
@@ -1080,11 +1080,11 @@
       <jump line="86" column="20" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/WriteResult.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>date;os_type;app_version;app;gpm;kind;pv;uv;click_pv;click_uv;click_pv_rate;click_uv_rate;direct_lead_ipv;direct_lead_ipv_uv;direct_lead_item_number;direct_lead_cart_pv;direct_lead_cart_uv;direct_lead_collect_pv;direct_lead_collect_uv;direct_lead_gmv_cnt;direct_lead_gmv_uv;direct_lead_gmv_amount;direct_lead_pay_cnt;direct_lead_pay_uv;direct_lead_pay_amount;full_lead_ipv;full_lead_ipv_uv;full_lead_item_num;full_lead_cart_pv;full_lead_cart_uv;full_lead_collect_pv;full_lead_collect_uv;full_lead_gmv_cnt;full_lead_gmv_uv;full_lead_gmv_amount;full_lead_pay_cnt;full_lead_pay_uv;full_lead_pay_amount;page_cname;exposure_pv;exposure_uv;exposure_pv_click_rate;exposure_uv_click_rate;stay_time;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>date;os_type;app_version;app;gpm;kind;pv;uv;click_pv;click_uv;click_pv_rate;click_uv_rate;direct_lead_ipv;direct_lead_ipv_uv;direct_lead_item_number;direct_lead_cart_pv;direct_lead_cart_uv;direct_lead_collect_pv;direct_lead_collect_uv;direct_lead_gmv_cnt;direct_lead_gmv_uv;direct_lead_gmv_amount;direct_lead_pay_cnt;direct_lead_pay_uv;direct_lead_pay_amount;full_lead_ipv;full_lead_ipv_uv;full_lead_item_num;full_lead_cart_pv;full_lead_cart_uv;full_lead_collect_pv;full_lead_collect_uv;full_lead_gmv_cnt;full_lead_gmv_uv;full_lead_gmv_amount;full_lead_pay_cnt;full_lead_pay_uv;full_lead_pay_amount;page_cname;exposure_pv;exposure_uv;exposure_pv_click_rate;exposure_uv_click_rate;stay_time;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaW5jXD4=</text>
