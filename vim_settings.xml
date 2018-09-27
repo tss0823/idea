@@ -78,12 +78,12 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/KafkaReceiverHandler.java" timestamp="1536754363694">
         <mark key="'" line="85" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" timestamp="1538033841474">
-        <mark key="'" line="232" column="49" />
-        <mark key="[" line="215" column="34" />
-        <mark key="]" line="215" column="35" />
-        <mark key="." line="215" column="35" />
-        <mark key="^" line="215" column="35" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" timestamp="1538037337722">
+        <mark key="'" line="232" column="47" />
+        <mark key="[" line="238" column="127" />
+        <mark key="]" line="233" column="22" />
+        <mark key="." line="233" column="22" />
+        <mark key="^" line="233" column="22" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-client/1.0-SNAPSHOT/datacenter-client-1.0-SNAPSHOT-sources.jar!/com/meitu/meipu/datacenter/common/service/read/PageFlowReadServiceClient.java" timestamp="1536724549709" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.12.8.RELEASE/spring-data-commons-1.12.8.RELEASE-sources.jar!/org/springframework/data/domain/PageImpl.java" timestamp="1536995453709" />
@@ -1062,7 +1062,6 @@
       <jump line="260" column="19" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
       <jump line="705" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/nio/DirectByteBuffer.java" />
       <jump line="342" column="13" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="232" column="49" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
       <jump line="1152" column="26" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCollection.java" />
       <jump line="247" column="33" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/MongoTest.java" />
       <jump line="1156" column="11" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCollection.java" />
@@ -1070,6 +1069,7 @@
       <jump line="536" column="34" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCollectionImpl.java" />
       <jump line="165" column="35" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" />
       <jump line="174" column="33" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" />
+      <jump line="232" column="47" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
