@@ -78,12 +78,12 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/KafkaReceiverHandler.java" timestamp="1536754363694">
         <mark key="'" line="85" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" timestamp="1538037337722">
-        <mark key="'" line="232" column="47" />
-        <mark key="[" line="238" column="127" />
-        <mark key="]" line="233" column="22" />
-        <mark key="." line="233" column="22" />
-        <mark key="^" line="233" column="22" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" timestamp="1538039315360">
+        <mark key="'" line="248" column="127" />
+        <mark key="[" line="241" column="140" />
+        <mark key="]" line="241" column="146" />
+        <mark key="^" line="241" column="146" />
+        <mark key="." line="241" column="146" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-client/1.0-SNAPSHOT/datacenter-client-1.0-SNAPSHOT-sources.jar!/com/meitu/meipu/datacenter/common/service/read/PageFlowReadServiceClient.java" timestamp="1536724549709" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.12.8.RELEASE/spring-data-commons-1.12.8.RELEASE-sources.jar!/org/springframework/data/domain/PageImpl.java" timestamp="1536995453709" />
@@ -970,8 +970,6 @@
       <file name="/dev.properties" timestamp="1536821381375" />
     </filemarks>
     <jumps>
-      <jump line="180" column="31" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
-      <jump line="742" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.8.RELEASE/spring-data-mongodb-1.9.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
       <jump line="155" column="120" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
       <jump line="139" column="26" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
       <jump line="219" column="34" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
@@ -1070,46 +1068,48 @@
       <jump line="165" column="35" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" />
       <jump line="174" column="33" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" />
       <jump line="232" column="47" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
+      <jump line="213" column="68" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
+      <jump line="244" column="127" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>idsets.size()</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>idsets.size()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaW5jXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29udGVudCA9IEZpbGVVdGlscy5yZWFkRmlsZVRvU3RyaW5nKG5ldyBGaWxlKCIvVXNlcnMvcHJvLzkxNS50eHQiKSk7CiAgICAgICAgTGlzdDxEYXRhTWFwPiBkYXRhTWFwTGlzdCA9IEpzb25OZXdVdGlscy50b0xpc3QoY29udGVudCwgRGF0YU1hcC5jbGFzcyk7CiAgICAgICAgaW50IHNpemUgPSBkYXRhTWFwTGlzdC5zaXplKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIm1vbmdvZGIgaWQgc2l6ZT17fSIsaWRzZXRzLnNpemUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0PFN0cmluZz4gZGJJZHMgPSBjaGlsZERhdGFNYXBMaXN0LnN0cmVhbSgpLm1hcChkYXRhIC0+IGRhdGEuZ2V0KCJfaWQiKS50b1N0cmluZygpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IGRhdGFNYXBMaXN0LnNpemUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0PFN0cmluZz4gZGJJZHMgPSBjaGlsZERhdGFNYXBMaXN0LnN0cmVhbSgpLm1hcChkYXRhIC0+IGRhdGEuZ2V0KCJfaWQiKS50b1N0cmluZygpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0PFN0cmluZz4gZGJJZHMgPSBjaGlsZERhdGFNYXBMaXN0LnN0cmVhbSgpLm1hcChkYXRhIC0+IGRhdGEuZ2V0KCJfaWQiKS50b1N0cmluZygpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb25nb0V4dFRlbXBsYXRlLmluc2VydE11bHRpKGRhdGFNYXBMaXN0LCAiYWRzX2NsaWVudF9ncG1fc3VtbWFyeSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8vLyAgICAgICAgICAgIE9iamVjdElkIG9iamVjdElkID0gbmV3IE9iamVjdElkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZHNldHMuYWRkQWxsKGRiSWRzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBtdWx0aUluc2VydCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgU3RyaW5nIGNvbnRlbnQgPSBGaWxlVXRpbHMucmVhZEZpbGVUb1N0cmluZyhuZXcgRmlsZSgiL1VzZXJzL3Byby85MTUudHh0IikpOwogICAgICAgIExpc3Q8RGF0YU1hcD4gZGF0YU1hcExpc3QgPSBKc29uTmV3VXRpbHMudG9MaXN0KGNvbnRlbnQsIERhdGFNYXAuY2xhc3MpOwoKICAgICAgICBtb25nb0V4dFRlbXBsYXRlLmluc2VydE11bHRpKGRhdGFNYXBMaXN0LCJhZHNfY2xpZW50X2dwbV9zdW1tYXJ5Iik7CgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdG90YWxTaXplID0gZGF0YU1hcExpc3Quc2l6ZSgpOwogICAgICAgIGxvZ2dlci5pbmZvKCJ0b3RhbFNpemU9e30iLHJlcXVlc3QuZ2V0RGF0ZSgpLCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RJZCBvYmplY3RJZCA9IG5ldyBPYmplY3RJZCgpOwogICAgICAgIFN0cmluZyBzID0gb2JqZWN0SWQudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHRvdGFsU2l6ZSA9IGRhdGFNYXBMaXN0LnNpemUoKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCIiLHJlcXVlc3QpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>169</text>
