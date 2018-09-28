@@ -57,12 +57,12 @@
         <mark key="." line="134" column="29" />
         <mark key="^" line="134" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1538119573425">
-        <mark key="'" line="47" column="62" />
-        <mark key="[" line="104" column="62" />
-        <mark key="]" line="104" column="71" />
-        <mark key="." line="104" column="71" />
-        <mark key="^" line="104" column="71" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1538122462896">
+        <mark key="'" line="311" column="41" />
+        <mark key="[" line="317" column="40" />
+        <mark key="]" line="317" column="51" />
+        <mark key="." line="317" column="51" />
+        <mark key="^" line="317" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/KafkaReceiverHandler.java" timestamp="1536754363694">
         <mark key="'" line="85" column="21" />
@@ -95,6 +95,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCollectionImpl.java" timestamp="1538034194454">
         <mark key="'" line="536" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/MakeupReadydataDaoImpl.java" timestamp="1538122066172">
+        <mark key="'" line="30" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/BaseRequest.java" timestamp="1536906874394">
         <mark key="'" line="10" column="28" />
@@ -296,6 +299,13 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/MathUtils.java" timestamp="1537338820103" />
       <file name="$USER_HOME$/workspace/darwin/darwin-message/src/main/resources/darwin-message-producer.xml" timestamp="1538105945157" />
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/utils/fetchdata/MethodHandler.java" timestamp="1536891681112" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/MakeupReadydataRequest.java" timestamp="1538121958377">
+        <mark key="'" line="544" column="17" />
+        <mark key="[" line="136" column="17" />
+        <mark key="]" line="136" column="17" />
+        <mark key="." line="136" column="20" />
+        <mark key="^" line="547" column="31" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/BasicDBObject.java" timestamp="1538030801630">
         <mark key="'" line="32" column="63" />
       </file>
@@ -560,6 +570,13 @@
         <mark key="^" line="44" column="72" />
         <mark key="." line="44" column="72" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" timestamp="1538121380876">
+        <mark key="'" line="299" column="53" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="138" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="44" column="87" />
+      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/TradeDataController.java" timestamp="1536551399281">
         <mark key="'" line="48" column="17" />
       </file>
@@ -663,6 +680,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="7" column="91" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/MakeupReadydataMapper.xml" timestamp="1538122184495">
+        <mark key="[" line="145" column="20" />
+        <mark key="]" line="145" column="19" />
+        <mark key="^" line="145" column="19" />
+        <mark key="." line="145" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/MongoTest.java" timestamp="1538036224950">
         <mark key="'" line="253" column="33" />
@@ -786,12 +809,12 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/trial/TrialSkuDo.java" timestamp="1536997161454">
         <mark key="'" line="123" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/MakeupReadydataManager.java" timestamp="1538119496226">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/MakeupReadydataManager.java" timestamp="1538122475118">
         <mark key="'" line="24" column="25" />
-        <mark key="[" line="82" column="36" />
-        <mark key="]" line="82" column="37" />
-        <mark key="^" line="82" column="37" />
-        <mark key="." line="82" column="37" />
+        <mark key="[" line="71" column="14" />
+        <mark key="]" line="71" column="25" />
+        <mark key="^" line="71" column="25" />
+        <mark key="." line="71" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataExportController.java" timestamp="1537428839279">
         <mark key="'" line="165" column="55" />
@@ -858,6 +881,9 @@
         <mark key="." line="11" column="81" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-client/1.0-RELEASE-SNAPSHOT/datacenter-client-1.0-RELEASE-SNAPSHOT-sources.jar!/com/meitu/meipu/datacenter/common/service/read/PageFlowReadServiceClient.java" timestamp="1537172581738" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadydataDBHelper.java" timestamp="1538121439525">
+        <mark key="'" line="110" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/datareport/beta.properties" timestamp="1537681642671" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/dao/impl/AbstMongoDao.java" timestamp="1536907080361">
         <mark key="'" line="76" column="30" />
@@ -878,47 +904,6 @@
       <file name="/dev.properties" timestamp="1536821381375" />
     </filemarks>
     <jumps>
-      <jump line="92" column="19" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCollection.java" />
-      <jump line="174" column="21" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCollection.java" />
-      <jump line="175" column="21" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCollection.java" />
-      <jump line="163" column="44" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/mongo/MongoExtTemplate.java" />
-      <jump line="32" column="63" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/BasicDBObject.java" />
-      <jump line="25" column="39" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBObject.java" />
-      <jump line="205" column="61" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCollectionImpl.java" />
-      <jump line="522" column="91" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/com/mongodb/DBCollectionImpl.java" />
-      <jump line="343" column="19" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="394" column="44" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="472" column="15" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="483" column="15" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="484" column="15" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="549" column="14" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="175" column="8" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="210" column="8" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="224" column="8" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="249" column="8" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="259" column="21" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="569" column="29" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="613" column="30" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="574" column="16" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="567" column="33" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="143" column="32" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="268" column="15" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="284" column="26" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="338" column="18" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="445" column="42" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="468" column="38" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="480" column="38" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="492" column="38" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="304" column="28" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="246" column="33" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/MongoTest.java" />
-      <jump line="370" column="26" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="318" column="26" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="344" column="19" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="398" column="43" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="449" column="15" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="495" column="15" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="496" column="15" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
-      <jump line="550" column="14" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
       <jump line="176" column="8" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
       <jump line="211" column="8" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
       <jump line="225" column="8" filename="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar!/org/bson/types/ObjectId.java" />
@@ -978,64 +963,101 @@
       <jump line="189" column="49" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/mongodb/impl/TrialMakeupDaoImpl.java" />
       <jump line="34" column="50" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/TrialDaoImpl.java" />
       <jump line="47" column="62" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="152" column="73" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="116" column="38" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="117" column="36" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="118" column="12" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="128" column="57" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="169" column="22" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="155" column="19" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="156" column="47" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="158" column="24" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="159" column="42" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="233" column="47" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="229" column="47" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="222" column="52" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="221" column="57" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="184" column="28" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="197" column="60" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="327" column="88" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="306" column="67" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="333" column="75" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="136" column="27" filename="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/MakeupReadydataRequest.java" />
+      <jump line="157" column="33" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
+      <jump line="160" column="16" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
+      <jump line="161" column="16" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
+      <jump line="162" column="16" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
+      <jump line="274" column="20" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
+      <jump line="275" column="20" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
+      <jump line="281" column="24" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
+      <jump line="282" column="24" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
+      <jump line="286" column="24" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
+      <jump line="287" column="24" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
+      <jump line="288" column="24" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
+      <jump line="289" column="24" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
+      <jump line="290" column="24" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
+      <jump line="291" column="24" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
+      <jump line="299" column="53" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" />
+      <jump line="116" column="25" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadydataDBHelper.java" />
+      <jump line="110" column="18" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/readydata/ReadydataDBHelper.java" />
+      <jump line="317" column="17" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="544" column="17" filename="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/request/MakeupReadydataRequest.java" />
+      <jump line="311" column="41" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
+      <jump line="30" column="31" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/MakeupReadydataDaoImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Long.valueOf(itemId)</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>Long.valueOf(itemId)</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmlhbFNwdURvXD4=</text>
+        <text encoding="base64">XDxyZWFkeURhdGFXcmFwcGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0MS50eXBlLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVxdWVzdCA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJyZXF1ZXN0IG11c3Qgbm90IGJlIG51bGwhIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldFN0YXR1cyhSZWFkeWRhdGFTdGF0dXMuSU5JVC5nZXRDb2RlKCkpOyAgLy/mnKrovazmjaLnmoTov5vooYzovazmjaIKICAgICAgICBQYWdlciBwYWdlciA9IG5ldyBQYWdlcihyZXF1ZXN0LmdldFBhZ2VJbmRleCgpLCByZXF1ZXN0LmdldFBhZ2VTaXplKCkpOwogICAgICAgIHJlcXVlc3Quc2V0UGFnZXIocGFnZXIpOwogICAgICAgIExpc3Q8TWFrZXVwUmVhZHlkYXRhPiBkYXRhTGlzdCA9IG1ha2V1cFJlYWR5ZGF0YURhby5zZWxlY3RMaXN0KHJlcXVlc3QpOwoKICAgICAgICAvLwogICAgICAgIExpc3Q8TWFrZXVwUmVhZHlkYXRhRFRPPiBtYWtldXBSZWFkeWRhdGFEVE9MaXN0ID0gT2JqZWN0Q29weUZhc3RVdGlscy5jb3B5TGlzdEZhc3QoZGF0YUxpc3QsIE1ha2V1cFJlYWR5ZGF0YURUTy5jbGFzcyk7CiAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KG1ha2V1cFJlYWR5ZGF0YURUT0xpc3QpKSB7CiAgICAgICAgICAgIHJldHVybiBtYWtldXBSZWFkeWRhdGFEVE9MaXN0OwogICAgICAgIH0KICAgICAgICBmb3IgKE1ha2V1cFJlYWR5ZGF0YURUTyBtYWtldXBSZWFkeWRhdGFEVE8gOiBtYWtldXBSZWFkeWRhdGFEVE9MaXN0KSB7CiAgICAgICAgICAgIC8v57uE6KOFIHNrdQogICAgICAgICAgICBMaXN0PEl0ZW1NYWtldXBQcm9wZXJ0eURUTz4gaXRlbU1ha2V1cFByb3BlcnR5RFRPUyA9IHRoaXMuc2VsZWN0TWVyZ2VTa3VQcm9wZXJ0eUxpc3RCeVJlYWR5ZGF0YUlkKG1ha2V1cFJlYWR5ZGF0YURUTy5nZXRJZCgpKTsKICAgICAgICAgICAgbWFrZXVwUmVhZHlkYXRhRFRPLnNldEl0ZW1NYWtldXBQcm9wZXJ0eURUT1MoaXRlbU1ha2V1cFByb3BlcnR5RFRPUyk7CgogICAgICAgICAgICAvL+e7hOijhSBwcm9wZXJ0eUxpc3QKICAgICAgICAgICAgTGlzdDxNYWtldXBSZWFkeWRhdGFQcm9wZXJ0eURUTz4gbWFrZXVwUmVhZHlkYXRhUHJvcGVydHlEVE9TID0gdGhpcy5zZWxlY3RNZXJnZVByb3BlcnR5TGlzdEJ5UmVhZHlkYXRhSWQobWFrZXVwUmVhZHlkYXRhRFRPLmdldElkKCkpOwogICAgICAgICAgICBtYWtldXBSZWFkeWRhdGFEVE8uc2V0TWFrZXVwUmVhZHlkYXRhUHJvcGVydHlEVE9TKG1ha2V1cFJlYWR5ZGF0YVByb3BlcnR5RFRPUyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IGRhdGFMaXN0ID0gY29sbGVjdAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IGl0ZW1JZHMgPSBkYXRhTGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSZWFkeURhdGFUcmlhbFJlcXVlc3QgcmVxdWVzdCA9IEpzb25VdGlsLmZvcm1Kc29uU3RyVG9PYmplY3QocmVhZHlEYXRhTWVzc2FnZS5nZXRPYmplY3QoKS50b1N0cmluZygpLCBSZWFkeURhdGFUcmlhbFJlcXVlc3QuY2xhc3MpOwogICAgICAgIGxvbmcgc3RhcnRUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFNYXAuZ2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IGRhdGFMaXN0ID0gY29sbGVjdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IGl0ZW1JZHMgPSBkYXRhTGlzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>169</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmlhbFNwdURvXD4=</last-search>
+      <last-search encoding="base64">XDxyZWFkeURhdGFXcmFwcGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmlhbFNwdURvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWFkeURhdGFXcmFwcGVyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWdtZW50VG90YWxTaXplXD4=</entry>
-        <entry encoding="base64">XDx0b3RhbFNpemVcPg==</entry>
-        <entry encoding="base64">XDxzZWdtZW50RGF0YU1hcExpc3RcPg==</entry>
-        <entry encoding="base64">XDzliIbmrrXmtYHnqIvvvIww44CB5p2h5Lu277yMMeOAgeiuoeeul+OAgTLjgIHliKDpmaTjgIEz77yM5o+S5YWlXD4=</entry>
         <entry encoding="base64">XDxkYXRhTWFwTGlzdFw+</entry>
         <entry encoding="base64">XDxjb25zdW1lRGF0YUhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDxvc1ZlcnNpb25cPg==</entry>
@@ -1052,6 +1074,10 @@
         <entry encoding="base64">XDxtYWtldXBSZWFkeWRhdGFTa3VcPg==</entry>
         <entry encoding="base64">XDxtYWtldXBSZWFkeWRhdGFTa3VMaXN0XD4=</entry>
         <entry encoding="base64">XDx0cmlhbFNwdURvXD4=</entry>
+        <entry encoding="base64">XDxtYWtldXBSZWFkeWRhdGFQcm9wZXJ0eUxpc3RcPg==</entry>
+        <entry encoding="base64">XDx2YWx1ZVw+</entry>
+        <entry encoding="base64">XDxpbmdyZWRpZW50c01hcFw+</entry>
+        <entry encoding="base64">XDxyZWFkeURhdGFXcmFwcGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>473</entry>
