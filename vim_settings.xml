@@ -98,12 +98,12 @@
         <mark key="." line="134" column="29" />
         <mark key="^" line="134" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1538215294681">
-        <mark key="'" line="311" column="41" />
-        <mark key="[" line="317" column="40" />
-        <mark key="]" line="317" column="51" />
-        <mark key="." line="317" column="51" />
-        <mark key="^" line="317" column="51" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1538220763104">
+        <mark key="'" line="47" column="58" />
+        <mark key="[" line="99" column="35" />
+        <mark key="]" line="99" column="37" />
+        <mark key="." line="99" column="37" />
+        <mark key="^" line="99" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/KafkaReceiverHandler.java" timestamp="1536754363694">
         <mark key="'" line="85" column="21" />
@@ -672,7 +672,7 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/trial/TrialSkuDo.java" timestamp="1536997161454">
         <mark key="'" line="123" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/MakeupReadydataManager.java" timestamp="1538122475118">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/MakeupReadydataManager.java" timestamp="1538220627877">
         <mark key="'" line="24" column="25" />
         <mark key="[" line="71" column="14" />
         <mark key="]" line="71" column="25" />
@@ -855,7 +855,6 @@
       <jump line="57" column="16" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataTrialConsumeService.java" />
       <jump line="189" column="49" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/mongodb/impl/TrialMakeupDaoImpl.java" />
       <jump line="34" column="50" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/TrialDaoImpl.java" />
-      <jump line="47" column="62" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="152" column="73" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="116" column="38" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
       <jump line="117" column="36" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
@@ -941,19 +940,20 @@
       <jump line="342" column="49" filename="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" />
       <jump line="270" column="50" filename="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" />
       <jump line="191" column="52" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
+      <jump line="47" column="58" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gpm_source</text>
+        <text>makeupReadydataSku.getSpec()</text>
       </register>
       <register name="-" type="4">
-        <text>gpm_source</text>
+        <text>makeupReadydataSku.getSpec()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYWdlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHRQYXJhbU1hcC5wdXQoImdwbUxpa2UiLCAiXi4qIiArIGdwbSArICIuKiQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiVmFsdWUuYXBwZW5kKG1ha2V1cFJlYWR5ZGF0YVNrdS5nZXRTcGVjKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhQ29tbW9uUmVxdWVzdC5zZXREZXZpY2VLaW5kKG9zVmVyc2lvbik7Cg==</text>
