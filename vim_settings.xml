@@ -5,6 +5,7 @@
       <mark key="I" line="310" column="50" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/CameraMakeupChangeAdapter.java" timestamp="1538991605188" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/TraceIdAspector.java" timestamp="1538980028265">
         <mark key="'" line="22" column="13" />
         <mark key="[" line="17" column="63" />
@@ -20,13 +21,13 @@
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/ExceptionHandleAspector.java" timestamp="1538299878163" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/constants/TasksEnum.java" timestamp="1538212593316" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/darwin-core-beans.xml" timestamp="1538299936699">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/darwin-core-beans.xml" timestamp="1538991612680">
         <mark key="'" line="20" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" timestamp="1538986689067">
         <mark key="'" line="24" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/beta.properties" timestamp="1538985325700" />
+      <file name="$USER_HOME$/workspace/darwin/beta.properties" timestamp="1538991361494" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/ProviderDataService.java" timestamp="1538204623596">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
@@ -83,7 +84,6 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/pom.xml" timestamp="1538986818805" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MatchManagerImpl.java" timestamp="1538979368135">
         <mark key="'" line="97" column="16" />
       </file>
@@ -107,7 +107,7 @@
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/PageFlowAction.java" timestamp="1538190434566">
         <mark key="'" line="124" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/makeup/ItemMakeupMatchController.java" timestamp="1538968335382" />
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/makeup/ItemMakeupMatchController.java" timestamp="1538991784787" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/PageFlowController.java" timestamp="1538287110985">
         <mark key="'" line="545" column="37" />
         <mark key="[" line="528" column="81" />
@@ -157,6 +157,7 @@
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-client/src/main/java/com/meitu/meipu/darwin/query/client/service/MakeupRpcServiceClient.java" timestamp="1538986201101" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/pom.xml" timestamp="1538986731989" />
       <file name="$USER_HOME$/workspace/darwin/darwin-web/src/main/resources/log4j2.xml" timestamp="1538979899245" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/trial/TrialMakeupServiceImpl.java" timestamp="1538991461051" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/MethodLogAspect.java" timestamp="1538299883599" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/DataShowService.java" timestamp="1538205481952">
         <mark key="'" line="12" column="44" />
@@ -185,6 +186,11 @@
         <mark key="]" line="38" column="68" />
         <mark key="." line="38" column="68" />
         <mark key="^" line="38" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/makeup/DarwinSynDataController.java" timestamp="1538992092886" />
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/pom.xml" timestamp="1538990849152">
+        <mark key="'" line="258" column="35" />
+        <mark key="[" line="249" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" timestamp="1538288688239">
         <mark key="'" line="351" column="47" />
@@ -231,7 +237,12 @@
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/MDC.java" timestamp="1538968817941">
         <mark key="'" line="146" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/pom.xml" timestamp="1538986784105" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/pom.xml" timestamp="1538992597146">
+        <mark key="[" line="122" column="50" />
+        <mark key="]" line="132" column="43" />
+        <mark key="^" line="132" column="43" />
+        <mark key="." line="132" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/resources/datacenter-dal-beans.xml" timestamp="1538299791776" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/service/v2/DataCommonService.java" timestamp="1538207504213">
         <mark key="'" line="56" column="17" />
@@ -294,6 +305,7 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/pom.xml" timestamp="1538986929475">
         <mark key="[" line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/pre.properties" timestamp="1538992252220" />
     </filemarks>
     <jumps>
       <jump line="101" column="48" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataFetchController.java" />
