@@ -8,13 +8,29 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/PageFlowReadServiceImpl.java" timestamp="1538201408225">
         <mark key="'" line="253" column="66" />
       </file>
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/TraceIdAspector.java" timestamp="1539064238468">
+        <mark key="'" line="22" column="13" />
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="17" column="63" />
+        <mark key="." line="17" column="63" />
+        <mark key="^" line="17" column="67" />
+      </file>
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/UserAuthAction.java" timestamp="1539065348061">
+        <mark key="'" line="19" column="23" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/async/AsyncLogger.java" timestamp="1539052763031">
         <mark key="'" line="164" column="12" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/ThreadContextDataInjector.java" timestamp="1539064411327">
+        <mark key="'" line="65" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MatchManagerImpl.java" timestamp="1538979368135">
         <mark key="'" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataExportController.java" timestamp="1539055860471">
+      <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.25/slf4j-log4j12-1.7.25-sources.jar!/org/slf4j/impl/Log4jMDCAdapter.java" timestamp="1539064380979">
+        <mark key="'" line="50" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataExportController.java" timestamp="1539063782642">
         <mark key="'" line="52" column="44" />
         <mark key="[" line="586" column="0" />
         <mark key="]" line="52" column="31" />
@@ -30,20 +46,34 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" timestamp="1538986689067">
         <mark key="'" line="24" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/interceptor/DataReportInterceptor.java" timestamp="1539065339073">
+        <mark key="'" line="39" column="46" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/layout/AbstractLayout.java" timestamp="1539055085842">
         <mark key="'" line="209" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/MDC.java" timestamp="1538968817941">
-        <mark key="'" line="146" column="19" />
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-common/1.0-SNAPSHOT/usercenter-common-1.0-20180910.073524-330.jar!/com/meitu/meipu/usercenter/auth/UserAuthService.class" timestamp="1539064826403" />
+      <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/MDC.java" timestamp="1539064363478">
+        <mark key="'" line="202" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/Log4jLogEvent.java" timestamp="1539055554724">
-        <mark key="'" line="319" column="9" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/TraceIdAspector.java" timestamp="1539064466185">
+        <mark key="'" line="18" column="7" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="18" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/TestController.java" timestamp="1539055933996">
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/Log4jLogEvent.java" timestamp="1539063587759">
+        <mark key="'" line="441" column="48" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/ContextDataFactory.java" timestamp="1539063471152">
+        <mark key="'" line="93" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/TestController.java" timestamp="1539063788882">
+        <mark key="[" line="32" column="66" />
+        <mark key="]" line="32" column="66" />
+        <mark key="." line="32" column="66" />
+        <mark key="^" line="24" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/pre.properties" timestamp="1539050487264">
         <mark key="'" line="0" column="0" />
@@ -56,7 +86,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/layout/AbstractJacksonLayout.java" timestamp="1539054978408">
         <mark key="'" line="275" column="64" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/config/LoggerConfig.java" timestamp="1539055235361">
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/config/LoggerConfig.java" timestamp="1539063156308">
         <mark key="'" line="447" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/aop/TraceAspector.java" timestamp="1538295831517">
@@ -72,19 +102,35 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/aop/TraceIdAspector.java" timestamp="1538979087832">
         <mark key="'" line="17" column="52" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/ThreadContext.java" timestamp="1539064432376">
+        <mark key="'" line="226" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/HttpControllerAspector.java" timestamp="1539064964035" />
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/spi/AbstractLogger.java" timestamp="1539053124074">
         <mark key="'" line="2162" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/AuthController.java" timestamp="1539064763033" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/DBSyncTaskBuildManager.java" timestamp="1538290667426">
         <mark key="'" line="60" column="63" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/DefaultLogEventFactory.java" timestamp="1539055532630">
         <mark key="'" line="53" column="28" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-common/1.0-SNAPSHOT/usercenter-common-1.0-20180910.073524-330-sources.jar!/com/meitu/meipu/usercenter/constants/UserCenterConstants.java" timestamp="1539065317103" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/resources/log4j2.xml" timestamp="1539063193076">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="54" />
+        <mark key="^" line="4" column="54" />
+        <mark key="." line="4" column="54" />
+      </file>
       <file name="$USER_HOME$/workspace/datareport/dev.properties" timestamp="1539051976395">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-common/1.0-SNAPSHOT/usercenter-common-1.0-20180910.073524-330-sources.jar!/com/meitu/meipu/usercenter/auth/UserAuthService.java" timestamp="1539064867405">
+        <mark key="'" line="15" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/dev.properties" timestamp="1539050480357" />
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/resources/applicationContext.xml" timestamp="1539065262016" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/resources/log4j2.xml" timestamp="1539052842675">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="54" />
@@ -98,42 +144,19 @@
         <mark key="'" line="351" column="47" />
       </file>
       <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.14/log4j-1.2.14-sources.jar!/org/apache/log4j/ConsoleAppender.java" timestamp="1539052882824" />
-      <file name="/fragment.java" timestamp="1539055942230">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="8" />
+      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/MDC.java" timestamp="1539064403511">
+        <mark key="'" line="53" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1539054848092">
-        <mark key="'" line="78" column="10" />
-        <mark key="[" line="78" column="10" />
-        <mark key="]" line="78" column="10" />
-        <mark key="." line="78" column="10" />
-        <mark key="^" line="95" column="31" />
+      <file name="/fragment.java" timestamp="1539065232011" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1539063820835">
+        <mark key="'" line="79" column="10" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="48" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="96" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="554" column="42" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/PageFlowController.java" />
-      <jump line="534" column="21" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/PageFlowController.java" />
-      <jump line="15" column="49" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/PageFlowController.java" />
-      <jump line="531" column="21" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/PageFlowController.java" />
-      <jump line="543" column="37" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/PageFlowController.java" />
-      <jump line="126" column="16" filename="$MAVEN_REPOSITORY$/com/meitu/meipu/datacenter-common/1.0-SNAPSHOT/datacenter-common-1.0-SNAPSHOT-sources.jar!/com/meitu/meipu/datacenter/common/domain/request/v2/DataCommonRequest.java" />
-      <jump line="41" column="60" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/utils/DasUtils.java" />
-      <jump line="707" column="29" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataExportController.java" />
-      <jump line="683" column="53" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataExportController.java" />
-      <jump line="346" column="65" filename="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" />
-      <jump line="345" column="39" filename="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" />
-      <jump line="342" column="49" filename="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" />
-      <jump line="270" column="50" filename="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" />
-      <jump line="191" column="52" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
-      <jump line="47" column="58" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" />
-      <jump line="351" column="47" filename="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" />
-      <jump line="136" column="63" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
-      <jump line="70" column="23" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasEntity.java" />
-      <jump line="27" column="20" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasProperty.java" />
-      <jump line="28" column="20" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/CollectorEntity.java" />
-      <jump line="31" column="20" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DalRoute.java" />
       <jump line="30" column="20" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasJob.java" />
       <jump line="30" column="20" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasProperty.java" />
       <jump line="28" column="20" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/PuckTemplate.java" />
@@ -167,7 +190,6 @@
       <jump line="67" column="22" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/MDC.java" />
       <jump line="146" column="19" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/MDC.java" />
       <jump line="30" column="22" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-slf4j-impl/2.10.0/log4j-slf4j-impl-2.10.0-sources.jar!/org/apache/logging/slf4j/Log4jMDCAdapter.java" />
-      <jump line="197" column="32" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/ThreadContext.java" />
       <jump line="242" column="21" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/ThreadContext.java" />
       <jump line="80" column="13" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/spi/DefaultThreadContextMap.java" />
       <jump line="147" column="23" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MatchManagerImpl.java" />
@@ -212,63 +234,83 @@
       <jump line="305" column="45" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/layout/AbstractJacksonLayout.java" />
       <jump line="275" column="64" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/layout/AbstractJacksonLayout.java" />
       <jump line="53" column="28" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/DefaultLogEventFactory.java" />
-      <jump line="319" column="9" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/Log4jLogEvent.java" />
+      <jump line="93" column="36" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/ContextDataFactory.java" />
+      <jump line="414" column="95" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/Log4jLogEvent.java" />
+      <jump line="319" column="78" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/Log4jLogEvent.java" />
+      <jump line="441" column="48" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/Log4jLogEvent.java" />
+      <jump line="74" column="24" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/ThreadContextDataInjector.java" />
+      <jump line="202" column="28" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/MDC.java" />
+      <jump line="50" column="45" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.25/slf4j-log4j12-1.7.25-sources.jar!/org/slf4j/impl/Log4jMDCAdapter.java" />
+      <jump line="97" column="20" filename="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/MDC.java" />
+      <jump line="158" column="50" filename="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/MDC.java" />
+      <jump line="53" column="9" filename="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/MDC.java" />
+      <jump line="65" column="64" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/ThreadContextDataInjector.java" />
+      <jump line="348" column="45" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/ThreadContext.java" />
+      <jump line="197" column="36" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/ThreadContext.java" />
+      <jump line="213" column="8" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/ThreadContext.java" />
+      <jump line="221" column="12" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/ThreadContext.java" />
+      <jump line="223" column="12" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/ThreadContext.java" />
+      <jump line="225" column="12" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/ThreadContext.java" />
+      <jump line="226" column="60" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/ThreadContext.java" />
+      <jump line="26" column="19" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/interceptor/DataReportInterceptor.java" />
+      <jump line="23" column="62" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/UserAuthAction.java" />
+      <jump line="19" column="23" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/UserAuthAction.java" />
+      <jump line="15" column="28" filename="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-common/1.0-SNAPSHOT/usercenter-common-1.0-20180910.073524-330-sources.jar!/com/meitu/meipu/usercenter/auth/UserAuthService.java" />
+      <jump line="39" column="46" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/interceptor/DataReportInterceptor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5NREM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>data/report/export</text>
+        <text>code</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dnZXJcPg==</text>
+        <text encoding="base64">XDxjb250ZXh0TWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYlByb3AuYXBwZW5kKCImJiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygic2VsZWN0Q29yZURhdGFMaXN0IGVudHJ5Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5NREM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSZXBvcnRSZXN1bHQgcmVzdWx0ID0gbmV3IFJlcG9ydFJlc3VsdCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">QFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJkYXRlUCIsIHJlcXVpcmVkID0gZmFsc2UsIGRlZmF1bHRWYWx1ZSA9ICIwIikgU3RyaW5nIGRhdGVQLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAiZGF0ZVN0YXJ0IiwgcmVxdWlyZWQgPSBmYWxzZSwgZGVmYXVsdFZhbHVlID0gIjAiKSBTdHJpbmcgZGF0ZVN0YXJ0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAicGxhdGZvcm0iLCByZXF1aXJlZCA9IGZhbHNlLCBkZWZhdWx0VmFsdWUgPSAiYWxsIikgU3RyaW5nIHBsYXRmb3JtLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAia2V5cyIsIHJlcXVpcmVkID0gZmFsc2UsIGRlZmF1bHRWYWx1ZSA9ICIiKSBMaXN0PFN0cmluZz4ga2V5cywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKHZhbHVlID0gInR5cGUiLCByZXF1aXJlZCA9IGZhbHNlLCBkZWZhdWx0VmFsdWUgPSAiMCIpIEludGVnZXIgdHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKHZhbHVlID0gImZpbGVuYW1lIiwgcmVxdWlyZWQgPSBmYWxzZSwgZGVmYXVsdFZhbHVlID0gIuW6lOeUqOamguiniOaYjue7hi54bHN4IikgU3RyaW5nIGZpbGVuYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAidmVyc2lvbiIsIHJlcXVpcmVkID0gZmFsc2UsIGRlZmF1bHRWYWx1ZSA9ICJhbGwiKVN0cmluZyBhcHBWZXJzaW9uLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEh0dHBTZXJ2bGV0UmVzcG9uc2UgcmVzcG9uc2U=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgT3ZlcnZpZXdBY3Rpb24gb3ZlcnZpZXdBY3Rpb247CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBQYWdlRmxvd0FjdGlvbiBwYWdlRmxvd0FjdGlvbjsKCiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIFRyYWRlRGF0YUFjdGlvbiB0cmFkZURhdGFBY3Rpb247CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBQYWdlRmxvd1JlYWRTZXJ2aWNlQ2xpZW50IHBhZ2VGbG93UmVhZFNlcnZpY2VDbGllbnQ7CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBEYXRhQ29tbW9uU2VydmljZSBkYXRhQ29tbW9uU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICBSZXBvcnRSZXN1bHQgcmVzdWx0ID0gbmV3IFJlcG9ydFJlc3VsdCgpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dNYW5hZ2VyLmdldExvZ2dlcihEYXRhRXhwb3J0Q29udHJvbGxlci5jbGFzcyk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">QFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJkYXRlUCIsIHJlcXVpcmVkID0gZmFsc2UsIGRlZmF1bHRWYWx1ZSA9ICIwIikgU3RyaW5nIGRhdGVQLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAiZGF0ZVN0YXJ0IiwgcmVxdWlyZWQgPSBmYWxzZSwgZGVmYXVsdFZhbHVlID0gIjAiKSBTdHJpbmcgZGF0ZVN0YXJ0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAicGxhdGZvcm0iLCByZXF1aXJlZCA9IGZhbHNlLCBkZWZhdWx0VmFsdWUgPSAiYWxsIikgU3RyaW5nIHBsYXRmb3JtLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAia2V5cyIsIHJlcXVpcmVkID0gZmFsc2UsIGRlZmF1bHRWYWx1ZSA9ICIiKSBMaXN0PFN0cmluZz4ga2V5cywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKHZhbHVlID0gInR5cGUiLCByZXF1aXJlZCA9IGZhbHNlLCBkZWZhdWx0VmFsdWUgPSAiMCIpIEludGVnZXIgdHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKHZhbHVlID0gImZpbGVuYW1lIiwgcmVxdWlyZWQgPSBmYWxzZSwgZGVmYXVsdFZhbHVlID0gIuW6lOeUqOamguiniOaYjue7hi54bHN4IikgU3RyaW5nIGZpbGVuYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAidmVyc2lvbiIsIHJlcXVpcmVkID0gZmFsc2UsIGRlZmF1bHRWYWx1ZSA9ICJhbGwiKVN0cmluZyBhcHBWZXJzaW9uLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEh0dHBTZXJ2bGV0UmVzcG9uc2UgcmVzcG9uc2U=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgcHJvdGVjdGVkIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIG9yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai5Mb2dnZXIgbG9nZ2VyID0gTG9nTWFuYWdlci5nZXRMb2dnZXIoTWF0Y2hNYW5hZ2VySW1wbC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgT3ZlcnZpZXdBY3Rpb24gb3ZlcnZpZXdBY3Rpb247CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBQYWdlRmxvd0FjdGlvbiBwYWdlRmxvd0FjdGlvbjsKCiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIFRyYWRlRGF0YUFjdGlvbiB0cmFkZURhdGFBY3Rpb247CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBQYWdlRmxvd1JlYWRTZXJ2aWNlQ2xpZW50IHBhZ2VGbG93UmVhZFNlcnZpY2VDbGllbnQ7CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBEYXRhQ29tbW9uU2VydmljZSBkYXRhQ29tbW9uU2VydmljZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dNYW5hZ2VyLmdldExvZ2dlcihEYXRhRXhwb3J0Q29udHJvbGxlci5jbGFzcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkocHJvcGVydHlMaXN0KSkgewogICAgICAgICAgICByZXR1cm4gcHJvcGVydHlMaXN0LnN0cmVhbSgpLmZpbHRlcihkYXRhLT5kYXRhLmdldEVuYWJsZSgpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgcHJvdGVjdGVkIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIG9yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai5Mb2dnZXIgbG9nZ2VyID0gTG9nTWFuYWdlci5nZXRMb2dnZXIoTWF0Y2hNYW5hZ2VySW1wbC5jbGFzcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpbnQgc2VnbWVudFNpemUgPSA1MDsKLy8gICAgICAgICAgICBpbnQgdG90YWxTaXplID0gZGF0YU1hcExpc3Quc2l6ZSgpOwovLyAgICAgICAgICAgIGludCBzZW5kU2VnQ291bnQgPSB0b3RhbFNpemUgLyBzZWdtZW50U2l6ZTsKLy8gICAgICAgICAgICBpZiAoZGF0YU1hcExpc3Quc2l6ZSgpICUgc2VnbWVudFNpemUgPiAwKSB7Ci8vICAgICAgICAgICAgICAgIHNlbmRTZWdDb3VudCA9IHNlbmRTZWdDb3VudCArIDE7Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgICAgIGZvciAoaW50IGluZGV4ID0gMDsgaW5kZXggPCBzZW5kU2VnQ291bnQ7IGluZGV4KyspIHsgIC8v5YiG5q615aSE55CGCi8vICAgICAgICAgICAgICAgIGludCBmcm9tSW5kZXggPSBpbmRleCAqIHNlZ21lbnRTaXplOwovLyAgICAgICAgICAgICAgICBpbnQgdG9JbmRleCA9IChpbmRleCArIDEpICogc2VnbWVudFNpemU7Ci8vICAgICAgICAgICAgICAgIGlmICh0b0luZGV4ID4gZGF0YU1hcExpc3Quc2l6ZSgpKSB7Ci8vICAgICAgICAgICAgICAgICAgICB0b0luZGV4ID0gZGF0YU1hcExpc3Quc2l6ZSgpOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIExpc3Q8RGF0YU1hcD4gY2hpbGREYXRhTWFwTGlzdCA9IGRhdGFNYXBMaXN0LnN1Ykxpc3QoZnJvbUluZGV4LCB0b0luZGV4KTsKLy8gICAgICAgICAgICAgICAgaW50IHJlc3VsdCA9IG1vbmdvRXh0VGVtcGxhdGUuaW5zZXJ0TXVsdGkoY2hpbGREYXRhTWFwTGlzdCwgZGFzRW50aXR5LmdldFRhYmxlTmFtZSgpKTsKLy8vLyAgICAgICAgICAgICAgICBtb25nb0V4dFRlbXBsYXRlLigpCi8vICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJtdWx0aSBpbnNlcnQgdGFibGVOYW1lPXt9LGZyb21JbmRleD17fSx0b0luZGV4PXt9LHRvdGFsU2l6ZT17fSIsIGRhc0VudGl0eS5nZXRUYWJsZU5hbWUoKSwgZnJvbUluZGV4LCB0b0luZGV4LCB0b3RhbFNpemUpOwovLyAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>169</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
+      <last-search encoding="base64">XDxjb250ZXh0TWFwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb250ZXh0TWFwXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbmV4dEluY1w+</entry>
-        <entry encoding="base64">XDx0b0J5dGVBcnJheVw+</entry>
         <entry encoding="base64">XDxfaW5jXD4=</entry>
         <entry encoding="base64">XDxib2R5VGV4dFw+</entry>
         <entry encoding="base64">XDxpdGVtSWRzXD4=</entry>
@@ -287,6 +329,8 @@
         <entry encoding="base64">XDxwcm9wZXJ0eUxpc3RcPg==</entry>
         <entry encoding="base64">XDxtZGNBZGFwdGVyXD4=</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDx0bG1cPg==</entry>
+        <entry encoding="base64">XDxjb250ZXh0TWFwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>473</entry>
