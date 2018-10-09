@@ -64,7 +64,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-common/1.0-SNAPSHOT/usercenter-common-1.0-20180910.073524-330.jar!/com/meitu/meipu/usercenter/auth/UserAuthService.class" timestamp="1539064826403" />
       <file name="$USER_HOME$/workspace/platform-yt/platform-common/src/main/java/com/yuntao/platform/common/log/HbLogContextMgr.java" timestamp="1539067603224" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/TraceIdAspector.java" timestamp="1539069272205">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/TraceIdAspector.java" timestamp="1539078361200">
         <mark key="'" line="17" column="7" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -100,12 +100,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/Logger.java" timestamp="1539053163278">
         <mark key="'" line="145" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/LogContextMgr.java" timestamp="1539074596806">
-        <mark key="'" line="36" column="14" />
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="45" column="34" />
-        <mark key="." line="45" column="34" />
-        <mark key="^" line="45" column="34" />
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/LogContextMgr.java" timestamp="1539078418522">
+        <mark key="'" line="38" column="14" />
+        <mark key="[" line="67" column="37" />
+        <mark key="]" line="67" column="36" />
+        <mark key="." line="67" column="36" />
+        <mark key="^" line="67" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/config/AwaitCompletionReliabilityStrategy.java" timestamp="1539053513054" />
       <file name="$USER_HOME$/workspace/datareport/pre.properties" timestamp="1539068259600">
@@ -285,17 +285,17 @@
       <jump line="94" column="56" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/HttpControllerAspector.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiZW50cnkgaW4gbWV0aG9kIGdldExvZ2luSW5mbyB1cmw9e30iLHVybCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>String url</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyQXV0aFNlcnZpY2VDbGllbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJkYXRhQ29tbW9uU2VydmljZSIgY2xhc3M9ImNvbS5tZWl0dS50YXJkaXMuZ3JwYy5zcHJpbmcuSnJwY1N0dWJGYWN0b3J5QmVhbiI+CiAgICAgICAgPGNvbnN0cnVjdG9yLWFyZyBuYW1lPSJvcHRpb25zIiByZWY9ImNsaWVudE9wdGlvbnMiIC8+CiAgICAgICAgPGNvbnN0cnVjdG9yLWFyZyBuYW1lPSJpbnRlcmZhY2VDbHMiIHZhbHVlPSJjb20ubWVpdHUubWVpcHUuZGF0YWNlbnRlci5jb21tb24uc2VydmljZS52Mi5EYXRhQ29tbW9uU2VydmljZSIvPgogICAgPC9iZWFuPgo=</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWRDb250ZXh0LnB1dCgibWFzdGVyIiwgInRydWUiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiZW50cnkgaW4gbWV0aG9kIGdldExvZ2luSW5mbyB1cmw9e30iLHVybCk7Cg==</text>
