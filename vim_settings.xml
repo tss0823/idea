@@ -34,7 +34,7 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/resources/tardis/datacenter-tardis-consumer.xml" timestamp="1539137368371" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/constants/darwin/PropertyTypeEnum.java" timestamp="1539163140801" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/constants/darwin/PropertyTypeEnum.java" timestamp="1539171374343" />
       <file name="$USER_HOME$/workspace/fastLogin/background.js" timestamp="1539088195440" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/interceptor/DataReportInterceptor.java" timestamp="1539073410135">
         <mark key="'" line="39" column="51" />
@@ -98,7 +98,7 @@
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/resources/tardis/datareport-tardis-provider.xml" timestamp="1539137273585" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/resources/applicationContext.xml" timestamp="1539068276530" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-common/1.0-SNAPSHOT/usercenter-common-1.0-20180910.073524-330-sources.jar!/com/meitu/meipu/usercenter/domain/auth/LoginResult.java" timestamp="1539065695595" />
-      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/darwin-common/1.0-SNAPSHOT/darwin-common-1.0-20181010.070925-521.jar!/com/meitu/meipu/darwin/common/constants/SimilarWordTypeEnum.class" timestamp="1539163545499" />
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/darwin-common/1.0-SNAPSHOT/darwin-common-1.0-20181010.070925-521.jar!/com/meitu/meipu/darwin/common/constants/SimilarWordTypeEnum.class" timestamp="1539171744773" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/utils/ExportUtils.java" timestamp="1539065570409" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/MakeupReadydataManager.java" timestamp="1539158542949">
         <mark key="'" line="24" column="25" />
@@ -144,6 +144,13 @@
       <file name="$USER_HOME$/workspace/datareport/pre.properties" timestamp="1539068259600">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/PageFlowController.java" timestamp="1539171738417">
+        <mark key="'" line="545" column="37" />
+        <mark key="[" line="565" column="0" />
+        <mark key="]" line="565" column="0" />
+        <mark key="^" line="565" column="66" />
+        <mark key="." line="565" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/HttpControllerAspector.java" timestamp="1539076995484">
         <mark key="'" line="94" column="56" />
         <mark key="[" line="94" column="60" />
@@ -172,10 +179,11 @@
         <mark key="." line="72" column="33" />
         <mark key="^" line="72" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/aop/HttpControllerAspector.java" timestamp="1539171896481" />
       <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/MDC.java" timestamp="1539064403511">
         <mark key="'" line="53" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1539163354360">
+      <file name="/fragment.java" timestamp="1539171749838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1539063820835">
@@ -289,11 +297,11 @@
       <jump line="38" column="51" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/SimilarController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UUID.randomUUID().toString()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAib3NWZXJzaW9uIiwgZGVmYXVsdFZhbHVlID0gImFsbCIpIFN0cmluZyBvc1ZlcnNpb24sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>UUID.randomUUID().toString()</text>
+        <text>required = false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGllbnRPcHRpb25zXD4=</text>
@@ -302,31 +310,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJCgiLmt1aUxvY2FsTmF2IikuYXBwZW5kKHNlbGVjdEh0bWwsMTAwMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWVzdENvbnRleHQuc2V0KFJlcXVlc3RDb250ZXh0LkNPTlRFWFRfS0VZX1RSQUNFX0lELFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAib3NWZXJzaW9uIiwgZGVmYXVsdFZhbHVlID0gImFsbCIpIFN0cmluZyBvc1ZlcnNpb24sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWRDb250ZXh0LnB1dCgidHJhY2VpZCIsIFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKCJkYXRlIikgSW50ZWdlciBkYXRlLEBSZXF1ZXN0UGFyYW0gU3RyaW5nIHBsYXRmb3JtLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVxdWVzdENvbnRleHQuc2V0KFJlcXVlc3RDb250ZXh0LkNPTlRFWFRfS0VZX1RSQUNFX0lELFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBzZWxlY3RIdG1sID0gIjxzZWxlY3Q+PG9wdGlvbj5hYWFhYTwvb3B0aW9uPjxvcHRpb24+YmJiYmI8L29wdGlvbj48L3NlbGVjdD4iOwovLyAgICB3aW5kb3cudGltZW91dChmdW5jdGlvbigpewovLyAgICAgICAgJCgiLmt1aUxvY2FsTmF2IikuYXBwZW5kKHNlbGVjdEh0bWwsMTAwMCk7Ci8vICAgIH0pOwogICAgd2hpbGUoJCgiLmt1aUxvY2FsTmF2IikubGVuZ3RoID09IDApewogICAgICAgIHdpbmRvdy5zZXRUaW1lb3V0KGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICQoIi5rdWlMb2NhbE5hdiIpLmFwcGVuZChzZWxlY3RIdG1sLDEwMDApOwogICAgICAgIH0pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWRDb250ZXh0LnB1dCgidHJhY2VpZCIsIFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBzZWxlY3RIdG1sID0gIjxzZWxlY3Q+PG9wdGlvbj5hYWFhYTwvb3B0aW9uPjxvcHRpb24+YmJiYmI8L29wdGlvbj48L3NlbGVjdD4iOwovLyAgICB3aW5kb3cudGltZW91dChmdW5jdGlvbigpewovLyAgICAgICAgJCgiLmt1aUxvY2FsTmF2IikuYXBwZW5kKHNlbGVjdEh0bWwsMTAwMCk7Ci8vICAgIH0pOwogICAgd2hpbGUoJCgiLmt1aUxvY2FsTmF2IikubGVuZ3RoID09IDApewogICAgICAgIHdpbmRvdy5zZXRUaW1lb3V0KGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICQoIi5rdWlMb2NhbE5hdiIpLmFwcGVuZChzZWxlY3RIdG1sLDEwMDApOwogICAgICAgIH0pOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBzZWxlY3RIdG1sID0gIjxzZWxlY3Q+PG9wdGlvbj5hYWFhYTwvb3B0aW9uPjxvcHRpb24+YmJiYmI8L29wdGlvbj48L3NlbGVjdD4iOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5jbGVhckludGVydmFsKCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>169</text>
