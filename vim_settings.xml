@@ -2,11 +2,17 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="I" line="310" column="50" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" protocol="file" />
+      <mark key="I" line="309" column="50" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-client/1.0-SNAPSHOT/usercenter-client-1.0-20180910.073529-322.jar!/com/meitu/meipu/usercenter/service/auth/UserAuthServiceClient.class" timestamp="1539075263290">
+        <mark key="'" line="25" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/TraceIdAspector.java" timestamp="1539155495335">
         <mark key="^" line="17" column="67" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-common/1.0-SNAPSHOT/usercenter-common-1.0-20180910.073524-330-sources.jar!/com/meitu/meipu/usercenter/util/ClientExceptionExecutor.java" timestamp="1539075253393">
+        <mark key="'" line="15" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/UserAuthAction.java" timestamp="1539076986539">
         <mark key="'" line="54" column="96" />
@@ -15,6 +21,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="32" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/async/AsyncLogger.java" timestamp="1539052763031">
+        <mark key="'" line="164" column="12" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/ThreadContextDataInjector.java" timestamp="1539069175583">
+        <mark key="'" line="65" column="64" />
+      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/LogContext.java" timestamp="1539141178052">
         <mark key="'" line="26" column="3" />
         <mark key="[" line="27" column="0" />
@@ -22,6 +34,7 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/resources/tardis/datacenter-tardis-consumer.xml" timestamp="1539137368371" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/constants/darwin/PropertyTypeEnum.java" timestamp="1539163140801" />
       <file name="$USER_HOME$/workspace/fastLogin/background.js" timestamp="1539088195440" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/interceptor/DataReportInterceptor.java" timestamp="1539073410135">
         <mark key="'" line="39" column="51" />
@@ -29,20 +42,14 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/merge/context/merger/MakeupIntroductionMerger.java" timestamp="1539159020463" />
-      <file name="$USER_HOME$/workspace/mt-log/manifest.json" timestamp="1539137698345">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="11" column="30" />
-        <mark key="." line="2" column="13" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/layout/AbstractLayout.java" timestamp="1539055085842">
+        <mark key="'" line="209" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/merge/context/merger/MakeupIntroductionMerger.java" timestamp="1539159020463" />
       <file name="$USER_HOME$/workspace/datacenter/release.properties" timestamp="1539142185288" />
       <file name="$USER_HOME$/workspace/platform-yt/platform-common/src/main/java/com/yuntao/platform/common/log/HbLogContextMgr.java" timestamp="1539067603224" />
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/TestController.java" timestamp="1539065913994">
-        <mark key="[" line="32" column="66" />
-        <mark key="]" line="32" column="66" />
-        <mark key="." line="32" column="66" />
-        <mark key="^" line="24" column="13" />
+      <file name="$USER_HOME$/workspace/usercenter/usercenter-auth/src/main/java/com/meitu/meipu/usercenter/auth/service/impl/UserAuthServiceImpl.java" timestamp="1539071771315">
+        <mark key="'" line="114" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/pre.properties" timestamp="1539069570019">
         <mark key="'" line="0" column="0" />
@@ -52,10 +59,10 @@
         <mark key="^" line="134" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/beta.properties" timestamp="1539153871914" />
-      <file name="$USER_HOME$/workspace/mt-log/README.md" timestamp="1539138080310">
-        <mark key="[" line="0" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/config/LoggerConfig.java" timestamp="1539063156308">
+        <mark key="'" line="447" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1539158827450">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MakeupReadydataMangerImpl.java" timestamp="1539162214984">
         <mark key="'" line="47" column="58" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="40" />
@@ -75,52 +82,47 @@
         <mark key="." line="137" column="0" />
         <mark key="^" line="168" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/datareport/release.properties" timestamp="1539137007808">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/domain/dto/MakeupReadydataDTO.java" timestamp="1539157771227" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/ThreadContext.java" timestamp="1539064432376">
+        <mark key="'" line="226" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" timestamp="1539149744837" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-common/1.0-SNAPSHOT/usercenter-common-1.0-20180910.073524-330-sources.jar!/com/meitu/meipu/usercenter/constants/UserCenterConstants.java" timestamp="1539065317103" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.2/tardis-core-0.2.2.jar!/com/meitu/tardis/context/RequestContext.class" timestamp="1539154957063" />
       <file name="$USER_HOME$/workspace/datacenter/dev.properties" timestamp="1539050480357" />
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/resources/applicationContext.xml" timestamp="1539076646306">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="42" column="15" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/target/classes/applicationContext.xml" timestamp="1539069084639" />
       <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.14/log4j-1.2.14-sources.jar!/org/apache/log4j/ConsoleAppender.java" timestamp="1539052882824" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/resources/tardis/datareport-tardis-provider.xml" timestamp="1539137273585" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/resources/applicationContext.xml" timestamp="1539068276530" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-common/1.0-SNAPSHOT/usercenter-common-1.0-20180910.073524-330-sources.jar!/com/meitu/meipu/usercenter/domain/auth/LoginResult.java" timestamp="1539065695595" />
-      <file name="$USER_HOME$/workspace/fastLogin/manifest.json" timestamp="1539088055532">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/darwin-common/1.0-SNAPSHOT/darwin-common-1.0-20181010.070925-521.jar!/com/meitu/meipu/darwin/common/constants/SimilarWordTypeEnum.class" timestamp="1539163545499" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/utils/ExportUtils.java" timestamp="1539065570409" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/MakeupReadydataManager.java" timestamp="1539158542949">
         <mark key="'" line="24" column="25" />
-        <mark key="[" line="71" column="14" />
-        <mark key="]" line="71" column="25" />
-        <mark key="^" line="71" column="25" />
-        <mark key="." line="71" column="25" />
+        <mark key="[" line="78" column="14" />
+        <mark key="]" line="78" column="25" />
+        <mark key="^" line="78" column="25" />
+        <mark key="." line="78" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataExportController.java" timestamp="1539063782642">
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataExportController.java" timestamp="1539162772704">
         <mark key="'" line="52" column="44" />
         <mark key="[" line="586" column="0" />
         <mark key="]" line="52" column="31" />
         <mark key="." line="52" column="31" />
         <mark key="^" line="52" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadyDataMergeServiceImpl.java" timestamp="1539160888091" />
-      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-common/1.0-SNAPSHOT/usercenter-common-1.0-20180910.073524-330.jar!/com/meitu/meipu/usercenter/auth/UserAuthService.class" timestamp="1539064826403" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" timestamp="1539157669344" />
-      <file name="$USER_HOME$/workspace/mt-log/content_script.js" timestamp="1539137807539">
-        <mark key="[" line="29" column="32" />
-        <mark key="]" line="29" column="32" />
-        <mark key="." line="29" column="32" />
-        <mark key="^" line="29" column="32" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadyDataMergeServiceImpl.java" timestamp="1539161751493" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/config/AppenderControl.java" timestamp="1539054455233">
+        <mark key="'" line="155" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/RealTimeDataServiceImpl.java" timestamp="1539076932709">
+        <mark key="'" line="20" column="62" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-common/1.0-SNAPSHOT/usercenter-common-1.0-20180910.073524-330.jar!/com/meitu/meipu/usercenter/auth/UserAuthService.class" timestamp="1539064826403" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" timestamp="1539161901411" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/TraceIdAspector.java" timestamp="1539154955073">
         <mark key="'" line="19" column="53" />
         <mark key="[" line="7" column="0" />
@@ -128,8 +130,20 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="17" column="60" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/Log4jLogEvent.java" timestamp="1539063587759">
+        <mark key="'" line="441" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/resources/tardis/datacenter-tardis-provider.xml" timestamp="1539137317952" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/layout/AbstractJacksonLayout.java" timestamp="1539054978408">
+        <mark key="'" line="275" column="64" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/Logger.java" timestamp="1539053163278">
+        <mark key="'" line="145" column="19" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/config/AwaitCompletionReliabilityStrategy.java" timestamp="1539053513054" />
+      <file name="$USER_HOME$/workspace/datareport/pre.properties" timestamp="1539068259600">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/HttpControllerAspector.java" timestamp="1539076995484">
         <mark key="'" line="94" column="56" />
         <mark key="[" line="94" column="60" />
@@ -137,25 +151,19 @@
         <mark key="^" line="94" column="59" />
         <mark key="." line="94" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/apprun/deploy.sh" timestamp="1539070206221">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="186" />
-        <mark key="^" line="24" column="186" />
-        <mark key="." line="24" column="186" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/spi/AbstractLogger.java" timestamp="1539053124074">
+        <mark key="'" line="2162" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/AuthController.java" timestamp="1539064763033" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/resources/log4j2.xml" timestamp="1539063193076">
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="4" column="54" />
-        <mark key="^" line="4" column="54" />
-        <mark key="." line="4" column="54" />
+      <file name="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/SimilarController.java" timestamp="1539163480607">
+        <mark key="'" line="38" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/constants/ReadyDataTypeEnum.java" timestamp="1539157062914" />
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/resources/log4j2.xml" timestamp="1539052842675">
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="4" column="54" />
-        <mark key="^" line="4" column="54" />
-        <mark key="." line="4" column="54" />
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-common/1.0-SNAPSHOT/usercenter-common-1.0-20180910.073524-330-sources.jar!/com/meitu/meipu/usercenter/auth/UserAuthService.java" timestamp="1539075269484">
+        <mark key="'" line="15" column="28" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/layout/AbstractStringLayout.java" timestamp="1539054192981">
+        <mark key="'" line="298" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/resources/tardis/datareport-tardis-consumer.xml" timestamp="1539137242985">
         <mark key="'" line="7" column="67" />
@@ -163,6 +171,12 @@
         <mark key="]" line="72" column="33" />
         <mark key="." line="72" column="33" />
         <mark key="^" line="72" column="32" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/MDC.java" timestamp="1539064403511">
+        <mark key="'" line="53" column="9" />
+      </file>
+      <file name="/fragment.java" timestamp="1539163354360">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1539063820835">
         <mark key="'" line="79" column="10" />
@@ -173,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="11" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" />
       <jump line="13" column="64" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/AbstService.java" />
       <jump line="587" column="10" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataExportController.java" />
       <jump line="52" column="44" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataExportController.java" />
@@ -273,6 +286,7 @@
       <jump line="24" column="11" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.2/tardis-grpc-0.2.2.jar!/com/meitu/tardis/grpc/client/ClientOptions.class" />
       <jump line="19" column="24" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/TraceIdAspector.java" />
       <jump line="19" column="53" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/TraceIdAspector.java" />
+      <jump line="38" column="51" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/SimilarController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
