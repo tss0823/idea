@@ -5,11 +5,7 @@
       <mark key="I" line="310" column="50" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/TraceIdAspector.java" timestamp="1539064238468">
-        <mark key="'" line="22" column="13" />
-        <mark key="[" line="17" column="63" />
-        <mark key="]" line="17" column="63" />
-        <mark key="." line="17" column="63" />
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/TraceIdAspector.java" timestamp="1539153544763">
         <mark key="^" line="17" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/UserAuthAction.java" timestamp="1539076986539">
@@ -60,7 +56,7 @@
         <mark key="." line="134" column="29" />
         <mark key="^" line="134" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/beta.properties" timestamp="1539152293577" />
+      <file name="$USER_HOME$/workspace/datacenter/beta.properties" timestamp="1539153871914" />
       <file name="$USER_HOME$/workspace/mt-log/README.md" timestamp="1539138080310">
         <mark key="[" line="0" column="0" />
       </file>
@@ -70,12 +66,12 @@
       <file name="$USER_HOME$/workspace/platform-yt/platform-common/src/main/java/com/yuntao/platform/common/log/HbFileOutputStream.java" timestamp="1539067479723">
         <mark key="'" line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/LogContextMgr.java" timestamp="1539078418522">
-        <mark key="'" line="38" column="14" />
-        <mark key="[" line="67" column="37" />
-        <mark key="]" line="67" column="36" />
-        <mark key="." line="67" column="36" />
-        <mark key="^" line="67" column="36" />
+      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/LogContextMgr.java" timestamp="1539153864524">
+        <mark key="'" line="40" column="14" />
+        <mark key="[" line="67" column="50" />
+        <mark key="]" line="72" column="19" />
+        <mark key="." line="72" column="19" />
+        <mark key="^" line="72" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" timestamp="1539142244818">
         <mark key="'" line="89" column="23" />
@@ -148,7 +144,7 @@
         <mark key="." line="29" column="32" />
         <mark key="^" line="29" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/TraceIdAspector.java" timestamp="1539089328015">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/TraceIdAspector.java" timestamp="1539154164643">
         <mark key="'" line="17" column="7" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -226,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="16" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/impl/MatchManagerImpl.java" />
       <jump line="52" column="51" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" />
       <jump line="176" column="11" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" />
       <jump line="13" column="64" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/AbstService.java" />
@@ -326,13 +321,14 @@
       <jump line="27" column="11" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.2/tardis-grpc-0.2.2.jar!/com/meitu/tardis/grpc/client/ClientOptions.class" />
       <jump line="11" column="13" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.2/tardis-grpc-0.2.2.jar!/com/meitu/tardis/grpc/client/ClientOptions.class" />
       <jump line="24" column="11" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.2/tardis-grpc-0.2.2.jar!/com/meitu/tardis/grpc/client/ClientOptions.class" />
+      <jump line="19" column="24" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/TraceIdAspector.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>UUID.randomUUID().toString()</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>UUID.randomUUID().toString()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGllbnRPcHRpb25zXD4=</text>
@@ -341,31 +337,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJCgiLmt1aUxvY2FsTmF2IikuYXBwZW5kKHNlbGVjdEh0bWwsMTAwMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBzZWxlY3RIdG1sID0gIjxzZWxlY3Q+PG9wdGlvbj5hYWFhYTwvb3B0aW9uPjxvcHRpb24+YmJiYmI8L29wdGlvbj48L3NlbGVjdD4iOwovLyAgICB3aW5kb3cudGltZW91dChmdW5jdGlvbigpewovLyAgICAgICAgJCgiLmt1aUxvY2FsTmF2IikuYXBwZW5kKHNlbGVjdEh0bWwsMTAwMCk7Ci8vICAgIH0pOwogICAgd2hpbGUoJCgiLmt1aUxvY2FsTmF2IikubGVuZ3RoID09IDApewogICAgICAgIHdpbmRvdy5zZXRUaW1lb3V0KGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICQoIi5rdWlMb2NhbE5hdiIpLmFwcGVuZChzZWxlY3RIdG1sLDEwMDApOwogICAgICAgIH0pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVxdWVzdENvbnRleHQuc2V0KFJlcXVlc3RDb250ZXh0LkNPTlRFWFRfS0VZX1RSQUNFX0lELFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWRDb250ZXh0LnB1dCgidHJhY2VpZCIsIFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhciBzZWxlY3RIdG1sID0gIjxzZWxlY3Q+PG9wdGlvbj5hYWFhYTwvb3B0aW9uPjxvcHRpb24+YmJiYmI8L29wdGlvbj48L3NlbGVjdD4iOwovLyAgICB3aW5kb3cudGltZW91dChmdW5jdGlvbigpewovLyAgICAgICAgJCgiLmt1aUxvY2FsTmF2IikuYXBwZW5kKHNlbGVjdEh0bWwsMTAwMCk7Ci8vICAgIH0pOwogICAgd2hpbGUoJCgiLmt1aUxvY2FsTmF2IikubGVuZ3RoID09IDApewogICAgICAgIHdpbmRvdy5zZXRUaW1lb3V0KGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICQoIi5rdWlMb2NhbE5hdiIpLmFwcGVuZChzZWxlY3RIdG1sLDEwMDApOwogICAgICAgIH0pOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBzZWxlY3RIdG1sID0gIjxzZWxlY3Q+PG9wdGlvbj5hYWFhYTwvb3B0aW9uPjxvcHRpb24+YmJiYmI8L29wdGlvbj48L3NlbGVjdD4iOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5jbGVhckludGVydmFsKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cuc2V0VGltZW91dCgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhciBzZWxlY3RIdG1sID0gIjxzZWxlY3Q+PG9wdGlvbj5hYWFhYTwvb3B0aW9uPjxvcHRpb24+YmJiYmI8L29wdGlvbj48L3NlbGVjdD4iOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluaXQoKTsK</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5jbGVhckludGVydmFsKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>169</text>
