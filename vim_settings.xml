@@ -91,6 +91,7 @@
         <mark key="'" line="53" column="28" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-common/1.0-SNAPSHOT/usercenter-common-1.0-20180910.073524-330-sources.jar!/com/meitu/meipu/usercenter/constants/UserCenterConstants.java" timestamp="1539065317103" />
+      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-core/0.2.2/tardis-core-0.2.2.jar!/com/meitu/tardis/context/RequestContext.class" timestamp="1539154957063" />
       <file name="$USER_HOME$/workspace/datacenter/dev.properties" timestamp="1539050480357" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/resources/applicationContext.xml" timestamp="1539076646306">
         <mark key="[" line="43" column="0" />
@@ -129,11 +130,6 @@
         <mark key="." line="52" column="31" />
         <mark key="^" line="52" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/mt-log/background.js" timestamp="1539090286717">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-common/1.0-SNAPSHOT/usercenter-common-1.0-20180910.073524-330.jar!/com/meitu/meipu/usercenter/auth/UserAuthService.class" timestamp="1539064826403" />
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/MDC.java" timestamp="1539064363478">
         <mark key="'" line="202" column="28" />
@@ -144,8 +140,8 @@
         <mark key="." line="29" column="32" />
         <mark key="^" line="29" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/TraceIdAspector.java" timestamp="1539154164643">
-        <mark key="'" line="17" column="7" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/TraceIdAspector.java" timestamp="1539154955073">
+        <mark key="'" line="19" column="53" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -222,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="51" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" />
       <jump line="176" column="11" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MakeupReadydataServiceImpl.java" />
       <jump line="13" column="64" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/AbstService.java" />
       <jump line="587" column="10" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataExportController.java" />
@@ -322,6 +317,7 @@
       <jump line="11" column="13" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.2/tardis-grpc-0.2.2.jar!/com/meitu/tardis/grpc/client/ClientOptions.class" />
       <jump line="24" column="11" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.2/tardis-grpc-0.2.2.jar!/com/meitu/tardis/grpc/client/ClientOptions.class" />
       <jump line="19" column="24" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/TraceIdAspector.java" />
+      <jump line="19" column="53" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/TraceIdAspector.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
