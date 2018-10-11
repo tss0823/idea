@@ -166,6 +166,16 @@
                       <option name="grepExpression" value=".*grpc-default-worker.*" />
                       <option name="inputFilter" value="true" />
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="action" value="REMOVE" />
+                      <option name="grepExpression" value=".*tardis-client-healthcheck-.*" />
+                      <option name="inputFilter" value="true" />
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="action" value="REMOVE" />
+                      <option name="grepExpression" value=".*healthCheckRpc.*" />
+                      <option name="inputFilter" value="true" />
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="default" />
