@@ -34,6 +34,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/layout/AbstractLayout.java" timestamp="1539055085842">
         <mark key="'" line="209" column="34" />
       </file>
+      <file name="$USER_HOME$/Downloads/kibana-6.4.2-darwin-x86_64/src/core_plugins/elasticsearch/index.js" timestamp="1539329926552" />
       <file name="$USER_HOME$/workspace/datacenter/release.properties" timestamp="1539323158388">
         <mark key="[" line="66" column="15" />
         <mark key="]" line="72" column="27" />
@@ -68,6 +69,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/ThreadContext.java" timestamp="1539064432376">
         <mark key="'" line="226" column="60" />
       </file>
+      <file name="$USER_HOME$/Downloads/kibana-6.4.2-darwin-x86_64/src/core_plugins/kibana/public/discover/index.html" timestamp="1539330567447" />
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/DefaultLogEventFactory.java" timestamp="1539055532630">
         <mark key="'" line="53" column="28" />
       </file>
@@ -79,6 +81,9 @@
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/AdsClientGpmTask.java" timestamp="1539324013859">
         <mark key="'" line="117" column="48" />
+      </file>
+      <file name="$USER_HOME$/Downloads/kibana-6.4.2-darwin-x86_64/src/ui/public/field_editor/lib/validate_script.js" timestamp="1539330713464">
+        <mark key="'" line="45" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/resources/tardis/darwin-query-tardis-consumer.xml" timestamp="1539313906136">
         <mark key="[" line="11" column="0" />
@@ -102,6 +107,7 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/Downloads/kibana-6.4.2-darwin-x86_64/src/core_plugins/kibana/public/home/components/tutorial/tutorial.js" timestamp="1539329942809" />
       <file name="$USER_HOME$/workspace/mt-log/background.js" timestamp="1539311458950">
         <mark key="[" line="21" column="37" />
         <mark key="]" line="21" column="37" />
@@ -188,9 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="22" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/config/AppenderControl.java" />
-      <jump line="155" column="23" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/config/AppenderControl.java" />
-      <jump line="209" column="34" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/layout/AbstractLayout.java" />
       <jump line="298" column="31" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/layout/AbstractStringLayout.java" />
       <jump line="305" column="45" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/layout/AbstractJacksonLayout.java" />
       <jump line="275" column="64" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/layout/AbstractJacksonLayout.java" />
@@ -288,6 +291,9 @@
       <jump line="108" column="42" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/AdsClientGpmTask.java" />
       <jump line="137" column="37" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/AdsClientGpmTask.java" />
       <jump line="117" column="48" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/AdsClientGpmTask.java" />
+      <jump line="48" column="60" filename="$USER_HOME$/Downloads/kibana-6.4.2-darwin-x86_64/src/ui/public/field_editor/lib/validate_script.js" />
+      <jump line="29" column="8" filename="$USER_HOME$/Downloads/kibana-6.4.2-darwin-x86_64/src/ui/public/field_editor/lib/validate_script.js" />
+      <jump line="45" column="4" filename="$USER_HOME$/Downloads/kibana-6.4.2-darwin-x86_64/src/ui/public/field_editor/lib/validate_script.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -297,7 +303,7 @@
         <text>10.12.1.52</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdW1tYXJpZXNcPg==</text>
+        <text encoding="base64">XDxzZWFyY2hcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICB7dXJsczogWyJodHRwOi8va2liYW5hLm9wcy5tZWl0dS5jb20vYmpzaF9uZXcvZWxhc3RpY3NlYXJjaC9fbXNlYXJjaCJdfSwK</text>
@@ -334,15 +340,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdW1tYXJpZXNcPg==</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdW1tYXJpZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZWFyY2hcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbmdyZWRpZW50c01hcFw+</entry>
         <entry encoding="base64">XDxyZWFkeURhdGFXcmFwcGVyXD4=</entry>
         <entry encoding="base64">XDxnZXREaXJlY3RMZWFkR212QW1vdW50XD4=</entry>
         <entry encoding="base64">XDxQYWdlclw+</entry>
@@ -362,6 +367,7 @@
         <entry encoding="base64">XDxrYWZrYVN0cmVhbVw+</entry>
         <entry encoding="base64">XDxkaXJlY3RMZWFkR212QW1vdW50XD4=</entry>
         <entry encoding="base64">XDxzdW1tYXJpZXNcPg==</entry>
+        <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>473</entry>
