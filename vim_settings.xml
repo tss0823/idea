@@ -5,6 +5,9 @@
       <mark key="I" line="310" column="50" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-web/0.2.4-SNAPSHOT/tardis-web-0.2.4-20180929.153704-9.jar!/com/meitu/tardis/web/MetricsServlet.class" timestamp="1539570832926">
+        <mark key="'" line="20" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/helper/PageFlowManagerHelper.java" timestamp="1539323975337" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/usercenter-client/1.0-SNAPSHOT/usercenter-client-1.0-20180910.073529-322.jar!/com/meitu/meipu/usercenter/service/auth/UserAuthServiceClient.class" timestamp="1539075263290">
         <mark key="'" line="25" column="46" />
@@ -136,12 +139,16 @@
         <mark key="^" line="24" column="18" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/community/monitor/meipu-monitor/1.0-SNAPSHOT/meipu-monitor-1.0-20170825.115316-73-sources.jar!/com/meitu/meipu/community/monitor/ExampleServlet.java" timestamp="1539570637410" />
       <file name="$USER_HOME$/workspace/darwin-query/beta.properties" timestamp="1539313857330" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableHelper.java" timestamp="1539228258919">
         <mark key="'" line="42" column="41" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/Log4jLogEvent.java" timestamp="1539063587759">
         <mark key="'" line="441" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-web/WEB-INF/web.xml" timestamp="1539570644044">
+        <mark key="'" line="97" column="60" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/ContextDataFactory.java" timestamp="1539063471152">
         <mark key="'" line="93" column="36" />
@@ -150,6 +157,12 @@
         <mark key="'" line="275" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/crawler/crawler-backend/src/main/resources/tardis/publisher/crawler-backend-tardis-provider.xml" timestamp="1539314160227" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-web/WEB-INF/web.xml" timestamp="1539570956045">
+        <mark key="'" line="95" column="51" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-web/0.2.4-SNAPSHOT/tardis-web-0.2.4-20180929.153704-9.jar!/com/meitu/tardis/web/AbstractMetricsServlet.class" timestamp="1539570758053">
+        <mark key="'" line="24" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/PageFlowAction.java" timestamp="1539323909827">
         <mark key="'" line="124" column="16" />
       </file>
@@ -172,7 +185,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/spi/AbstractLogger.java" timestamp="1539053124074">
         <mark key="'" line="2162" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/tardis/darwin-tardis-consumer.xml" timestamp="1539313939839">
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/tardis/darwin-tardis-consumer.xml" timestamp="1539570649635">
         <mark key="[" line="9" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/DBSyncTaskBuildManager.java" timestamp="1538290667426">
@@ -195,12 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="31" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/layout/AbstractStringLayout.java" />
-      <jump line="305" column="45" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/layout/AbstractJacksonLayout.java" />
-      <jump line="275" column="64" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/layout/AbstractJacksonLayout.java" />
-      <jump line="53" column="28" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/DefaultLogEventFactory.java" />
-      <jump line="93" column="36" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/ContextDataFactory.java" />
-      <jump line="414" column="95" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/Log4jLogEvent.java" />
       <jump line="319" column="78" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/Log4jLogEvent.java" />
       <jump line="441" column="48" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/Log4jLogEvent.java" />
       <jump line="74" column="24" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.10.0/log4j-core-2.10.0-sources.jar!/org/apache/logging/log4j/core/impl/ThreadContextDataInjector.java" />
@@ -295,6 +302,12 @@
       <jump line="48" column="60" filename="$USER_HOME$/Downloads/kibana-6.4.2-darwin-x86_64/src/ui/public/field_editor/lib/validate_script.js" />
       <jump line="29" column="8" filename="$USER_HOME$/Downloads/kibana-6.4.2-darwin-x86_64/src/ui/public/field_editor/lib/validate_script.js" />
       <jump line="45" column="4" filename="$USER_HOME$/Downloads/kibana-6.4.2-darwin-x86_64/src/ui/public/field_editor/lib/validate_script.js" />
+      <jump line="100" column="22" filename="$USER_HOME$/workspace/datacenter/datacenter-web/WEB-INF/web.xml" />
+      <jump line="97" column="60" filename="$USER_HOME$/workspace/datacenter/datacenter-web/WEB-INF/web.xml" />
+      <jump line="95" column="51" filename="$USER_HOME$/workspace/darwin/darwin-web/WEB-INF/web.xml" />
+      <jump line="24" column="52" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-web/0.2.4-SNAPSHOT/tardis-web-0.2.4-20180929.153704-9.jar!/com/meitu/tardis/web/AbstractMetricsServlet.class" />
+      <jump line="46" column="44" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-web/0.2.4-SNAPSHOT/tardis-web-0.2.4-20180929.153704-9.jar!/com/meitu/tardis/web/MetricsServlet.class" />
+      <jump line="20" column="43" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-web/0.2.4-SNAPSHOT/tardis-web-0.2.4-20180929.153704-9.jar!/com/meitu/tardis/web/MetricsServlet.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -304,7 +317,7 @@
         <text>10.12.1.52</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hcPg==</text>
+        <text encoding="base64">XDxwcm9tZXRoZXVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICB7dXJsczogWyJodHRwOi8va2liYW5hLm9wcy5tZWl0dS5jb20vYmpzaF9uZXcvZWxhc3RpY3NlYXJjaC9fbXNlYXJjaCJdfSwK</text>
@@ -341,15 +354,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hcPg==</last-search>
+      <last-search encoding="base64">XDxwcm9tZXRoZXVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9tZXRoZXVzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWFkeURhdGFXcmFwcGVyXD4=</entry>
         <entry encoding="base64">XDxnZXREaXJlY3RMZWFkR212QW1vdW50XD4=</entry>
         <entry encoding="base64">XDxQYWdlclw+</entry>
         <entry encoding="base64">XDxlbmFibGVcPg==</entry>
@@ -369,6 +381,7 @@
         <entry encoding="base64">XDxkaXJlY3RMZWFkR212QW1vdW50XD4=</entry>
         <entry encoding="base64">XDxzdW1tYXJpZXNcPg==</entry>
         <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
+        <entry encoding="base64">XDxwcm9tZXRoZXVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>473</entry>
