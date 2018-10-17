@@ -5,17 +5,10 @@
       <mark key="I" line="310" column="50" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-web/0.2.4-SNAPSHOT/tardis-web-0.2.4-20180929.153704-9.jar!/com/meitu/tardis/web/MetricsServlet.class" timestamp="1539570832926">
-        <mark key="'" line="20" column="43" />
-      </file>
-      <file name="$USER_HOME$/Downloads/kibana-6.4.2-darwin-x86_64/src/ui/public/field_editor/lib/validate_script.js" timestamp="1539333734593">
-        <mark key="'" line="45" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/PageFlowReadServiceImpl.java" timestamp="1539323939127">
-        <mark key="'" line="213" column="78" />
-      </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/constants/ReadydataPropertyType.java" timestamp="1539744884959" />
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/makeup/MakeupDetailController.java" timestamp="1539674567946" />
       <file name="$USER_HOME$/workspace/usercenter/usercenter-auth/src/main/java/com/meitu/meipu/usercenter/auth/utils/TokenUtils.java" timestamp="1539596009138" />
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/SkinTypeDaoImpl.java" timestamp="1539745189616" />
       <file name="$USER_HOME$/workspace/usercenter/release.properties" timestamp="1539595939679" />
       <file name="$USER_HOME$/workspace/usercenter/usercenter-common/src/main/java/com/meitu/meipu/usercenter/util/EncryptUtils.java" timestamp="1539675073674">
         <mark key="'" line="51" column="28" />
@@ -24,23 +17,21 @@
         <mark key="^" line="79" column="317" />
         <mark key="." line="79" column="317" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MySqlDataConvertMongoDataServiceImpl.java" timestamp="1539744849503" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/security/MessageDigest.java" timestamp="1539596824416">
         <mark key="'" line="166" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/domain/HttpHeadInfo.java" timestamp="1539678391156" />
       <file name="$USER_HOME$/workspace/usercenter/usercenter-dao/src/main/resources/mysql/mapper/MemberMapper.xml" timestamp="1539593456408" />
-      <file name="$MAVEN_REPOSITORY$/io/prometheus/simpleclient_servlet/0.0.19/simpleclient_servlet-0.0.19-sources.jar!/io/prometheus/client/exporter/MetricsServlet.java" timestamp="1539574362478">
-        <mark key="'" line="40" column="49" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/community/monitor/meipu-monitor/1.0-SNAPSHOT/meipu-monitor-1.0-20170825.115316-73-sources.jar!/com/meitu/meipu/community/monitor/ExampleServlet.java" timestamp="1539584982306">
         <mark key="'" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/service/v2/DataCommonService.java" timestamp="1539585718397" />
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/community/TestInitUserTokenController.java" timestamp="1539689522949" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-web/WEB-INF/web.xml" timestamp="1539574377459">
-        <mark key="'" line="97" column="63" />
-      </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/makeup/TrialController.java" timestamp="1539674516186" />
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/service/MakeupPropertySyncServiceImpl.java" timestamp="1539745149399">
+        <mark key="'" line="58" column="51" />
+      </file>
       <file name="$USER_HOME$/workspace/usercenter/pre.properties" timestamp="1539594181864" />
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/gateway/account/AccountHttpAdapter.java" timestamp="1539675332551">
         <mark key="'" line="77" column="39" />
@@ -60,13 +51,12 @@
       <file name="$USER_HOME$/workspace/usercenter/usercenter-auth/src/main/java/com/meitu/meipu/usercenter/auth/redis/AuthRedis.java" timestamp="1539601199353">
         <mark key="'" line="28" column="50" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-web/0.2.4-SNAPSHOT/tardis-web-0.2.4-20180929.153704-9.jar!/com/meitu/tardis/web/AbstractMetricsServlet.class" timestamp="1539570758053">
-        <mark key="'" line="24" column="52" />
-      </file>
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/PageFlowAction.java" timestamp="1539323909827">
-        <mark key="'" line="124" column="16" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/community/meipu-commons/1.0-RELEASE-SNAPSHOT/meipu-commons-1.0-RELEASE-20180802.033559-74-sources.jar!/com/meitu/meipu/commons/utils/domain/MeituAccount.java" timestamp="1539689538197" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/constants/SimilarWordTypeEnum.java" timestamp="1539744950637">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/utils/HttpUtil.java" timestamp="1539675572123">
         <mark key="'" line="76" column="42" />
       </file>
@@ -74,28 +64,13 @@
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/cache/MemcacheManager.java" timestamp="1539679840658">
         <mark key="'" line="36" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/SkinTypeManagerImpl.java" timestamp="1539745179952" />
       <file name="$USER_HOME$/workspace/usercenter/beta.properties" timestamp="1539601212120" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/handler/v2/ConsumeDataHandler.java" timestamp="1539742599726" />
-      <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.14/commons-redis-2.1.14-sources.jar!/com/meitu/commons/redis/RedisPort.java" timestamp="1539601110855">
-        <mark key="'" line="404" column="67" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/io/prometheus/simpleclient/0.0.19/simpleclient-0.0.19-sources.jar!/io/prometheus/client/CollectorRegistry.java" timestamp="1539574357467">
-        <mark key="'" line="49" column="31" />
-      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/handler/v2/ConsumeDataHandler.java" timestamp="1539744427189" />
       <file name="$USER_HOME$/workspace/usercenter/usercenter-dao/src/main/resources/mysql/mapper/UserAuthMapper.xml" timestamp="1539593532043" />
-      <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.14/commons-redis-2.1.14-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" timestamp="1539601071017">
-        <mark key="'" line="189" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1539586190569" />
-      <file name="/fragment.java" timestamp="1539596917472">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="67" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/resources/tardis/datareport-tardis-consumer.xml" />
-      <jump line="27" column="11" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.2/tardis-grpc-0.2.2.jar!/com/meitu/tardis/grpc/client/ClientOptions.class" />
       <jump line="11" column="13" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.2/tardis-grpc-0.2.2.jar!/com/meitu/tardis/grpc/client/ClientOptions.class" />
       <jump line="24" column="11" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.2/tardis-grpc-0.2.2.jar!/com/meitu/tardis/grpc/client/ClientOptions.class" />
       <jump line="19" column="24" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/TraceIdAspector.java" />
@@ -194,13 +169,15 @@
       <jump line="450" column="41" filename="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="449" column="37" filename="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="438" column="16" filename="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/mvc/interceptor/HttpRequestInterceptor.java" />
+      <jump line="124" column="34" filename="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/service/MakeupPropertySyncServiceImpl.java" />
+      <jump line="58" column="51" filename="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/service/MakeupPropertySyncServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T5wXcbS66Jgr83BDr/dLcxwmFAQ6qGOV2F37MP81iRxdoaIs3TwHaQVPugtx1l+XcxrH0dyVJ4xWlCr0gSdC0QYoH+KCd0uFXcYhjpqDvgEt4S1sZhdeP1ybdp94QGSkVuXB5OkSCnQAZ0tM78gBGJhZP8DmMolZjOtjXduQRrHi4NaM6yJX6D6G7tuXlFNRKbpJuD6VCRPuW6jA7yoelyery5/B1Fa0s4mqobZuVfTMwJ/DUEoIZOpbwW2QZdLtHAR366+9CmMuH2Unmap4kPvCVPn1glyVMeVskny2I8C+3mI4VvKiqTlU3zBzTCFeMRqJVNKDeFaDAay9Un0YvA==</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>T5wXcbS66Jgr83BDr/dLcxwmFAQ6qGOV2F37MP81iRxdoaIs3TwHaQVPugtx1l+XcxrH0dyVJ4xWlCr0gSdC0QYoH+KCd0uFXcYhjpqDvgEt4S1sZhdeP1ybdp94QGSkVuXB5OkSCnQAZ0tM78gBGJhZP8DmMolZjOtjXduQRrHi4NaM6yJX6D6G7tuXlFNRKbpJuD6VCRPuW6jA7yoelyery5/B1Fa0s4mqobZuVfTMwJ/DUEoIZOpbwW2QZdLtHAR366+9CmMuH2Unmap4kPvCVPn1glyVMeVskny2I8C+3mI4VvKiqTlU3zBzTCFeMRqJVNKDeFaDAay9Un0YvA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGFtcGxlXD4=</text>
