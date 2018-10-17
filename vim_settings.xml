@@ -8,15 +8,10 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/constants/ReadydataPropertyType.java" timestamp="1539744884959" />
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/makeup/MakeupDetailController.java" timestamp="1539674567946" />
       <file name="$USER_HOME$/workspace/usercenter/usercenter-auth/src/main/java/com/meitu/meipu/usercenter/auth/utils/TokenUtils.java" timestamp="1539596009138" />
-      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/SkinTypeDaoImpl.java" timestamp="1539745189616" />
-      <file name="$USER_HOME$/workspace/usercenter/release.properties" timestamp="1539595939679" />
-      <file name="$USER_HOME$/workspace/usercenter/usercenter-common/src/main/java/com/meitu/meipu/usercenter/util/EncryptUtils.java" timestamp="1539675073674">
-        <mark key="'" line="51" column="28" />
-        <mark key="[" line="80" column="34" />
-        <mark key="]" line="79" column="317" />
-        <mark key="^" line="79" column="317" />
-        <mark key="." line="79" column="317" />
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/SkinTypeDaoImpl.java" timestamp="1539759987297">
+        <mark key="'" line="23" column="51" />
       </file>
+      <file name="$USER_HOME$/workspace/usercenter/release.properties" timestamp="1539595939679" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/MySqlDataConvertMongoDataServiceImpl.java" timestamp="1539744849503" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/security/MessageDigest.java" timestamp="1539596824416">
         <mark key="'" line="166" column="40" />
@@ -27,6 +22,9 @@
         <mark key="'" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/service/v2/DataCommonService.java" timestamp="1539585718397" />
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/SkinAgeManagerImpl.java" timestamp="1539760370600">
+        <mark key="'" line="57" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/community/TestInitUserTokenController.java" timestamp="1539689522949" />
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/makeup/TrialController.java" timestamp="1539674516186" />
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/service/MakeupPropertySyncServiceImpl.java" timestamp="1539745149399">
@@ -64,15 +62,13 @@
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/cache/MemcacheManager.java" timestamp="1539679840658">
         <mark key="'" line="36" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/SkinTypeManagerImpl.java" timestamp="1539757608261" />
+      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/SkinTypeManagerImpl.java" timestamp="1539760288255" />
       <file name="$USER_HOME$/workspace/usercenter/beta.properties" timestamp="1539601212120" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/handler/v2/ConsumeDataHandler.java" timestamp="1539744427189" />
       <file name="$USER_HOME$/workspace/usercenter/usercenter-dao/src/main/resources/mysql/mapper/UserAuthMapper.xml" timestamp="1539593532043" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1539586190569" />
     </filemarks>
     <jumps>
-      <jump line="11" column="13" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.2/tardis-grpc-0.2.2.jar!/com/meitu/tardis/grpc/client/ClientOptions.class" />
-      <jump line="24" column="11" filename="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc/0.2.2/tardis-grpc-0.2.2.jar!/com/meitu/tardis/grpc/client/ClientOptions.class" />
       <jump line="19" column="24" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/TraceIdAspector.java" />
       <jump line="19" column="53" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/aop/TraceIdAspector.java" />
       <jump line="38" column="51" filename="$USER_HOME$/workspace/cms/cms-web/src/main/java/com/meitu/meipu/cms/web/controller/readydata/SimilarController.java" />
@@ -171,6 +167,8 @@
       <jump line="438" column="16" filename="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="124" column="34" filename="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/service/MakeupPropertySyncServiceImpl.java" />
       <jump line="58" column="51" filename="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/service/MakeupPropertySyncServiceImpl.java" />
+      <jump line="23" column="51" filename="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/SkinTypeDaoImpl.java" />
+      <jump line="57" column="42" filename="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/SkinAgeManagerImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
