@@ -36,7 +36,7 @@
       <file name="$USER_HOME$/workspace/usercenter/usercenter-dao/src/main/resources/mysql/mapper/MemberMapper.xml" timestamp="1539593456408" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/TrialMakeupManagerImpl.java" timestamp="1539763543161" />
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/Trial.java" timestamp="1539831586475" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/DBSyncManager.java" timestamp="1539764621554" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/DBSyncManager.java" timestamp="1539852332605" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/ItemStatisticsRequest.java" timestamp="1539834414481">
         <mark key="'" line="39" column="47" />
       </file>
@@ -72,8 +72,8 @@
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/mvc/interceptor/HttpRequestInterceptor.java" timestamp="1539691784027">
         <mark key="'" line="438" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/AbstDBSyncManager.java" timestamp="1539827638414">
-        <mark key="'" line="63" column="64" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/AbstDBSyncManager.java" timestamp="1539852001950">
+        <mark key="'" line="28" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-web/WEB-INF/web.xml" timestamp="1539594273845">
         <mark key="'" line="95" column="51" />
@@ -106,6 +106,9 @@
         <mark key="'" line="272" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/wireless/beta.properties" timestamp="1539675464683" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/DBSyncTaskBuildManager.java" timestamp="1539852326782">
+        <mark key="'" line="59" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/cache/MemcacheManager.java" timestamp="1539679840658">
         <mark key="'" line="36" column="55" />
       </file>
@@ -127,7 +130,6 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1539586190569" />
     </filemarks>
     <jumps>
-      <jump line="96" column="16" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" />
       <jump line="98" column="17" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ConsumeDataRequest.java" />
       <jump line="99" column="53" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" />
@@ -212,7 +214,6 @@
       <jump line="37" column="40" filename="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/SkinTypeManagerImpl.java" />
       <jump line="272" column="28" filename="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/domain/MongoMakeupDO.java" />
       <jump line="43" column="53" filename="$USER_HOME$/workspace/darwin-query/darwin-query-core/src/main/java/com/meitu/meipu/darwin/query/core/manager/impl/SkinTypeManagerImpl.java" />
-      <jump line="28" column="60" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/AbstDBSyncManager.java" />
       <jump line="67" column="41" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/AbstDBSyncManager.java" />
       <jump line="63" column="64" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/AbstDBSyncManager.java" />
       <jump line="69" column="65" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/trial/impl/TrialMakeupDarwinManagerImpl.java" />
@@ -227,6 +228,8 @@
       <jump line="660" column="64" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/DataManagerImpl.java" />
       <jump line="569" column="70" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/DataManagerImpl.java" />
       <jump line="39" column="47" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/ItemStatisticsRequest.java" />
+      <jump line="28" column="59" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/impl/AbstDBSyncManager.java" />
+      <jump line="59" column="61" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/DBSyncTaskBuildManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
