@@ -13,6 +13,13 @@
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/constants/ReadydataPropertyType.java" timestamp="1539744884959" />
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/TrialMaterialDaoImpl.java" timestamp="1539831941040" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasEntity.java" timestamp="1540192055414">
+        <mark key="'" line="98" column="21" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="35" column="10" />
+        <mark key="^" line="35" column="10" />
+        <mark key="." line="35" column="14" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc-spring/0.2.4-SNAPSHOT/tardis-grpc-spring-0.2.4-20180929.153700-9.jar!/com/meitu/tardis/grpc/spring4/GrpcServerFactoryBean.class" timestamp="1539927423463">
         <mark key="'" line="9" column="78" />
       </file>
@@ -73,12 +80,12 @@
         <mark key="." line="72" column="27" />
         <mark key="^" line="72" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/DataCompareServiceImpl.java" timestamp="1540189887932">
-        <mark key="'" line="13" column="71" />
-        <mark key="[" line="40" column="50" />
-        <mark key="]" line="13" column="71" />
-        <mark key="." line="13" column="71" />
-        <mark key="^" line="13" column="71" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/DataCompareServiceImpl.java" timestamp="1540192638835">
+        <mark key="'" line="47" column="44" />
+        <mark key="[" line="66" column="32" />
+        <mark key="]" line="66" column="31" />
+        <mark key="." line="66" column="31" />
+        <mark key="^" line="66" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/community/TestInitUserTokenController.java" timestamp="1539689522949" />
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/token/TokenHelper.java" timestamp="1540176919861" />
@@ -170,6 +177,9 @@
       <file name="$USER_HOME$/workspace/datareport/datareport-web/target/classes/applicationContext.xml" timestamp="1540175975571" />
       <file name="$USER_HOME$/workspace/tardis-java/tardis-spring/tardis-grpc-spring/src/main/java/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" timestamp="1539930377813">
         <mark key="'" line="36" column="31" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" timestamp="1540191386739">
+        <mark key="'" line="646" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/ReadyDataEvaluateMapper.xml" timestamp="1540180567675">
         <mark key="[" line="296" column="24" />
@@ -344,6 +354,7 @@
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/tradecenter/TradeOrderController.java" timestamp="1540176963969">
         <mark key="'" line="282" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasProperty.java" timestamp="1540191988518" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1539586190569" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/DataManager.java" timestamp="1540186873239" />
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/mapper/ReadyDataEvaluateMapper.java" timestamp="1540178601186">
@@ -354,12 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="53" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/trial/impl/TrialMakeupDarwinManagerImpl.java" />
-      <jump line="155" column="92" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/trial/impl/TrialMakeupDarwinManagerImpl.java" />
-      <jump line="113" column="22" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/DataReadServiceImpl.java" />
-      <jump line="98" column="19" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/ItemStatisticsDTO.java" />
-      <jump line="103" column="19" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/ItemStatisticsDTO.java" />
-      <jump line="108" column="45" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/DataReadServiceImpl.java" />
       <jump line="660" column="64" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/DataManagerImpl.java" />
       <jump line="569" column="70" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/DataManagerImpl.java" />
       <jump line="39" column="47" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/ItemStatisticsRequest.java" />
@@ -454,48 +459,54 @@
       <jump line="281" column="35" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/PageFlowOldController.java" />
       <jump line="13" column="71" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/DataCompareServiceImpl.java" />
       <jump line="277" column="29" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/PageFlowOldController.java" />
+      <jump line="646" column="8" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" />
+      <jump line="42" column="124" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/DataCompareServiceImpl.java" />
+      <jump line="44" column="52" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/DataCompareServiceImpl.java" />
+      <jump line="46" column="44" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/DataCompareServiceImpl.java" />
+      <jump line="35" column="14" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasEntity.java" />
+      <jump line="98" column="21" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasEntity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>dataMap</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>dataMap</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBFbnZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoc3RhcnRJbmRleCArIGNvbXBhcmVTZWdtZW50Q291bnQgPCB0b3RhbENvdW50KXsKICAgICAgICAgICAgICAgZW5kSW5kZXggPSB0b3RhbENvdW50OwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIGVuZEluZGV4Kz1jb21wYXJlU2VnbWVudENvdW50OwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGFNYXAgZGF0YU1hcCA9IHNvdXJjZUl0ZW1MaXN0LmdldChpKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChEYXRhTWFwIGRhdGFNYXAgOiBzb3VyY2VJdGVtTGlzdCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
         <text>else{
                 endIndex+=compareSegmentCount;
             }</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgZW5kSW5kZXggPSAwOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYoc3RhcnRJbmRleCArIGNvbXBhcmVTZWdtZW50Q291bnQgPCB0b3RhbENvdW50KXsKICAgICAgICAgICAgICAgIGVuZEluZGV4ID0gdG90YWxDb3VudDsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICBlbmRJbmRleCs9Y29tcGFyZVNlZ21lbnRDb3VudDsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvL+S/ruaUueWHhuWkh+aVsOaNrm1ha2V1cElkCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtldXBSZWFkeWRhdGFEYW8udXBkYXRlTWFrZXVwSWRCeU1ha2V1cElkcyhzb3VyY2VNYWtldXBJZHMsdGFyZ2V0TWFrZXVwSWQpOwogICAgICAgIC8v5L+u5pS56K+E5rWLbWFrZXVwSWQKICAgICAgICByZWFkeURhdGFFdmFsdWF0ZURhby51cGRhdGVNYWtldXBJZEJ5TWFrZXVwSWRzKHNvdXJjZU1ha2V1cElkcyx0YXJnZXRNYWtldXBJZCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0ID0gMDsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>169</text>
