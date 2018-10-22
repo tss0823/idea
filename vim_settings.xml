@@ -11,6 +11,9 @@
         <mark key="'" line="9" column="78" />
       </file>
       <file name="$USER_HOME$/workspace/usercenter/usercenter-auth/src/main/java/com/meitu/meipu/usercenter/auth/utils/TokenUtils.java" timestamp="1539596009138" />
+      <file name="$USER_HOME$/workspace/tradecenter/tradecenter-core/src/main/java/com/meitu/meipu/tradecenter/manager/tradeorder/TradeOrderManagerImpl.java" timestamp="1540177308737">
+        <mark key="'" line="766" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/trial/impl/TrialMakeupDarwinManagerImpl.java" timestamp="1539832089550">
         <mark key="'" line="155" column="92" />
       </file>
@@ -21,6 +24,8 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/DataReadServiceImpl.java" timestamp="1539834132860">
         <mark key="'" line="108" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/merge/makeup/MakeupInfoManager.java" timestamp="1540177871555" />
+      <file name="$USER_HOME$/workspace/tradecenter/tradecenter-client/src/main/java/com/meitu/meipu/tradecenter/utils/check/TradeOrderRequestCheckUtils.java" timestamp="1540177068679" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/constants/TasksEnum.java" timestamp="1540174924936" />
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/domain/HttpHeadInfo.java" timestamp="1539678391156" />
       <file name="$USER_HOME$/workspace/usercenter/usercenter-dao/src/main/resources/mysql/mapper/MemberMapper.xml" timestamp="1539593456408" />
@@ -40,6 +45,7 @@
         <mark key="^" line="72" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/community/TestInitUserTokenController.java" timestamp="1539689522949" />
+      <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/token/TokenHelper.java" timestamp="1540176919861" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/tardis/darwin-tardis-provider.xml" timestamp="1539928356034">
         <mark key="'" line="7" column="85" />
       </file>
@@ -79,6 +85,11 @@
       </file>
       <file name="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/services/JavaDispatcherImpl.java" timestamp="1539928577236" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/handler/v2/ConsumeDataHandler.java" timestamp="1539833512486" />
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/ReadyDataEvaluateService.java" timestamp="1539914972082">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/grpc-java/examples/src/main/java/io/grpc/examples/header/HeaderServerInterceptor.java" timestamp="1539928123599" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/target/classes/applicationContext.xml" timestamp="1540175975571" />
       <file name="$USER_HOME$/workspace/tardis-java/tardis-spring/tardis-grpc-spring/src/main/java/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" timestamp="1539930377813">
@@ -93,6 +104,10 @@
         <mark key="'" line="23" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/usercenter/release.properties" timestamp="1539595939679" />
+      <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/tradecenter-client/1.0-RELEASE-SNAPSHOT/tradecenter-client-1.0-RELEASE-20180907.063947-142.jar!/com/meitu/meipu/tradecenter/service/write/tradeorder/TradeOrderWriteServiceClient.class" timestamp="1540177316814">
+        <mark key="'" line="37" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/tradecenter/tradecenter-common/src/main/java/com/meitu/meipu/tradecenter/domain/request/tradeorder/ConfirmOrderRequest.java" timestamp="1540177151963" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/security/MessageDigest.java" timestamp="1539596824416">
         <mark key="'" line="166" column="40" />
       </file>
@@ -145,6 +160,14 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataEvaluateServiceImpl.java" timestamp="1539914882070">
         <mark key="'" line="40" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/constants/SimilarWordTypeEnum.java" timestamp="1539915632289">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/tradecenter/tradecenter-core/src/main/java/com/meitu/meipu/tradecenter/service/impl/write/tradeorder/TradeOrderWriteServiceImpl.java" timestamp="1540177112395">
+        <mark key="'" line="58" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/HttpControllerAspector.java" timestamp="1540175981464">
         <mark key="'" line="33" column="19" />
       </file>
@@ -167,15 +190,17 @@
       </file>
       <file name="$USER_HOME$/workspace/usercenter/usercenter-dao/src/main/resources/mysql/mapper/UserAuthMapper.xml" timestamp="1539593532043" />
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc-spring/0.2.4-SNAPSHOT/tardis-grpc-spring-0.2.4-20180929.153700-9.jar!/com/meitu/tardis/grpc/spring/GrpcServerFactoryBean.class" timestamp="1539927653777" />
+      <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/tradecenter/TradeOrderController.java" timestamp="1540176963969">
+        <mark key="'" line="282" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/DataCommonServiceImpl.java" timestamp="1539586190569" />
+      <file name="/fragment.java" timestamp="1540177143149">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="54" filename="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="392" column="49" filename="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="396" column="14" filename="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="378" column="29" filename="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="328" column="28" filename="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/mvc/interceptor/HttpRequestInterceptor.java" />
-      <jump line="330" column="20" filename="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="329" column="16" filename="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="430" column="10" filename="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/mvc/interceptor/HttpRequestInterceptor.java" />
       <jump line="77" column="39" filename="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/gateway/account/AccountHttpAdapter.java" />
@@ -270,6 +295,12 @@
       <jump line="36" column="31" filename="$USER_HOME$/workspace/tardis-java/tardis-spring/tardis-grpc-spring/src/main/java/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" />
       <jump line="125" column="40" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/JrpcClient.java" />
       <jump line="33" column="19" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/HttpControllerAspector.java" />
+      <jump line="282" column="46" filename="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/tradecenter/TradeOrderController.java" />
+      <jump line="37" column="41" filename="$MAVEN_REPOSITORY$/com/meitu/meipu/tradecenter-client/1.0-RELEASE-SNAPSHOT/tradecenter-client-1.0-RELEASE-20180907.063947-142.jar!/com/meitu/meipu/tradecenter/service/write/tradeorder/TradeOrderWriteServiceClient.class" />
+      <jump line="49" column="16" filename="$USER_HOME$/workspace/tradecenter/tradecenter-core/src/main/java/com/meitu/meipu/tradecenter/service/impl/write/tradeorder/TradeOrderWriteServiceImpl.java" />
+      <jump line="58" column="52" filename="$USER_HOME$/workspace/tradecenter/tradecenter-core/src/main/java/com/meitu/meipu/tradecenter/service/impl/write/tradeorder/TradeOrderWriteServiceImpl.java" />
+      <jump line="775" column="67" filename="$USER_HOME$/workspace/tradecenter/tradecenter-core/src/main/java/com/meitu/meipu/tradecenter/manager/tradeorder/TradeOrderManagerImpl.java" />
+      <jump line="766" column="57" filename="$USER_HOME$/workspace/tradecenter/tradecenter-core/src/main/java/com/meitu/meipu/tradecenter/manager/tradeorder/TradeOrderManagerImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
