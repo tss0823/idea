@@ -80,12 +80,12 @@
         <mark key="." line="72" column="27" />
         <mark key="^" line="72" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/DataCompareServiceImpl.java" timestamp="1540192638835">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/DataCompareServiceImpl.java" timestamp="1540193927169">
         <mark key="'" line="47" column="44" />
-        <mark key="[" line="66" column="32" />
-        <mark key="]" line="66" column="31" />
-        <mark key="." line="66" column="31" />
-        <mark key="^" line="66" column="31" />
+        <mark key="[" line="66" column="28" />
+        <mark key="]" line="66" column="28" />
+        <mark key="^" line="67" column="19" />
+        <mark key="." line="66" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/community/TestInitUserTokenController.java" timestamp="1539689522949" />
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/token/TokenHelper.java" timestamp="1540176919861" />
@@ -468,45 +468,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dataMap</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>dataMap</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBFbnZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGFNYXAgZGF0YU1hcCA9IHNvdXJjZUl0ZW1MaXN0LmdldChpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YXJnZXREYXRhTWFwLnB1dCgiY29tcGFyZVRhZyIsMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChEYXRhTWFwIGRhdGFNYXAgOiBzb3VyY2VJdGVtTGlzdCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YXJnZXREYXRhTWFwLnB1dCgiY29tcGFyZVRhZyIsMSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>else{
-                endIndex+=compareSegmentCount;
-            }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgZW5kSW5kZXggPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoc3RhcnRJbmRleCArIGNvbXBhcmVTZWdtZW50Q291bnQgPCB0b3RhbENvdW50KXsKICAgICAgICAgICAgICAgIGVuZEluZGV4ID0gdG90YWxDb3VudDsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICBlbmRJbmRleCs9Y29tcGFyZVNlZ21lbnRDb3VudDsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChEYXRhTWFwIGRhdGFNYXAgOiBzb3VyY2VJdGVtTGlzdCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL+S/ruaUueWHhuWkh+aVsOaNrm1ha2V1cElkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>169</text>
