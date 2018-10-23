@@ -5,15 +5,9 @@
       <mark key="I" line="310" column="50" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataItemConsumeServiceImpl.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/io/grpc/grpc-core/1.5.0/grpc-core-1.5.0-sources.jar!/io/grpc/ServerBuilder.java" timestamp="1539919228109">
-        <mark key="'" line="88" column="39" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-web/0.2.4-SNAPSHOT/tardis-web-0.2.4-20180929.153704-9.jar!/com/meitu/tardis/web/MetricsServlet.class" timestamp="1539570832926">
-        <mark key="'" line="20" column="43" />
-      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/constants/ReadydataPropertyType.java" timestamp="1539744884959" />
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/TrialMaterialDaoImpl.java" timestamp="1539831941040" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasEntity.java" timestamp="1540192055414">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasEntity.java" timestamp="1540274382140">
         <mark key="'" line="98" column="21" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="35" column="10" />
@@ -60,9 +54,6 @@
       <file name="$USER_HOME$/workspace/grpc-java/examples/build/generated/source/proto/main/grpc/io/grpc/examples/helloworld/GreeterGrpc.java" timestamp="1539929699959">
         <mark key="'" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/ItemStatisticsRequest.java" timestamp="1539834414481">
-        <mark key="'" line="39" column="47" />
-      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/resources/mapper/MakeupReadydataMapper.xml" timestamp="1540180535605">
         <mark key="[" line="468" column="28" />
         <mark key="]" line="468" column="28" />
@@ -76,11 +67,14 @@
         <mark key="." line="72" column="27" />
         <mark key="^" line="72" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/DataCompareServiceImpl.java" timestamp="1540268793053">
-        <mark key="'" line="185" column="52" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="30" />
-        <mark key="." line="189" column="0" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/DataCompareServiceImpl.java" timestamp="1540274074506">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="24" column="47" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/ProducerCompareTaskService.java" timestamp="1540274163626">
+        <mark key="[" line="6" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/community/TestInitUserTokenController.java" timestamp="1539689522949" />
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/token/TokenHelper.java" timestamp="1540176919861" />
@@ -122,15 +116,18 @@
         <mark key="^" line="55" column="22" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/community/meipu-commons/1.0-RELEASE-SNAPSHOT/meipu-commons-1.0-RELEASE-20180802.033559-74-sources.jar!/com/meitu/meipu/commons/utils/domain/MeituAccount.java" timestamp="1539689538197" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/service/DataCompareServiceImplTest.java" timestamp="1540268840112">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/service/DataCompareServiceImplTest.java" timestamp="1540273649556">
         <mark key="'" line="148" column="60" />
-        <mark key="[" line="124" column="25" />
-        <mark key="]" line="140" column="35" />
-        <mark key="." line="140" column="35" />
-        <mark key="^" line="148" column="58" />
+        <mark key="[" line="120" column="26" />
+        <mark key="]" line="120" column="25" />
+        <mark key="." line="120" column="25" />
+        <mark key="^" line="120" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/utils/HttpUtil.java" timestamp="1539675572123">
         <mark key="'" line="76" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" timestamp="1540274308991">
+        <mark key="'" line="90" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/wireless/beta.properties" timestamp="1539675464683" />
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/cache/MemcacheManager.java" timestamp="1539679840658">
@@ -139,9 +136,6 @@
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/domain/response/PageGpmDetailVO.java" timestamp="1540190035631" />
       <file name="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/services/JavaDispatcherImpl.java" timestamp="1539928577236" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/handler/v2/ConsumeDataHandler.java" timestamp="1539833512486" />
-      <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.14/commons-redis-2.1.14-sources.jar!/com/meitu/commons/redis/RedisPort.java" timestamp="1539601110855">
-        <mark key="'" line="404" column="67" />
-      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/service/ReadyDataEvaluateService.java" timestamp="1539914972082">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
@@ -155,9 +149,6 @@
         <mark key="." line="147" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/grpc-java/examples/src/main/java/io/grpc/examples/header/HeaderServerInterceptor.java" timestamp="1539928123599" />
-      <file name="$MAVEN_REPOSITORY$/io/prometheus/simpleclient/0.0.19/simpleclient-0.0.19-sources.jar!/io/prometheus/client/CollectorRegistry.java" timestamp="1539574357467">
-        <mark key="'" line="49" column="31" />
-      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-qatest/src/test/java/qatest/manager/MakeupReadydataMangerImplTest.java" timestamp="1540179734242">
         <mark key="'" line="22" column="46" />
         <mark key="[" line="18" column="0" />
@@ -166,9 +157,6 @@
         <mark key="." line="19" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/dev.properties" timestamp="1540197180435" />
-      <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.14/commons-redis-2.1.14-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" timestamp="1539601071017">
-        <mark key="'" line="189" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/mapper/MakeupReadydataMapper.java" timestamp="1540180519381">
         <mark key="'" line="48" column="89" />
         <mark key="[" line="48" column="42" />
@@ -189,14 +177,9 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" timestamp="1540264534953">
         <mark key="'" line="225" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/ProducerDataService.java" timestamp="1540274225799" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" timestamp="1540191386739">
         <mark key="'" line="646" column="8" />
-      </file>
-      <file name="$USER_HOME$/Downloads/kibana-6.4.2-darwin-x86_64/src/ui/public/field_editor/lib/validate_script.js" timestamp="1539333734593">
-        <mark key="'" line="45" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/PageFlowReadServiceImpl.java" timestamp="1539323939127">
-        <mark key="'" line="213" column="78" />
       </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/makeup/MakeupDetailController.java" timestamp="1539674567946" />
       <file name="$USER_HOME$/workspace/grpc-java/examples/src/main/java/io/grpc/examples/advanced/HelloJsonClient.java" timestamp="1539930222174" />
@@ -217,9 +200,6 @@
         <mark key="^" line="21" column="76" />
         <mark key="." line="21" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/grpc-java/netty/shaded/src/testShadow/java/io/grpc/netty/shaded/ShadingTest.java" timestamp="1539920570342">
-        <mark key="'" line="105" column="53" />
-      </file>
       <file name="$USER_HOME$/workspace/tradecenter/tradecenter-common/src/main/java/com/meitu/meipu/tradecenter/domain/request/tradeorder/ConfirmOrderRequest.java" timestamp="1540177151963" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/security/MessageDigest.java" timestamp="1539596824416">
         <mark key="'" line="166" column="40" />
@@ -236,9 +216,6 @@
         <mark key="]" line="97" column="31" />
         <mark key="^" line="97" column="31" />
         <mark key="." line="97" column="31" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/AbstractList.java" timestamp="1540188715164">
-        <mark key="'" line="485" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/tardis-java/tardis-core/src/main/java/com/meitu/tardis/serialize/Serializers.java" timestamp="1539929357505">
         <mark key="'" line="11" column="58" />
@@ -258,9 +235,6 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" timestamp="1540198709398">
         <mark key="'" line="476" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/prometheus/simpleclient_servlet/0.0.19/simpleclient_servlet-0.0.19-sources.jar!/io/prometheus/client/exporter/MetricsServlet.java" timestamp="1539574362478">
-        <mark key="'" line="40" column="49" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/community/monitor/meipu-monitor/1.0-SNAPSHOT/meipu-monitor-1.0-20170825.115316-73-sources.jar!/com/meitu/meipu/community/monitor/ExampleServlet.java" timestamp="1539584982306">
         <mark key="'" line="31" column="21" />
       </file>
@@ -269,9 +243,6 @@
         <mark key="'" line="57" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/grpc-java/examples/src/main/java/io/grpc/examples/advanced/JsonMarshaller.java" timestamp="1539930237510" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-web/WEB-INF/web.xml" timestamp="1539574377459">
-        <mark key="'" line="97" column="63" />
-      </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/makeup/TrialController.java" timestamp="1539674516186" />
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/MakeupReadydataDao.java" timestamp="1540178654300">
         <mark key="[" line="157" column="34" />
@@ -305,17 +276,14 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-web/WEB-INF/web.xml" timestamp="1539594273845">
         <mark key="'" line="95" column="51" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-web/0.2.4-SNAPSHOT/tardis-web-0.2.4-20180929.153704-9.jar!/com/meitu/tardis/web/AbstractMetricsServlet.class" timestamp="1539570758053">
-        <mark key="'" line="24" column="52" />
-      </file>
-      <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/action/PageFlowAction.java" timestamp="1539323909827">
-        <mark key="'" line="124" column="16" />
-      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/ItemStatisticsDTO.java" timestamp="1539833975913">
         <mark key="'" line="103" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/service/ReadyDataEvaluateServiceImpl.java" timestamp="1539914882070">
         <mark key="'" line="40" column="62" />
+      </file>
+      <file name="$USER_HOME$/workspace/crawler/crawler-backend/src/main/resources/tardis/consumer/crawler-backend-tardis-proxy-consumer.xml" timestamp="1539325955878">
+        <mark key="[" line="13" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-common/src/main/java/com/meitu/meipu/darwin/common/constants/SimilarWordTypeEnum.java" timestamp="1539915632289">
         <mark key="[" line="14" column="0" />
@@ -330,9 +298,6 @@
       </file>
       <file name="$USER_HOME$/workspace/grpc-java/examples/src/main/java/io/grpc/examples/helloworld/HelloWorldClient.java" timestamp="1539929662815">
         <mark key="'" line="59" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/domain/MongoMakeupDO.java" timestamp="1539762969398">
-        <mark key="'" line="272" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/DBSyncTaskBuildManager.java" timestamp="1539852326782">
         <mark key="'" line="59" column="61" />
@@ -367,9 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="19" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/server/GrpcServer.java" />
-      <jump line="188" column="19" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/server/GrpcServer.java" />
-      <jump line="91" column="92" filename="$USER_HOME$/workspace/tardis-java/tardis-spring/tardis-grpc-spring/src/main/java/com/meitu/tardis/grpc/spring/GrpcServerFactoryBean.java" />
       <jump line="144" column="21" filename="$USER_HOME$/workspace/tardis-java/tardis-spring/tardis-grpc-spring/src/main/java/com/meitu/tardis/grpc/spring/GrpcServerFactoryBean.java" />
       <jump line="269" column="20" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/server/GrpcServer.java" />
       <jump line="134" column="50" filename="$USER_HOME$/workspace/tardis-java/tardis-spring/tardis-grpc-spring/src/main/java/com/meitu/tardis/grpc/spring/GrpcServerFactoryBean.java" />
@@ -467,61 +429,63 @@
       <jump line="148" column="60" filename="$USER_HOME$/workspace/datacenter/datacenter-qatest/src/test/java/com/meitu/meipu/datacenter/qatest/v2/service/DataCompareServiceImplTest.java" />
       <jump line="205" column="22" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/DataCompareServiceImpl.java" />
       <jump line="186" column="52" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/DataCompareServiceImpl.java" />
+      <jump line="28" column="27" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/DataCompareServiceImpl.java" />
+      <jump line="24" column="12" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/DataCompareServiceImpl.java" />
+      <jump line="90" column="10" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaEluZGV4Kys7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRhcmdldERhdGFMaXN0LnNldChyaWdodEluZGV4K2ksdGFyZ2V0RGF0YU1hcCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>totalCount</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXJnZXREYXRhTGlzdFw+</text>
+        <text encoding="base64">XDx0b3RhbENvdW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmlnaHRJbmRleCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9tZGF0Yee7k+adnwogICAgICAgICAgICBpZiAodGFyZ2V0RGF0YUxpc3Quc2l6ZSgpIDw9IGxlZnRJbmRleCkgewogICAgICAgICAgICAgICAgTGlzdDxEYXRhTWFwPiBkYXRhTWFwTGlzdCA9IHNvdXJjZURhdGFMaXN0LnN1Ykxpc3QocmlnaHRJbmRleCwgc291cmNlRGF0YUxpc3Quc2l6ZSgpKTsKICAgICAgICAgICAgICAgIGZvciAoRGF0YU1hcCBkYXRhTWFwIDogZGF0YU1hcExpc3QpIHsKICAgICAgICAgICAgICAgICAgICBkYXRhTWFwLnB1dCgiY29tcGFyZVRhZyIsIDApOwogICAgICAgICAgICAgICAgICAgIG1vZGlmaWVkRGF0YUxpc3QuYWRkKGRhdGFNYXApOwovLyAgICAgICAgICAgICAgICAgICAgdGFyZ2V0RGF0YUxpc3QuYWRkKGRhdGFNYXApOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaEluZGV4Kys7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRhcmdldERhdGFMaXN0LnNldChyaWdodEluZGV4K2ksdGFyZ2V0RGF0YU1hcCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdGFyZ2V0RGF0YUxpc3QucmVtb3ZlKGkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGktLTsgIC8v57un57ut5q+U6L6DCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdG90YWxDb3VudCA9IHNvdXJjZURhdGFMaXN0LnNpemUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRhcmdldERhdGFMaXN0LmFkZCh0ZW1wLCBuZXdEYXRhTWFwKTsK</text>
+        <text encoding="base64">Ci8vICAgICAgICBzb3VyY2VEYXRhTGlzdCA9IG5ldyBMaW5rZWRMaXN0KHNvdXJjZURhdGFMaXN0KTsKLy8gICAgICAgIHRhcmdldERhdGFMaXN0ID0gbmV3IExpbmtlZExpc3QodGFyZ2V0RGF0YUxpc3QpOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgPSBzZWFyY2hJbmRleDsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGludCBjb21wYXJlU2VnbWVudENvdW50ID0gMzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaEluZGV4Kys7Cg==</text>
+        <text encoding="base64">ICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaEluZGV4Kys7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IHB1YmxpYyBMaXN0PERhdGFNYXA+IGNvbXBhcmUyKExpc3Q8RGF0YU1hcD4gc291cmNlRGF0YUxpc3QsIExpc3Q8RGF0YU1hcD4gdGFyZ2V0RGF0YUxpc3QsIExpc3Q8U3RyaW5nPiB1bmlxdWVMaXN0KSB7CiAgICAgICAgTGlzdDxEYXRhTWFwPiBtb2RpZmllZERhdGFMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgaW50IGNvbXBhcmVTZWdtZW50Q291bnQgPSAzOwovLyAgICAgICAgaW50IHRvdGFsQ291bnQgPSBzb3VyY2VEYXRhTGlzdC5zaXplKCk7CgogICAgICAgIHNvdXJjZURhdGFMaXN0ID0gbmV3IExpbmtlZExpc3Qoc291cmNlRGF0YUxpc3QpOwogICAgICAgIHRhcmdldERhdGFMaXN0ID0gbmV3IExpbmtlZExpc3QodGFyZ2V0RGF0YUxpc3QpOwoKCiAgICAgICAgaW50IHN0YXJ0SW5kZXggPSAwIC0gY29tcGFyZVNlZ21lbnRDb3VudDsKICAgICAgICB3aGlsZSAoKHN0YXJ0SW5kZXggKz0gY29tcGFyZVNlZ21lbnRDb3VudCkgPCBzb3VyY2VEYXRhTGlzdC5zaXplKCkpIHsKICAgICAgICAgICAgaW50IGVuZEluZGV4ID0gc3RhcnRJbmRleCArIGNvbXBhcmVTZWdtZW50Q291bnQ7CiAgICAgICAgICAgIGlmIChlbmRJbmRleCA+IHNvdXJjZURhdGFMaXN0LnNpemUoKSkgewogICAgICAgICAgICAgICAgZW5kSW5kZXggPSBzb3VyY2VEYXRhTGlzdC5zaXplKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgTGlzdDxEYXRhTWFwPiBzb3VyY2VJdGVtTGlzdCA9IHNvdXJjZURhdGFMaXN0LnN1Ykxpc3Qoc3RhcnRJbmRleCwgZW5kSW5kZXgpOwogICAgICAgICAgICAvL+ebruagh+W3suavlOi+g+WujO+8jOiOt+WPluWJqeS9meadpea6kOaVsOaNru+8jOagh+iusOS4uuaWsOWingogICAgICAgICAgICBpZiAodGFyZ2V0RGF0YUxpc3Quc2l6ZSgpIDw9IHN0YXJ0SW5kZXgpIHsKICAgICAgICAgICAgICAgIExpc3Q8RGF0YU1hcD4gZGF0YU1hcExpc3QgPSBzb3VyY2VEYXRhTGlzdC5zdWJMaXN0KHN0YXJ0SW5kZXgsIHNvdXJjZURhdGFMaXN0LnNpemUoKSk7CiAgICAgICAgICAgICAgICBmb3IgKERhdGFNYXAgZGF0YU1hcCA6IGRhdGFNYXBMaXN0KSB7CiAgICAgICAgICAgICAgICAgICAgZGF0YU1hcC5wdXQoImNvbXBhcmVUYWciLCAwKTsKICAgICAgICAgICAgICAgICAgICBtb2RpZmllZERhdGFMaXN0LmFkZChkYXRhTWFwKTsKLy8gICAgICAgICAgICAgICAgICAgIHRhcmdldERhdGFMaXN0LmFkZChkYXRhTWFwKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8vZW5kCgogICAgICAgICAgICBlbmRJbmRleCA9IHN0YXJ0SW5kZXggKyBjb21wYXJlU2VnbWVudENvdW50OwogICAgICAgICAgICBpZiAoZW5kSW5kZXggPiB0YXJnZXREYXRhTGlzdC5zaXplKCkpIHsKICAgICAgICAgICAgICAgIGVuZEluZGV4ID0gdGFyZ2V0RGF0YUxpc3Quc2l6ZSgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIExpc3Q8RGF0YU1hcD4gdGFyZ2V0SXRlbUxpc3QgPSB0YXJnZXREYXRhTGlzdC5zdWJMaXN0KHN0YXJ0SW5kZXgsIGVuZEluZGV4KTsKCiAgICAgICAgICAgIC8vbWQ1IGNvbXBhcmUKICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHNvdXJjZUl0ZW1TdHJMaXN0ID0gc291cmNlSXRlbUxpc3Quc3RyZWFtKCkubWFwKGRhdGEgLT4gU3RyaW5nVXRpbHMuam9pbihkYXRhLnZhbHVlcygpLCAiXiNeIikpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICAgICAgICAgIExpc3Q8U3RyaW5nPiB0YXJnZXRJdGVtU3RyTGlzdCA9IHRhcmdldEl0ZW1MaXN0LnN0cmVhbSgpLm1hcChkYXRhIC0+IFN0cmluZ1V0aWxzLmpvaW4oZGF0YS52YWx1ZXMoKSwgIl4jXiIpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgU3RyaW5nIHNvdXJjZU1kNSA9IE1ENVV0aWwuZW5jb2RlKFN0cmluZ1V0aWxzLmpvaW4oc291cmNlSXRlbVN0ckxpc3QsICIiKSk7CiAgICAgICAgICAgICAgICBTdHJpbmcgdGFyZ2V0TWQ1ID0gTUQ1VXRpbC5lbmNvZGUoU3RyaW5nVXRpbHMuam9pbih0YXJnZXRJdGVtU3RyTGlzdCwgIiIpKTsKICAgICAgICAgICAgICAgIGlmIChzb3VyY2VNZDUuZXF1YWxzKHRhcmdldE1kNSkpIHsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJtZDUgZmFpbGVkISIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8vdGFyZ2V0IGRhdGEgb3BlcmF0ZSAobmV3LG1vZGlmeSxkZWxldGUpCiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgc291cmNlSXRlbUxpc3Quc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgICAgIERhdGFNYXAgc291cmNlRGF0YU1hcCA9IHNvdXJjZURhdGFMaXN0LmdldChzdGFydEluZGV4ICsgaSk7CiAgICAgICAgICAgICAgICBpZiAodGFyZ2V0RGF0YUxpc3Quc2l6ZSgpIDw9IHN0YXJ0SW5kZXggKyAxKSB7CiAgICAgICAgICAgICAgICAgICAgc3RhcnRJbmRleCAtPSAoY29tcGFyZVNlZ21lbnRDb3VudCAtIGkpOyAvL+WkjeS9je+8jOmHjeaWsOWOu+avlOi+gwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgRGF0YU1hcCB0YXJnZXREYXRhTWFwID0gdGFyZ2V0RGF0YUxpc3QuZ2V0KHN0YXJ0SW5kZXggKyBpKTsKICAgICAgICAgICAgICAgIC8vY2hpbGQgY29tcGFyZQogICAgICAgICAgICAgICAgU3RyaW5nIGNoaWxkVGFyZ2V0U3RyID0gU3RyaW5nVXRpbHMuam9pbih0YXJnZXREYXRhTWFwLnZhbHVlcygpLCAiXiNeIik7CiAgICAgICAgICAgICAgICBTdHJpbmcgY2hpbGRTb3VyY2VTdHIgPSBTdHJpbmdVdGlscy5qb2luKHNvdXJjZURhdGFNYXAudmFsdWVzKCksICJeI14iKTsKICAgICAgICAgICAgICAgIGJvb2xlYW4gY2hpbGRNYXRjaCA9IGNoaWxkU291cmNlU3RyLmVxdWFscyhjaGlsZFRhcmdldFN0cik7CiAgICAgICAgICAgICAgICBpZiAoY2hpbGRNYXRjaCkgewogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLy8xIGtleSDkuIDmoLfvvIxtb2RpZnkKICAgICAgICAgICAgICAgIExpc3Q8T2JqZWN0PiBzb3VyY2VVbmlxdWVMaXN0ID0gdW5pcXVlTGlzdC5zdHJlYW0oKS5tYXAoc291cmNlRGF0YU1hcDo6Z2V0KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICAgICAgICAgICAgTGlzdDxPYmplY3Q+IHRhcmdldFVuaXF1ZUxpc3QgPSB1bmlxdWVMaXN0LnN0cmVhbSgpLm1hcCh0YXJnZXREYXRhTWFwOjpnZXQpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CgogICAgICAgICAgICAgICAgU3RyaW5nIGNoaWxkU291cmNlVW5pcXVlU3RyID0gU3RyaW5nVXRpbHMuam9pbihzb3VyY2VVbmlxdWVMaXN0LCAiXiNeIik7CiAgICAgICAgICAgICAgICBTdHJpbmcgY2hpbGRUYXJnZXRVbmlxdWVTdHIgPSBTdHJpbmdVdGlscy5qb2luKHRhcmdldFVuaXF1ZUxpc3QsICJeI14iKTsKICAgICAgICAgICAgICAgIGlmIChjaGlsZFNvdXJjZVVuaXF1ZVN0ci5lcXVhbHMoY2hpbGRUYXJnZXRVbmlxdWVTdHIpKSB7CiAgICAgICAgICAgICAgICAgICAgdGFyZ2V0RGF0YU1hcCA9IHNvdXJjZURhdGFNYXA7CiAgICAgICAgICAgICAgICAgICAgdGFyZ2V0RGF0YU1hcC5wdXQoImNvbXBhcmVUYWciLCAxKTsKICAgICAgICAgICAgICAgICAgICBtb2RpZmllZERhdGFMaXN0LmFkZCh0YXJnZXREYXRhTWFwKTsKLy8gICAgICAgICAgICAgICAgICAgIHRhcmdldERhdGFMaXN0LnNldChzdGFydEluZGV4K2ksdGFyZ2V0RGF0YU1hcCk7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgLy8yIGtleSDkuI3kuIDmoLfvvIxtb3ZlLHRhcmdldCDlvoDkuIvmib7vvIzmib7liLDvvIzor7TmmI5zb3VyY2Ug5pyJ5paw55qE5YWD57Sg77yM5rKh5pyJ5om+5Yiw77yM6K+05piOc291cmNlIOWIoOmZpOS6hgogICAgICAgICAgICAgICAgaW50IHNlYXJjaEluZGV4ID0gc3RhcnRJbmRleCArIGkgKyAxOwogICAgICAgICAgICAgICAgYm9vbGVhbiBtb3ZlTWF0Y2ggPSBmYWxzZTsKICAgICAgICAgICAgICAgIHdoaWxlIChzZWFyY2hJbmRleCA8IHNvdXJjZURhdGFMaXN0LnNpemUoKSkgewogICAgICAgICAgICAgICAgICAgIERhdGFNYXAgc2VhcmNoU291cmNlRGF0YU1hcCA9IHNvdXJjZURhdGFMaXN0LmdldChzZWFyY2hJbmRleCk7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGNoaWxkU2VhcmNoU291cmNlU3RyID0gU3RyaW5nVXRpbHMuam9pbihzZWFyY2hTb3VyY2VEYXRhTWFwLnZhbHVlcygpLCAiXiNeIik7CiAgICAgICAgICAgICAgICAgICAgaWYgKGNoaWxkU2VhcmNoU291cmNlU3RyLmVxdWFscyhjaGlsZFRhcmdldFN0cikpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbW92ZU1hdGNoID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHNlYXJjaEluZGV4Kys7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgaWYgKG1vdmVNYXRjaCkgeyAgLy9nZXQKICAgICAgICAgICAgICAgICAgICAvL+WMuumXtOmDveWKoOWFpXRhcmdldERhdGFMaXN0CiAgICAgICAgICAgICAgICAgICAgaW50IHRlbXAgPSBzdGFydEluZGV4ICsgaTsKICAgICAgICAgICAgICAgICAgICB3aGlsZSAodGVtcCA8IHNlYXJjaEluZGV4KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIERhdGFNYXAgbmV3RGF0YU1hcCA9IHNvdXJjZURhdGFMaXN0LmdldCh0ZW1wKTsKICAgICAgICAgICAgICAgICAgICAgICAgbmV3RGF0YU1hcC5wdXQoImNvbXBhcmVUYWciLCAwKTsKICAgICAgICAgICAgICAgICAgICAgICAgbW9kaWZpZWREYXRhTGlzdC5hZGQobmV3RGF0YU1hcCk7CiAgICAgICAgICAgICAgICAgICAgICAgIHRhcmdldERhdGFMaXN0LmFkZCh0ZW1wLCBuZXdEYXRhTWFwKTsKICAgICAgICAgICAgICAgICAgICAgICAgdGVtcCsrOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBpID0gc2VhcmNoSW5kZXg7CiAgICAgICAgICAgICAgICB9IGVsc2UgeyAvL25vdCBnZXQKICAgICAgICAgICAgICAgICAgICB0YXJnZXREYXRhTGlzdC5yZW1vdmUoaSk7CiAgICAgICAgICAgICAgICAgICAgdGFyZ2V0RGF0YU1hcC5wdXQoImNvbXBhcmVUYWciLCAyKTsKICAgICAgICAgICAgICAgICAgICBtb2RpZmllZERhdGFMaXN0LmFkZCh0YXJnZXREYXRhTWFwKTsKICAgICAgICAgICAgICAgICAgICBpLS07ICAvL+e7p+e7reavlOi+gwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gbW9kaWZpZWREYXRhTGlzdDsKICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0SW5kZXggLT0gKGNvbXBhcmVTZWdtZW50Q291bnQgLSBpKTsgLy/lpI3kvY3vvIzph43mlrDljrvmr5TovoMK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>169</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXJnZXREYXRhTGlzdFw+</last-search>
+      <last-search encoding="base64">XDx0b3RhbENvdW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXJnZXREYXRhTGlzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0b3RhbENvdW50XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdW1tYXJpZXNcPg==</entry>
         <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
         <entry encoding="base64">XDxwcm9tZXRoZXVzXD4=</entry>
         <entry encoding="base64">XDxtZXRyaWNGYW1pbHlTYW1wbGVzXD4=</entry>
@@ -541,6 +505,7 @@
         <entry encoding="base64">XDxzb3VyY2VJdGVtTGlzdFw+</entry>
         <entry encoding="base64">XDx0YXJnZXRJdGVtTGlzdFw+</entry>
         <entry encoding="base64">XDx0YXJnZXREYXRhTGlzdFw+</entry>
+        <entry encoding="base64">XDx0b3RhbENvdW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>473</entry>
