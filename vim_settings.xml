@@ -51,7 +51,7 @@
       <file name="$USER_HOME$/workspace/grpc-java/examples/src/main/java/io/grpc/examples/advanced/HelloJsonServer.java" timestamp="1539938628155">
         <mark key="'" line="110" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" timestamp="1540196264389" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" timestamp="1540277462616" />
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/interceptor/DataReportInterceptor.java" timestamp="1540189581892" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/mongodb/DBSyncManager.java" timestamp="1539914084730" />
       <file name="$USER_HOME$/workspace/grpc-java/examples/build/generated/source/proto/main/grpc/io/grpc/examples/helloworld/GreeterGrpc.java" timestamp="1539929699959">
@@ -99,6 +99,11 @@
       <file name="$USER_HOME$/workspace/usercenter/usercenter-auth/src/main/java/com/meitu/meipu/usercenter/auth/service/impl/UserAuthServiceImpl.java" timestamp="1539601736459">
         <mark key="'" line="101" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/beta.properties" timestamp="1539581855262">
+        <mark key="[" line="65" column="15" />
+        <mark key="]" line="65" column="15" />
+        <mark key="." line="65" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/proto/rpc/java/DispatcherGrpc.java" timestamp="1539928602269" />
       <file name="$USER_HOME$/workspace/usercenter/usercenter-auth/src/main/java/com/meitu/meipu/usercenter/auth/redis/AuthRedis.java" timestamp="1539601199353">
         <mark key="'" line="28" column="50" />
@@ -113,7 +118,17 @@
         <mark key="." line="395" column="0" />
         <mark key="^" line="400" column="102" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" timestamp="1540275813819" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ConsumeDataRequest.java" timestamp="1540276478112">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" timestamp="1540277505909">
+        <mark key="[" line="122" column="60" />
+        <mark key="]" line="122" column="58" />
+        <mark key="." line="122" column="58" />
+        <mark key="^" line="122" column="58" />
+      </file>
       <file name="$USER_HOME$/workspace/datareport/release.properties" timestamp="1540175870802">
         <mark key="[" line="55" column="23" />
         <mark key="]" line="55" column="22" />
@@ -131,14 +146,19 @@
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/utils/HttpUtil.java" timestamp="1539675572123">
         <mark key="'" line="76" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" timestamp="1540276015779">
-        <mark key="'" line="90" column="10" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" timestamp="1540276497138">
+        <mark key="[" line="104" column="12" />
+        <mark key="]" line="104" column="28" />
+        <mark key="." line="104" column="28" />
+        <mark key="^" line="104" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/wireless/beta.properties" timestamp="1539675464683" />
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/cache/MemcacheManager.java" timestamp="1539679840658">
         <mark key="'" line="36" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorWrapperServiceImpl.java" timestamp="1540274963346" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorWrapperServiceImpl.java" timestamp="1540276598605">
+        <mark key="'" line="52" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/domain/response/PageGpmDetailVO.java" timestamp="1540190035631" />
       <file name="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/services/JavaDispatcherImpl.java" timestamp="1539928577236" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/enums/ConsumeType.java" timestamp="1540274627647">
@@ -191,6 +211,11 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dal/src/main/java/com/meitu/meipu/datacenter/dal/service/impl/DataShowServiceImpl.java" timestamp="1540264534953">
         <mark key="'" line="225" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ConsumeJobRequest.java" timestamp="1540276386678">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/ProducerDataService.java" timestamp="1540274477688" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" timestamp="1540191386739">
         <mark key="'" line="646" column="8" />
@@ -234,7 +259,8 @@
       <file name="$USER_HOME$/workspace/tardis-java/tardis-core/src/main/java/com/meitu/tardis/serialize/Serializers.java" timestamp="1539929357505">
         <mark key="'" line="11" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeCompareDataServiceImpl.java" timestamp="1540275683627">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeCompareDataServiceImpl.java" timestamp="1540277327794">
+        <mark key="'" line="98" column="43" />
         <mark key="[" line="118" column="10" />
         <mark key="]" line="125" column="40" />
         <mark key="." line="125" column="40" />
@@ -245,13 +271,6 @@
         <mark key="]" line="390" column="77" />
         <mark key="^" line="390" column="77" />
         <mark key="." line="390" column="77" />
-      </file>
-      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/ReadyDataEvaluateDaoImpl.java" timestamp="1540178716384">
-        <mark key="'" line="161" column="59" />
-        <mark key="[" line="161" column="39" />
-        <mark key="]" line="161" column="39" />
-        <mark key="." line="161" column="39" />
-        <mark key="^" line="161" column="99" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/Trial.java" timestamp="1539831586475" />
       <file name="$USER_HOME$/workspace/tardis-java/tardis-core/src/main/java/com/meitu/tardis/serialize/Serializer.java" timestamp="1539930426782" />
@@ -323,6 +342,7 @@
       <file name="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/aop/HttpControllerAspector.java" timestamp="1540175981464">
         <mark key="'" line="33" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/request/v2/DataCommonRequest.java" timestamp="1540276545438" />
       <file name="$USER_HOME$/workspace/grpc-java/examples/src/main/java/io/grpc/examples/helloworld/HelloWorldClient.java" timestamp="1539929662815">
         <mark key="'" line="59" column="17" />
       </file>
@@ -334,8 +354,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/billcenter-client/1.0-SNAPSHOT/billcenter-client-1.0-20180925.065534-237.jar!/com/meitu/meipu/billcenter/service/report/platform/write/PlatformReportReadServiceClient.class" timestamp="1539915955300" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerCompareDataServiceImpl.java" timestamp="1540274769464" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" timestamp="1540275890072">
-        <mark key="'" line="43" column="43" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" timestamp="1540276742128">
+        <mark key="'" line="100" column="23" />
+        <mark key="[" line="105" column="15" />
+        <mark key="]" line="105" column="25" />
+        <mark key="." line="105" column="25" />
+        <mark key="^" line="105" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/usercenter/beta.properties" timestamp="1539601212120" />
       <file name="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/GrpcClient.java" timestamp="1539930388477">
@@ -343,13 +367,6 @@
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/target/classes/mapper/MakeupReadydataMapper.xml" timestamp="1540180070138" />
       <file name="$USER_HOME$/workspace/usercenter/usercenter-dao/src/main/resources/mysql/mapper/UserAuthMapper.xml" timestamp="1539593532043" />
-      <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/ReadyDataEvaluateDao.java" timestamp="1540178685980">
-        <mark key="'" line="14" column="17" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="190" column="82" />
-        <mark key="^" line="190" column="82" />
-        <mark key="." line="190" column="82" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/tardis-grpc-spring/0.2.4-SNAPSHOT/tardis-grpc-spring-0.2.4-20180929.153700-9.jar!/com/meitu/tardis/grpc/spring/GrpcServerFactoryBean.class" timestamp="1539927653777" />
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/tradecenter/TradeOrderController.java" timestamp="1540176963969">
         <mark key="'" line="282" column="46" />
@@ -375,37 +392,13 @@
         <mark key="^" line="54" column="53" />
         <mark key="." line="54" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/domain/request/FetchDataRequest.java" timestamp="1540275852025">
-        <mark key="'" line="17" column="13" />
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="17" column="13" />
-        <mark key="^" line="17" column="13" />
-        <mark key="." line="17" column="13" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/domain/request/FetchDataRequest.java" timestamp="1540276609643">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="51" filename="$USER_HOME$/workspace/tardis-java/tardis-spring/tardis-grpc-spring/src/main/java/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" />
-      <jump line="49" column="17" filename="$USER_HOME$/workspace/tardis-java/tardis-spring/tardis-grpc-spring/src/main/java/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" />
-      <jump line="16" column="14" filename="$USER_HOME$/workspace/tardis-java/tardis-spring/tardis-grpc-spring/src/main/java/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" />
-      <jump line="37" column="22" filename="$USER_HOME$/workspace/tardis-java/tardis-spring/tardis-grpc-spring/src/main/java/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" />
-      <jump line="61" column="25" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/JrpcClient.java" />
-      <jump line="111" column="41" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/GrpcClient.java" />
-      <jump line="89" column="53" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/GrpcClient.java" />
-      <jump line="26" column="28" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/JrpcClient.java" />
-      <jump line="12" column="46" filename="$USER_HOME$/workspace/tardis-java/tardis-commons/src/main/java/com/meitu/tardis/proxy/CglibProxyFactory.java" />
-      <jump line="19" column="11" filename="$USER_HOME$/workspace/tardis-java/tardis-commons/src/main/java/com/meitu/tardis/proxy/CglibProxyFactory.java" />
-      <jump line="71" column="85" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/JrpcClient.java" />
-      <jump line="83" column="66" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/JrpcClient.java" />
-      <jump line="115" column="47" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/JrpcClient.java" />
-      <jump line="21" column="39" filename="$USER_HOME$/workspace/tardis-java/tardis-core/src/main/java/com/meitu/tardis/serialize/Serializers.java" />
-      <jump line="10" column="54" filename="$USER_HOME$/workspace/tardis-java/tardis-core/src/main/java/com/meitu/tardis/serialize/Serializers.java" />
-      <jump line="11" column="58" filename="$USER_HOME$/workspace/tardis-java/tardis-core/src/main/java/com/meitu/tardis/serialize/Serializers.java" />
-      <jump line="37" column="21" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/JrpcClient.java" />
-      <jump line="123" column="45" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/JrpcClient.java" />
-      <jump line="84" column="27" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/JrpcClient.java" />
-      <jump line="52" column="49" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/JrpcClient.java" />
-      <jump line="32" column="43" filename="$USER_HOME$/workspace/grpc-java/examples/src/main/java/io/grpc/examples/helloworld/HelloWorldClient.java" />
-      <jump line="59" column="17" filename="$USER_HOME$/workspace/grpc-java/examples/src/main/java/io/grpc/examples/helloworld/HelloWorldClient.java" />
       <jump line="177" column="13" filename="$USER_HOME$/workspace/grpc-java/examples/build/generated/source/proto/main/grpc/io/grpc/examples/helloworld/GreeterGrpc.java" />
       <jump line="8" column="39" filename="$USER_HOME$/workspace/grpc-java/examples/build/generated/source/proto/main/grpc/io/grpc/examples/helloworld/GreeterGrpc.java" />
       <jump line="53" column="39" filename="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/JrpcClient.java" />
@@ -482,63 +475,84 @@
       <jump line="54" column="48" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerCompareTaskServiceImpl.java" />
       <jump line="45" column="24" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/handler/v2/ConsumeDataHandler.java" />
       <jump line="46" column="15" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
-      <jump line="43" column="43" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
       <jump line="17" column="13" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/domain/request/FetchDataRequest.java" />
+      <jump line="91" column="15" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" />
+      <jump line="18" column="24" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ConsumeJobRequest.java" />
+      <jump line="108" column="22" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" />
+      <jump line="106" column="83" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" />
+      <jump line="19" column="20" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ConsumeDataRequest.java" />
+      <jump line="99" column="23" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" />
+      <jump line="103" column="41" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
+      <jump line="110" column="35" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" />
+      <jump line="98" column="43" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeCompareDataServiceImpl.java" />
+      <jump line="116" column="24" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
+      <jump line="113" column="21" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
+      <jump line="43" column="52" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
+      <jump line="52" column="19" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorWrapperServiceImpl.java" />
+      <jump line="44" column="26" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
+      <jump line="50" column="34" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
+      <jump line="51" column="14" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
+      <jump line="53" column="34" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
+      <jump line="54" column="14" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
+      <jump line="56" column="34" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
+      <jump line="57" column="14" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
+      <jump line="59" column="34" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
+      <jump line="60" column="14" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
+      <jump line="100" column="23" filename="$USER_HOME$/workspace/datacenter/datacenter-collector/src/main/java/com/meitu/meipu/datacenter/collector/service/impl/CollectorPuckServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL+aLv+WIsGNvbGxlY3RvciB0byBkYXMK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PERhdGFNYXA+IGRhdGFNYXBMaXN0ID0gbnVsbDsKICAgICAgICBmb3IgKExvbmcgY29sbGVjdG9yRGF0YUlkIDogY29sbGVjdG9yRGF0YUlkcykgewogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>wewKey</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b3RhbENvdW50XD4=</text>
+        <text encoding="base64">XDxkYXRhQ29tbW9uUmVxdWVzdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEpPQigwLCJqb2IiKSwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">TGlzdDxEYXRhTWFwPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL+aLv+WIsGNvbGxlY3RvciB0byBkYXMK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PERhdGFNYXA+IGRhdGFNYXBMaXN0ID0gbnVsbDsKICAgICAgICBmb3IgKExvbmcgY29sbGVjdG9yRGF0YUlkIDogY29sbGVjdG9yRGF0YUlkcykgewogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YU1hcC5wdQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGF0YUNvbW1vblJlcXVlc3QgZGF0YUNvbW1vblJlcXVlc3QgPSBuZXcgRGF0YUNvbW1vblJlcXVlc3QoKTsKICAgICAgICAgICAgZGF0YUNvbW1vblJlcXVlc3Quc2V0RGF0ZVN0YXJ0KHJlcXVlc3QuZ2V0RGF0ZVN0YXJ0KCkpOwogICAgICAgICAgICBkYXRhQ29tbW9uUmVxdWVzdC5zZXREYXRlRW5kKHJlcXVlc3QuZ2V0RGF0ZUVuZCgpKTsKICAgICAgICAgICAgZGF0YUNvbW1vblJlcXVlc3Quc2V0VG9EYXRhSWQoY29sbGVjdG9yRGF0YUlkKTsKICAgICAgICAgICAgTWFwPFN0cmluZyxPYmplY3Q+IGV4dFBhcmFtTWFwID0gbmV3IExpbmtlZEhhc2hNYXA8PigpOwogICAgICAgICAgICBleHRQYXJhbU1hcC5wdXQoInJhbmQiLHJlcXVlc3QuZ2V0UmFuZCgpKTsKICAgICAgICAgICAgZGF0YUNvbW1vblJlcXVlc3Quc2V0RXh0UGFyYW1NYXAoZXh0UGFyYW1NYXApOwogICAgICAgICAgICBkYXRhTWFwTGlzdCA9IGNvbGxlY3RvcldyYXBwZXJTZXJ2aWNlLmZldGNoRGF0YUxpc3QoZGF0YUNvbW1vblJlcXVlc3QpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29sbGVjdG9yQ29uZmlnU2VydmljZSBjb2xsZWN0b3JDb25maWdTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBJbnRlZ2VyIGdldFJhbmQoKSB7CiAgICAgICAgcmV0dXJuIHJhbmQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UmFuZChJbnRlZ2VyIHJhbmQpIHsKICAgICAgICB0aGlzLnJhbmQgPSByYW5kOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRhcmdldERhdGFMaXN0LnNldChyaWdodEluZGV4K2ksdGFyZ2V0RGF0YU1hcCk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKiDliIflibLpmo/mnLrmlbAgKiovCiAgICBwcml2YXRlIEludGVnZXIgcmFuZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdGFyZ2V0RGF0YUxpc3QucmVtb3ZlKGkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YUNvbW1vblJlcXVlc3QuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdG90YWxDb3VudCA9IHNvdXJjZURhdGFMaXN0LnNpemUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3VtZURhdGFSZXF1ZXN0LnNldFJhbmQocmFuZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>169</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b3RhbENvdW50XD4=</last-search>
+      <last-search encoding="base64">XDxkYXRhQ29tbW9uUmVxdWVzdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b3RhbENvdW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhQ29tbW9uUmVxdWVzdFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
         <entry encoding="base64">XDxwcm9tZXRoZXVzXD4=</entry>
         <entry encoding="base64">XDxtZXRyaWNGYW1pbHlTYW1wbGVzXD4=</entry>
         <entry encoding="base64">XDxjb2xsZWN0b3JzVG9OYW1lc1w+</entry>
@@ -558,6 +572,7 @@
         <entry encoding="base64">XDx0YXJnZXRJdGVtTGlzdFw+</entry>
         <entry encoding="base64">XDx0YXJnZXREYXRhTGlzdFw+</entry>
         <entry encoding="base64">XDx0b3RhbENvdW50XD4=</entry>
+        <entry encoding="base64">XDxkYXRhQ29tbW9uUmVxdWVzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>473</entry>
