@@ -412,11 +412,11 @@
         <mark key="'" line="58" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/usercenter/pre.properties" timestamp="1539594181864" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/utils/DasUtils.java" timestamp="1540352859608">
-        <mark key="[" line="148" column="99" />
-        <mark key="]" line="140" column="51" />
-        <mark key="." line="140" column="51" />
-        <mark key="^" line="140" column="51" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/utils/DasUtils.java" timestamp="1540359335820">
+        <mark key="[" line="140" column="12" />
+        <mark key="]" line="140" column="7" />
+        <mark key="." line="140" column="7" />
+        <mark key="^" line="140" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/usercenter/usercenter-auth/src/main/java/com/meitu/meipu/usercenter/auth/redis/AuthRedis.java" timestamp="1539601199353">
         <mark key="'" line="28" column="50" />
@@ -700,10 +700,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>query.toString();</text>
+        <text>StringBuilder</text>
       </register>
       <register name="-" type="4">
-        <text>query.toString();</text>
+        <text>StringBuilder</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcWxcPg==</text>
