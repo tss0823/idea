@@ -41,12 +41,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.2.RELEASE/spring-jdbc-4.3.2.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class" timestamp="1540350287183">
         <mark key="'" line="440" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" timestamp="1540807536692">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/ProviderDataServiceImpl.java" timestamp="1540812550092">
         <mark key="'" line="54" column="43" />
-        <mark key="[" line="223" column="23" />
-        <mark key="]" line="276" column="0" />
-        <mark key="." line="276" column="0" />
-        <mark key="^" line="276" column="44" />
+        <mark key="[" line="212" column="22" />
+        <mark key="]" line="212" column="27" />
+        <mark key="." line="212" column="27" />
+        <mark key="^" line="212" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" timestamp="1540368400064">
         <mark key="'" line="176" column="24" />
@@ -776,16 +776,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|</text>
+        <text>dasEntity.getTableName()</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>dasEntity.getTableName()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhQ29tbW9uUmVxdWVzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBTRU5EX01TR19NT0JJTEUgPSAic2VuZE1zZ01vYmlsZSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKGRhc0VudGl0eS5nZXRUYWJsZU5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
