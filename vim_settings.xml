@@ -52,7 +52,7 @@
         <mark key="." line="395" column="0" />
         <mark key="^" line="400" column="102" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/KafkaReceiverHandler.java" timestamp="1540956719398">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/KafkaReceiverHandler.java" timestamp="1540964740456">
         <mark key="'" line="66" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-dao/src/main/resources/mysql/mapper/AdsClientBaseSummaryMapper.xml" timestamp="1540952164002">
@@ -62,11 +62,11 @@
         <mark key="^" line="288" column="144" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" timestamp="1540957658713">
-        <mark key="'" line="142" column="66" />
-        <mark key="[" line="133" column="38" />
-        <mark key="]" line="133" column="43" />
-        <mark key="." line="133" column="43" />
-        <mark key="^" line="133" column="43" />
+        <mark key="'" line="143" column="66" />
+        <mark key="[" line="134" column="38" />
+        <mark key="]" line="134" column="43" />
+        <mark key="." line="134" column="43" />
+        <mark key="^" line="134" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-mapper-asl/1.9.8/jackson-mapper-asl-1.9.8-sources.jar!/org/codehaus/jackson/map/DeserializationConfig.java" timestamp="1540956139558" />
       <file name="$USER_HOME$/workspace/datareport/release.properties" timestamp="1540175870802">
@@ -90,7 +90,7 @@
         <mark key="^" line="61" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/dao/impl/MakeupMergedDaoImpl.java" timestamp="1540899033587" />
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" timestamp="1540956117299">
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" timestamp="1540965256861">
         <mark key="'" line="120" column="56" />
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
@@ -194,6 +194,7 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/KafkaHandlerFactory.java" timestamp="1540964515399" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/constants/v2/DataConfigConstant.java" timestamp="1540807523109">
         <mark key="[" line="12" column="55" />
         <mark key="]" line="12" column="28" />
@@ -258,12 +259,12 @@
         <mark key="^" line="79" column="317" />
         <mark key="." line="79" column="317" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/JsonNewUtils.java" timestamp="1540956454767">
-        <mark key="'" line="22" column="61" />
-        <mark key="[" line="67" column="31" />
-        <mark key="]" line="67" column="43" />
-        <mark key="^" line="67" column="43" />
-        <mark key="." line="67" column="43" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/JsonNewUtils.java" timestamp="1540965195916">
+        <mark key="'" line="67" column="27" />
+        <mark key="[" line="69" column="100" />
+        <mark key="]" line="70" column="33" />
+        <mark key="^" line="70" column="33" />
+        <mark key="." line="70" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/service/DasJobInstanceService.java" timestamp="1540881961466">
         <mark key="'" line="10" column="22" />
@@ -354,8 +355,8 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/handler/v2/ConsumeDataHandler.java" timestamp="1540957435602">
-        <mark key="'" line="46" column="24" />
+      <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/handler/v2/ConsumeDataHandler.java" timestamp="1540965641230">
+        <mark key="'" line="46" column="65" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="55" column="9" />
         <mark key="." line="53" column="0" />
@@ -487,9 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="8" filename="$USER_HOME$/workspace/darwin/darwin-dal/src/main/java/com/meitu/meipu/darwin/dal/domain/mongodb/DataPoint.java" />
-      <jump line="343" column="16" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/cluster/HClusterManager.java" />
-      <jump line="329" column="16" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/cluster/HClusterManager.java" />
       <jump line="341" column="32" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/cluster/HClusterManager.java" />
       <jump line="340" column="43" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/cluster/HClusterManager.java" />
       <jump line="304" column="65" filename="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/cluster/HClusterManager.java" />
@@ -587,6 +585,9 @@
       <jump line="51" column="70" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/utils/JacksonUtil.java" />
       <jump line="21" column="61" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/JsonNewUtils.java" />
       <jump line="141" column="66" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
+      <jump line="46" column="65" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/handler/v2/ConsumeDataHandler.java" />
+      <jump line="22" column="57" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/JsonNewUtils.java" />
+      <jump line="67" column="27" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/utils/JsonNewUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
