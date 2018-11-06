@@ -72,12 +72,12 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/tardis/darwin-tardis-provider.xml" timestamp="1539928356034">
         <mark key="'" line="7" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" timestamp="1541471523244">
+      <file name="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" timestamp="1541472552137">
         <mark key="'" line="138" column="13" />
-        <mark key="[" line="140" column="36" />
-        <mark key="]" line="140" column="30" />
-        <mark key="." line="140" column="30" />
-        <mark key="^" line="140" column="30" />
+        <mark key="[" line="140" column="40" />
+        <mark key="]" line="140" column="49" />
+        <mark key="." line="140" column="49" />
+        <mark key="^" line="140" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/gateway/account/AccountHttpAdapter.java" timestamp="1539675332551">
         <mark key="'" line="77" column="39" />
@@ -290,7 +290,7 @@
         <mark key="^" line="97" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/MerpManagerImpl.java" timestamp="1541127614343" />
-      <file name="/fragment.java" timestamp="1541409925539">
+      <file name="/fragment.java" timestamp="1541472484552">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -505,12 +505,12 @@
       <file name="$USER_HOME$/workspace/darwin-query/darwin-query-dal/src/main/java/com/meitu/meipu/darwin/query/dal/dao/mongo/impl/EvaluateDaoImpl.java" timestamp="1540885299279">
         <mark key="'" line="53" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTest.java" timestamp="1541470852245">
-        <mark key="'" line="115" column="44" />
-        <mark key="[" line="117" column="40" />
-        <mark key="]" line="115" column="44" />
-        <mark key="." line="115" column="44" />
-        <mark key="^" line="115" column="44" />
+      <file name="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTest.java" timestamp="1541472709697">
+        <mark key="'" line="116" column="43" />
+        <mark key="[" line="114" column="46" />
+        <mark key="]" line="115" column="32" />
+        <mark key="." line="115" column="32" />
+        <mark key="^" line="115" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/v2/interceptor/dal/GpmTableHelper.java" timestamp="1540975459627" />
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/utils/WarningService.java" timestamp="1540951819835" />
@@ -625,7 +625,6 @@
       <jump line="37" column="16" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTest.java" />
       <jump line="167" column="36" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTest.java" />
       <jump line="116" column="26" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTest.java" />
-      <jump line="115" column="44" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTest.java" />
       <jump line="131" column="28" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
       <jump line="136" column="12" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
       <jump line="135" column="21" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
@@ -651,13 +650,14 @@
       <jump line="1514" column="12" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/net/URL.java" />
       <jump line="1515" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/net/URL.java" />
       <jump line="1526" column="12" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/net/URL.java" />
+      <jump line="115" column="43" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uri</text>
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>uri</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
