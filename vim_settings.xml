@@ -72,8 +72,8 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/tardis/darwin-tardis-provider.xml" timestamp="1539928356034">
         <mark key="'" line="7" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" timestamp="1541475667853">
-        <mark key="'" line="139" column="40" />
+      <file name="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" timestamp="1541486897963">
+        <mark key="'" line="152" column="42" />
         <mark key="[" line="75" column="45" />
         <mark key="]" line="75" column="55" />
         <mark key="." line="75" column="55" />
@@ -177,6 +177,13 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar!/org/apache/http/client/methods/HttpRequestBase.class" timestamp="1541473652545" />
       <file name="$USER_HOME$/workspace/grpc-java/netty/shaded/src/testShadow/java/io/grpc/netty/shaded/ShadingTest.java" timestamp="1539920570342">
         <mark key="'" line="105" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTestT2.java" timestamp="1541487470201">
+        <mark key="'" line="129" column="45" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="117" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/JrpcClient.java" timestamp="1539930537890">
         <mark key="'" line="125" column="40" />
@@ -295,7 +302,7 @@
         <mark key="^" line="97" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/MerpManagerImpl.java" timestamp="1541127614343" />
-      <file name="/fragment.java" timestamp="1541472484552">
+      <file name="/fragment.java" timestamp="1541485565876">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -561,11 +568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="3" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasJobInstance.java" />
-      <jump line="156" column="0" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasJobInstance.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasJobInstance.java" />
-      <jump line="53" column="41" filename="$USER_HOME$/workspace/datacenter/datacenter-web/src/main/java/com/meitu/meipu/datacenter/web/controller/v2/DataController.java" />
-      <jump line="187" column="24" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
       <jump line="3799" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
       <jump line="5093" column="27" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
       <jump line="181" column="49" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
@@ -661,46 +663,51 @@
       <jump line="14" column="66" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar!/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.class" />
       <jump line="142" column="40" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
       <jump line="11" column="38" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar!/org/apache/http/client/methods/HttpGet.class" />
+      <jump line="52" column="12" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTestT2.java" />
+      <jump line="41" column="11" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTestT2.java" />
+      <jump line="106" column="37" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTestT2.java" />
+      <jump line="129" column="45" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTestT2.java" />
+      <jump line="152" column="42" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwUG9zdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFyYW0gPSBpbWdFbGUuYXR0cigiZGF0YS1tYWNyby1wYXJhbWV0ZXJzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXJXb3JkTGlzdC5hZGQoIuaKpeWRiuaxh+aAuyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHR0cFBvc3QgPSBuZXcgSHR0cFBvc3QodXJpLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVtdIHJlc3VsdCA9IGdldFVybENvbnRlbnQodXJsKTsKICAgICAgICAgICAgLy/nm67lvZUKICAgICAgICAgICAgaWYoZGlyLmVxdWFscygiMCIpKXsKICAgICAgICAgICAgICAgIEZpbGVVdGlscy5mb3JjZU1rZGlyKG5ldyBGaWxlKHBhdGgpKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwYXRoKTsKICAgICAgICAgICAgICAgIGZ1bGxQYXRoID0gcGF0aCArIl9yb290LmRvYyI7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmdWxsUGF0aCk7CiAgICAgICAgICAgIEZpbGVVdGlscy53cml0ZUJ5dGVBcnJheVRvRmlsZShuZXcgRmlsZShmdWxsUGF0aCkscmVzdWx0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVVJMIHRoaXNVcmw9IG5ldyBVUkwodXJsKTsKICAgICAgICAgICAgVVJJIHVyaSA9IG5ldyBVUkkodGhpc1VybC5nZXRQcm90b2NvbCgpLCB0aGlzVXJsLmdldFVzZXJJbmZvKCksIHRoaXNVcmwuZ2V0SG9zdCgpLCB0aGlzVXJsLmdldFBvcnQoKSwgdGhpc1VybC5nZXRQYXRoKCksIHRoaXNVcmwuZ2V0UXVlcnkoKSwgdGhpc1VybC5nZXRSZWYoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cENsaWVudCBodHRwY2xpZW50ID0gbmV3IERlZmF1bHRIdHRwQ2xpZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRleHQuY29udGFpbnMoIuWRqOaKpSIpKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRleHQuY29udGFpbnMoIuS+i+S8miIpKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVUkkgdXJpID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwR2V0IGh0dHBHZXQgPSBuZXcgSHR0cEdldCh1cmkpOwogICAgICAgIGh0dHBHZXQuc2V0Q29uZmlnKHJlcXVlc3RDb25maWcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cFBvc3QgPSBuZXcgSHR0cFBvc3QodXJpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFVSSSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVVJMIHRoaXNVcmw9IG5ldyBVUkwodXJsKTsKICAgICAgICAgICAgVVJJIHVyaSA9IG5ldyBVUkkodGhpc1VybC5nZXRQcm90b2NvbCgpLCB0aGlzVXJsLmdldFVzZXJJbmZvKCksIHRoaXNVcmwuZ2V0SG9zdCgpLCB0aGlzVXJsLmdldFBvcnQoKSwgdGhpc1VybC5nZXRQYXRoKCksIHRoaXNVcmwuZ2V0UXVlcnkoKSwgdGhpc1VybC5nZXRSZWYoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>143</text>
