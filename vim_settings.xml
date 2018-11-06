@@ -72,12 +72,12 @@
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/resources/tardis/darwin-tardis-provider.xml" timestamp="1539928356034">
         <mark key="'" line="7" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" timestamp="1541472552137">
-        <mark key="'" line="138" column="13" />
-        <mark key="[" line="140" column="40" />
-        <mark key="]" line="140" column="49" />
-        <mark key="." line="140" column="49" />
-        <mark key="^" line="140" column="49" />
+      <file name="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" timestamp="1541472987444">
+        <mark key="'" line="130" column="12" />
+        <mark key="[" line="128" column="41" />
+        <mark key="]" line="129" column="42" />
+        <mark key="." line="129" column="42" />
+        <mark key="^" line="129" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/gateway/account/AccountHttpAdapter.java" timestamp="1539675332551">
         <mark key="'" line="77" column="39" />
@@ -215,6 +215,9 @@
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/resources/tardis/datacenter-tardis-provider.xml" timestamp="1540197238001">
         <mark key="'" line="19" column="77" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar!/org/apache/http/client/methods/HttpPost.class" timestamp="1541472990271">
+        <mark key="'" line="11" column="40" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java" timestamp="1540971943317">
         <mark key="'" line="5093" column="27" />
@@ -484,7 +487,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/security/MessageDigest.java" timestamp="1539596824416">
         <mark key="'" line="166" column="40" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar!/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.class" timestamp="1541471039071" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar!/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.class" timestamp="1541472992423" />
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/MakeupReadydataManager.java" timestamp="1540179221491">
         <mark key="[" line="97" column="22" />
         <mark key="]" line="97" column="31" />
@@ -552,8 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="58" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" />
-      <jump line="12" column="45" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ConsumeDataRequest.java" />
       <jump line="116" column="23" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" />
       <jump line="66" column="62" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/kafka/KafkaReceiverHandler.java" />
       <jump line="120" column="56" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/producer/impl/ProducerJobDataServiceImpl.java" />
@@ -629,7 +630,6 @@
       <jump line="131" column="28" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
       <jump line="136" column="12" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
       <jump line="135" column="21" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
-      <jump line="129" column="17" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
       <jump line="140" column="12" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
       <jump line="158" column="12" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
       <jump line="160" column="12" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
@@ -652,6 +652,9 @@
       <jump line="1515" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/net/URL.java" />
       <jump line="1526" column="12" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/net/URL.java" />
       <jump line="115" column="43" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTest.java" />
+      <jump line="129" column="12" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
+      <jump line="130" column="12" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
+      <jump line="11" column="40" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar!/org/apache/http/client/methods/HttpPost.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
