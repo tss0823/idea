@@ -229,10 +229,10 @@
         <mark key="'" line="89" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/MerpManagerImpl.java" timestamp="1541127614343" />
-      <file name="/fragment.java" timestamp="1541555492658">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/fragment.java" timestamp="1541594426677">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/darwin/darwin-core/src/main/java/com/meitu/meipu/darwin/core/manager/trial/impl/TrialMakeupDarwinManagerImpl.java" timestamp="1539832089550">
         <mark key="'" line="155" column="92" />
@@ -356,12 +356,12 @@
         <mark key="." line="56" column="64" />
         <mark key="^" line="56" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTestT3.java" timestamp="1541594330920">
-        <mark key="'" line="170" column="9" />
-        <mark key="[" line="44" column="48" />
-        <mark key="]" line="44" column="48" />
-        <mark key="." line="44" column="48" />
-        <mark key="^" line="44" column="24" />
+      <file name="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTestT3.java" timestamp="1541595167179">
+        <mark key="'" line="185" column="39" />
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="131" column="47" />
+        <mark key="." line="131" column="47" />
+        <mark key="^" line="131" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/PageFlowReadServiceImpl.java" timestamp="1539323939127">
         <mark key="'" line="213" column="78" />
@@ -454,7 +454,6 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-client/src/main/java/com/meitu/meipu/datacenter/common/service/read/RealTimeDataServiceClient.java" timestamp="1541583904575" />
     </filemarks>
     <jumps>
-      <jump line="168" column="8" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
       <jump line="169" column="8" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
       <jump line="170" column="8" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
       <jump line="171" column="8" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
@@ -554,13 +553,14 @@
       <jump line="235" column="49" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
       <jump line="169" column="9" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTestT3.java" />
       <jump line="139" column="72" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/service/read/impl/RealTimeDataServiceImpl.java" />
+      <jump line="185" column="39" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTestT3.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>confluence.list.pages.cookie=list-content-tree; confluence.browse.space.cookie=space-attachments; confluence.last-web-item-clicked=system.space.tools%2Foverview%2Fspacedetails; JSESSIONID=8446035714A03E19B5A97F5C1B8B6F60; seraph.confluence=80969970%3Ab9d3e5683eb7662a932cb069cef2f4eb56b7b6f8; inproducttranslatemode=false; UM_distinctid=165466475d442e-0b504e5181ae33-34627908-13c680-165466475d58a4; Hm_lvt_10b351ab60afc514974b35bf5c3142ca=1539224313,1540903477; Hm_lpvt_10b351ab60afc514974b35bf5c3142ca=1540903477; mywork.tab.tasks=false</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>confluence.list.pages.cookie=list-content-tree; confluence.browse.space.cookie=space-attachments; confluence.last-web-item-clicked=system.space.tools%2Foverview%2Fspacedetails; JSESSIONID=8446035714A03E19B5A97F5C1B8B6F60; seraph.confluence=80969970%3Ab9d3e5683eb7662a932cb069cef2f4eb56b7b6f8; inproducttranslatemode=false; UM_distinctid=165466475d442e-0b504e5181ae33-34627908-13c680-165466475d58a4; Hm_lvt_10b351ab60afc514974b35bf5c3142ca=1539224313,1540903477; Hm_lpvt_10b351ab60afc514974b35bf5c3142ca=1540903477; mywork.tab.tasks=false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwUG9zdFw+</text>
@@ -569,31 +569,31 @@
         <text encoding="base64">Ly8gICAgICAgIGV4cG9ydEF0dGFjaG1lbnQoIjUzMTQ4ODEiLCIvVXNlcnMvcHJvL2EiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBhdHRhY2htZW50RmlsZU5hbWUgPSBwYXJhbS5zdWJzdHJpbmcocGFyYW0ubGFzdEluZGV4T2YoIj0iKSsxKTsKICAgICAgICAgICAgICAgIFN0cmluZyBmaWxlUG9zdGZpeCA9IGF0dGFjaG1lbnRGaWxlTmFtZS5zdWJzdHJpbmcoYXR0YWNobWVudEZpbGVOYW1lLmxhc3RJbmRleE9mKCIuIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBFbGVtZW50cyBhRWxlcyA9IGRpdkVsZS5zZWxlY3QoImEiKTsKICAgICAgICBmb3IgKEVsZW1lbnQgYUVsZSA6IGFFbGVzKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIFN0cmluZyBwYXJhbSA9IGltZ0VsZS5hdHRyKCJkYXRhLW1hY3JvLXBhcmFtZXRlcnMiKTsKICAgICAgICAgICAgaWYoU3RyaW5nVXRpbHMuaXNFbXB0eShwYXJhbSkpewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgICAgIFN0cmluZyBhdHRhY2htZW50RmlsZU5hbWUgPSBwYXJhbS5zdWJzdHJpbmcocGFyYW0ubGFzdEluZGV4T2YoIj0iKSsxKTsKICAgICAgICAgICAgU3RyaW5nIGZpbGVQb3N0Zml4ID0gYXR0YWNobWVudEZpbGVOYW1lLnN1YnN0cmluZyhhdHRhY2htZW50RmlsZU5hbWUubGFzdEluZGV4T2YoIi4iKSk7CiAgICAgICAgICAgIFN0cmluZyBhdHRhY2htZW50VXJsID0gImh0dHA6Ly9jZi5tZWl0dS5jb20vY29uZmx1ZW5jZS9kb3dubG9hZC9hdHRhY2htZW50cy8iK3BhZ2VJZCsiLyIrYXR0YWNobWVudEZpbGVOYW1lOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYXR0YWNobWVudFVybCk7CiAgICAgICAgICAgIGJ5dGVbXSByZXN1bHQgPSBnZXRVcmxDb250ZW50KGF0dGFjaG1lbnRVcmwpOwogICAgICAgICAgICBTdHJpbmcgbmV3RmlsZVBhdGggPSBmaWxlUGF0aCtmaWxlUG9zdGZpeDsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5ld0ZpbGVQYXRoKTsKICAgICAgICAgICAgRmlsZVV0aWxzLndyaXRlQnl0ZUFycmF5VG9GaWxlKG5ldyBGaWxlKG5ld0ZpbGVQYXRoKSxyZXN1bHQpOwogICAgICAgIH1jYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oZS5nZXRNZXNzYWdlKCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBhdHRhY2htZW50RmlsZU5hbWUgPSBwYXJhbS5zdWJzdHJpbmcocGFyYW0ubGFzdEluZGV4T2YoIj0iKSsxKTsKICAgICAgICAgICAgICAgIFN0cmluZyBmaWxlUG9zdGZpeCA9IGF0dGFjaG1lbnRGaWxlTmFtZS5zdWJzdHJpbmcoYXR0YWNobWVudEZpbGVOYW1lLmxhc3RJbmRleE9mKCIuIikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFbGVtZW50cyBzZWxlY3QgPSBkb2Muc2VsZWN0KCJpbWcuZWRpdG9yLWlubGluZS1tYWNybyIpOwovLyAgICAgICAgRWxlbWVudCBpbWdFbGUgPSAoRWxlbWVudCkgc2VsZWN0CiAgICAgICAgaWYoaW1nRWxlID09IG51bGwpewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIFN0cmluZyBwYXJhbSA9IGltZ0VsZS5hdHRyKCJkYXRhLW1hY3JvLXBhcmFtZXRlcnMiKTsKICAgICAgICAgICAgaWYoU3RyaW5nVXRpbHMuaXNFbXB0eShwYXJhbSkpewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgICAgIFN0cmluZyBhdHRhY2htZW50RmlsZU5hbWUgPSBwYXJhbS5zdWJzdHJpbmcocGFyYW0ubGFzdEluZGV4T2YoIj0iKSsxKTsKICAgICAgICAgICAgU3RyaW5nIGZpbGVQb3N0Zml4ID0gYXR0YWNobWVudEZpbGVOYW1lLnN1YnN0cmluZyhhdHRhY2htZW50RmlsZU5hbWUubGFzdEluZGV4T2YoIi4iKSk7CiAgICAgICAgICAgIFN0cmluZyBhdHRhY2htZW50VXJsID0gImh0dHA6Ly9jZi5tZWl0dS5jb20vY29uZmx1ZW5jZS9kb3dubG9hZC9hdHRhY2htZW50cy8iK3BhZ2VJZCsiLyIrYXR0YWNobWVudEZpbGVOYW1lOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYXR0YWNobWVudFVybCk7CiAgICAgICAgICAgIGJ5dGVbXSByZXN1bHQgPSBnZXRVcmxDb250ZW50KGF0dGFjaG1lbnRVcmwpOwogICAgICAgICAgICBTdHJpbmcgbmV3RmlsZVBhdGggPSBmaWxlUGF0aCtmaWxlUG9zdGZpeDsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5ld0ZpbGVQYXRoKTsKICAgICAgICAgICAgRmlsZVV0aWxzLndyaXRlQnl0ZUFycmF5VG9GaWxlKG5ldyBGaWxlKG5ld0ZpbGVQYXRoKSxyZXN1bHQpOwogICAgICAgIH1jYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oZS5nZXRNZXNzYWdlKCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBFbGVtZW50cyBzZWxlY3QxID0gKEVsZW1lbnRzKSBkaXZFbGUK</text>
+        <text encoding="base64">ICAgICAgICBFbGVtZW50cyBzZWxlY3QgPSBkb2Muc2VsZWN0KCJpbWcuZWRpdG9yLWlubGluZS1tYWNybyIpOwovLyAgICAgICAgRWxlbWVudCBpbWdFbGUgPSAoRWxlbWVudCkgc2VsZWN0CiAgICAgICAgaWYoaW1nRWxlID09IG51bGwpewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFbGVtZW50IG1haW5FbGUgPSBkb2N1bWVudC5jaGlsZCgwKQo=</text>
+        <text encoding="base64">ICAgICAgICBFbGVtZW50cyBzZWxlY3QxID0gKEVsZW1lbnRzKSBkaXZFbGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFbGVtZW50IG1haW5FbGUgPSBkb2N1bWVudC5jaGlsZCgwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVtdIHJlc3VsdCA9IGdldFVybENvbnRlbnQodXJsKTsKICAgICAgICAgICAgLy/nm67lvZUKICAgICAgICAgICAgaWYoZGlyLmVxdWFscygiMCIpKXsKICAgICAgICAgICAgICAgIEZpbGVVdGlscy5mb3JjZU1rZGlyKG5ldyBGaWxlKHBhdGgpKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwYXRoKTsKICAgICAgICAgICAgICAgIGZ1bGxQYXRoID0gcGF0aCArIl9yb290LmRvYyI7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmdWxsUGF0aCk7CiAgICAgICAgICAgIEZpbGVVdGlscy53cml0ZUJ5dGVBcnJheVRvRmlsZShuZXcgRmlsZShmdWxsUGF0aCkscmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVtdIHJlc3VsdCA9IGdldFVybENvbnRlbnQodXJsKTsKICAgICAgICAgICAgLy/nm67lvZUKICAgICAgICAgICAgaWYoZGlyLmVxdWFscygiMCIpKXsKICAgICAgICAgICAgICAgIEZpbGVVdGlscy5mb3JjZU1rZGlyKG5ldyBGaWxlKHBhdGgpKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwYXRoKTsKICAgICAgICAgICAgICAgIGZ1bGxQYXRoID0gcGF0aCArIl9yb290LmRvYyI7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmdWxsUGF0aCk7CiAgICAgICAgICAgIEZpbGVVdGlscy53cml0ZUJ5dGVBcnJheVRvRmlsZShuZXcgRmlsZShmdWxsUGF0aCkscmVzdWx0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>143</text>
