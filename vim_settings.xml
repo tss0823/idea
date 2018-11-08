@@ -46,6 +46,9 @@
         <mark key="." line="14" column="62" />
         <mark key="^" line="14" column="62" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" timestamp="1541667093732">
+        <mark key="'" line="574" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/BaseDomain.java" timestamp="1540977257512">
         <mark key="'" line="45" column="34" />
       </file>
@@ -267,6 +270,9 @@
         <mark key="." line="106" column="23" />
         <mark key="^" line="106" column="23" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Thread.java" timestamp="1541665331310">
+        <mark key="'" line="181" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/grpc-java/netty/shaded/src/testShadow/java/io/grpc/netty/shaded/ShadingTest.java" timestamp="1539920570342">
         <mark key="'" line="105" column="53" />
       </file>
@@ -445,20 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="41" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/domain/request/ConsumeJobRequest.java" />
-      <jump line="208" column="77" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
-      <jump line="46" column="11" filename="$USER_HOME$/workspace/datacenter/datacenter-config/src/main/java/com/meitu/meipu/datacenter/config/domain/DasJobInstance.java" />
-      <jump line="45" column="34" filename="$USER_HOME$/workspace/datacenter/datacenter-common/src/main/java/com/meitu/meipu/datacenter/common/domain/BaseDomain.java" />
-      <jump line="114" column="80" filename="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/consume/impl/ConsumeJobDataServiceImpl.java" />
-      <jump line="204" column="26" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataFetchController.java" />
-      <jump line="185" column="22" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataFetchController.java" />
-      <jump line="178" column="59" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataFetchController.java" />
-      <jump line="166" column="59" filename="$USER_HOME$/workspace/datareport/datareport-web/src/main/java/com/meitu/meipu/datareport/web/controller/DataFetchController.java" />
-      <jump line="265" column="43" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
-      <jump line="54" column="52" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/AdsClientBaseTask.java" />
-      <jump line="263" column="36" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
-      <jump line="264" column="35" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/impl/ReportDataFetchManagerImpl.java" />
-      <jump line="67" column="35" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/AdsClientBaseTask.java" />
       <jump line="71" column="31" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/AdsClientBaseTask.java" />
       <jump line="98" column="25" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/jiaojie/MingDao.java" />
       <jump line="313" column="34" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/jiaojie/MingDao.java" />
@@ -545,6 +537,20 @@
       <jump line="116" column="31" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTestT5.java" />
       <jump line="105" column="79" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTestT5.java" />
       <jump line="103" column="32" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTestT5.java" />
+      <jump line="232" column="26" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="181" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
+      <jump line="160" column="30" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="169" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="181" column="30" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="231" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="179" column="27" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="185" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="243" column="32" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="369" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="202" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="475" column="29" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="557" column="29" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="574" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -554,7 +560,7 @@
         <text>isNumber</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdWxsUGF0aFw+</text>
+        <text encoding="base64">XDx0aHJlYWRMb2NhbHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIGV4cG9ydEF0dGFjaG1lbnQoIjUzMTQ4ODEiLCIvVXNlcnMvcHJvL2EiKTsK</text>
@@ -593,15 +599,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmdWxsUGF0aFw+</last-search>
+      <last-search encoding="base64">XDx0aHJlYWRMb2NhbHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdWxsUGF0aFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0aHJlYWRMb2NhbHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiaWdUYXJnZXREYXRhTWFwXD4=</entry>
         <entry encoding="base64">XDxkYXRhVW5pcXVlU3RyXD4=</entry>
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry encoding="base64">XDxkcEluZGV4XD4=</entry>
@@ -621,6 +626,7 @@
         <entry encoding="base64">XDxyZWZcPg==</entry>
         <entry encoding="base64">XDxodHRwUG9zdFw+</entry>
         <entry encoding="base64">XDxmdWxsUGF0aFw+</entry>
+        <entry encoding="base64">XDx0aHJlYWRMb2NhbHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>293</entry>
