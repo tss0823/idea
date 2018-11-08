@@ -87,6 +87,9 @@
       <file name="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/domain/transform/AdsTradeOverviewSummaryDTrans.java" timestamp="1540545520230">
         <mark key="'" line="82" column="17" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java" timestamp="1541667596469">
+        <mark key="'" line="630" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/datacenter/datacenter-das/src/main/java/com/meitu/meipu/datacenter/das/service/impl/DataCompareServiceImpl.java" timestamp="1540807676496">
         <mark key="'" line="112" column="85" />
         <mark key="[" line="113" column="43" />
@@ -212,6 +215,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.14/commons-redis-2.1.14-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" timestamp="1539601071017">
         <mark key="'" line="189" column="36" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java" timestamp="1541667683552">
+        <mark key="'" line="1894" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/tardis-java/tardis-spring/tardis-grpc-spring/src/main/java/com/meitu/tardis/grpc/spring/JrpcStubFactoryBean.java" timestamp="1539930377813">
         <mark key="'" line="36" column="31" />
@@ -355,6 +361,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java" timestamp="1540971943317">
         <mark key="'" line="5093" column="27" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java" timestamp="1541667806403" />
       <file name="$USER_HOME$/workspace/grpc-java/examples/src/main/java/io/grpc/examples/helloworld/HelloWorldServer.java" timestamp="1539927955528">
         <mark key="'" line="36" column="24" />
       </file>
@@ -431,6 +438,9 @@
       <file name="$USER_HOME$/workspace/tardis-java/tardis-rpc/tardis-grpc/src/main/java/com/meitu/tardis/grpc/client/GrpcClient.java" timestamp="1539930388477">
         <mark key="'" line="89" column="53" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1541670071115">
+        <mark key="'" line="1018" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/tradecenter/TradeOrderController.java" timestamp="1540176963969">
         <mark key="'" line="282" column="46" />
       </file>
@@ -451,10 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="31" filename="$USER_HOME$/workspace/datacenter/datacenter-core/src/main/java/com/meitu/meipu/datacenter/manager/tasks/AdsClientBaseTask.java" />
-      <jump line="98" column="25" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/jiaojie/MingDao.java" />
-      <jump line="313" column="34" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/jiaojie/MingDao.java" />
-      <jump line="21" column="38" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTest.java" />
       <jump line="19" column="13" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTest.java" />
       <jump line="67" column="20" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTest.java" />
       <jump line="63" column="10" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTest.java" />
@@ -551,6 +557,10 @@
       <jump line="475" column="29" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
       <jump line="557" column="29" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
       <jump line="574" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" />
+      <jump line="630" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java" />
+      <jump line="1894" column="52" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java" />
+      <jump line="759" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
+      <jump line="1018" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
