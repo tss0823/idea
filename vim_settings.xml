@@ -51,6 +51,7 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/commons-redis/2.1.4/commons-redis-2.1.4-sources.jar!/com/meitu/commons/redis/RedisMSServer.java" timestamp="1540368400064">
         <mark key="'" line="176" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/WebApplicationType.java" timestamp="1541946222760" />
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar!/org/apache/commons/lang3/StringUtils.class" timestamp="1540804829292">
         <mark key="'" line="2413" column="35" />
       </file>
@@ -122,12 +123,6 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class" timestamp="1541686695630">
         <mark key="'" line="37" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTestT6.java" timestamp="1541677381625">
-        <mark key="[" line="28" column="56" />
-        <mark key="]" line="41" column="21" />
-        <mark key="." line="41" column="21" />
-        <mark key="^" line="41" column="21" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar!/org/apache/commons/lang/StringUtils.java" timestamp="1540370309083">
         <mark key="'" line="3443" column="17" />
       </file>
@@ -196,6 +191,7 @@
       <file name="$MAVEN_REPOSITORY$/com/meitu/meipu/tradecenter-client/1.0-RELEASE-SNAPSHOT/tradecenter-client-1.0-RELEASE-20180907.063947-142.jar!/com/meitu/meipu/tradecenter/service/write/tradeorder/TradeOrderWriteServiceClient.class" timestamp="1540177316814">
         <mark key="'" line="37" column="41" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplicationRunListeners.java" timestamp="1541946429886" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Thread.java" timestamp="1541665331310">
         <mark key="'" line="181" column="31" />
       </file>
@@ -274,6 +270,9 @@
       </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/controller/doraemon/DoraemonRecommendController.java" timestamp="1539674676809">
         <mark key="'" line="188" column="32" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" timestamp="1541946646425">
+        <mark key="'" line="312" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/wireless/wireless-web/src/main/java/com/meitu/meipu/wireless/web/mvc/interceptor/HttpRequestInterceptor.java" timestamp="1539691784027">
         <mark key="'" line="438" column="16" />
@@ -360,21 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="27" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
-      <jump line="587" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/net/URI.java" />
-      <jump line="127" column="17" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
-      <jump line="154" column="16" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
-      <jump line="37" column="16" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTest.java" />
-      <jump line="167" column="36" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTest.java" />
-      <jump line="116" column="26" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/cfTest.java" />
-      <jump line="131" column="28" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
-      <jump line="136" column="12" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
-      <jump line="135" column="21" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
-      <jump line="140" column="12" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
-      <jump line="158" column="12" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
-      <jump line="160" column="12" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
-      <jump line="170" column="16" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
-      <jump line="173" column="48" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
       <jump line="197" column="16" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
       <jump line="204" column="16" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
       <jump line="210" column="27" filename="$USER_HOME$/workspace/raytest/src/main/java/com/raycloud/test/http/HttpNewUtils.java" />
@@ -460,6 +444,21 @@
       <jump line="14" column="27" filename="$USER_HOME$/workspace/gs-spring-boot/complete/src/main/java/hello/Application.java" />
       <jump line="138" column="17" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/UserTestT1.java" />
       <jump line="122" column="0" filename="$USER_HOME$/workspace/raytest/src/main/java/com/meitu/test/UserTestT1.java" />
+      <jump line="348" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="1264" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="1276" column="54" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="329" column="78" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="598" column="25" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="597" column="34" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="224" column="31" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="269" column="39" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="314" column="39" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="326" column="36" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="316" column="24" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="423" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="317" column="57" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="429" column="71" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="312" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -469,7 +468,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aHJlYWRMb2NhbHNcPg==</text>
+        <text encoding="base64">XDxjb250ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIGV4cG9ydEF0dGFjaG1lbnQoIjUzMTQ4ODEiLCIvVXNlcnMvcHJvL2EiKTsK</text>
@@ -508,16 +507,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aHJlYWRMb2NhbHNcPg==</last-search>
+      <last-search encoding="base64">XDxjb250ZXh0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aHJlYWRMb2NhbHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb250ZXh0XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhVW5pcXVlU3RyXD4=</entry>
-        <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry encoding="base64">XDxkcEluZGV4XD4=</entry>
         <entry encoding="base64">XDxtb25nb01ha2V1cEdyb3VwRE9cPg==</entry>
         <entry encoding="base64">XDxkZWxldGVcPg==</entry>
@@ -536,6 +533,8 @@
         <entry encoding="base64">XDxodHRwUG9zdFw+</entry>
         <entry encoding="base64">XDxmdWxsUGF0aFw+</entry>
         <entry encoding="base64">XDx0aHJlYWRMb2NhbHNcPg==</entry>
+        <entry encoding="base64">XDx3ZWJBcHBsaWNhdGlvblR5cGVcPg==</entry>
+        <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>293</entry>
